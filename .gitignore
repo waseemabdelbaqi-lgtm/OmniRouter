@@ -15,3 +15,9 @@ serverRouter/providers/together/sample.py
 .DS_Store
 serverRouter/DS_Store
 new-omni-env/
+
+# Credentials
+.env.*
+!.env.example
+firebase-credentials.json
+*firebase-adminsdk*.json

@@ -13,7 +13,8 @@ To build the project, follow these steps:
 1. Create a virtual environment using `python -m venv venv`.
 2. Activate the virtual environment with `venv\Scripts\activate`.
 3. Install all dependencies by running `pip install -r requirements.txt`.
-4. If you add new packages, update the package manager with `pip freeze > requirements.txt`.
+4. Copy `.env.example` to `.env` and fill in your provider keys. Download your Firebase service-account key to `firebase-credentials.json` (or point `FIREBASE_CREDENTIALS_PATH` at it); `firebase-credentials.example.json` shows the expected format. Both `.env` and the credentials file are git-ignored; never commit real keys.
+5. If you add new packages, update the package manager with `pip freeze > requirements.txt`.
 
 ## Testing
 To run the server and client components for testing:

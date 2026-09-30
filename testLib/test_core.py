@@ -1,3 +1,4 @@
+import os
 from fastapi.testclient import TestClient
 from serverRouter.router import app
 from .test_utils import test_logger
@@ -7,7 +8,7 @@ class BaseTest:
         self.client = TestClient(app)
         self.logger = test_logger
         self.client.headers = {
-            "Authorization": "Bearer omni-kcrgYQNbuu2lTY13hnjSvMQzWRhhpORP"
+            "Authorization": f"Bearer {os.environ['OMNI_TEST_API_KEY']}"
         }
 
 class TestBasicEndpoints(BaseTest):

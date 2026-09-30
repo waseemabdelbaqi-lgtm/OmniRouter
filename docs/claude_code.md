@@ -24,8 +24,9 @@ Set these in the server's environment or `.env` (never commit real values):
 | `OMNI_MAX_TOKENS` | Recommended | Per-user lifetime token limit (default `100000`). A Claude Code session uses tens of thousands of tokens per turn, so raise this. |
 | `OMNI_ANTHROPIC_UPSTREAM_URL` | No | Upstream base URL (default `https://api.anthropic.com`). |
 
-The server's other requirements are unchanged: `firebase-credentials.json` in the repo root and the
-other provider keys (`OPENAI_API_KEY`, `GEMINI_API_KEY`, `TOGETHER_API_KEY`, `STABILITY_API_KEY`).
+The server's other requirements are unchanged: a Firebase service-account key (at `firebase-credentials.json`
+or the path in `FIREBASE_CREDENTIALS_PATH`) and the other provider keys (`OPENAI_API_KEY`, `GEMINI_API_KEY`,
+`TOGETHER_API_KEY`, `STABILITY_API_KEY`). `.env.example` lists every variable.
 
 Do not set `ANTHROPIC_BASE_URL` in the server's environment. The Anthropic SDK used by the other
 Claude routes reads it, and pointing it at OmniRouter would make the server call itself.
