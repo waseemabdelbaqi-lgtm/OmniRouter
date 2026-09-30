@@ -4,6 +4,12 @@ chat_model -> tests all chat models
 image_model -> tests all image models
 test_user -> tests a single model of your choice
 
+# Setup
+
+The live tests call real providers through Firestore auth. Set `OMNI_TEST_API_KEY` to a valid
+OmniRouter key (see `.env.example`), along with the server's provider keys and Firebase credentials.
+`test_messages.py` needs none of these; it runs offline.
+
 # Run all tests
 Run: `pytest`
 
