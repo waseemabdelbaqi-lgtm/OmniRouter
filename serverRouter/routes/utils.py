@@ -5,20 +5,24 @@ from datetime import datetime
 security = HTTPBearer()
 
 def verify_api_key(credentials: HTTPAuthorizationCredentials = Security(security)) -> str:
-    if credentials.credentials not in config.VALID_API_KEYS:
+    return validate_api_key(credentials.credentials)
+
+def validate_api_key(api_key: str) -> str:
+    """Check that the key exists and its user is under the token limit."""
+    if api_key not in config.VALID_API_KEYS:
         raise HTTPException(
             status_code=401,
             detail=f"Invalid API key"
         )
-    
-    user_id = get_user_id_by_api_key(credentials.credentials)
+
+    user_id = get_user_id_by_api_key(api_key)
     user_usage = get_user_usage(user_id)
     if user_usage['total_tokens'] >= config.MAX_TOKENS:
         raise HTTPException(
             status_code=429,
             detail="User has reached the maximum number of tokens"
         )
-    return credentials.credentials
+    return api_key
 
 def get_user_id_by_api_key(api_key):
     """

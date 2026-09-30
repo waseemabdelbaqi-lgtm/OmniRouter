@@ -35,6 +35,7 @@ The codebase is organized into the following main sections:
   - `router.py`: Main FastAPI router for handling API requests. Entry point to the application
 - `docs`: API documentation and guides
   - `reasoning_api.md`: Documentation for using the reasoning API
+  - `claude_code.md`: Using OmniRouter as the API endpoint for Claude Code
 
 ## Core Features
 The project offers the following core features in its implementation order:
@@ -46,6 +47,9 @@ The project offers the following core features in its implementation order:
 6. Reasoning API: Enhanced reasoning capabilities for step-by-step problem solving.
 
 ## API Documentation
+
+### Anthropic Messages API (Claude Code)
+`POST /v1/messages` and `POST /v1/messages/count_tokens` pass requests through to Anthropic, so Claude Code and other Anthropic SDK clients can use OmniRouter as their `ANTHROPIC_BASE_URL`. See [Using OmniRouter with Claude Code](docs/claude_code.md).
 
 ### Chat API
 Standard chat completions interface compatible with OpenAI's API.
