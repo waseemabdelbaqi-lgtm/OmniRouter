@@ -619,7 +619,7 @@
   "required_concept": "Percent reduction in water applied (new vs old base)",
   "original_status": "Partially Covered",
   "missing": "Percent change base for irrigation",
-  "action": "Added percent-change reminder to the toolkit and mixed percent base wording in aquifer/irrigation text",
+  "action": "Added percent-of-total and percent-change base reminders (toolkit; Topic 5.10 paragraph); irrigation formula already present",
   "updated_section": "Topic 5.5 — Irrigation Methods (SG-U5-E004; new subsection \"Aquifer budgets and rates of change\", SG-U5-E013)",
   "final_status": "Fully Covered"
  },
