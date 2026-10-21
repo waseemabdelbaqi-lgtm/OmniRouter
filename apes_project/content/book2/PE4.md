@@ -206,7 +206,7 @@ A country has had a total fertility rate of about 1.3 for several decades and ha
 A) The population will double within the next two decades because of momentum.
 B) The proportion of children will rise, causing overcrowded schools in most cities.
 C) The country will move back to stage 2 of the demographic transition.
-D) The share of older adults will rise while the working-age group shrinks, raising the burden on workers.
+D) The share of older adults will rise as the working-age group shrinks.
 :::
 
 :::q PE4-MCQ020 | unit=3 | topic=3.9 | diff=3
@@ -454,7 +454,7 @@ D) Oil, hydropower, uranium
 :::q PE4-MCQ043 | unit=6 | topic=6.7 | diff=1
 A county in a desert region proposes to meet part of its transportation fuel needs with ethanol made from irrigated corn. Which is a potential disadvantage of this plan?
 
-A) Cropland and irrigation water may shift from food to fuel, raising food prices and water demand.
+A) Cropland and irrigation water may shift from food to fuel.
 B) Burning ethanol releases radioactive waste that must be stored for centuries.
 C) Corn plants cannot absorb CO₂ from the atmosphere during photosynthesis.
 D) Ethanol contains no usable energy compared with gasoline or diesel.
@@ -571,7 +571,7 @@ In winter, a basin city sits under a layer of warm air that lies above colder ai
 A) Cold surface air rises quickly and carries pollutants into the stratosphere.
 B) Strong winter sunlight causes the pollutants to react faster than they are emitted.
 C) Warm surface air spreads the pollutants evenly through the troposphere.
-D) The warm layer above the cold surface air stops vertical mixing, trapping pollutants near the ground.
+D) The warm layer above stops vertical mixing, trapping pollutants.
 :::
 
 :::q PE4-MCQ056 | unit=7 | topic=7.4 | diff=2
@@ -580,7 +580,7 @@ Smoke from a large boreal wildfire raises the concentration of PM2.5 in a city 8
 A) The particles are large enough to be trapped easily by nose hairs.
 B) The particles are radioactive and cause cancer within hours.
 C) The particles convert to ozone in the stratosphere and thin the ozone layer.
-D) The particles are small enough to penetrate deep into the lungs and may enter the bloodstream.
+D) The particles are small enough to reach deep into the lungs.
 :::
 
 :::q PE4-MCQ057 | unit=7 | topic=7.5 | diff=2

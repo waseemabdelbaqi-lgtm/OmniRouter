@@ -10,10 +10,10 @@ catch=np.array([40,70,95,110,100,85,70,60,55])    # thousand tonnes
 cpue=catch/eff
 fig,(a,b)=plt.subplots(2,1,figsize=(6.2,4.6),sharex=True,gridspec_kw={'height_ratios':[1.15,1]})
 a.bar(yr,catch,width=3.4,color=SKY,edgecolor=BLUE,label='Total catch (thousand tonnes)')
-a.set_ylabel('Total catch\n(thousand tonnes)'); a.set_ylim(0,135)
+a.set_ylabel('Total catch\n(thousand tonnes)'); a.set_ylim(0,170)
 a2=a.twinx(); a2.spines['right'].set_visible(True)
 a2.plot(yr,eff,color=RED,lw=2.2,marker='o',ms=4,label='Fishing effort (thousand boat-days)')
-a2.set_ylabel('Effort\n(thousand boat-days)',color=RED); a2.set_ylim(0,135); a2.tick_params(axis='y',colors=RED)
+a2.set_ylabel('Effort\n(thousand boat-days)',color=RED); a2.set_ylim(0,170); a2.tick_params(axis='y',colors=RED)
 a.set_title('Catch, effort and catch per unit effort (invented data)',loc='left')
 h1,l1=a.get_legend_handles_labels(); h2,l2=a2.get_legend_handles_labels()
 a.legend(h1+h2,l1+l2,loc='upper left',frameon=False,fontsize=8)

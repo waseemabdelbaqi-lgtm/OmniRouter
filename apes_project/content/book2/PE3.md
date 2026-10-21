@@ -424,7 +424,7 @@ D) Geothermal plants must be located near coal or gas deposits that supply the h
 Which environmental concern is most directly associated with hydraulic fracturing (fracking) to obtain natural gas?
 A) Release of radioactive spent fuel rods into nearby surface waters
 B) Thermal pollution from the cooling water of steam turbines
-C) Large water use and possible groundwater contamination by fracturing fluid or wastewater
+C) Large water use and possible groundwater contamination by fracturing fluid
 D) Acid mine drainage from open-pit excavation of the shale
 :::
 
@@ -483,7 +483,7 @@ D) Surface air warms and rises, carrying pollutants into the stratosphere.
 :::q PE3-MCQ053 | unit=7 | topic=7.5 | diff=1
 Which statement about radon-222 is accurate?
 A) It is a gas from incomplete combustion that binds to hemoglobin and causes oxygen deprivation.
-B) It is a radioactive gas from natural uranium decay that builds up in basements and raises lung cancer risk.
+B) It is a radioactive gas from uranium decay that collects in basements and raises lung cancer risk.
 C) It is a volatile organic compound released by new carpets and paints that irritates the eyes.
 D) It is a fungal spore that grows on damp building materials and triggers allergies and asthma.
 :::
@@ -532,7 +532,7 @@ The graph shows hourly concentrations of nitrogen oxides and ozone at an urban s
 Which best explains why ozone peaks in the early afternoon rather than during the morning rush hour?
 A) Vehicles emit ozone directly from their tailpipes, and traffic is heaviest in the afternoon.
 B) A thermal inversion forms at midday and traps the ozone near the ground until evening.
-C) Sunlight drives reactions of NO₂ and volatile organic compounds that form ozone, which takes hours to build up.
+C) Sunlight drives reactions of NO₂ and volatile organic compounds that form ozone slowly.
 D) Ozone from the stratosphere sinks to the surface once the morning traffic has ended.
 :::
 
@@ -620,7 +620,7 @@ Biologists sampled male fish at sites along a river that receives treated wastew
 | 15 km downstream | 9 |
 
 Which conclusion is best supported by the data?
-A) Something in the treated wastewater likely disrupts hormones in fish, with the effect weakening downstream; the chemical is not identified.
+A) Something in the treated wastewater likely disrupts hormones in fish, and the effect weakens downstream.
 B) The data prove that estrogen from birth control pills is the specific cause of the effect on the fish.
 C) The data show that conventional wastewater treatment removes all endocrine-disrupting compounds.
 D) Because some upstream males are affected, endocrine disruptors are unrelated to the wastewater discharge.
@@ -675,7 +675,7 @@ Which statement best explains the pattern?
 A) The yearly cycle reflects changes in solar output, while the long-term rise reflects seasonal plant growth and decay.
 B) The yearly cycle is caused by ocean upwelling, while the long-term rise reflects increased volcanic eruptions worldwide.
 C) The yearly cycle is measurement error, while the long-term rise shows that natural sources are the main cause.
-D) The yearly cycle reflects seasonal plant uptake and respiration, while the long-term rise reflects fossil fuel burning and land clearing.
+D) The yearly cycle reflects seasonal plant uptake, while the long-term rise reflects fossil fuel burning and land clearing.
 :::
 
 :::q PE3-MCQ072 | unit=9 | topic=9.5 | diff=2
@@ -743,7 +743,7 @@ Researchers hypothesize that grazing by native antelope limits the establishment
 A) Compare shrub density in one fenced plot and one unfenced plot at a single site after several years.
 B) Count shrubs along random transects and correlate shrub density with counts of antelope dung along each.
 C) Remove all shrubs from the fenced plots only and compare grass cover in fenced and unfenced plots.
-D) Set up paired fenced and unfenced plots at several similar sites, seed all plots equally, and compare seedling survival.
+D) Set up paired fenced and unfenced plots at several sites, seed them equally, and compare seedling survival.
 :::
 
 :::q PE3-MCQ080 | unit=9 | topic=9.1 | diff=3
@@ -751,7 +751,7 @@ The Antarctic ozone hole forms each September and October, not during the dark p
 A) Chlorine forms only in sunlight, so ozone is lost evenly throughout the entire summer and autumn.
 B) Spring warming releases CFCs from melting ice, and the released CFCs immediately destroy ozone.
 C) Winter winds carry CFCs to the equator, from which they return to the pole in spring.
-D) Winter cold forms polar stratospheric clouds that activate chlorine, and spring sunlight then drives ozone destruction.
+D) Winter cold forms polar stratospheric clouds that activate chlorine; spring sunlight then destroys ozone.
 :::
 
 ## Section II — Free-Response Questions (3)
