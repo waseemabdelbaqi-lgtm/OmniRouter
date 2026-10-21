@@ -115,7 +115,7 @@
 :::
 
 :::sol QB-U9-MCQ029
-**Answer: D.** Flooded shelves create new shallow, sunlit habitat. Deeper water means less light reaches seagrass at its depth limit, a seawall blocks marsh migration, and seawater intrusion harms aquifers.
+**Answer: D.** Flooded low-lying coastal land creates new shallow, sunlit habitat. Deeper water means less light reaches seagrass at its depth limit, a seawall blocks marsh migration, and seawater intrusion harms aquifers.
 :::
 
 :::sol QB-U9-MCQ030

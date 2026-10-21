@@ -50,7 +50,7 @@ fig,ax=plt.subplots(figsize=(6,3.4))
 ax.scatter(xs,ys,color=RED,zorder=3); ax.scatter([9],[22],color=BLUE,marker='D',zorder=3)
 ax.annotate('Reef K',(9,22),xytext=(9.4,12),fontsize=8,color=BLUE)
 ax.set_xlabel('Weeks with water temperature above the bleaching threshold'); ax.set_ylabel('Coral colonies bleached (%)')
-ax.set_title('Twelve reefs after one warm season'); ax.set_ylim(0,100)
+ax.set_title('Thirteen reefs after one warm season'); ax.set_ylim(0,100)
 save(fig,P('bleaching'))
 
 # 6 coral pH

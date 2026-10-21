@@ -27,17 +27,17 @@ def clim():
 def keeling():
     m=np.arange(0,48)
     trend=410+0.20*m
-    seas=-3.0*np.cos(2*np.pi*(m-3)/12)   # peak ~May (m=4), min ~Sep-Oct
+    seas=3.0*np.cos(2*np.pi*(m-4)/12)   # peak ~May (m=4), min ~Sep-Oct
     y=trend+seas
     fig,ax=plt.subplots(figsize=(6.2,2.9))
     ax.plot(m,y,color=RED,lw=1.8,label="Monthly CO₂ (zigzag)")
     ax.plot(m,trend,color=GREY,ls="--",lw=1.3,label="Long-term trend")
     ax.set_xticks([0,12,24,36,47]); ax.set_xticklabels(["Jan, Yr 1","Jan, Yr 2","Jan, Yr 3","Jan, Yr 4","Dec, Yr 4"],fontsize=8)
-    ax.set_ylabel("Atmospheric CO₂ (ppm)"); ax.set_ylim(402,424)
-    ax.annotate("Late spring peak:\nrespiration and decay\nhave built up CO₂",xy=(16,y[16]),xytext=(5,419.5),fontsize=8,arrowprops=dict(arrowstyle="-|>",color=DARK))
-    ax.annotate("Autumn low: summer\nphotosynthesis removed\nmore than respiration added",xy=(21,y[21]),xytext=(24,404.5),fontsize=8,arrowprops=dict(arrowstyle="-|>",color=DARK))
-    ax.text(37,413.2,"Upward trend:\nfossil fuel burning",fontsize=8,color=GREY,ha="center",rotation=0)
-    ax.legend(fontsize=8,frameon=False,loc="upper left",bbox_to_anchor=(0,1.0))
+    ax.set_ylabel("Atmospheric CO₂ (ppm)"); ax.set_ylim(401,426)
+    ax.annotate("Late spring peak:\nrespiration and decay\nhave built up CO₂",xy=(16,y[16]),xytext=(5,421),fontsize=8,arrowprops=dict(arrowstyle="-|>",color=DARK))
+    ax.annotate("Autumn low: summer\nphotosynthesis removed\nmore than respiration added",xy=(22,y[22]-0.2),xytext=(26,403.0),fontsize=8,arrowprops=dict(arrowstyle="-|>",color=DARK))
+    ax.text(41,422.5,"Rising baseline:\nfossil fuel burning",fontsize=8,color=GREY,ha="center",rotation=0)
+    ax.legend(fontsize=8,frameon=False,loc="lower left")
     ax.grid(alpha=0.25)
     save(fig,OUT+'U1_gap_co2_seasonal.png')
 clim(); keeling()

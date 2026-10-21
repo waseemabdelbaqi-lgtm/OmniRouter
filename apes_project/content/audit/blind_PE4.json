@@ -1,0 +1,482 @@
+[
+ {
+  "qid": "PE4-MCQ001",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ002",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ003",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ004",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ005",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ006",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ007",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ008",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ009",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ010",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ011",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ012",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ013",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ014",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ015",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ016",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ017",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ018",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ019",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ020",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ021",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ022",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ023",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ024",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ025",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ026",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ027",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ028",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ029",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ030",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ031",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ032",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ033",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ034",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ035",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ036",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ037",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ038",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ039",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ040",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ041",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ042",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ043",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ044",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ045",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ046",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ047",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ048",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ049",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ050",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ051",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ052",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ053",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ054",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ055",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ056",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ057",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ058",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ059",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ060",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ061",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ062",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ063",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ064",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ065",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ066",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ067",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ068",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ069",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ070",
+  "my_answer": "A",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ071",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ072",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ073",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ074",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ075",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ076",
+  "my_answer": "D",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ077",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ078",
+  "my_answer": "B",
+  "confidence": "high",
+  "issue": ""
+ },
+ {
+  "qid": "PE4-MCQ079",
+  "my_answer": "B",
+  "confidence": "medium",
+  "issue": "B (Planck/outgoing IR) is the only negative feedback but may be less familiar; defensible."
+ },
+ {
+  "qid": "PE4-MCQ080",
+  "my_answer": "C",
+  "confidence": "high",
+  "issue": ""
+ }
+]

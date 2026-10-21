@@ -175,7 +175,7 @@ ax.add_patch(Rectangle((0,0),3.2,6,fc='#E3CF9E',ec='#8B7A4A')); ax.text(1.6,5.0,
 ax.add_patch(Rectangle((3.2,0),6.8,6,fc='#9CC79F',ec='#3E7D4F')); ax.text(7.6,5.4,'Lowland rainforest fragment (400 ha)',ha='center',fontsize=10,fontweight='bold')
 ax.plot([3.2,3.2],[0,6],color=RED,lw=2.4); ax.text(3.05,0.2,'Forest edge',color=RED,fontsize=8,rotation=90,va='bottom',ha='right')
 for xx_,lab in [(3.2,'0 m'),(4.4,'100 m'),(5.6,'200 m'),(6.8,'300 m'),(8.0,'400 m')]:
-    ax.plot([xx_,xx_],[2.0,2.2],color=DARK,lw=1); ax.text(xx_+(0.12 if lab=='0 m' else 0),1.7,lab,ha='center',fontsize=8)
+    ax.plot([xx_,xx_],[2.0,2.2],color=DARK,lw=1); ax.text(xx_+(0.3 if lab=='0 m' else 0),1.7,lab,ha='center',fontsize=8)
 ax.annotate('',xy=(8.0,2.4),xytext=(3.2,2.4),arrowprops=dict(arrowstyle='<->',color=DARK)); ax.text(5.6,2.6,'Distance from edge',ha='center',fontsize=9)
 ax.plot([3.2,10],[4.3,3.8],color=BLUE,lw=5,alpha=.7,solid_capstyle='round'); ax.text(9.8,4.25,'Stream',color=BLUE,fontsize=8,ha='right')
 S(fig,'PE2_frq1_fragment.png')

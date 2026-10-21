@@ -55,7 +55,7 @@
 :::
 
 :::sol PE2-MCQ014
-**Answer: D.** A steep early decline followed by a flatter line (a Type III curve) fits species with many offspring, high juvenile mortality and long-lived survivors. Curve X shows high survival until old age, and curve Y shows a constant death rate; lack of parental care alone does not define curve Y.
+**Answer: A.** Many eggs, no parental care and heavy hatchling mortality, with the few survivors living for decades, give a Type III curve: a very steep early decline on the log axis (curve Z). Curve X (Type I) shows high survival until old age, and curve Y (Type II) shows a constant death rate; minimal parental care alone does not make a curve Type II.
 :::
 
 :::sol PE2-MCQ015
