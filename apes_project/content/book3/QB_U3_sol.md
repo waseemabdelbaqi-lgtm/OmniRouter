@@ -230,7 +230,7 @@
 :::
 
 :::sol QB-U3-FRQ004
-(a) Any two *(1 point each)*: Species X loses few individuals early (950 of 1,000 survive to age 1) and most deaths occur late in life (after age 8), whereas Species Y loses most individuals before age 1 (60 of 1,000 survive); Species X survivors live up to 14 years and Species Y to about 8 years; at age 8, 700 of 1,000 X survive but only 5 of 1,000 Y survive; for Species Y, mortality after the first year is much lower than during the first year. Each statement must cite or compare the data.
+(a) Any two *(1 point each)*: Species X loses few individuals early (950 of 1,000 survive to age 1) and most deaths occur late in life (after age 8), whereas Species Y loses most individuals before age 1 (60 of 1,000 survive); Species X still has survivors at age 14 while no Species Y individual is alive at age 10; at age 8, 700 of 1,000 X survive but only 5 of 1,000 Y survive; Species X's curve is nearly flat until about age 8 whereas Species Y's curve plunges in the first year. Each statement must cite or compare the data.
 
 (b) Species Y: (1,000 − 60) ÷ 1,000 × 100 = **94%** died before age 1. Species X: 520 ÷ 1,000 × 100 = **52%** survived to age 10. *(1 point each)*
 

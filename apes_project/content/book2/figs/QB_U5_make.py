@@ -92,21 +92,20 @@ for i,val in enumerate(v): ax.text(i,val+e[i]+.5,f"{val}",ha="center",fontsize=9
 ax.set_ylabel("Soil loss (t/ha/yr)"); ax.set_ylim(0,22)
 save(fig,D+'QB_U5_erosion_plots.png')
 
-# 8 paddocks (FRQ1)
-fig,ax=canvas(6.2,3.7,(0,12),(0,7.4))
-ax.add_patch(Rectangle((0.2,1.2),11.6,5.8,fc="#EEF2DF",ec=DARK,lw=1))
-# stream
-xs=np.linspace(0.2,11.8,100); ax.plot(xs,0.75+0.25*np.sin(xs*1.1),color=BLUE,lw=6,solid_capstyle='round'); ax.text(6,0.0,"Creek",ha="center",color=BLUE,fontsize=9)
-ax.plot([0.2,11.8],[4.1,4.1],color=DARK,lw=1.2)
-for i in range(1,3): ax.plot([0.2+3.87*i]*2,[1.2,7.0],color=DARK,lw=1.2)
+# 8 paddocks (FRQ1) -- creek runs between the two rows so every paddock borders it
+fig,ax=canvas(6.2,4.0,(0,12),(0,9))
+for (y0,y1) in [(5.4,7.8),(1.4,3.8)]:
+    ax.add_patch(Rectangle((0.2,y0),11.6,y1-y0,fc="#EEF2DF",ec=DARK,lw=1))
+    for i in range(1,3): ax.plot([0.2+3.87*i]*2,[y0,y1],color=DARK,lw=1.2)
+xs=np.linspace(0.2,11.8,100); ax.plot(xs,4.6+0.22*np.sin(xs*1.1),color=BLUE,lw=6,solid_capstyle='round')
+ax.text(6.0,4.55,"Creek",ha="center",va="center",color=BLUE,fontsize=9,fontweight="bold",bbox=dict(fc="white",ec="none",pad=2.5))
 names=[["C1","C2","C3"],["R1","R2","R3"]]
-for r,(row,y) in enumerate(zip(names,[5.1,2.9])):
+for r,(row,y) in enumerate(zip(names,[6.6,2.6])):
     for i,n in enumerate(row):
-        ax.text(0.2+3.87*i+1.93,y+0.35,n,ha="center",fontsize=11,fontweight="bold",color=RED if r==0 else GREEN)
-        ax.text(0.2+3.87*i+1.93,y-0.35,"20 ha",ha="center",fontsize=9)
-ax.text(6,7.25,"Continuous grazing (C1–C3): 40 cattle stay in each paddock all season",ha="center",fontsize=9,color=RED)
-ax.text(6,3.85-0.1,"",fontsize=1)
-ax.text(6,1.75,"R1–R3: rotational grazing, one herd of 120 cattle\nmoves to the next paddock every 10 days",ha="center",va="center",fontsize=8.5,color=GREEN,bbox=dict(fc="#EEF2DF",ec="none",pad=1.5))
+        ax.text(0.2+3.87*i+1.93,y+0.25,n,ha="center",fontsize=11,fontweight="bold",color=RED if r==0 else GREEN)
+        ax.text(0.2+3.87*i+1.93,y-0.45,"20 ha",ha="center",fontsize=9)
+ax.text(6,8.4,"Continuous grazing (C1–C3): 40 cattle stay in each paddock all season",ha="center",fontsize=9,color=RED)
+ax.text(6,0.6,"R1–R3: rotational grazing, one herd of 120 cattle moves to the next paddock every 10 days",ha="center",va="center",fontsize=8.5,color=GREEN)
 save(fig,D+'QB_U5_paddocks.png')
 
 # 9 aquifer (FRQ2)
