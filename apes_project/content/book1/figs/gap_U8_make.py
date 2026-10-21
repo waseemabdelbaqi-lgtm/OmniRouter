@@ -1,0 +1,55 @@
+import sys, os
+sys.path.insert(0,'/home/user/OmniRouter/apes_project/tools')
+from figstyle import *
+import numpy as np
+D=os.path.dirname(os.path.abspath(__file__))
+
+# 1 DO and BOD together, with zones
+x=np.linspace(0,100,500)
+xs=np.maximum(x-15,0)
+k1,k2=0.035,0.075
+bod=np.where(x<15,4,4+ 0*x)
+bod=np.where(x<15,3,3+ 0)
+bod=np.where(x<15,3,3+27*np.exp(-0.06*xs))
+sag=np.where(x<15,0,(k1*30/(k2-k1))*(np.exp(-k1*xs)-np.exp(-k2*xs)))
+sag=sag*(6.3/sag.max())
+do=9-sag
+fig,ax=plt.subplots(figsize=(6.2,3.7))
+ax.plot(x,do,color=RED,lw=2.4,label="Dissolved oxygen (DO), left axis")
+ax.set_ylim(0,11); ax.set_xlim(0,100)
+ax.set_ylabel("DO (mg/L)"); ax.set_xlabel("Distance downstream (km)")
+ax.axhline(5,color=GREY,ls=":",lw=1); ax.text(99,5.2,"5 mg/L",ha="right",fontsize=8,color=GREY)
+ax2=ax.twinx(); ax2.spines["right"].set_visible(True)
+ax2.plot(x,bod,color=ORANGE,lw=2.2,ls="--",label="BOD, right axis")
+ax2.set_ylim(0,44); ax2.set_ylabel("BOD (mg/L)")
+for xv in (15,30,55):
+    ax.axvline(xv,color="#999",lw=0.8)
+ax.text(7,10.2,"A\nclean",ha="center",fontsize=8.5,va="top")
+ax.text(22.5,10.2,"B\nBOD peaks,\nDO falls",ha="center",fontsize=8.5,va="top")
+ax.text(42,10.2,"C\nDO lowest",ha="center",fontsize=8.5,va="top")
+ax.text(78,10.2,"D\nrecovery",ha="center",fontsize=8.5,va="top")
+imin=np.argmin(do)
+ax.plot(x[imin],do[imin],"o",color=DARK)
+h1,l1=ax.get_legend_handles_labels(); h2,l2=ax2.get_legend_handles_labels()
+ax.legend(h1+h2,l1+l2,loc="upper center",bbox_to_anchor=(0.5,-0.2),ncol=2,fontsize=8,frameon=False)
+ax.set_title("BOD and DO move in opposite directions",loc="left")
+save(fig,D+"/U8_gap_do_bod.png")
+
+# 2 dose-response shapes and log-axis reading
+fig,(a,b)=plt.subplots(1,2,figsize=(6.4,3.3))
+d=np.linspace(0,100,200)
+a.plot(d,0.9*d,color=BLUE,lw=2,label="Linear, no threshold")
+a.plot(d,np.where(d<30,0,(d-30)/70*100),color=GREEN,lw=2,label="Threshold, then rise")
+a.plot(d,100/(1+(45/np.maximum(d,1e-6))**4),color=RED,lw=2,label="S-shaped")
+a.set_xlabel("Dose (linear axis)"); a.set_ylabel("Response (%)"); a.set_ylim(0,105); a.set_xlim(0,100)
+a.set_title("Three curve shapes",loc="left",fontsize=10)
+a.legend(fontsize=7,frameon=False,loc="upper left")
+pd=np.array([0.01,0.1,1,10,100]); pr=np.array([12,35,68,92,100])
+b.semilogx(pd,pr,"o-",color=RED,lw=1.8)
+ld=10**(-1+(50-35)/(68-35))
+b.axhline(50,color=GREY,ls=":",lw=1); b.plot([ld,ld],[0,50],color=GREY,ls=":",lw=1)
+b.annotate("LD50 ≈ 0.29",(ld,50),(0.012,78),arrowprops=dict(arrowstyle="->"),fontsize=8.5)
+b.set_xlabel("Dose (log axis, equal steps = ×10)"); b.set_ylabel("Response (%)"); b.set_ylim(0,105)
+b.set_title("Log axis, wide dose range",loc="left",fontsize=10)
+fig.tight_layout()
+save(fig,D+"/U8_gap_dose_shapes.png")

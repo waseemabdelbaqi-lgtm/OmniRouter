@@ -1,0 +1,35 @@
+import sys; sys.path.insert(0,'/home/user/OmniRouter/apes_project/tools')
+from figstyle import *
+OUT='/home/user/OmniRouter/apes_project/content/book1/figs/'
+
+# Gap fig 1: numeric energy budget (toy, 100 units of sunlight)
+fig,ax=canvas(6.2,4.1,(0,12),(0,8.4))
+ax.add_patch(Rectangle((0,0),12,0.8,fc=GREEN,ec='none',alpha=.85)); ax.text(6,0.4,"Earth's surface",ha='center',va='center',color='white',fontsize=9,fontweight='bold')
+ax.add_patch(Rectangle((0,3.3),12,2.0,fc=SKY,ec='none',alpha=.35)); ax.text(11.9,5.1,"Atmosphere",ha='right',va='top',fontsize=8,color=BLUE,fontweight='bold')
+arrow(ax,(1.2,8.2),(1.2,0.9),color=ORANGE,lw=2.2); ax.text(1.35,7.7,"100\nsunlight in",fontsize=8,color=ORANGE,fontweight='bold',va='top')
+arrow(ax,(2.8,6.6),(3.2,7.9),color=GREY,lw=1.6); ax.text(3.35,7.5,"30 reflected",fontsize=8,color=GREY)
+ax.text(1.35,4.3,"25 absorbed\nby atmosphere",fontsize=7.5,color=ORANGE)
+ax.text(1.35,2.0,"45 absorbed\nby surface",fontsize=7.5,color=ORANGE)
+arrow(ax,(4.8,0.9),(4.8,3.25),color=RED,lw=2.2); ax.text(4.95,1.4,"105 of the\nsurface IR\nabsorbed",fontsize=7.5,color=RED)
+arrow(ax,(6.6,0.9),(6.6,8.0),color=RED,lw=1.4); ax.text(6.75,6.6,"15 IR passes\nstraight\nto space",fontsize=7.5,color=RED)
+arrow(ax,(8.6,3.3),(8.6,0.95),color=RED,lw=2.2); ax.text(8.75,1.7,"75 IR back\nto surface",fontsize=8,color=RED,fontweight='bold')
+arrow(ax,(10.7,5.3),(10.7,8.0),color=RED,lw=1.8); ax.text(10.55,6.4,"55 IR\nto space",fontsize=7.5,color=RED,ha='right')
+ax.text(6,-0.55,"Surface: in 45 + 75 = 120, out 120.   Space: 30 + 15 + 55 = 100 = sunlight in.\n(Simplified: ignores evaporation and convection.)",ha='center',fontsize=7.8,color=DARK)
+ax.set_title("Energy budget of the greenhouse effect (units per 100 of sunlight)")
+save(fig,OUT+'U9_gap_energy_budget.png')
+
+# Gap fig 2: interior habitat after a road cuts an 8 x 5 km forest (1 km edge zone)
+fig,axs=plt.subplots(1,2,figsize=(6.2,2.9))
+def draw(ax,rects,title,txt):
+    ax.set_xlim(-0.3,8.3); ax.set_ylim(-0.4,5.8); ax.set_aspect('equal'); ax.axis('off')
+    for (x,y,w,h) in rects:
+        ax.add_patch(Rectangle((x,y),w,h,fc="#C8E0C4",ec=GREEN,lw=1.6))
+        if w>2 and h>2: ax.add_patch(Rectangle((x+1,y+1),w-2,h-2,fc="#5E9B6B",ec='none'))
+    ax.set_title(title,fontsize=9); ax.text(4,-0.3,txt,ha='center',va='top',fontsize=7.5,color=DARK)
+draw(axs[0],[(0,0,8,5)],"Before: 8 × 5 km","Interior = (8−2)×(5−2) = 18 km²")
+draw(axs[1],[(0,0,5,5),(5.2,0,2.8,5)],"After: road across at 5 km","Interior = 3×3 + 1×3 = 12 km²")
+axs[1].add_patch(Rectangle((5,0),0.2,5,fc='#555',ec='none'))
+axs[1].text(5.1,5.15,"road",fontsize=7,ha='center',color='#333')
+fig.text(0.5,0.0,"Dark green = interior (at least 1 km from any edge or road); light green = edge zone",ha='center',fontsize=7.5,color=GREY)
+fig.tight_layout(rect=(0,0.04,1,1))
+save(fig,OUT+'U9_gap_edge_interior.png')
