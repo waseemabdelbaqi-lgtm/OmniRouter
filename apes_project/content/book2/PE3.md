@@ -1,4 +1,4 @@
-# Predicted Exam 3
+# Predicted Practice Exam 3
 
 :::box note
 **Exam format and timing (2026 AP Environmental Science)**
@@ -765,7 +765,8 @@ A rangeland ecologist surveyed 36 plots of equal size, 12 in each of three categ
 
 The ecologist hypothesizes that the shrub reduces grass cover by drawing down soil moisture. She plans an experiment to test whether removing the shrub restores grass growth.
 
-(a) (i) Identify the type of environmental problem described in the scenario. [1]
+(a) Answer both parts about the scenario.
+    (i) Identify the type of environmental problem described in the scenario. [1]
     (ii) Describe the relationship between the level of shrub invasion and end-of-dry-season soil moisture shown in the figure. [1]
 (b) Write a testable hypothesis, in "if … then …" form, for the shrub-removal experiment. [1]
 (c) Identify the independent variable and the dependent variable in the experiment. [2]

@@ -1,4 +1,4 @@
-## Predicted Exam 3
+## Predicted Practice Exam 3
 
 ### Section I — MCQ Answers and Explanations
 
@@ -67,7 +67,7 @@
 :::
 
 :::sol PE3-MCQ017
-**Answer: B.** Doubling time ≈ 70 ÷ growth rate (%) = 70 ÷ 2.8 = 25 years. 196 results from multiplying 70 × 2.8, and 7 years from dividing by 10 times the rate.
+**Answer: B.** Doubling time ≈ 70 ÷ growth rate (%) = 70 ÷ 2.8 = 25 years. 196 results from multiplying 70 × 2.8, and 7 years from dividing 70 by 10 instead of by the growth rate.
 :::
 
 :::sol PE3-MCQ018
@@ -123,7 +123,7 @@
 :::
 
 :::sol PE3-MCQ031
-**Answer: D.** In El Niño years (positive anomalies such as 2002–03 and 2010) the catch drops to about 6–7 million t, while in cold years it exceeds 10 million t. During El Niño the trade winds weaken, the thermocline deepens, and upwelling of cold, nutrient-rich water declines, reducing phytoplankton that anchovies depend on.
+**Answer: D.** In El Niño years (positive anomalies such as 2002–03 and 2010) the catch drops to about 6–7 million t, while in cold years it is about 10 million t or more. During El Niño the trade winds weaken, the thermocline deepens, and upwelling of cold, nutrient-rich water declines, reducing phytoplankton that anchovies depend on.
 :::
 
 :::sol PE3-MCQ032
@@ -325,7 +325,8 @@
 ### Section II — FRQ Solutions
 
 :::sol PE3-FRQ001
-(a) (i) An invasive (non-native) species is spreading, degrading the native grassland and reducing rangeland productivity (habitat degradation or loss of biodiversity is also acceptable). *(1 point: identifies invasive species or a closely related problem)*
+(a)
+    (i) An invasive (non-native) species is spreading, degrading the native grassland and reducing rangeland productivity (habitat degradation or loss of biodiversity is also acceptable). *(1 point: identifies invasive species or a closely related problem)*
     (ii) Soil moisture decreases as invasion increases: about 9.1% in uninvaded plots, 7.4% in lightly invaded plots, and 4.8% in heavily invaded plots. *(1 point: states a negative relationship and cites at least one value)*
 (b) If the shrub is removed from heavily invaded plots, then perennial grass cover (or biomass) and soil moisture will be higher after one growing season than in similar plots where the shrub is left in place. *(1 point: an if/then statement that names the manipulated variable, the measured variable, and a direction)*
 (c) Independent variable: shrub treatment (shrub removed versus shrub left in place). Dependent variable: perennial grass cover or biomass (soil moisture is also acceptable as a dependent variable). *(1 point for each variable correctly identified)*

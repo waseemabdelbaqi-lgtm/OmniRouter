@@ -35,7 +35,7 @@ c1 = 1000*(1+x/2.0)**-1.5
 c3 = 1000*np.exp(-x*0.034)
 ax.semilogy(x, c1, color=RED, lw=2); ax.semilogy(x, c2, color=BLUE, lw=2); ax.semilogy(x, c3, color=GREEN, lw=2)
 ax.text(8, 12, 'Curve 1', color=RED, fontsize=10, fontweight='bold')
-ax.text(72, 250, 'Curve 2', color=BLUE, fontsize=10, fontweight='bold')
+ax.text(42, 1120, 'Curve 2', color=BLUE, fontsize=10, fontweight='bold')
 ax.text(62, 160, 'Curve 3', color=GREEN, fontsize=10, fontweight='bold')
 ax.set_xlabel('Age (% of maximum life span)'); ax.set_ylabel('Number of survivors (log scale)')
 ax.set_ylim(1, 1500); ax.grid(alpha=.25, which='both')

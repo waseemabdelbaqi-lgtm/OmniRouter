@@ -1,4 +1,4 @@
-# Predicted Exam 4
+# Predicted Practice Exam 4
 
 :::box note
 **Format and timing (2026 AP Environmental Science).** This is a complete practice exam in two sections. Section I has 80 multiple-choice questions (60% of the score) and takes 90 minutes. Section II has 3 free-response questions (40% of the score) worth 10 points each and takes 70 minutes. A scientific or four-function calculator is allowed on both sections.
