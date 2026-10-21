@@ -14,8 +14,8 @@ def c(k,top): x,y=pos[k]; return (x+W/2, y+H+0.02 if top else y-0.02)
 def e(a,b):
     ax.add_patch(FancyArrowPatch((pos[a][0]+W/2,pos[a][1]+H+0.02),(pos[b][0]+W/2,pos[b][1]-0.02) if True else None,arrowstyle="-|>",mutation_scale=13,color=DARK,lw=1.4))
 for a,b in [('Algae','Parrotfish'),('Phytoplankton','Zooplankton'),('Zooplankton','Sardine'),('Parrotfish','Grouper'),('Sardine','Grouper'),('Grouper','Shark')]: e(a,b)
-ax.set_ylim(0,1.0); ax.set_xlim(0,0.95)
-ax.text(0.0,0.97,"Arrows point in the direction of energy flow",fontsize=8,color=GREY,va='top')
+ax.set_ylim(-0.1,1.0); ax.set_xlim(0,0.95)
+ax.text(0.30,-0.06,"Arrows point in the direction of energy flow",fontsize=8,color=GREY,va="top")
 S(fig,'PE2_foodweb.png')
 
 # 2 species-area
@@ -72,7 +72,7 @@ ax.plot(xi,bi,color=RED,lw=2,label='Birth rate'); ax.plot(xi,di,color=BLUE,lw=2,
 ax.fill_between(xi,di,bi,where=bi>di,color=SAND,alpha=.35)
 for xb in [1,2,3,4]: ax.axvline(xb,color='#bbb',lw=.8)
 for i,lab in enumerate(['1','2','3','4']): ax.text(i+0.5,46,'Stage '+lab if False else lab,ha='center',fontsize=10,fontweight='bold')
-ax.text(2.5,49.5,'Stage',ha='center',fontsize=8,color=GREY); 
+ax.text(0.05,46,'Stage',fontsize=8,color=GREY); 
 ax.axvline(2.6,color=DARK,ls='--',lw=1.4); ax.text(2.63,5,'M',fontsize=12,fontweight='bold',color=DARK)
 ax.set_ylim(0,52); ax.set_xlim(0,4.7); ax.set_xticks([]); ax.set_ylabel('Rate (per 1,000 people per year)'); ax.set_xlabel('Time →'); ax.legend(frameon=False,loc='center left',fontsize=8)
 S(fig,'PE2_dtm.png')
@@ -181,7 +181,7 @@ ax.plot([3.2,10],[4.3,3.8],color=BLUE,lw=5,alpha=.7,solid_capstyle='round'); ax.
 S(fig,'PE2_frq1_fragment.png')
 
 # 18 FRQ2 monthly
-mon=['J','F','M','A','M','J','J','A','S','O','N','D']; pm=[150,130,100,78,68,52,38,36,50,90,140,170]; inv=[14,11,6,3,2,0,0,0,1,5,12,16]
-fig,ax=plt.subplots(figsize=(6.2,3.3)); ax.bar(mon,pm,color=SKY,edgecolor=BLUE); ax.set_ylabel('Monthly mean PM2.5 (µg/m³)'); ax.set_xlabel('Month, 2024'); ax.set_ylim(0,200)
+mon=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']; pm=[150,130,100,78,68,52,38,36,50,90,140,170]; inv=[14,11,6,3,2,0,0,0,1,5,12,16]
+fig,ax=plt.subplots(figsize=(6.2,3.3)); ax.bar(mon,pm,color=SKY,edgecolor=BLUE); ax.set_ylabel('Monthly mean PM2.5 (µg/m³)'); ax.set_xlabel('Month, 2024'); ax.set_ylim(0,200); ax.tick_params(axis='x',labelsize=8)
 b=ax.twinx(); b.plot(mon,inv,color=RED,marker='o',ms=4); b.set_ylabel('Thermal-inversion days (per month)',color=RED); b.set_ylim(0,20); b.spines['right'].set_visible(True)
 fig.tight_layout(); S(fig,'PE2_frq2_monthly.png')

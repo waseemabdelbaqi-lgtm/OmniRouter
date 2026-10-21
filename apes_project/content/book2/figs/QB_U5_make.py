@@ -34,7 +34,7 @@ A=[2,10,35,70,92,98,99,99]; B=[2,4,8,14,24,38,55,70]
 ax.plot(s,A,'-o',color=RED,label="Field A: 6 applications per season")
 ax.plot(s,B,'-s',color=BLUE,label="Field B: 2 applications per season")
 ax.set_xlabel("Growing season"); ax.set_ylabel("Aphids resistant to the insecticide (%)")
-ax.set_ylim(0,105); ax.legend(frameon=False,fontsize=9,loc="center right")
+ax.set_ylim(0,105); ax.legend(frameon=False,fontsize=9,loc="upper left")
 ax.grid(axis='y',alpha=.25)
 save(fig,D+'QB_U5_resistance.png')
 

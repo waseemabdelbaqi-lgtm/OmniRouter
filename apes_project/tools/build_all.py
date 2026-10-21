@@ -10,6 +10,8 @@ BOOKS={}
 def c2(b):
     md(b,f"{C}/front/b2_intro.md")
     for n in range(1,10): md(b,f"{C}/book2/U{n}.md")
+    b.heading(1,"Four Complete AP Environmental Science Predicted Practice Exams")
+    b.para("The four exams that follow each contain 80 multiple-choice questions and 3 free-response questions, built to the 2026 exam blueprint. They are original practice exams written by Success4Sure Academy; they are not official, leaked or guaranteed College Board questions. Complete answer keys and solutions are in Book Three, Part III.",11)
     for k in range(1,5): md(b,f"{C}/book2/PE{k}.md")
 BOOKS[2]=dict(short="Practice Questions & Predicted Exams",num="Book Two",title_lines=["CLASSIFIED PRACTICE QUESTIONS","& FOUR PREDICTED EXAMS"],
  tagline="Unit-by-unit MCQ and FRQ practice, then four complete exams built for the 2026 format.",

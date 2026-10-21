@@ -31,7 +31,7 @@ save(fig, OUT+'PE1_U2_island_biogeog.png')
 fig, ax = plt.subplots(figsize=(5.6, 3.6))
 x = np.linspace(0, 100, 200)
 c2 = 1000*(1-(x/100)**5.5)+0.001; c2 = np.clip(c2, 8, None)
-c1 = 1000*np.exp(-x*0.065)
+c1 = 1000*(1+x/2.0)**-1.5
 c3 = 1000*np.exp(-x*0.034)
 ax.semilogy(x, c1, color=RED, lw=2); ax.semilogy(x, c2, color=BLUE, lw=2); ax.semilogy(x, c3, color=GREEN, lw=2)
 ax.text(8, 12, 'Curve 1', color=RED, fontsize=10, fontweight='bold')
