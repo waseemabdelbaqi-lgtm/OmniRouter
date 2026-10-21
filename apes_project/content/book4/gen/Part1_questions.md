@@ -93,7 +93,7 @@ Corn needs 1 ha per 1,000 kcal; beef takes 20 times more land: which equation gi
 :::
 
 :::q CB-U1-MCQ022 | year=2016 | unit=1 | topic=1.8
-Why does the open ocean contain the largest share of Earth's producer biomass?
+Explain why the open ocean accounts for such a large share of Earth's total net primary productivity even though its productivity per unit area is low.
 :::
 
 :::q CB-U1-MCQ023 | year=2016 | unit=1 | topic=1.4

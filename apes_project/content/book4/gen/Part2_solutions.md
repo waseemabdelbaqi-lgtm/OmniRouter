@@ -93,7 +93,7 @@ Solutions are written by Success4Sure Academy. For multiple-choice items, the of
 :::
 
 :::sol CB-U1-MCQ022 | label=Question 22 | year=2016
-**Official key: C.** Per unit area, open-ocean productivity is low, but because the ocean is so large the sum of producers (mostly microscopic phytoplankton) is larger than on any other ecosystem type. Size, not individual producer size, drives the total.
+**Official key: C.** Per unit area, open-ocean productivity is low because nutrients are scarce. The ocean covers about 70% of Earth's surface, though, so the total productivity summed over that huge area (mostly by microscopic phytoplankton) is very large. The area covered, not the size of the individual producers, drives the total.
 :::
 
 :::sol CB-U1-MCQ023 | label=Question 23 | year=2016

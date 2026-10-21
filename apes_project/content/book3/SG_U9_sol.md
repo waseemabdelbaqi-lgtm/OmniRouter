@@ -153,14 +153,14 @@ Check at the top of the atmosphere: reflected 28 + direct infrared 10 + atmosphe
 :::
 
 :::sol SG-U9-E015
-**Answer: (a) 825 t CO₂; net saving 7,575 t CO₂e/yr. (b) 37.9% (about 38%). (c) Target 15,000 t CO₂e; already met, so no further cut needed. (d) 12 years.**
+**Answer: (a) 825 t CO₂; net saving 7,575 t CO₂e/yr. (b) 37.9% (about 38%). (c) Target 12,000 t CO₂e; about 53 t CO₂e/yr more must be cut. (d) 12 years.**
 
 (a) CO₂ from burning (CH₄ + 2O₂ → CO₂ + 2H₂O): 300 t × 44 ÷ 16 = **825 t CO₂**.
-CO₂e avoided from CH₄ = 300 × 28 = 8,400 t CO₂e. Net change = 825 − 8,400 = **−7,575 t CO₂e per year** (a reduction of 7,575 t CO₂e). Burning the biogas CO₂ is treated here as CO₂ with GWP 1.
+CO₂e avoided from CH₄ = 300 × 28 = 8,400 t CO₂e. Net change = 825 − 8,400 = **−7,575 t CO₂e per year** (a reduction of 7,575 t CO₂e). The CO₂ from burning is counted as CO₂ with GWP 1.
 
 (b) Percent reduction = 7,575 ÷ 20,000 × 100 = **37.9%** (37.875%).
 
-(c) Target = 20,000 × (1 − 0.25) = **15,000 t CO₂e**. After the project the farm emits 20,000 − 7,575 = 12,425 t CO₂e, already below the target. The needed average yearly cut is (12,425 − 15,000) ÷ 8 = −322 t/yr, i.e. none: the pledge is already exceeded by 2,575 t CO₂e. (If "current level" were read as the original 20,000, the cut would be (20,000 − 15,000) ÷ 8 = 625 t CO₂e per year, but the question says "after the project.") This item is flagged in the audit file.
+(c) Target = 20,000 × (1 − 0.40) = **12,000 t CO₂e**. After the project the farm emits 20,000 − 7,575 = 12,425 t CO₂e. Remaining cut = 12,425 − 12,000 = 425 t CO₂e. Average yearly cut = 425 ÷ 8 = **about 53 t CO₂e per year**.
 
 (d) Payback = cost ÷ annual income = $420,000 ÷ $35,000 per yr = **12 years**.
 :::

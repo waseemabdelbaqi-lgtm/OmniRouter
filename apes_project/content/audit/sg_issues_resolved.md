@@ -1,0 +1,1 @@
+Resolved: SG-U3-E009 (immigrants changed 300→350 so net migration 200 > natural increase 150) and SG-U9-E015(c) (pledge changed 25%→40% so a further cut is needed). Book One and Book Three updated together.

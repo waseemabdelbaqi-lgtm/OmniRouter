@@ -803,13 +803,13 @@
   "unit": 1,
   "topic": "1.8",
   "secondary_units": [],
-  "descriptor": "Why does the open ocean contain the largest share of Earth's producer biomass?",
+  "descriptor": "Explain why the open ocean accounts for such a large share of Earth's total net primary productivity even though its productivity per unit area is low.",
   "points": 1,
   "key": "C",
   "key_choices": 5,
-  "solution": "Per unit area, open-ocean productivity is low, but because the ocean is so large the sum of producers (mostly microscopic phytoplankton) is larger than on any other ecosystem type. Size, not individual producer size, drives the total.",
+  "solution": "Per unit area, open-ocean productivity is low because nutrients are scarce. The ocean covers about 70% of Earth's surface, though, so the total productivity summed over that huge area (mostly by microscopic phytoplankton) is very large. The area covered, not the size of the individual producers, drives the total.",
   "in_2026_scope": true,
-  "notes": ""
+  "notes": "Wording corrected: total net primary productivity (not standing biomass)."
  },
  {
   "year": 2016,

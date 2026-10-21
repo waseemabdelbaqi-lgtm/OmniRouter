@@ -86,13 +86,13 @@ TFR = 318 × 5 ÷ 1,000 = 1,590 ÷ 1,000 = **1.59, about 1.6 children per woman*
 :::
 
 :::sol SG-U3-E009
-**Answer:** (a) 1.2% per year; (b) about 58 years; (c) the two are equal (150 each).
+**Answer:** (a) 1.4% per year; (b) 50 years; (c) net migration (200 people) contributed more than natural increase (150 people).
 
-(a) Growth rate = [(births + immigrants) − (deaths + emigrants)] ÷ starting population × 100 = [(400 + 300) − (250 + 150)] ÷ 25,000 × 100 = 300 ÷ 25,000 × 100 = **1.2% per year**.
+(a) Growth rate = [(births + immigrants) − (deaths + emigrants)] ÷ starting population × 100 = [(400 + 350) − (250 + 150)] ÷ 25,000 × 100 = 350 ÷ 25,000 × 100 = **1.4% per year**.
 
-(b) Doubling time ≈ 70 ÷ growth rate (%) = 70 ÷ 1.2 ≈ **58 years**.
+(b) Doubling time ≈ 70 ÷ growth rate (%) = 70 ÷ 1.4 = **50 years**.
 
-(c) Natural increase = births − deaths = 400 − 250 = **150 people**. Net migration = immigrants − emigrants = 300 − 150 = **150 people**. The two numbers are equal, so growth came **equally** from natural increase and net migration (each 50%); neither is "mostly" the source. (The wording of the question assumes one is larger; I answered under the literal numbers.)
+(c) Natural increase = births − deaths = 400 − 250 = **150 people**. Net migration = immigrants − emigrants = 350 − 150 = **200 people**. Net migration is larger, so most of the growth this year (200 of 350, about 57%) came from **net migration**.
 :::
 
 :::sol SG-U3-E010
