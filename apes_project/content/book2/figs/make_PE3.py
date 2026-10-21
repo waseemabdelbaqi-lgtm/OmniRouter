@@ -21,7 +21,7 @@ for ax,(n,(p,t)) in zip(axs,sites.items()):
     ax.set_xticks(range(12)); ax.set_xticklabels(mon,fontsize=7); ax.set_ylim(0,200); ax.set_title(n,fontsize=10)
     ax2=ax.twinx(); ax2.plot(range(12),t,color=RED,marker='o',ms=2.5,lw=1.4); ax2.set_ylim(-10,40)
     ax2.spines['right'].set_visible(True)
-    if n!='Site R': ax2.set_yticklabels([])
+    if n!='Site R': ax2.set_yticklabels([]); ax2.tick_params(right=False)
     else: ax2.set_ylabel('Mean temperature (°C)',color=RED,fontsize=8)
 axs[0].set_ylabel('Monthly precipitation (mm)',fontsize=8)
 fig.tight_layout(); S(fig,'PE3_u1_climate.png')
@@ -64,8 +64,9 @@ def pyr(ax,males,title):
     ax.set_xlim(-9,9); ax.set_xticks([-8,-4,0,4,8]); ax.set_xticklabels(['8','4','0','4','8'],fontsize=7)
     ax.set_xlabel('Percent of population',fontsize=8); ax.spines['left'].set_visible(False)
 A=[8.0,7.0,6.2,5.4,4.6,3.9,3.2,2.6,2.1,1.6,1.2,0.9,0.7,0.5,0.3,0.2,0.1]
-B=[1.9,2.1,2.4,2.5,2.8,3.3,3.6,4.2,4.8,5.0,4.7,4.2,3.6,3.3,3.0,2.5,2.4]
+B=[2.1,2.2,2.4,2.5,2.7,3.1,3.4,3.9,4.3,4.5,4.4,4.1,3.8,3.6,3.4,3.1,3.4]
 C=[3.7,3.8,4.0,4.3,4.5,4.4,4.3,4.0,3.6,3.2,2.8,2.4,1.9,1.5,1.1,0.8,0.7]
+A,B,C=[list(np.array(v)/ (sum(v)*2)*100) for v in (A,B,C)]
 for n,v in zip('ABC',[A,B,C]):
     mm=np.array(v); print(n,'sum(m)*2=',mm.sum()*2,'0-14',mm[:3].sum()*2/ (mm.sum()*2)*100,'15-64',mm[3:13].sum()/mm.sum()*100,'65+',mm[13:].sum()/mm.sum()*100)
 fig,axs=plt.subplots(1,3,figsize=(6.6,3.0),sharey=True)
@@ -95,7 +96,7 @@ ax.add_patch(Polygon([(2.4,0.9),(5.0,3.6),(7.4,0.9)],fc=BROWN,ec='#444',lw=1))
 for (px,py,lab) in [(2.9,1.15,'1'),(4.0,2.55,'2'),(8.6,1.2,'3')]:
     ax.add_patch(Circle((px,py),0.17,fc=RED,ec='white')); ax.text(px,py,lab,color='white',ha='center',va='center',fontsize=8,fontweight='bold')
     ax.text(px,py+0.4,'Site '+lab,ha='center',fontsize=8)
-arrow(ax,(0.4,2.0),(2.2,2.4),'Prevailing wind',fs=8,off=(0,0.12))
+arrow(ax,(0.3,1.6),(2.1,1.6)); ax.text(1.2,1.8,'Prevailing wind',ha='center',fontsize=8,color=DARK)
 ax.set_xlim(0,10); ax.set_ylim(0,5)
 S(fig,'PE3_u4_rainshadow.png')
 
@@ -152,7 +153,8 @@ S(fig,'PE3_u7_smog.png')
 # ---------- U8 DO sag
 d=np.linspace(-10,60,300)
 do=np.where(d<0,9.0,9.0-6.5*np.exp(-0.5*((d-14)/9)**2)*(1-np.exp(-(d.clip(0))/6))-0.0)
-do=np.where(d<0,9.0,9.0-6.5*((np.exp(-d.clip(0)/22)-np.exp(-d.clip(0)/5))/ (np.exp(-14/22)-np.exp(-14/5))) )
+m=np.exp(-12.07/30)-np.exp(-12.07/6)
+do=np.where(d<0,9.0,9.0-6.5*((np.exp(-d.clip(0)/30)-np.exp(-d.clip(0)/6))/m))
 do=np.where(d<0,9.0,do)
 bod=np.where(d<0,2,2+23*np.exp(-d.clip(0)/14))
 fig,ax=plt.subplots(figsize=(5.6,3.0))

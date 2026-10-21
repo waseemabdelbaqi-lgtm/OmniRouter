@@ -7,7 +7,7 @@ def S(fig,n): save(fig,D+n)
 
 # F01 energy pyramid
 fig,ax=canvas(6.0,3.3,(0,10),(0,5.2))
-tiers=[("Producers (phytoplankton)\n60,000 kJ/m²/yr",8.0,0.2),("Primary consumers\n?",5.6,1.35),("Secondary consumers\n600 kJ/m²/yr",3.4,2.5),("Tertiary consumers\n?",1.8,3.65)]
+tiers=[("Producers (phytoplankton)\n60,000 kJ/m²/yr",8.0,0.2),("Primary consumers\n?",6.2,1.35),("Secondary consumers\n600 kJ/m²/yr",4.4,2.5),("Tertiary consumers\n?",3.0,3.65)]
 for t,w,y in tiers:
     ax.add_patch(Rectangle((5-w/2,y),w,1.05,fc=LIGHT if "?" not in t else "white",ec=RED,lw=1.3))
     ax.text(5,y+0.52,t,ha="center",va="center",fontsize=8.5)
@@ -40,7 +40,7 @@ fig,ax=plt.subplots(figsize=(5.4,3.3))
 x=np.linspace(0,100,200)
 ax.plot(x,1000*np.where(x<80,1-0.02*(x/80)**4*40/40*1, 1)*np.clip(1-(x/100)**5,0.001,1),color=BLUE,lw=2,label="Curve A")
 ax.plot(x,1000*np.exp(-0.046*x),color=GREEN,lw=2,label="Curve B")
-ax.plot(x,1000*np.exp(-0.14*x)*0+1000*np.where(x<10,np.exp(-0.65*x),np.exp(-0.65*10)*np.exp(-0.03*(x-10))),color=RED,lw=2,label="Curve C")
+ax.plot(x,1000*np.where(x<10,np.exp(-0.42*x),np.exp(-0.42*10)*np.exp(-0.012*(x-10))),color=RED,lw=2,label="Curve C")
 ax.plot(x,1000*np.where(x<40,1-0.0*x,np.exp(-0.17*(x-40))),color=ORANGE,lw=2,ls="--",label="Curve D")
 ax.set_yscale('log'); ax.set_ylim(1,1500)
 ax.set_xlabel("Percent of maximum life span"); ax.set_ylabel("Number of survivors (log scale)")
@@ -132,7 +132,7 @@ ax.bar(x,trans,.5,bottom=farm,color=SAND,label="Transport")
 ax.bar(x,proc,.5,bottom=np.array(farm)+np.array(trans),color=BROWN,label="Conversion to fuel")
 ax.axhline(21,color=RED,ls="--",lw=1.5); ax.text(1.42,21.4,"Energy in 1 L of ethanol = 21 MJ",ha="right",fontsize=8.5,color=RED)
 ax.set_xticks(x); ax.set_xticklabels(labels); ax.set_ylabel("Fossil energy input (MJ per liter)"); ax.set_ylim(0,25)
-ax.legend(frameon=False,fontsize=8,loc="upper left",bbox_to_anchor=(0,0.88)); ax.set_xlim(-.5,1.5)
+ax.legend(frameon=False,fontsize=8,loc="upper right",bbox_to_anchor=(1.0,0.78)); ax.set_xlim(-.5,1.5)
 S(fig,'PE4_12_biofuel.png')
 
 # F13 smog
@@ -209,7 +209,7 @@ ax.set_ylim(60,260); ax.set_xlabel("Year"); ax.set_ylabel("Minimum October ozone
 ax.grid(alpha=.25); S(fig,'PE4_18_ozone.png')
 
 # FRQ1 schematic
-fig,ax=canvas(6.4,3.5,(0,12),(0,6.6))
+fig,ax=canvas(6.4,3.6,(0,12),(-0.6,6.6))
 box(ax,0.2,3.6,3.1,2.2,"Irrigated cotton fields\n(herbicide applied\neach spring)",fc="#EAF2D8",ec=GREEN,fs=8.5)
 box(ax,0.2,0.5,3.1,1.7,"Irrigation supply canal\n(Site 1)",fc="#DCEBF5",ec=BLUE,fs=8.5)
 box(ax,4.7,3.6,2.8,2.2,"Return-flow drain\n(Site 2)",fc="#DCEBF5",ec=BLUE,fs=8.5)
@@ -218,7 +218,7 @@ box(ax,8.8,0.5,3.0,1.7,"Reference pond\n(Site 4)\nno upstream farms",fc="#F1F1F1
 arrow(ax,(1.7,2.3),(1.7,3.5),"canal water",fs=7.5,off=(0.9,-0.2))
 arrow(ax,(3.4,4.7),(4.6,4.7),"runoff",fs=7.5)
 arrow(ax,(7.6,4.7),(8.7,4.7),"flow",fs=7.5)
-ax.text(6,0.3,"Not to scale. Sites 3 and 4 are 25 km apart in the same desert valley.",ha="center",fontsize=8,color=GREY)
+ax.text(6,-0.3,"Not to scale. Sites 3 and 4 are 25 km apart in the same desert valley.",ha="center",fontsize=8,color=GREY)
 S(fig,'PE4_FRQ1_canal.png')
 
 # FRQ2

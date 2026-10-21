@@ -7,9 +7,9 @@ D='/home/user/OmniRouter/apes_project/content/book2/figs/'
 # 1 salinization cross-section
 fig,ax=canvas(6.2,3.6,(0,10),(0,6))
 ax.add_patch(Rectangle((0,0),10,3.6,fc="#E3D2B4",ec="none"))          # soil
-ax.add_patch(Rectangle((0,0),10,1.7,fc=SKY,ec="none",alpha=0.85))      # saturated zone
-ax.plot([0,10],[1.7,1.7],color=BLUE,lw=2)
-ax.text(9.9,1.45,"saturated zone",ha="right",va="top",fontsize=9,color=DARK)
+ax.add_patch(Rectangle((0,0),10,2.7,fc=SKY,ec="none",alpha=0.85))      # saturated zone
+ax.plot([0,10],[2.7,2.7],color=BLUE,lw=2)
+ax.text(9.9,2.45,"saturated zone",ha="right",va="top",fontsize=9,color=DARK)
 ax.plot([0,10],[3.6,3.6],color=BROWN,lw=2)
 ax.add_patch(Rectangle((0,3.6),10,0.12,fc="white",ec="#999",lw=0.6))
 for x in np.arange(0.3,10,0.7): ax.add_patch(Rectangle((x,3.6),0.35,0.1,fc="white",ec="none"))
@@ -23,8 +23,7 @@ ax.text(5,5.2,"Irrigation water applied by flooding",ha="center",fontsize=9,colo
 ax.annotate("",xy=(5,3.75),xytext=(5,5.0),arrowprops=dict(arrowstyle="-|>",color=BLUE,lw=1.4))
 # labels
 ax.annotate("W  white crust of salts\nat the soil surface",xy=(0.6,3.66),xytext=(0.1,5.2),fontsize=9,arrowprops=dict(arrowstyle="-",color=GREY),va="center")
-ax.annotate("X  water table about\n40 cm below the surface",xy=(8.0,1.7),xytext=(6.2,0.55),fontsize=9,arrowprops=dict(arrowstyle="-",color=GREY),va="center",bbox=dict(fc="white",ec="none",pad=1.5))
-ax.text(0.15,2.0,"Y  root zone and soil above the water table",fontsize=9,va="center",color=DARK)
+ax.annotate("X  water table about\n40 cm below the surface",xy=(8.0,2.7),xytext=(6.2,1.2),fontsize=9,arrowprops=dict(arrowstyle="-",color=GREY),va="center",bbox=dict(fc="white",ec="none",pad=1.5))
 ax.text(0.15,0.35,"Z  deep groundwater supply",fontsize=9,color=DARK)
 save(fig,D+'QB_U5_salinization.png')
 
@@ -105,9 +104,9 @@ for r,(row,y) in enumerate(zip(names,[5.1,2.9])):
     for i,n in enumerate(row):
         ax.text(0.2+3.87*i+1.93,y+0.35,n,ha="center",fontsize=11,fontweight="bold",color=RED if r==0 else GREEN)
         ax.text(0.2+3.87*i+1.93,y-0.35,"20 ha",ha="center",fontsize=9)
-ax.text(6,7.25,"Continuous grazing (C1–C3): 40 cattle stay in the paddock all season",ha="center",fontsize=9,color=RED)
+ax.text(6,7.25,"Continuous grazing (C1–C3): 40 cattle stay in each paddock all season",ha="center",fontsize=9,color=RED)
 ax.text(6,3.85-0.1,"",fontsize=1)
-ax.text(6,1.5,"Rotational grazing (R1–R3): 40 cattle per paddock, moved every 10 days",ha="center",fontsize=9,color=GREEN)
+ax.text(6,1.75,"R1–R3: rotational grazing, one herd of 120 cattle\nmoves to the next paddock every 10 days",ha="center",va="center",fontsize=8.5,color=GREEN,bbox=dict(fc="#EEF2DF",ec="none",pad=1.5))
 save(fig,D+'QB_U5_paddocks.png')
 
 # 9 aquifer (FRQ2)

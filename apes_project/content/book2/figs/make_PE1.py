@@ -6,18 +6,13 @@ rng = np.random.default_rng(11)
 
 # ---------- U1 estuary food web ----------
 fig, ax = canvas(6.2, 3.8, (0, 10), (0, 6))
-nodes = {
- 'Phytoplankton': (1.6, 3.0), 'Zooplankton': (4.2, 4.6), 'Clam': (4.2, 1.2),
- 'Anchovy': (6.6, 4.6), 'Heron': (8.6, 2.6), 'Harbor seal': (8.6, 5.2)}
+nodes = {'Phytoplankton': (1.1, 3.0), 'Zooplankton': (3.7, 4.6), 'Clam': (3.7, 1.2),
+ 'Anchovy': (6.3, 4.6), 'Heron': (8.8, 2.4), 'Harbor seal': (8.8, 5.4)}
 for k, (x, y) in nodes.items():
-    box(ax, x-1.0, y-0.35, 2.0, 0.7, k, fs=9)
-def ar(a, b):
-    xa, ya = nodes[a]; xb, yb = nodes[b]
-    dx = xb-xa; dy = yb-ya
-    n = (dx**2+dy**2)**.5
-    arrow(ax, (xa+dx/n*1.05 if abs(dx)>abs(dy)*0.4 else xa, ya+dy/n*0.4), (xb-dx/n*1.05 if abs(dx)>abs(dy)*0.4 else xb, yb-dy/n*0.4), lw=1.3)
-for a, b in [('Phytoplankton','Zooplankton'),('Phytoplankton','Clam'),('Zooplankton','Anchovy'),('Anchovy','Heron'),('Anchovy','Harbor seal'),('Clam','Heron')]:
-    ar(a, b)
+    box(ax, x-0.9, y-0.35, 1.8, 0.7, k, fs=8.5)
+arrow(ax,(1.8,3.35),(3.0,4.25),lw=1.3); arrow(ax,(1.8,2.65),(3.0,1.55),lw=1.3)
+arrow(ax,(4.6,4.6),(5.4,4.6),lw=1.3); arrow(ax,(7.2,4.8),(7.95,5.2),lw=1.3)
+arrow(ax,(7.0,4.25),(8.2,2.75),lw=1.3); arrow(ax,(4.6,1.3),(7.95,2.1),lw=1.3)
 ax.text(5, 0.25, 'Arrows point from the organism eaten to the organism that eats it.', ha='center', fontsize=8, style='italic', color=GREY)
 save(fig, OUT+'PE1_U1_estuary_web.png')
 
@@ -36,14 +31,14 @@ save(fig, OUT+'PE1_U2_island_biogeog.png')
 fig, ax = plt.subplots(figsize=(5.6, 3.6))
 x = np.linspace(0, 100, 200)
 c2 = 1000*(1-(x/100)**5.5)+0.001; c2 = np.clip(c2, 8, None)
-c1 = 1000*np.exp(-x*0.115); c1 = np.clip(c1, 6, None)
+c1 = 1000*np.exp(-x*0.065)
 c3 = 1000*np.exp(-x*0.034)
 ax.semilogy(x, c1, color=RED, lw=2); ax.semilogy(x, c2, color=BLUE, lw=2); ax.semilogy(x, c3, color=GREEN, lw=2)
-ax.text(9, 30, 'Curve 1', color=RED, fontsize=10, fontweight='bold')
-ax.text(80, 520, 'Curve 2', color=BLUE, fontsize=10, fontweight='bold')
-ax.text(55, 120, 'Curve 3', color=GREEN, fontsize=10, fontweight='bold')
+ax.text(8, 12, 'Curve 1', color=RED, fontsize=10, fontweight='bold')
+ax.text(72, 250, 'Curve 2', color=BLUE, fontsize=10, fontweight='bold')
+ax.text(62, 160, 'Curve 3', color=GREEN, fontsize=10, fontweight='bold')
 ax.set_xlabel('Age (% of maximum life span)'); ax.set_ylabel('Number of survivors (log scale)')
-ax.set_ylim(5, 1500); ax.grid(alpha=.25, which='both')
+ax.set_ylim(1, 1500); ax.grid(alpha=.25, which='both')
 save(fig, OUT+'PE1_U3_survivorship.png')
 
 # ---------- U3 age structure ----------
@@ -180,12 +175,12 @@ fig, ax = canvas(6.4, 4.0, (0, 12), (0, 7.5))
 ax.add_patch(Rectangle((0, 0), 12, 7.5, fc='white', ec='#444', lw=.8))
 ax.add_patch(Rectangle((0, 0), 3.4, 7.5, fc='#E3EBC9', ec='none')); ax.text(1.7, 6.9, 'Farmland\n(corn, vegetables)', ha='center', va='center', fontsize=8.5)
 ax.add_patch(Rectangle((8.2, 0), 3.8, 7.5, fc=SKY, ec='none', alpha=.7)); ax.text(10.1, 6.9, 'Harbor Bay', ha='center', fontsize=9, fontweight='bold')
-ax.add_patch(Ellipse((6.3, 4.9), 3.4, 1.9, fc='#9DBB7A', ec=GREEN, lw=1.2)); ax.text(6.3, 4.9, 'Restored salt marsh\n(40 ha)', ha='center', va='center', fontsize=8)
-ax.plot([3.4, 4.6, 8.2], [5.4, 4.9, 4.9], color=BLUE, lw=3); ax.text(3.6, 5.75, 'Harbor Creek', fontsize=8, color=BLUE)
+ax.add_patch(Ellipse((6.3, 4.9), 3.4, 1.9, fc='#9DBB7A', ec=GREEN, lw=1.2)); ax.text(6.3, 4.35, 'Restored salt marsh\n(40 ha)', ha='center', va='center', fontsize=8)
+ax.plot([3.4, 4.6, 8.2], [5.4, 4.9, 4.9], color=BLUE, lw=3); ax.text(3.4, 6.25, 'Harbor Creek', fontsize=8, color=BLUE)
 ax.plot([3.4, 5.0, 6.4, 8.2], [1.6, 1.9, 1.4, 1.4], color=BLUE, lw=3); ax.text(3.6, 0.7, 'Mill Creek (no marsh)', fontsize=8, color=BLUE)
 for (x, y, lab) in [(4.0, 5.2, 'H1'), (7.9, 4.9, 'H2'), (4.3, 1.8, 'M1'), (7.9, 1.4, 'M2')]:
-    ax.add_patch(Circle((x, y), .22, fc=RED, ec='white', zorder=4)); ax.text(x, y-.6 if lab.startswith('H') else y+.45, lab, ha='center', fontsize=8.5, color=RED, fontweight='bold')
-ax.text(6, 3.3, 'Drainage ditches carry irrigation and rain runoff\nfrom fields into both creeks', ha='center', fontsize=8, style='italic', color=GREY)
+    ax.add_patch(Circle((x, y), .22, fc=RED, ec='white', zorder=4)); ax.text(x, y+.45, lab, ha='center', fontsize=8.5, color=RED, fontweight='bold')
+ax.text(6, 3.0, 'Drainage ditches carry irrigation and rain runoff\nfrom fields into both creeks', ha='center', fontsize=8, style='italic', color=GREY)
 ax.text(.2, .25, 'Not to scale. Dots mark existing water-quality access points.', fontsize=7.5, color=GREY)
 save(fig, OUT+'PE1_FRQ1_estuary.png')
 
