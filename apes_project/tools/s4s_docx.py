@@ -160,6 +160,14 @@ def no_split_row(row):
 def repeat_header(row):
     trpr = row._tr.get_or_add_trPr(); e = OxmlElement("w:tblHeader"); trpr.append(e)
 
+def ruled_lines(cell, n, gap_pt=11, color="BFB0B2"):
+    """n visible ruled answer lines (alternating indent stops Word/LibreOffice merging the borders)."""
+    for i in range(n):
+        p = cell.add_paragraph(); para_fmt(p, 0, 0, 1.0)
+        p.paragraph_format.space_after = Pt(gap_pt)
+        p.paragraph_format.right_indent = Cm(0.02 * (i % 2))
+        para_border(p, "bottom", color, 4, 1)
+
 # ---------------------------------------------------------------- anchored images (frame ornaments / watermark)
 _pid = [5000]
 def anchor_picture(par, img_path, width_cm, pos_h, pos_v, behind=True, rot=0):
@@ -395,9 +403,7 @@ class Book:
             r = first.add_run(f"   {qid}"); set_run_font(r, size=8.5, bold=True, color="6B6B6B")
         self.render_blocks(content, container=cell, size=10.5)
         if kind == "example":
-            for _ in range(5):
-                p = cell.add_paragraph(); para_fmt(p, 0, 0, 1.0); p.paragraph_format.space_after = Pt(9)
-                para_border(p, "bottom", "C9B5B8", 4, 1)
+            ruled_lines(cell, 6, 10, "C9B5B8")
         no_split = False
         sp = self.d.add_paragraph(); para_fmt(sp, 0, 3, 0.5)
 
@@ -466,8 +472,18 @@ class Book:
             buf = [s]; i += 1
             while i < len(lines) and lines[i].strip() and not re.match(r"^(\s*[-*•]\s|\s*\d+[.)]\s|\|!|#|:::|!\[|\[\[)", lines[i]) and not lines[i].strip().startswith("|"):
                 buf.append(lines[i].strip()); i += 1
-            p = (c or self.d).add_paragraph(); para_fmt(p, 0, 4, 1.08)
-            add_inline(p, " ".join(buf), size)
+            joined = " ".join(buf)
+            figre = re.compile(r"!\[(.*?)\]\((.*?)\)(\{w=([\d.]+)\})?")
+            pos = 0
+            for fm in figre.finditer(joined):
+                before = joined[pos:fm.start()].strip()
+                if before:
+                    p = (c or self.d).add_paragraph(); para_fmt(p, 0, 4, 1.08, keep_next=True); add_inline(p, before, size)
+                self.figure(fm.group(2), fm.group(1), float(fm.group(4) or 0.85), container=c)
+                pos = fm.end()
+            rest = joined[pos:].strip()
+            if rest:
+                p = (c or self.d).add_paragraph(); para_fmt(p, 0, 4, 1.08); add_inline(p, rest, size)
 
     # ---- questions & solutions
     def question(self, head, body):
@@ -499,8 +515,7 @@ class Book:
             r = p.add_run(m.group(1) + ".\t"); set_run_font(r, size=10.5, bold=True, color=DARK)
             add_inline(p, m.group(2), 10.5)
         if "FRQ" in qid and self.show_ids:
-            for _ in range(2):
-                pp = cell.add_paragraph(); para_fmt(pp, 0, 0, 1.0)
+            ruled_lines(cell, 16 if qid.startswith("PE") else 11, 11)
         sp = self.d.add_paragraph(); para_fmt(sp, 0, 3, 0.5)
 
     show_ids = True
