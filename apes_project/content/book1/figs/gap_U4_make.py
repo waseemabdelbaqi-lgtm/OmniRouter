@@ -7,7 +7,7 @@ S3=np.sqrt(3)/2
 def classify(c,si,sa):
     if si+1.5*c<15: return 'S'
     if si+2*c<30: return 'LS'
-    if (7<=c<20 and sa>52) or (c<7 and si<50 and sa<=52): return 'SL'
+    if (c<20 and sa>52 and si+2*c>=30) or (c<7 and si<50 and 43<=sa<=52): return 'SL'
     if 7<=c<27 and 28<=si<50 and sa<=52: return 'L'
     if (si>=50 and 12<=c<27) or (50<=si<80 and c<12): return 'SiL'
     if si>=80 and c<12: return 'Si'
@@ -22,7 +22,7 @@ names={'S':'Sand','LS':'Loamy sand','SL':'Sandy loam','L':'Loam','SiL':'Silt loa
 cols={'S':'#F0DDA8','LS':'#EACB86','SL':'#E0B96B','L':'#B9D28B','SiL':'#A9CFA0','Si':'#8FC7B0','SCL':'#E3A98A','CL':'#C98E78','SiCL':'#A9A0C4','SC':'#D9857B','SiC':'#8EA8D0','C':'#B07A86'}
 
 fig,ax=plt.subplots(figsize=(6.4,4.3)); ax.set_aspect('equal'); ax.axis('off')
-n=200; cells={k:[] for k in names}
+n=320; cells={k:[] for k in names}
 for i in range(n):
     for j in range(n-i):
         c=(i+0.5)/n*100; si=(j+0.5)/n*100; sa=100-c-si
@@ -32,7 +32,7 @@ for i in range(n):
         cells[k].append((si/100+c/200, c/100*S3))
         # draw small tri-cell as a square marker
 for k,pts in cells.items():
-    p=np.array(pts); ax.scatter(p[:,0],p[:,1],s=3.2,marker='s',color=cols[k],linewidths=0,zorder=1)
+    p=np.array(pts); ax.scatter(p[:,0],p[:,1],s=1.6,marker='s',color=cols[k],linewidths=0,zorder=1)
 # outline
 ax.add_patch(Polygon([[0,0],[1,0],[.5,S3]],fill=False,ec='k',lw=1.2,zorder=3))
 # gridlines every 10
@@ -42,7 +42,8 @@ for v in range(10,100,10):
     ax.plot([t,t+(1-t)/2],[0,(1-t)*S3],color='white',lw=.5,alpha=.7,zorder=2)  # silt const
     ax.plot([1-t,(1-t)/2],[0,(1-t)*S3],color='white',lw=.5,alpha=.7,zorder=2)  # sand const
 # labels at class centroids
-lab={'S':(.08,.05),'LS':(.17,.09),'SL':(.25,.17),'L':(.42,.20),'SiL':(.62,.17),'Si':(.84,.05),'SCL':(.32,.30),'CL':(.43,.38),'SiCL':(.59,.38),'SC':(.35,.43),'SiC':(.56,.50),'C':(.45,.62)}
+lab={k:tuple(np.mean(np.array(v),axis=0)) for k,v in cells.items()}
+lab['S']=(0.045,0.03);lab['LS']=(0.13,0.075);lab['Si']=(0.88,0.06)
 for k,(x,y) in lab.items():
     ax.text(x,y,k,fontsize=7.5,ha='center',va='center',fontweight='bold',color='#222',zorder=4)
 # ticks
@@ -58,7 +59,7 @@ ax.text(0.5,-0.11,"% sand",fontsize=8,color=BROWN,ha='center')
 c,si,sa=35,25,40
 px,py=si/100+c/200,c/100*S3
 ax.plot(px,py,'o',ms=6,mfc='white',mec=RED,mew=2,zorder=6)
-ax.annotate("example: 35% clay,\n25% silt, 40% sand",xy=(px,py),xytext=(0.02,0.74),fontsize=7.5,color=RED,
+ax.annotate("example: 35% clay,\n25% silt, 40% sand",xy=(px,py),xytext=(-0.12,0.80),fontsize=7.5,color=RED,
             arrowprops=dict(arrowstyle='-|>',color=RED,lw=1.2),zorder=6)
 # legend key
 y0=0.86
