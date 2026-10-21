@@ -83,11 +83,11 @@ def atm():
     for y in (12,50,86): ax.axhline(y,color=GREY,ls="--",lw=.8)
     ax.set_xlim(-100,125); ax.set_ylim(0,120); ax.set_xlabel("Temperature (°C)"); ax.set_ylabel("Altitude (km)")
     ax.set_title("Average temperature profile of the atmosphere")
-    ax.set_yticks([0,12,20,40,50,60,80,86,100,120])
+    ax.set_yticks([0,12,20,40,50,60,86,100,120])
     save(fig,OUT+'QB_U4_atm_profile.png')
 
 def circ():
-    fig,ax=plt.subplots(figsize=(6.2,3.4)); ax.set_xlim(-6,96); ax.set_ylim(-14,60); ax.axis("off")
+    fig,ax=plt.subplots(figsize=(6.2,3.4)); ax.set_xlim(-6,96); ax.set_ylim(-19,60); ax.axis("off")
     ax.add_patch(Rectangle((0,0),90,-3.5,fc="#C9D8C0",ec="black",lw=1)); ax.add_patch(Rectangle((0,0),90,50,fc="#F4F8FB",ec="none",zorder=0))
     def A(p,q): ax.add_patch(FancyArrowPatch(p,q,arrowstyle="-|>",mutation_scale=14,color=BLUE,lw=2))
     # Hadley
@@ -101,14 +101,14 @@ def circ():
         ax.add_patch(Circle((lat,-9),3.4,fc="white",ec=RED,lw=1.6)); ax.text(lat,-9,lab,ha="center",va="center",fontsize=11,fontweight="bold",color=RED)
     for lat in (0,30,60,90): ax.text(lat,-3.2-8.6+8,"",fontsize=1); ax.text(lat,45,f"{lat}°",ha="center",fontsize=9,color=GREY)
     ax.text(45,55,"Meridional cross-section, Northern Hemisphere (equator at left, pole at right)",ha="center",fontsize=9)
-    ax.text(75,-9,"Blue arrows = direction of air movement",fontsize=8,style="italic",ha="center")
+    ax.text(45,-17,"Blue arrows = direction of air movement",fontsize=8.5,style="italic",ha="center")
     save(fig,OUT+'QB_U4_circulation.png')
 
 def watershed():
     fig,ax=canvas(6.0,4.8,(0,10),(-0.8,10))
     div=[(1,9),(5,9.6),(9,8.2),(9.3,4.5),(7.2,1.4),(3.6,0.8),(1.2,3.5),(0.7,6.6),(1,9)]
     ax.add_patch(Polygon(div,fc="#EEF4E6",ec=DARK,lw=2.2,ls="--"))
-    t1=[(2.0,8.3),(2.6,7.2),(3.4,6.3),(4.3,5.4)]; t2=[(8.4,7.9),(7.5,7.2),(6.5,6.4),(5.5,5.8),(4.5,5.3)]
+    t1=[(2.0,8.3),(2.6,7.2),(3.4,6.3),(4.5,5.3)]; t2=[(8.4,7.9),(7.5,7.2),(6.5,6.4),(5.5,5.8),(4.5,5.3)]
     main=[(4.5,5.3),(4.7,3.8),(4.5,2.5),(4.7,1.4),(4.6,0.4)]
     for s in (t1,t2,main): ax.plot(*zip(*s),color=BLUE,lw=2.8,solid_capstyle="round")
     ax.add_patch(Ellipse((4.6,-0.35),2.4,0.9,fc=SKY,ec=BLUE)); ax.text(4.6,-0.35,"Lake",ha="center",va="center",fontsize=9)
@@ -118,12 +118,12 @@ def watershed():
     ax.add_patch(FancyArrowPatch((6.5,7.2),(6.5,6.65),arrowstyle="-|>",mutation_scale=11,color=BROWN,lw=1.8,zorder=6))
     for n,(x,y) in {"1":(3.0,6.75),"2":(7.8,7.5),"3":(5.5,5.8),"4":(4.7,1.7)}.items():
         ax.add_patch(Circle((x,y),0.28,fc=RED,ec="white",zorder=7)); ax.text(x,y,n,color="white",ha="center",va="center",fontsize=9,fontweight="bold",zorder=8)
-    ax.text(0.2,9.6,"- - -  watershed divide\n→  stream flow direction",fontsize=8.5,va="top",style="italic")
+    ax.text(0.0,-0.75,"- - -  watershed divide\n→  stream flow direction",fontsize=8.5,va="bottom",style="italic")
     ax.text(8.3,1.2,"Sites 1–4:\nwater-quality\nsampling points",fontsize=8.5,color=RED,ha="center")
     save(fig,OUT+'QB_U4_watershed.png')
 
 def orbit():
-    fig,ax=canvas(6.2,3.9,(-4.6,4.6),(-2.7,2.7)); a,b=3.0,1.6
+    fig,ax=canvas(6.2,3.9,(-4.6,4.6),(-3.6,2.7)); a,b=3.0,1.6
     th=np.linspace(0,2*np.pi,200); ax.plot(a*np.cos(th),b*np.sin(th),color=GREY,lw=1.2)
     ax.add_patch(Circle((0,0),.55,fc=YELLOW,ec=ORANGE,lw=2)); ax.text(0,-.85,"Sun",ha="center",fontsize=9)
     pos={"W":(0,b),"X":(a,0),"Y":(0,-b),"Z":(-a,0)}
@@ -137,7 +137,7 @@ def orbit():
         off={"W":(0,1.15),"X":(.9,-.1),"Y":(0,-1.15),"Z":(-.9,-.1)}[lab]
         ax.text(x+off[0],y+off[1]-0.05 if lab in("X","Z") else y+off[1],lab,fontsize=14,fontweight="bold",ha="center",va="center")
     ax.add_patch(FancyArrowPatch((-2.4,-1.1),(-1.3,-1.52),arrowstyle="-|>",mutation_scale=13,color=GREY,lw=1.4,connectionstyle="arc3,rad=.3"))
-    ax.text(-4.5,-2.55,"Orbit not to scale. Red line = Earth's axis, N = North Pole;\nshaded half of each Earth is in darkness. Arrow = direction of orbit.",fontsize=8,style="italic")
+    ax.text(-4.5,-3.55,"Orbit not to scale. Red line = Earth's axis, N = North Pole;\nshaded half of each Earth is in darkness. Arrow = direction of orbit.",fontsize=8,style="italic")
     save(fig,OUT+'QB_U4_orbit.png')
 
 def daylen():
@@ -178,14 +178,14 @@ def hillside():
         ax.add_patch(Rectangle((x,y),2.6,1.9,fc="#DDE8C9",ec=GREEN,lw=1.6))
         ax.text(x+1.3,y+1.45,n,ha="center",fontweight="bold",fontsize=10); ax.text(x+1.3,y+.65,t,ha="center",fontsize=9)
         for k in range(4): ax.scatter(x+.4+k*.55,y+.2,s=22,color=GREEN,marker="^")
-    ax.add_patch(Polygon([(0.3,1.6),(9.7,1.6),(9.7,1.0),(6,1.35),(0.3,0.9)],fc=BLUE,alpha=.8,ec=BLUE)); ax.text(2.5,1.07,"Stream",color="white",fontsize=10,fontweight="bold")
+    ax.add_patch(Rectangle((0.3,0.9),9.4,0.7,fc=BLUE,alpha=.85,ec=BLUE)); ax.text(4.2,1.12,"Stream",color="white",fontsize=10,fontweight="bold")
     ax.add_patch(FancyArrowPatch((2.0,4.3),(2.0,2.1),arrowstyle="-|>",mutation_scale=15,color=BROWN,lw=2)); ax.text(2.15,3.1,"Runoff\ndownhill",fontsize=8.5,color=BROWN)
     ax.text(0.3,7.8,"Orchard (planted the same year); rows of apple trees, bare soil between rows",fontsize=8.5,style="italic")
     save(fig,OUT+'QB_U4_frq1_hillside.png')
 
 SST=[-0.4,0.2,1.9,0.3,-0.7,-1.5,-0.2,0.5,2.4,0.6,-0.9,-0.3]; LAND=[8.1,7.6,3.2,6.8,8.7,9.4,8.0,6.5,1.9,5.8,9.0,8.3]
 def enso():
-    fig,(a1,a2)=plt.subplots(2,1,figsize=(6,4.4),sharex=True,gridspec_kw={"hspace":.12})
+    fig,(a1,a2)=plt.subplots(2,1,figsize=(6,4.4),sharex=True,gridspec_kw={"hspace":.35})
     yrs=np.arange(1,13); a1.bar(yrs,SST,color=[RED if v>0 else BLUE for v in SST]); a1.axhline(0,color="black",lw=.8)
     a1.set_ylabel("SST anomaly (°C)"); a1.set_title("Sea surface temperature anomaly, eastern equatorial Pacific"); a1.grid(axis="y",alpha=.25)
     a2.plot(yrs,LAND,marker="o",color=DARK,lw=2); a2.set_ylabel("Anchovy landings\n(million metric tons)"); a2.set_ylim(0,11); a2.grid(alpha=.25)
@@ -200,7 +200,7 @@ def climato():
     for ax,(pr,tp),n in zip(axs,(H,P),("Harbor (coast)","Plain (inland)")):
         ax.bar(range(12),pr,color=SKY,edgecolor=BLUE); ax.set_ylim(0,320); ax.set_xticks(range(12)); ax.set_xticklabels(list(m),fontsize=8); ax.set_title(n,fontsize=10)
         a2=ax.twinx(); a2.plot(range(12),tp,color=RED,marker="o",ms=3.5,lw=2); a2.set_ylim(-10,32); a2.spines["right"].set_visible(True)
-        if ax is axs[0]: ax.set_ylabel("Precipitation (mm)"); a2.set_yticklabels([])
+        if ax is axs[0]: ax.set_ylabel("Precipitation (mm)"); a2.set_yticks([]); a2.spines["right"].set_visible(False)
         else: a2.set_ylabel("Mean temperature (°C)",color=RED)
     fig.subplots_adjust(wspace=.12)
     save(fig,OUT+'QB_U4_climatograms.png')

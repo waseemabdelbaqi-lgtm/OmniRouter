@@ -49,9 +49,9 @@ S(fig,'PE3_u3_survivorship.png')
 
 # ---------- U3 overshoot
 xs=[0,6,12,18,24,30,36,42,48,54,60]; ys=[40,300,1500,2800,2000,1100,1000,1250,1450,1400,1400]
-xi,yi=smooth(None,xs,ys,2.2)
+xi,yi=smooth(None,xs,ys,0.9)
 fig,ax=plt.subplots(figsize=(5.4,3.0))
-ax.plot(xi,yi,color=RED,lw=2); ax.plot(xs,ys,'o',color=DARK,ms=3)
+ax.plot(xi,yi,color=RED,lw=2); pass
 ax.set_xlabel('Years since introduction'); ax.set_ylabel('Sheep population'); ax.set_ylim(0,3200)
 S(fig,'PE3_u3_overshoot.png')
 
@@ -128,7 +128,7 @@ fig,ax=plt.subplots(figsize=(5.6,3.0)); left=np.zeros(3)
 for (k,v),c in zip(data.items(),cols):
     ax.barh(labs,v,left=left,color=c,label=k,height=0.55,edgecolor='white')
     for i,(vv,l) in enumerate(zip(v,left)):
-        if vv>=10: ax.text(l+vv/2,i,str(vv),ha='center',va='center',fontsize=8,color='white' if c in (DARK,BLUE,GREEN) else 'black')
+        if vv>=5: ax.text(l+vv/2,i,str(vv),ha='center',va='center',fontsize=8,color='white' if c in (DARK,BLUE,GREEN) else 'black')
     left+=np.array(v)
 ax.set_xlabel('Share of electricity generation (%)'); ax.set_xlim(0,100); ax.invert_yaxis()
 ax.legend(frameon=False,fontsize=7.5,ncol=3,loc='upper center',bbox_to_anchor=(0.5,-0.2))
@@ -158,10 +158,9 @@ do=np.where(d<0,9.0,9.0-6.5*((np.exp(-d.clip(0)/30)-np.exp(-d.clip(0)/6))/m))
 do=np.where(d<0,9.0,do)
 bod=np.where(d<0,2,2+23*np.exp(-d.clip(0)/14))
 fig,ax=plt.subplots(figsize=(5.6,3.0))
-ax.plot(d,do,color=BLUE,lw=2.2,label='Dissolved oxygen (mg/L)'); ax.plot(d,bod/ (25/9),color=RED,lw=1.8,ls='--',label='BOD (scaled; 0–9 axis = 0–25 mg/L)')
+ax.plot(d,do,color=BLUE,lw=2.2,label=None); pass
 ax.axvline(0,color=GREY,lw=1); ax.text(0.8,9.3,'Wastewater outfall',fontsize=8,color=GREY)
-ax.set_xlabel('Distance downstream of outfall (km)'); ax.set_ylabel('Dissolved oxygen (mg/L)'); ax.set_ylim(0,10.2); ax.legend(frameon=False,fontsize=7.5,loc='lower right')
-print('do min',do.min(),d[do.argmin()])
+ax.set_xlabel('Distance downstream of outfall (km)'); ax.set_ylabel('Dissolved oxygen (mg/L)'); ax.set_ylim(0,10.2); print('do min',do.min(),d[do.argmin()])
 S(fig,'PE3_u8_dosag.png')
 
 # ---------- U8 dose response

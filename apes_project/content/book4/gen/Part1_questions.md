@@ -108,6 +108,38 @@ Which test best checks whether hikers' trampling killed alpine plants?
 NPP bar chart for three forest biomes: what explains the variation?
 :::
 
+:::q CB-U1-MCQ026 | year=2024 | unit=1 | topic=2.7
+Matching set: which species type is first to colonize disturbed ground and stabilizes soil.
+:::
+
+:::q CB-U1-MCQ027 | year=2024 | unit=1 | topic=1.2
+World map with lettered locations; which is in a temperate seasonal forest biome.
+:::
+
+:::q CB-U1-MCQ028 | year=2024 | unit=1 | topic=1.8
+Same map: location with highest primary productivity.
+:::
+
+:::q CB-U1-MCQ029 | year=2024 | unit=1 | topic=1.9
+Why local vegetation improved after wolves arrived on the island.
+:::
+
+:::q CB-U1-MCQ030 | year=2024 | unit=1 | topic=1.10
+Why there are far fewer wolves than deer on the island.
+:::
+
+:::q CB-U1-MCQ031 | year=2024 | unit=1 | topic=1.5
+Simplified nitrogen cycle with lettered arrows: which arrow shows nitrogen fixation.
+:::
+
+:::q CB-U1-MCQ032 | year=2024 | unit=1 | topic=9.6
+Caterpillar experiment on air temperature tolerance in a sub-Antarctic region: the dependent variable.
+:::
+
+:::q CB-U1-MCQ033 | year=2024 | unit=1 | topic=1.9
+Elk, wolf and aspen graphs for Yellowstone: likely outcome.
+:::
+
 ## Section B — Free-Response Questions
 
 :::q CB-U1-FRQ001 | year=2003 | unit=1 | topic=1.3
@@ -180,6 +212,54 @@ Which fact best supports a citizens' group claim that oak-hickory forest will no
 
 :::q CB-U2-MCQ013 | year=2016 | unit=2 | topic=2.2
 Which hypothesis shows economic benefit of plant diversity in pastures?
+:::
+
+:::q CB-U2-MCQ014 | year=2024 | unit=2 | topic=2.1
+Matching set: species type whose abundance or scarcity signals changing abiotic conditions.
+:::
+
+:::q CB-U2-MCQ015 | year=2024 | unit=2 | topic=2.2
+Matching set: bumblebee whose decline alters community structure and cuts biodiversity.
+:::
+
+:::q CB-U2-MCQ016 | year=2024 | unit=2 | topic=2.2
+Which strategy best maintains regulating ecosystem services of coastal wetlands.
+:::
+
+:::q CB-U2-MCQ017 | year=2024 | unit=2 | topic=2.1
+Why domesticated honeybee colonies declined while wild colonies did not.
+:::
+
+:::q CB-U2-MCQ018 | year=2024 | unit=2 | topic=2.2
+Same article: how the rivers provide cultural ecosystem services.
+:::
+
+:::q CB-U2-MCQ019 | year=2024 | unit=2 | topic=2.1
+Which ranking orders biomes from greatest to least biodiversity.
+:::
+
+:::q CB-U2-MCQ020 | year=2024 | unit=2 | topic=2.5
+Monarch article with bar graph: approximate percent decline in western monarchs from 1997 to 2019.
+:::
+
+:::q CB-U2-MCQ021 | year=2024 | unit=2 | topic=2.5
+Same article: which reason the author uses to explain the decline.
+:::
+
+:::q CB-U2-MCQ022 | year=2024 | unit=2 | topic=2.5
+Same article: strategy the author says would help monarchs.
+:::
+
+:::q CB-U2-MCQ023 | year=2024 | unit=2 | topic=2.2
+Which ecosystem service category covers recreation, tourism and aesthetic enjoyment.
+:::
+
+:::q CB-U2-MCQ024 | year=2024 | unit=2 | topic=2.1
+Which example best shows an indicator species.
+:::
+
+:::q CB-U2-MCQ025 | year=2024 | unit=2 | topic=2.1
+Manatee populations with different genetic diversity: best conclusion.
 :::
 
 ## Section B — Free-Response Questions
@@ -336,6 +416,102 @@ Which statement is consistent with graphs of meat consumption and population?
 Which growth rate is paired with the correct doubling time?
 :::
 
+:::q CB-U3-MCQ032 | year=2024 | unit=3 | topic=3.4
+Population graph over 100 years with labeled points; which point shows carrying capacity K.
+:::
+
+:::q CB-U3-MCQ033 | year=2024 | unit=3 | topic=3.4
+Same graph: which point shows rapid increase when resources are abundant.
+:::
+
+:::q CB-U3-MCQ034 | year=2024 | unit=3 | topic=3.4
+Same graph: which point shows the culmination of a population dieback.
+:::
+
+:::q CB-U3-MCQ035 | year=2024 | unit=3 | topic=3.4
+Deer and wolf census table: what happened to the wolf population after 1985.
+:::
+
+:::q CB-U3-MCQ036 | year=2024 | unit=3 | topic=3.4
+Same table: year of greatest deer population.
+:::
+
+:::q CB-U3-MCQ037 | year=2024 | unit=3 | topic=3.9
+Demographic transition graph: what helps a country move from stage 2 to stage 3.
+:::
+
+:::q CB-U3-MCQ038 | year=2024 | unit=3 | topic=3.3
+Squirrels with Type II survivorship: what that implies about mortality.
+:::
+
+:::q CB-U3-MCQ039 | year=2024 | unit=3 | topic=3.9
+Why people older than 64 now outnumber children under 5 globally.
+:::
+
+:::q CB-U3-MCQ040 | year=2024 | unit=3 | topic=3.5
+Method for percent increase of 1998 San Francisco rainfall (119.94 cm vs 57.20 cm average).
+:::
+
+:::q CB-U3-MCQ041 | year=2024 | unit=3 | topic=3.6
+Four age structure diagrams: which has replacement-level fertility.
+:::
+
+:::q CB-U3-MCQ042 | year=2024 | unit=3 | topic=3.4
+Wolves and elk feedback: why elk herd size changes through time.
+:::
+
+:::q CB-U3-MCQ043 | year=2024 | unit=3 | topic=3.7
+Birth and death rate table: most stable population (assuming constant rates).
+:::
+
+:::q CB-U3-MCQ044 | year=2024 | unit=3 | topic=3.7
+Same table: natural rate of increase for Jamaica.
+:::
+
+:::q CB-U3-MCQ045 | year=2024 | unit=3 | topic=3.8
+Which combination of birth/death and migration gives greatest population increase.
+:::
+
+:::q CB-U3-MCQ046 | year=2024 | unit=3 | topic=3.9
+Matching set (carrying capacity, total fertility rate, demographic transition model, density-independent factor): shows birth and death rates shifting as a country develops.
+:::
+
+:::q CB-U3-MCQ047 | year=2024 | unit=3 | topic=3.4
+Same set: the total number of individuals a habitat can sustain.
+:::
+
+:::q CB-U3-MCQ048 | year=2024 | unit=3 | topic=3.7
+Same set: the value that, at replacement level, leaves population size relatively stable.
+:::
+
+:::q CB-U3-MCQ049 | year=2024 | unit=3 | topic=3.4
+Same set: what happens to the ecosystem if a population exceeds this value and resources become depleted.
+:::
+
+:::q CB-U3-MCQ050 | year=2024 | unit=3 | topic=3.6
+Age structure diagram of Country Z: which age range is the largest share.
+:::
+
+:::q CB-U3-MCQ051 | year=2024 | unit=3 | topic=3.7
+Same diagram: claim about total fertility rate best supported.
+:::
+
+:::q CB-U3-MCQ052 | year=2024 | unit=3 | topic=3.8
+Same diagram: likely socioeconomic concern.
+:::
+
+:::q CB-U3-MCQ053 | year=2024 | unit=3 | topic=3.4
+Best explanation of why a population overshooting carrying capacity can crash.
+:::
+
+:::q CB-U3-MCQ054 | year=2024 | unit=3 | topic=3.6
+Age structure with pyramid shape and large prereproductive cohort: environmental problem in next 10 years.
+:::
+
+:::q CB-U3-MCQ055 | year=2024 | unit=3 | topic=3.5
+Doubling times from annual percent change in population.
+:::
+
 ## Section B — Free-Response Questions
 
 :::q CB-U3-FRQ001 | year=2003 | unit=3 | topic=3.9
@@ -472,6 +648,66 @@ Why are two soil samples dark and high in C and N while four are low?
 
 :::q CB-U4-MCQ028 | year=2016 | unit=4 | topic=4.7
 Which latitude has 24 hours of daylight on December 21?
+:::
+
+:::q CB-U4-MCQ029 | year=2024 | unit=4 | topic=4.9
+Matching set: periodic Pacific surface-temperature change altering global rainfall, wind and ocean circulation.
+:::
+
+:::q CB-U4-MCQ030 | year=2024 | unit=4 | topic=4.8
+Matching set: dry conditions on the leeward side of a mountain range.
+:::
+
+:::q CB-U4-MCQ031 | year=2024 | unit=4 | topic=4.1
+Four block diagrams: which shows a divergent boundary with seafloor spreading.
+:::
+
+:::q CB-U4-MCQ032 | year=2024 | unit=4 | topic=4.2
+Graph of percent of soil eroded versus soil life span: years to erode 60% under standard farming.
+:::
+
+:::q CB-U4-MCQ033 | year=2024 | unit=4 | topic=4.8
+Monthly precipitation graph east and west of mountains: best-supported statement.
+:::
+
+:::q CB-U4-MCQ034 | year=2024 | unit=4 | topic=4.7
+If Earth's axial tilt were zero, how would mid-latitude climate be characterized.
+:::
+
+:::q CB-U4-MCQ035 | year=2024 | unit=4 | topic=4.3
+Soil of 35% clay, 40% sand, 25% silt: which description of properties applies.
+:::
+
+:::q CB-U4-MCQ036 | year=2024 | unit=4 | topic=4.3
+Component best added to poorly drained soil.
+:::
+
+:::q CB-U4-MCQ037 | year=2024 | unit=4 | topic=4.3
+Best soil for citrus needing mixed composition and high drainage.
+:::
+
+:::q CB-U4-MCQ038 | year=2024 | unit=4 | topic=4.1
+Seismic shockwave article: author's primary claim.
+:::
+
+:::q CB-U4-MCQ039 | year=2024 | unit=4 | topic=4.1
+Same article: evidence supporting the claim that the pattern is produced by waves of a specific frequency.
+:::
+
+:::q CB-U4-MCQ040 | year=2024 | unit=4 | topic=4.1
+Same article: how the pattern could influence urban development.
+:::
+
+:::q CB-U4-MCQ041 | year=2024 | unit=4 | topic=4.4
+Atmosphere altitude-temperature graph: line dividing stratosphere from mesosphere.
+:::
+
+:::q CB-U4-MCQ042 | year=2024 | unit=4 | topic=4.1
+Map of tectonic plates near Japan: why Tokyo is subject to earthquakes.
+:::
+
+:::q CB-U4-MCQ043 | year=2024 | unit=4 | topic=4.1
+Map with ages of seamounts: pattern from Detroit to Hawaii.
 :::
 
 ## Section B — Free-Response Questions
@@ -634,6 +870,98 @@ Best example of the tragedy of the commons?
 
 :::q CB-U5-MCQ032 | year=2016 | unit=5 | topic=5.5
 Three bar graphs of irrigation water, money and return per liter: which statement is best?
+:::
+
+:::q CB-U5-MCQ033 | year=2024 | unit=5 | topic=5.2
+Which statement best describes a benefit of clear cutting.
+:::
+
+:::q CB-U5-MCQ034 | year=2024 | unit=5 | topic=5.4
+Compost study graphs of sediment loss and runoff: short-term effects of compost.
+:::
+
+:::q CB-U5-MCQ035 | year=2024 | unit=5 | topic=5.4
+Same study: average sediment loss with compost applied previously, years 4–6.
+:::
+
+:::q CB-U5-MCQ036 | year=2024 | unit=5 | topic=5.4
+Same study: identify the control group.
+:::
+
+:::q CB-U5-MCQ037 | year=2024 | unit=5 | topic=5.1
+Graphs of Mexico's freshwater per capita and population, 1950–2025: supported conclusion.
+:::
+
+:::q CB-U5-MCQ038 | year=2024 | unit=5 | topic=5.2
+Predicted water temperature and dissolved oxygen change after clear cutting along a stream.
+:::
+
+:::q CB-U5-MCQ039 | year=2024 | unit=5 | topic=5.5
+How salinization occurs.
+:::
+
+:::q CB-U5-MCQ040 | year=2024 | unit=5 | topic=5.15
+Farming technique used specifically to prevent soil erosion.
+:::
+
+:::q CB-U5-MCQ041 | year=2024 | unit=5 | topic=5.5
+Recycled wastewater versus surface water irrigation soil table: interpret results.
+:::
+
+:::q CB-U5-MCQ042 | year=2024 | unit=5 | topic=5.6
+Which situation most favors pesticide resistance in a greenhouse.
+:::
+
+:::q CB-U5-MCQ043 | year=2024 | unit=5 | topic=5.16
+Why aquaculture has increased in recent years.
+:::
+
+:::q CB-U5-MCQ044 | year=2024 | unit=5 | topic=5.10
+Which factor most likely explains flash flooding in urban streams.
+:::
+
+:::q CB-U5-MCQ045 | year=2024 | unit=5 | topic=5.3
+Graph of GE crop adoption: approximate percent change in HT corn acres from 2005 to 2007.
+:::
+
+:::q CB-U5-MCQ046 | year=2024 | unit=5 | topic=5.3
+Same graph: time period with greatest rate of increase in Bt corn.
+:::
+
+:::q CB-U5-MCQ047 | year=2024 | unit=5 | topic=5.3
+Advantage of genetically modified crops such as those in the graph.
+:::
+
+:::q CB-U5-MCQ048 | year=2024 | unit=5 | topic=5.9
+Disposing of anthracite coal mine tailings in a nearby lake: likely consequence.
+:::
+
+:::q CB-U5-MCQ049 | year=2024 | unit=5 | topic=5.10
+Coastal wetland loss table: which cause accounts for most freshwater acres lost.
+:::
+
+:::q CB-U5-MCQ050 | year=2024 | unit=5 | topic=5.10
+Same table: conclusion about wetland loss.
+:::
+
+:::q CB-U5-MCQ051 | year=2024 | unit=5 | topic=5.10
+Which method gives percent of 40 million wetland acres lost to urban development.
+:::
+
+:::q CB-U5-MCQ052 | year=2024 | unit=5 | topic=5.5
+Which diagram shows traditional furrow irrigation.
+:::
+
+:::q CB-U5-MCQ053 | year=2024 | unit=5 | topic=5.8
+Spearfishing removes herbivorous fish from a reef: effect.
+:::
+
+:::q CB-U5-MCQ054 | year=2024 | unit=5 | topic=5.7
+Difference between CAFOs and free-range farms.
+:::
+
+:::q CB-U5-MCQ055 | year=2024 | unit=5 | topic=5.8
+Reason for annual catch limits in US commercial fisheries.
 :::
 
 ## Section B — Free-Response Questions
@@ -850,6 +1178,78 @@ A major limitation of photovoltaic cells?
 Compare CO₂ released by a 30 mpg and a 20 mpg car over 60,000 miles at 20 lb CO₂ per gallon.
 :::
 
+:::q CB-U6-MCQ036 | year=2024 | unit=6 | topic=6.10
+Island formed by a hot spot on a divergent boundary: which energy source its geology supports.
+:::
+
+:::q CB-U6-MCQ037 | year=2024 | unit=6 | topic=6.7
+Why biomass such as wood is often used for fuel in developing countries.
+:::
+
+:::q CB-U6-MCQ038 | year=2024 | unit=6 | topic=6.5
+Disadvantage of hydraulic fracturing.
+:::
+
+:::q CB-U6-MCQ039 | year=2024 | unit=6 | topic=6.7
+Renewable source that still releases CO₂ and other greenhouse gases.
+:::
+
+:::q CB-U6-MCQ040 | year=2024 | unit=6 | topic=6.13
+Which expression gives annual electricity cost from monthly use and price per kWh.
+:::
+
+:::q CB-U6-MCQ041 | year=2024 | unit=6 | topic=6.10
+Diagram of heated groundwater driving a turbine: type of energy production.
+:::
+
+:::q CB-U6-MCQ042 | year=2024 | unit=6 | topic=6.10
+Same diagram: why water at location X is hot.
+:::
+
+:::q CB-U6-MCQ043 | year=2024 | unit=6 | topic=6.10
+Same diagram: how the hot water is used to generate electricity.
+:::
+
+:::q CB-U6-MCQ044 | year=2024 | unit=6 | topic=6.8
+Which is an advantage of generating electricity from solar energy.
+:::
+
+:::q CB-U6-MCQ045 | year=2024 | unit=6 | topic=6.8
+Diagram of a home photovoltaic system with lettered parts: which part converts sunlight to electricity.
+:::
+
+:::q CB-U6-MCQ046 | year=2024 | unit=6 | topic=6.8
+Same diagram: the part that converts DC from a battery into AC for appliances.
+:::
+
+:::q CB-U6-MCQ047 | year=2024 | unit=6 | topic=6.8
+Same diagram: the part allowing electricity use on cloudy days or at night.
+:::
+
+:::q CB-U6-MCQ048 | year=2024 | unit=6 | topic=6.12
+Greatest disadvantage of generating energy with wind turbines.
+:::
+
+:::q CB-U6-MCQ049 | year=2024 | unit=6 | topic=6.5
+Correct sequence of events to produce electricity in a fossil-fuel power plant.
+:::
+
+:::q CB-U6-MCQ050 | year=2024 | unit=6 | topic=6.8
+Most likely negative effect of a large solar panel farm in a desert.
+:::
+
+:::q CB-U6-MCQ051 | year=2024 | unit=6 | topic=6.1
+Which list contains only renewable energy sources.
+:::
+
+:::q CB-U6-MCQ052 | year=2024 | unit=6 | topic=6.6
+Fukushima nuclear incident: likely long-term health effect.
+:::
+
+:::q CB-U6-MCQ053 | year=2024 | unit=6 | topic=6.8
+Percent increase in solar generation from 25 to 90 million MWh.
+:::
+
 ## Section B — Free-Response Questions
 
 :::q CB-U6-FRQ001 | year=2002 | unit=6 | topic=6.13
@@ -924,11 +1324,15 @@ Hydraulic fracturing: well-water methane versus distance to a fracking well (gra
 Crude oil and gold-ore mining: marine impact, a pollutant from burning oil, a personal fuel-saving action and its health benefit, then grams of gold in a deposit, value from 1,000 t, and ore needed for 100,000 phones. *(Analyze an environmental problem doing calculations; 10 points)*
 :::
 
-:::q CB-U6-FRQ019 | year=2024 | unit=6 | topic=6.6
+:::q CB-U6-FRQ019 | year=2024 | unit=6 | topic=6.5
+Coal-fired plant diagram: smokestack pollutant, reduction method, process at X, coal delivery emissions, solar basics and latitude, then pesticide, IPM and fertilizer runoff solution. *(Free-response; 10 points)*
+:::
+
+:::q CB-U6-FRQ020 | year=2024 | unit=6 | topic=6.6
 Climate mitigation with nuclear and natural gas: nuclear fuel, cooling-water impact, nuclear kWh from an 18.9% share, air-quality gain from gas, tree planting benefit, homes powered by a gas deposit, and CO₂ saved by replacing coal. *(Analyze an environmental problem doing calculations; 10 points)*
 :::
 
-:::q CB-U6-FRQ020 | year=2025 | unit=6 | topic=6.5
+:::q CB-U6-FRQ021 | year=2025 | unit=6 | topic=6.5
 New coal-powered town: surface mining type, mining and downwind problems, a policy to cut coal impacts, pounds of coal for 11,000 homes, percent change in bird richness 7.5 to 6.0, and doubling year at 5.38% growth. *(Analyze an environmental problem doing calculations; 10 points)*
 :::
 
@@ -1062,6 +1466,62 @@ Which links a health effect to fine particulates correctly?
 
 :::q CB-U7-MCQ032 | year=2016 | unit=7 | topic=7.3
 Health effect associated with thermal inversion?
+:::
+
+:::q CB-U7-MCQ033 | year=2024 | unit=7 | topic=7.3
+Matching set: local reversal of normal temperature decrease with altitude.
+:::
+
+:::q CB-U7-MCQ034 | year=2024 | unit=7 | topic=7.5
+Indoor air pollutant that is the second leading cause of US lung cancer.
+:::
+
+:::q CB-U7-MCQ035 | year=2024 | unit=7 | topic=7.8
+Strategy to reduce noise pollution affecting western bluebirds in forests and farmland.
+:::
+
+:::q CB-U7-MCQ036 | year=2024 | unit=7 | topic=6.10
+Same diagram: pollutant most likely released to the atmosphere.
+:::
+
+:::q CB-U7-MCQ037 | year=2024 | unit=7 | topic=7.1
+Unit conversion: gallons of gasoline needed to release 200,000 tons of lead at 2 g lead per gallon.
+:::
+
+:::q CB-U7-MCQ038 | year=2024 | unit=7 | topic=7.1
+Calculating motorcycle particulate matter per year (250 miles/month, 0.021 g/mile).
+:::
+
+:::q CB-U7-MCQ039 | year=2024 | unit=7 | topic=7.6
+Graph of six pollutants 1980–2018: statement best supporting Clean Air Act effectiveness.
+:::
+
+:::q CB-U7-MCQ040 | year=2024 | unit=7 | topic=7.5
+Method to reduce indoor carbon monoxide from a gas stove.
+:::
+
+:::q CB-U7-MCQ041 | year=2024 | unit=7 | topic=7.6
+Same set: law that led to extensive federal and state limits on emissions from stationary and mobile sources.
+:::
+
+:::q CB-U7-MCQ042 | year=2024 | unit=7 | topic=7.8
+Which environmental problem noise pollution most likely causes for wildlife.
+:::
+
+:::q CB-U7-MCQ043 | year=2024 | unit=7 | topic=7.7
+Rain pH 4.2–4.4 downwind of which energy source.
+:::
+
+:::q CB-U7-MCQ044 | year=2024 | unit=7 | topic=7.2
+Graph of NO, NO₂ and O₃ by location: highest NO.
+:::
+
+:::q CB-U7-MCQ045 | year=2024 | unit=7 | topic=7.2
+Same graph: how O₃ differs between locations.
+:::
+
+:::q CB-U7-MCQ046 | year=2024 | unit=7 | topic=7.6
+Same graph: strategy to reduce NO₂.
 :::
 
 ## Section B — Free-Response Questions
@@ -1276,6 +1736,42 @@ How does eutrophication kill fish?
 
 :::q CB-U8-MCQ048 | year=2016 | unit=8 | topic=8.8
 Best description of bioaccumulation?
+:::
+
+:::q CB-U8-MCQ049 | year=2024 | unit=8 | topic=8.9
+Same article: assumption the author makes about plastic.
+:::
+
+:::q CB-U8-MCQ050 | year=2024 | unit=8 | topic=8.9
+Same article: best evidence that the study was the most thoroughly researched.
+:::
+
+:::q CB-U8-MCQ051 | year=2024 | unit=8 | topic=8.9
+Same article: most effective strategy to stop the patch from growing.
+:::
+
+:::q CB-U8-MCQ052 | year=2024 | unit=8 | topic=8.9
+Same article: average weight of one piece of plastic (88,000 tons, 1.8 trillion pieces).
+:::
+
+:::q CB-U8-MCQ053 | year=2024 | unit=8 | topic=8.12
+Table of toxicity ratings of four insecticides to four organisms: which is most toxic overall.
+:::
+
+:::q CB-U8-MCQ054 | year=2024 | unit=8 | topic=8.1
+Environmental problem from soil erosion affecting aquatic environments.
+:::
+
+:::q CB-U8-MCQ055 | year=2024 | unit=8 | topic=8.5
+Why increased nutrients can create dead zones in Chesapeake Bay.
+:::
+
+:::q CB-U8-MCQ056 | year=2024 | unit=8 | topic=8.5
+Farm change most likely to reduce nutrient input to a downstream wetland.
+:::
+
+:::q CB-U8-MCQ057 | year=2024 | unit=8 | topic=8.8
+Advantage to humans of eating fish from lower trophic levels.
 :::
 
 ## Section B — Free-Response Questions
@@ -1512,6 +2008,110 @@ Why will infectious diseases spread with climate change?
 Which global change is expected from more atmospheric CO₂?
 :::
 
+:::q CB-U9-MCQ039 | year=2024 | unit=9 | topic=9.10
+Article on the Great Pacific Garbage Patch: the author's claim about it.
+:::
+
+:::q CB-U9-MCQ040 | year=2024 | unit=9 | topic=9.6
+Experiment with algae in three tanks at 5, 15 and 25 °C: identify the independent variable.
+:::
+
+:::q CB-U9-MCQ041 | year=2024 | unit=9 | topic=9.8
+Best example of biological control of rabbits in Australia.
+:::
+
+:::q CB-U9-MCQ042 | year=2024 | unit=9 | topic=9.7
+Why ocean acidification harms corals.
+:::
+
+:::q CB-U9-MCQ043 | year=2024 | unit=9 | topic=9.1
+Diagram of UV splitting O₂ and ozone, ozone recombining: what process is shown.
+:::
+
+:::q CB-U9-MCQ044 | year=2024 | unit=9 | topic=9.1
+Which molecule interferes with the process in the ozone diagram.
+:::
+
+:::q CB-U9-MCQ045 | year=2024 | unit=9 | topic=9.9
+Cheetah vulnerable from lack of genetic diversity: which process caused its loss.
+:::
+
+:::q CB-U9-MCQ046 | year=2024 | unit=9 | topic=9.5
+Montana trout article: author's primary claim.
+:::
+
+:::q CB-U9-MCQ047 | year=2024 | unit=9 | topic=9.5
+Same article: evidence used to conclude warming could greatly affect trout fishing.
+:::
+
+:::q CB-U9-MCQ048 | year=2024 | unit=9 | topic=9.5
+Which response most likely increases survival in northern hemisphere as temperatures rise.
+:::
+
+:::q CB-U9-MCQ049 | year=2024 | unit=9 | topic=9.8
+Which species would most likely become invasive after introduction.
+:::
+
+:::q CB-U9-MCQ050 | year=2024 | unit=9 | topic=9.8
+Best strategy to prevent spread of zebra mussels to uninfected water.
+:::
+
+:::q CB-U9-MCQ051 | year=2024 | unit=9 | topic=9.4
+Impact of Arctic tundra changes on global climate.
+:::
+
+:::q CB-U9-MCQ052 | year=2024 | unit=9 | topic=9.2
+Matching set of laws and agreements: the 1987 global agreement phasing out ozone-depleting substances such as CFCs.
+:::
+
+:::q CB-U9-MCQ053 | year=2024 | unit=9 | topic=9.9
+Same set: law protecting essential habitat and banning import and export of listed plants and animals.
+:::
+
+:::q CB-U9-MCQ054 | year=2024 | unit=9 | topic=9.1
+Which substance is most responsible for reducing UV-B radiation reaching Earth's surface.
+:::
+
+:::q CB-U9-MCQ055 | year=2024 | unit=9 | topic=9.8
+Invasive cactus moths: which adaptation most makes control almost impossible once infested.
+:::
+
+:::q CB-U9-MCQ056 | year=2024 | unit=9 | topic=9.9
+Table of threats to endangered amphibians: which strategy reduces threat to the greatest number of species.
+:::
+
+:::q CB-U9-MCQ057 | year=2024 | unit=9 | topic=9.1
+Which action most likely leads to stratospheric ozone depletion.
+:::
+
+:::q CB-U9-MCQ058 | year=2024 | unit=9 | topic=9.5
+Same table: best explanation for saltwater wetland changes.
+:::
+
+:::q CB-U9-MCQ059 | year=2024 | unit=9 | topic=9.5
+Graph of northward winter range shifts of 305 bird species: best hypothesis.
+:::
+
+:::q CB-U9-MCQ060 | year=2024 | unit=9 | topic=9.8
+Kudzu: economic advantage of this invasive vine.
+:::
+
+:::q CB-U9-MCQ061 | year=2024 | unit=9 | topic=9.9
+Stacked graph of endangered vertebrate classes in 2021: which class has the most.
+:::
+
+:::q CB-U9-MCQ062 | year=2024 | unit=9 | topic=9.9
+Which approach gives percent change in endangered species from 2007 to 2021.
+:::
+
+:::q CB-U9-MCQ063 | year=2024 | unit=9 | topic=9.5
+West Nile virus concern at higher elevations in Colorado.
+:::
+
+:::q CB-U9-MCQ064 | year=2024 | unit=9 | topic=9.8
+Robotic bass to limit invasive mosquito fish: advantage.
+:::
+
 ## Section B — Free-Response Questions
 
 :::q CB-U9-FRQ001 | year=2006 | unit=9 | topic=9.5
@@ -1582,10 +2182,14 @@ Lizard counts on Pacific islands with and without mongooses (graph by habitat): 
 Spread of Asian carp from the Mississippi basin toward the Great Lakes (map): a water body invaded, distribution change, ecosystem-service impact, control measure and extra benefit, primary consumer, arrow meaning, food-chain effects, blue-pike tragedy of the commons, and aquaculture drawbacks. *(Analyze and interpret quantitative data; 10 points)*
 :::
 
-:::q CB-U9-FRQ018 | year=2024 | unit=9 | topic=9.10
+:::q CB-U9-FRQ018 | year=2024 | unit=9 | topic=9.7
+Forest cultural service and water filtration, urbanization effects, oil-degrading bacteria in tanks at three temperatures (dependent variable, hypothesis, replicates, aeration), then pH versus CO₂ graph 1850 to 2100 and coral reefs. *(Design an investigation; 10 points)*
+:::
+
+:::q CB-U9-FRQ019 | year=2024 | unit=9 | topic=9.10
 Land-use change since 1700 (graph): year of most forest, grassland versus grazing, overgrazing problem, forest change and CO₂, water problems of cities and responses, why bobcats vanished from farmland, and risks and improvements for small reintroduced populations. *(Analyze and interpret quantitative data; 10 points)*
 :::
 
-:::q CB-U9-FRQ019 | year=2025 | unit=9 | topic=9.5
+:::q CB-U9-FRQ020 | year=2025 | unit=9 | topic=9.5
 Common Tern pairs versus sea-level rise (graph) and wading-bird species at four sites (table): reading and trend, refuting a hypothesis, sea-level cause, hypothesis, variable, PCB runoff, wetland service, sediment and urbanization effects. *(Design an investigation; 10 points)*
 :::

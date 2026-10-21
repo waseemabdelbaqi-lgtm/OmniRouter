@@ -22,7 +22,14 @@ def clean(t):
     return re.sub(r"\n{3,}","\n\n",t)
 def main():
     items=load(); items,dups=dedupe(items)
-    inc=[x for x in items if x.get("in_2026_scope",True) and x.get("year") and x.get("unit") in UNITS]
+    LOWCONF={("Intl",n) for n in (12,20,32,50,54,60,67,74)}|{("US",n) for n in (12,55,60)}
+    def bad(x):
+        if "dup-of-compilation" in x.get("notes",""): return True
+        if x["_src"]=="2024.json" and x["type"]=="MCQ":
+            m=re.search(r"Q(\d+)\s*$",x["orig_ref"])
+            if m and (x["exam"],int(m.group(1))) in LOWCONF: return True
+        return False
+    inc=[x for x in items if x.get("in_2026_scope",True) and x.get("year") and x.get("unit") in UNITS and not bad(x)]
     exc=[x for x in items if x not in inc]
     # stable order: unit, type, year, source order
     order=lambda x:(x["year"],x["_src"],x["_i"])
@@ -62,6 +69,8 @@ def main():
                 body=clean(x["solution"])
                 if typ=="MCQ" and x.get("key") not in (None,"n/a"):
                     body=f"**Official key: {x['key']}.** "+body
+                elif typ=="MCQ" and x.get("_src")=="2024.json":
+                    body="*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* "+body
                 smd.append(f":::sol {x['_id']} | label={label} | year={x['year']}\n{body}\n:::\n")
     os.makedirs(f"{R}/content/book4/gen",exist_ok=True)
     open(f"{R}/content/book4/gen/Part1_questions.md","w").write("\n".join(qmd))

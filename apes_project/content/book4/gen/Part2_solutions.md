@@ -108,6 +108,38 @@ Solutions are written by Success4Sure Academy. For multiple-choice items, the of
 **Official key: D.** Net primary productivity rises with warmth and abundant rainfall, as in rain forest compared with northern conifer forest. Longitude is a position on Earth that does not itself control plant growth.
 :::
 
+:::sol CB-U1-MCQ026 | label=Question 26 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Pioneer species (lichens, mosses, hardy weeds) are the first colonizers of bare or disturbed ground. Their roots and decaying tissue build and hold soil so later species can establish. Keystone, indicator and invasive species do not play this early-succession role.
+:::
+
+:::sol CB-U1-MCQ027 | label=Question 27 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Temperate seasonal (deciduous) forest occurs at mid-latitudes with four seasons, such as the eastern United States where location A lies. The Sahara, the equatorial area and the high northern location fit desert, rainforest and boreal/tundra instead.
+:::
+
+:::sol CB-U1-MCQ028 | label=Question 28 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Warm temperatures, abundant rain and year-round sunlight make tropical rainforest near the equator (location D) the most productive biome. Desert and cold northern areas have far lower net primary productivity.
+:::
+
+:::sol CB-U1-MCQ029 | label=Question 29 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Wolves ate deer, so grazing pressure on plants fell and vegetation recovered, a trophic cascade. Wolves are carnivores, agriculture did not cause it, and wolves do not start primary succession.
+:::
+
+:::sol CB-U1-MCQ030 | label=Question 30 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Only about 10 percent of energy passes to the next trophic level, so the predator level can support far fewer individuals. Size, specialist/generalist status and invasiveness do not explain the ratio.
+:::
+
+:::sol CB-U1-MCQ031 | label=Question 31 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Nitrogen fixation converts atmospheric N₂ into ammonium that organisms can use, which is the arrow running from N₂ to NH₄⁺ (A). The arrows between ammonium and organic matter are assimilation and ammonification.
+:::
+
+:::sol CB-U1-MCQ032 | label=Question 32 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** The dependent variable is the response measured, here caterpillar survival rate. Air temperature is manipulated, and region and coloration are not the outcome of interest.
+:::
+
+:::sol CB-U1-MCQ033 | label=Question 33 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** After wolves were reintroduced, elk declined and aspen height increased, a trophic cascade.
+:::
+
 ### Section B — FRQ Solutions
 
 :::sol CB-U1-FRQ001 | label=Question 1 | year=2003
@@ -210,6 +242,54 @@ Solutions are written by Success4Sure Academy. For multiple-choice items, the of
 
 :::sol CB-U2-MCQ013 | label=Question 13 | year=2016
 **Official key: A.** For ranchers, an economic benefit means more forage or income. Higher net primary productivity in diverse pastures supports more livestock, whereas lower infiltration or fewer birds are not benefits.
+:::
+
+:::sol CB-U2-MCQ014 | label=Question 14 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** An indicator species is sensitive to specific conditions (for example oxygen, pH or pollution), so its presence or decline reveals ecosystem change. The other categories describe disproportionate influence, early colonization or harmful spread, not signaling.
+:::
+
+:::sol CB-U2-MCQ015 | label=Question 15 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** A keystone species affects its community far more than its abundance would predict; losing pollinators such as bumblebees changes plant reproduction and ripples through the community. Indicator, pioneer and invasive categories do not capture this outsized role.
+:::
+
+:::sol CB-U2-MCQ016 | label=Question 16 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Wetlands buffer storms and filter water; requiring new development to stay farther from shore keeps wetlands intact. Filling wetlands, adding fishing pressure or building upstream dams would degrade or starve them.
+:::
+
+:::sol CB-U2-MCQ017 | label=Question 17 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Selective breeding narrows genetic diversity in managed colonies, leaving them more vulnerable to sudden change, while wild colonies retain diversity. The other choices misstate poaching, farmland or invasive competition.
+:::
+
+:::sol CB-U2-MCQ018 | label=Question 18 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Recreation for anglers is a cultural service. Resilience, water supply and flood regulation are other categories.
+:::
+
+:::sol CB-U2-MCQ019 | label=Question 19 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Biodiversity is highest in tropical rainforest, then temperate forest, then grassland, and lowest in tundra, so that order is correct. Other orders place a low-diversity biome first.
+:::
+
+:::sol CB-U2-MCQ020 | label=Question 20 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** The graph shows roughly 1.2 million in 1997 and about 29,000 in 2019. The decline is (1,200,000 − 29,000) ÷ 1,200,000 ≈ 98%.
+:::
+
+:::sol CB-U2-MCQ021 | label=Question 21 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** The article blames urban sprawl and the spraying and plowing associated with agriculture. Invasive wasps and overharvesting of milkweed are not mentioned.
+:::
+
+:::sol CB-U2-MCQ022 | label=Question 22 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** The article recommends protecting overwintering groves and growing milkweed and nectar plants along the migration route, i.e. preserving habitat and food sources. Invasive control, fossil-fuel reduction and captive breeding are not proposed.
+:::
+
+:::sol CB-U2-MCQ023 | label=Question 23 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Cultural services are the nonmaterial benefits such as recreation and beauty. Provisioning supplies goods, regulating controls processes, and supporting sustains others.
+:::
+
+:::sol CB-U2-MCQ024 | label=Question 24 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** A freshwater invertebrate that declines when dissolved oxygen falls signals environmental change. Beaver, moss and a mouse illustrate keystone, pioneer and competition.
+:::
+
+:::sol CB-U2-MCQ025 | label=Question 25 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Higher genetic diversity gives the Antillean population more variation to adapt to threats. The other claims go beyond the data.
 :::
 
 ### Section B — FRQ Solutions
@@ -434,6 +514,102 @@ Solutions are written by Success4Sure Academy. For multiple-choice items, the of
 **Official key: B.** Use the rule of 70: doubling time = 70 ÷ growth rate (%). At 2 %, 35 years. Check others: 1 % gives 70 years, 3.5 % gives 20 years, 5 % gives 14 years.
 :::
 
+:::sol CB-U3-MCQ032 | label=Question 32 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** The dashed line at 1,000 individuals marks K, the population the environment can sustain; point A sits on that line. Points B (rapid growth), C (overshoot peak) and D (dieback trough) lie off it.
+:::
+
+:::sol CB-U3-MCQ033 | label=Question 33 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Early on the curve rises steeply as resources are plentiful and density-dependent limits are weak, which is the exponential phase at point B. The population is still well below K there.
+:::
+
+:::sol CB-U3-MCQ034 | label=Question 34 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** After overshooting K at the peak (C), resources are depleted and numbers crash to the low trough, point D. A dieback ends at that minimum before recovery toward K.
+:::
+
+:::sol CB-U3-MCQ035 | label=Question 35 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** After 1985 the deer fell and then leveled near 700, so food for wolves became scarce and the wolf population fell from 25 and stayed low. Carrying capacity was not simply 'reached with no change', and wolves did not go extinct.
+:::
+
+:::sol CB-U3-MCQ036 | label=Question 36 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Reading the deer column, the peak is 2,200 in 1982. Later years are lower.
+:::
+
+:::sol CB-U3-MCQ037 | label=Question 37 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Stage 3 begins when birth rates fall, and birth control access (with education and women's opportunities) lowers fertility. Vaccines, sanitation and food mostly lowered death rates, which drove stage 2.
+:::
+
+:::sol CB-U3-MCQ038 | label=Question 38 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** A Type II curve declines linearly, meaning the chance of dying is about the same at every age. Type III would show highest early mortality and Type I highest late mortality.
+:::
+
+:::sol CB-U3-MCQ039 | label=Question 39 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Countries moving through the demographic transition have lower fertility and longer life, so populations age. The global population is not yet shrinking.
+:::
+
+:::sol CB-U3-MCQ040 | label=Question 40 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Percent increase = (new − original) ÷ original × 100% = (119.94 − 57.20)/57.20 × 100% ≈ 110%. Dividing by the new value or adding is wrong.
+:::
+
+:::sol CB-U3-MCQ041 | label=Question 41 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** A roughly rectangular (columnar) structure with similar-sized young and middle cohorts indicates a stable population at replacement. The wide-base is growth and the narrow base is decline.
+:::
+
+:::sol CB-U3-MCQ042 | label=Question 42 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Predation reducing prey, then fewer wolves, then prey recovering is a negative feedback loop. It is not mutualism, the 10% rule or overshoot.
+:::
+
+:::sol CB-U3-MCQ043 | label=Question 43 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Natural increase is birth minus death: Bermuda 0.5 per 1,000, far smaller than Trinidad 4.1, Jamaica 8.3 and Haiti 15.8. Bermuda is most stable.
+:::
+
+:::sol CB-U3-MCQ044 | label=Question 44 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** 15.91 − 7.59 = 8.32 per 1,000 people.
+:::
+
+:::sol CB-U3-MCQ045 | label=Question 45 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Births exceeding deaths plus immigration exceeding emigration both add people, giving the largest growth.
+:::
+
+:::sol CB-U3-MCQ046 | label=Question 46 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** The demographic transition model tracks how birth and death rates change in stages as a country industrializes and develops. Carrying capacity and fertility rate are single values, and a density-independent factor is a limit on populations, so none of them illustrate a multi-stage change in both rates.
+:::
+
+:::sol CB-U3-MCQ047 | label=Question 47 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Carrying capacity is the largest population an environment can support over time given food, water, space and other resources. Fertility rate and the transition model describe births or stages, not a limit set by resources.
+:::
+
+:::sol CB-U3-MCQ048 | label=Question 48 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Total fertility rate is the average number of children per woman; at about 2.1 (replacement level) each generation replaces itself, so numbers stay roughly constant apart from migration. Carrying capacity is a resource limit, not a birth measure.
+:::
+
+:::sol CB-U3-MCQ049 | label=Question 49 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Exceeding carrying capacity means more individuals than the resources can support, so food, water and space run short and the habitat becomes unsuitable. That is the defining consequence of overshoot.
+:::
+
+:::sol CB-U3-MCQ050 | label=Question 50 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Ages 40–74 cover seven wide age bands, more people than ages 0–19, 20–39 or 75 and higher. The diagram bulges at middle age.
+:::
+
+:::sol CB-U3-MCQ051 | label=Question 51 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** A narrow base relative to the older cohorts indicates births below replacement level. Option B states that conclusion, though its reasoning is loosely worded.
+:::
+
+:::sol CB-U3-MCQ052 | label=Question 52 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** A large older population raises demand for retirement homes and healthcare. Childcare, new-workforce jobs and family planning relate to young populations.
+:::
+
+:::sol CB-U3-MCQ053 | label=Question 53 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** After overshoot, resources are depleted and density-dependent factors such as starvation and disease raise mortality, causing a dieback. Growth does not simply continue.
+:::
+
+:::sol CB-U3-MCQ054 | label=Question 54 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** A large young cohort means rapid growth and rising consumption, producing more waste. Elderly-population and shrinking-population effects belong to other shapes.
+:::
+
+:::sol CB-U3-MCQ055 | label=Question 55 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Doubling time ≈ 70 ÷ growth rate: Afghanistan 29 yr, Brazil 87 yr, Indonesia 70 yr, Uganda 70 ÷ 3.3 ≈ 21 yr.
+:::
+
 ### Section B — FRQ Solutions
 
 :::sol CB-U3-FRQ001 | label=Question 1 | year=2003
@@ -617,6 +793,66 @@ Solutions are written by Success4Sure Academy. For multiple-choice items, the of
 
 :::sol CB-U4-MCQ028 | label=Question 28 | year=2016
 **Official key: E.** At the December solstice, the Sun is overhead near the Tropic of Capricorn, so the polar region of the south is tilted toward the Sun and receives continuous daylight south of the Antarctic Circle. Point E lies on that circle.
+:::
+
+:::sol CB-U4-MCQ029 | label=Question 29 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** El Niño is the warm phase of ENSO, a recurring shift in Pacific surface temperatures that changes weather patterns worldwide. Hadley cells, thermal inversions and rain shadows are fixed or local features and are not periodic Pacific phenomena.
+:::
+
+:::sol CB-U4-MCQ030 | label=Question 30 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Air rises over the windward side, cools and drops its moisture, then descends dry on the leeward side. This creates a rain shadow and desert-like land downwind.
+:::
+
+:::sol CB-U4-MCQ031 | label=Question 31 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Divergent boundaries have plates moving apart with a rift where new crust forms; diagram D shows plates moving in opposite directions with a gap. The others show a volcano arc, transform sliding or subduction.
+:::
+
+:::sol CB-U4-MCQ032 | label=Question 32 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Reading the standard-farming line at 60% gives roughly 1,000 years.
+:::
+
+:::sol CB-U4-MCQ033 | label=Question 33 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** West of the mountains gets much more rain than the east year-round, consistent with a rain shadow on the east side.
+:::
+
+:::sol CB-U4-MCQ034 | label=Question 34 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Seasons occur because of the 23.5° tilt. With no tilt, sunlight at each latitude would be the same all year, so there would be no seasonal temperature variation.
+:::
+
+:::sol CB-U4-MCQ035 | label=Question 35 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** On the soil triangle this mix is clay loam, which has moderately low water intake, high water retention and medium-to-high erosion susceptibility. Option B matches intake and retention.
+:::
+
+:::sol CB-U4-MCQ036 | label=Question 36 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Sand has high drainage and very high intake, so adding it improves drainage. Silt and clay hold water.
+:::
+
+:::sol CB-U4-MCQ037 | label=Question 37 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Sandy loam combines sand, silt and clay with moderately high drainage. Sand is not mixed and clay or sandy clay loam drain slowly.
+:::
+
+:::sol CB-U4-MCQ038 | label=Question 38 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** The article's takeaway is that mapping the four-leaf pattern tells where low-frequency shaking, and thus building damage, is likely greatest.
+:::
+
+:::sol CB-U4-MCQ039 | label=Question 39 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Data showing low-frequency waves spread in four directions but barely register elsewhere is the direct evidence.
+:::
+
+:::sol CB-U4-MCQ040 | label=Question 40 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Because buildings are sensitive to low frequencies, planners would avoid placing large buildings near fault zones in the clover pattern.
+:::
+
+:::sol CB-U4-MCQ041 | label=Question 41 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** The stratopause is where temperature peaks around 50 km, marked by line C.
+:::
+
+:::sol CB-U4-MCQ042 | label=Question 42 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Tokyo lies near the intersection of several converging plates, with subduction causing earthquakes.
+:::
+
+:::sol CB-U4-MCQ043 | label=Question 43 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** A stationary hot spot with plate motion produces the age pattern.
 :::
 
 ### Section B — FRQ Solutions
@@ -852,6 +1088,98 @@ Solutions are written by Success4Sure Academy. For multiple-choice items, the of
 
 :::sol CB-U5-MCQ032 | label=Question 32 | year=2016
 **Official key: B.** From the third graph, vegetables return $1,800 per million liters compared with $300 for livestock and pasture. Livestock uses the most water and earns the most money in total but yields the lowest return per liter.
+:::
+
+:::sol CB-U5-MCQ033 | label=Question 33 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Clear cutting removes all trees at once, which frees land for crops or other uses and is the benefit listed. The other statements are wrong: trees emit VOCs that do not set stratospheric ozone, clear cutting releases carbon and often lowers fertility, and it is not a sustainable annual harvest.
+:::
+
+:::sol CB-U5-MCQ034 | label=Question 34 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Years 1–3 show about 200 lb/acre sediment loss with compost versus about 620 without, and about 1.4 versus 3.4 acre-inches of runoff. Compost therefore decreased both.
+:::
+
+:::sol CB-U5-MCQ035 | label=Question 35 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** The bar for compost applied previously reads about 300 lb/acre.
+:::
+
+:::sol CB-U5-MCQ036 | label=Question 36 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** A control receives no treatment, so the fields with no compost are the control. The measured variables are not groups.
+:::
+
+:::sol CB-U5-MCQ037 | label=Question 37 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Per-capita water falls from about 13,000 to about 2,500 m³ as population rises from about 30 to about 150 million, so availability per person decreased as population grew. The graphs do not address deforestation, quality or recreation.
+:::
+
+:::sol CB-U5-MCQ038 | label=Question 38 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Losing shade raises water temperature, and warmer water holds less dissolved oxygen, so temperature increases and DO decreases.
+:::
+
+:::sol CB-U5-MCQ039 | label=Question 39 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** High evaporation leaves dissolved salts in soil that build up, especially with irrigation. Fertilizer nitrates, drip systems and snowmelt are not the usual explanation.
+:::
+
+:::sol CB-U5-MCQ040 | label=Question 40 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** No-till agriculture leaves residue and roots in place, holding soil. Pesticides, slash-and-burn and flood irrigation do not target erosion.
+:::
+
+:::sol CB-U5-MCQ041 | label=Question 41 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** RWW soils have higher salinity (2,752 versus 960 ppm) and sodium, which harms many plants, so the results support the hypothesis. Equal pH and organic matter do not refute it.
+:::
+
+:::sol CB-U5-MCQ042 | label=Question 42 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** If a few pests survive an application and reproduce, resistant individuals pass on genes, selecting for resistance. Rotating pesticides and predators slow it.
+:::
+
+:::sol CB-U5-MCQ043 | label=Question 43 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Demand for fish rose while wild catches fell, so farmed fish fill the gap. Aquaculture does not clearly improve water quality or reduce disease.
+:::
+
+:::sol CB-U5-MCQ044 | label=Question 44 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Pavement, roofs and other impervious surfaces stop infiltration and send stormwater rapidly into streams. Increased infiltration would reduce flooding.
+:::
+
+:::sol CB-U5-MCQ045 | label=Question 45 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** HT corn rose from about 25% to about 50%: (50 − 25) ÷ 25 × 100 = 100%.
+:::
+
+:::sol CB-U5-MCQ046 | label=Question 46 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** The Bt corn line rises most steeply from 2006 to 2007, the steepest slope among the options.
+:::
+
+:::sol CB-U5-MCQ047 | label=Question 47 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Bt crops are engineered to produce a protein toxic to certain insect pests, reducing pest damage. The other claims about herbicide use, diversity and fossil fuels are not supported.
+:::
+
+:::sol CB-U5-MCQ048 | label=Question 48 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Tailings can contain heavy metals that leach into the water and contaminate the lake. Radioactive products, hypoxia and pH above 7 are not the typical outcome.
+:::
+
+:::sol CB-U5-MCQ049 | label=Question 49 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** The largest freshwater entry is tree farming at 180,000 acres, larger than urban development (100,000) or the other entries.
+:::
+
+:::sol CB-U5-MCQ050 | label=Question 50 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Freshwater losses total roughly 340,000 acres versus about 104,000 for saltwater, so freshwater wetlands lost more total acres.
+:::
+
+:::sol CB-U5-MCQ051 | label=Question 51 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Percent lost = (urban loss) ÷ (total) × 100, where urban loss = 100,000 + 3,000 acres, giving 103,000 ÷ 40,000,000 × 100 ≈ 0.26%.
+:::
+
+:::sol CB-U5-MCQ052 | label=Question 52 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Furrow irrigation sends water along channels between ridges planted with crops, shown in diagram B.
+:::
+
+:::sol CB-U5-MCQ053 | label=Question 53 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Fewer herbivores allow algae to overgrow and smother coral, reducing diversity.
+:::
+
+:::sol CB-U5-MCQ054 | label=Question 54 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** CAFO meat is generally cheaper because of high density and low land use. The other statements reverse the facts.
+:::
+
+:::sol CB-U5-MCQ055 | label=Question 55 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Limits avoid exceeding maximum sustainable yield so the stock persists.
 :::
 
 ### Section B — FRQ Solutions
@@ -1259,6 +1587,78 @@ Volume of gold = 1,400 m³ × (2 × 10⁻⁶) + 1,200 m³ × (1 × 10⁻⁶) = 2
 **Official key: C.** Fuel use scales with distance divided by efficiency, and CO₂ scales with gallons burned. The more efficient car saves 1,000 gallons, which is 20,000 lb of CO₂ at 20 lb/gal.
 :::
 
+:::sol CB-U6-MCQ036 | label=Question 36 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Hot-spot and rift volcanism heat groundwater near the surface, supporting geothermal energy. Solar, wind and nuclear do not depend on local geology in this way.
+:::
+
+:::sol CB-U6-MCQ037 | label=Question 37 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Wood is widely available and cheap to gather, so it is the practical fuel where other sources are costly. It is not low-impact, does not convert to anthracite, and combustion does release greenhouse gases.
+:::
+
+:::sol CB-U6-MCQ038 | label=Question 38 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Fracking fluids can contaminate groundwater and the process releases VOCs. Mining waste called slag and overburden belong to other extraction methods, and waste heat does not help soil organisms.
+:::
+
+:::sol CB-U6-MCQ039 | label=Question 39 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Biomass is renewable but combustion releases CO₂ (and some other gases). Passive solar and hydropower have no combustion emissions, and nuclear is not classed as renewable.
+:::
+
+:::sol CB-U6-MCQ040 | label=Question 40 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Annual cost = monthly kWh × 12 months × price per kWh, with units kWh/month × month/year × $/kWh = $/year. Dividing by price or by days gives the wrong units.
+:::
+
+:::sol CB-U6-MCQ041 | label=Question 41 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Hot water from deep wells heated by magma and returned through an injection well is geothermal energy.
+:::
+
+:::sol CB-U6-MCQ042 | label=Question 42 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Groundwater is heated by near-surface magma or hot rock below it. Pressure release does not heat water and the injection water is cooler.
+:::
+
+:::sol CB-U6-MCQ043 | label=Question 43 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Hot water is brought up, converted to steam, and the steam turns a turbine connected to a generator. There is no waterwheel or fuel cell.
+:::
+
+:::sol CB-U6-MCQ044 | label=Question 44 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Photovoltaic cells produce electricity with minimal greenhouse gas release during operation. Other options are false or overstated, since solar farms can disrupt desert habitat and costs are not clearly lower.
+:::
+
+:::sol CB-U6-MCQ045 | label=Question 45 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** The roof panels (A) contain photovoltaic cells that convert light directly into direct-current electricity. The battery, inverter and outlet handle storage, conversion to AC and use.
+:::
+
+:::sol CB-U6-MCQ046 | label=Question 46 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** An inverter changes direct current into alternating current, which household appliances use. Panels generate DC and the battery only stores it.
+:::
+
+:::sol CB-U6-MCQ047 | label=Question 47 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** The storage battery holds energy produced when sunlight is available so it can be drawn on later. The panels produce nothing at night and the inverter and outlet do not store energy.
+:::
+
+:::sol CB-U6-MCQ048 | label=Question 48 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Wind power is intermittent, so no energy is generated when the wind does not blow. The other options describe minor or incorrect effects.
+:::
+
+:::sol CB-U6-MCQ049 | label=Question 49 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Fuel heats water to steam, steam turns a turbine, and the turbine drives a generator. The other options reverse the roles or omit the turbine.
+:::
+
+:::sol CB-U6-MCQ050 | label=Question 50 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Solar farms can degrade large tracts of desert habitat and carry high costs. Sun is renewable.
+:::
+
+:::sol CB-U6-MCQ051 | label=Question 51 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Hydroelectric, solar and geothermal are renewable. Oil, coal, natural gas and uranium are not.
+:::
+
+:::sol CB-U6-MCQ052 | label=Question 52 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Radioactive iodine concentrates in the thyroid, so thyroid cancer cases rise. Mesothelioma, malaria and ozone-related lung effects are unrelated.
+:::
+
+:::sol CB-U6-MCQ053 | label=Question 53 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** (90 − 25) ÷ 25 × 100 = 260%.
+:::
+
 ### Section B — FRQ Solutions
 
 :::sol CB-U6-FRQ001 | label=Question 1 | year=2002
@@ -1510,6 +1910,19 @@ Volume of gold = 1,400 m³ × (2 × 10⁻⁶) + 1,200 m³ × (1 × 10⁻⁶) = 2
 :::
 
 :::sol CB-U6-FRQ019 | label=Question 19 | year=2024
+(a) Pollutants: SO₂, NOx, particulates, mercury or CO. *(1 pt)*
+(b) Install scrubbers or use low-sulfur coal to reduce SO₂. *(1 pt)*
+(c) At X, steam turns a turbine (water is boiled to steam, or steam condenses). *(1 pt)*
+(d) Trains and trucks burn fossil fuels, emitting CO₂. *(1 pt)*
+(e) Photovoltaic cells convert sunlight directly to electricity, or mirrors concentrate heat to make steam. *(1 pt)*
+(f) At 60° latitude sunlight strikes at a lower angle and is spread over more area with longer atmospheric path, so output is lower. *(1 pt)*
+(g) Pesticides can harm nontarget species or cause resistance. *(1 pt)*
+(h) IPM practice: crop rotation, natural predators, resistant varieties or traps. *(1 pt)*
+(i) Solution: buffer strips, precise application timing or cover crops. *(1 pt)*
+(j) Justify: buffer strips also provide habitat and trap sediment. *(1 pt)*
+:::
+
+:::sol CB-U6-FRQ020 | label=Question 20 | year=2024
 **(a)** Uranium (U-235) or plutonium. *(1)*
 
 **(b)** Cooling discharge causes thermal pollution, lowering dissolved oxygen and exceeding tolerance; intakes kill organisms; evaporation reduces flow. *(1)*
@@ -1525,7 +1938,7 @@ Volume of gold = 1,400 m³ × (2 × 10⁻⁶) + 1,200 m³ × (1 × 10⁻⁶) = 2
 **(g)** Savings per kWh = 1.0 − 0.42 = 0.58 kg CO₂; × 8.99 × 10¹¹ kWh = 5.2 × 10¹¹ kg CO₂ (about 521 billion kg). *(2)*
 :::
 
-:::sol CB-U6-FRQ020 | label=Question 20 | year=2025
+:::sol CB-U6-FRQ021 | label=Question 21 | year=2025
 **(A)** Strip mining, open-pit, or mountaintop removal. *(1)*
 **(B)** Habitat loss, erosion and sedimentation, acid mine drainage or dust. *(1)*
 **(C)** Downwind exposure to SO₂ and NOₓ (acid rain), particulates (respiratory disease), mercury or smog. *(1)*
@@ -1665,6 +2078,62 @@ Volume of gold = 1,400 m³ × (2 × 10⁻⁶) + 1,200 m³ × (1 × 10⁻⁶) = 2
 
 :::sol CB-U7-MCQ032 | label=Question 32 | year=2016
 **Official key: A.** During inversions, pollutants including fine particulates are trapped near the surface, and breathing them irritates the respiratory system. Ozone, mold, CO₂ and pressure are not the main inversion problems.
+:::
+
+:::sol CB-U7-MCQ033 | label=Question 33 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** A thermal inversion is a layer of warm air trapping cooler air below it, reversing the usual cooling with height. It traps pollutants near the ground.
+:::
+
+:::sol CB-U7-MCQ034 | label=Question 34 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Radon, a radioactive gas seeping from soil and rock into buildings, is the second leading cause of lung cancer after smoking and acts through chronic exposure. CFCs, mercury and carbon monoxide are not lung-cancer causes in this way.
+:::
+
+:::sol CB-U7-MCQ035 | label=Question 35 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Limiting vehicle traffic in parks and preserves cuts noise where the birds live. Electric urban buses and efficiency do not target habitats, and swapping solar for wind does not reduce noise.
+:::
+
+:::sol CB-U7-MCQ036 | label=Question 36 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Geothermal fluids commonly carry hydrogen sulfide gas. Uranium-235 is nuclear fuel, NO comes from combustion and mercury is not typical here.
+:::
+
+:::sol CB-U7-MCQ037 | label=Question 37 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** 200,000 tons × 900,000 g/ton = 1.8 × 10¹¹ g; ÷ 2 g/gal = 9.0 × 10¹⁰ gallons.
+:::
+
+:::sol CB-U7-MCQ038 | label=Question 38 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Multiply 0.021 g/mile × 250 miles/month × 12 months/year ≈ 63 g/year. Other options have inverted fractions.
+:::
+
+:::sol CB-U7-MCQ039 | label=Question 39 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** The graph shows all six pollutants lower than their starting index, supporting regulation effectiveness. PM2.5 did exist before 2000 and the other options make claims the graph does not show.
+:::
+
+:::sol CB-U7-MCQ040 | label=Question 40 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** CO comes from incomplete combustion at the stove, so replacing it with an electric stove removes the source. Catalytic converters, glass cookware or smoke detectors do not stop CO.
+:::
+
+:::sol CB-U7-MCQ041 | label=Question 41 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** The Clean Air Act set national air-quality standards and required regulation of emissions from power plants, factories and vehicles. The Montreal Protocol and Kyoto Protocol are international agreements.
+:::
+
+:::sol CB-U7-MCQ042 | label=Question 42 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Noise causes animals to avoid noisy areas, altering migration and habitat use. The other options attribute unrelated effects such as litter size or vegetation loss.
+:::
+
+:::sol CB-U7-MCQ043 | label=Question 43 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Acid rain forms from SO₂ and NOx, and coal-fired plants are a major source. Nuclear, wind and natural gas generation emit little or none.
+:::
+
+:::sol CB-U7-MCQ044 | label=Question 44 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Highways show the tallest NO bar.
+:::
+
+:::sol CB-U7-MCQ045 | label=Question 45 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** O₃ is higher in areas with less traffic.
+:::
+
+:::sol CB-U7-MCQ046 | label=Question 46 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Catalytic converters reduce NOx in exhaust.
 :::
 
 ### Section B — FRQ Solutions
@@ -1913,6 +2382,42 @@ Volume of gold = 1,400 m³ × (2 × 10⁻⁶) + 1,200 m³ × (1 × 10⁻⁶) = 2
 
 :::sol CB-U8-MCQ048 | label=Question 48 | year=2016
 **Official key: B.** Bioaccumulation is the buildup of a chemical within one organism over time because intake exceeds elimination. It differs from biomagnification, which is increase up trophic levels.
+:::
+
+:::sol CB-U8-MCQ049 | label=Question 49 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** The author assumes plastic is persistent and does not readily break down, saying it could last decades or centuries. Cost, manufacturing difficulty and recycling rates are not discussed.
+:::
+
+:::sol CB-U8-MCQ050 | label=Question 50 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** The sustained three-year mapping effort by an international team of scientists is direct evidence of thoroughness. Area covered, journal and publication date describe results or timing but not research depth.
+:::
+
+:::sol CB-U8-MCQ051 | label=Question 51 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Preventing more plastic from entering the ocean requires reducing waste at the source, and incentives for recycling do that. Replacing paper with plastic, closing landfills or cheaper plastic would increase leakage.
+:::
+
+:::sol CB-U8-MCQ052 | label=Question 52 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Weight per piece = 88,000 tons ÷ 1.8 × 10¹² pieces ≈ 4.9 × 10⁻⁸ ton. The other values are off by orders of magnitude.
+:::
+
+:::sol CB-U8-MCQ053 | label=Question 53 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Summing ratings gives permethrin 13, DDT 11, lindane 11 and malathion 9, so permethrin is highest overall.
+:::
+
+:::sol CB-U8-MCQ054 | label=Question 54 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Eroded sediment increases turbidity and sedimentation, reducing light and so primary productivity. Other statements invert the effect.
+:::
+
+:::sol CB-U8-MCQ055 | label=Question 55 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Nutrients trigger algal blooms; decomposition of dead algae by bacteria consumes oxygen, producing hypoxia. Nutrients do not bind oxygen or consume CO₂.
+:::
+
+:::sol CB-U8-MCQ056 | label=Question 56 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Drip irrigation applies water at roots in small amounts, cutting nutrient-laden runoff compared with flood irrigation. Integrated pest management targets pests, annual crops leave soil bare and cattle ranching adds manure.
+:::
+
+:::sol CB-U8-MCQ057 | label=Question 57 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Toxins biomagnify up the food web, so lower trophic levels carry lower concentrations and less exposure for humans.
 :::
 
 ### Section B — FRQ Solutions
@@ -2336,6 +2841,110 @@ Data (100 shrimp per dish): ≤0.0001% → 10 dead; 0.001% → 10; 0.01% → 20;
 **Official key: B.** Warming from higher CO₂ is predicted to cause loss of species in tropical ecosystems, along with more severe storms, more heat waves and earlier spring events. The other options say the opposite.
 :::
 
+:::sol CB-U9-MCQ039 | label=Question 39 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** The article stresses urgency: the debris must be removed before it breaks into pieces too small to collect and dangerous to marine life. The other options contradict or are not stated in the passage.
+:::
+
+:::sol CB-U9-MCQ040 | label=Question 40 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** The independent variable is what the investigator manipulates, here the water temperature of each tank. Volume and nutrients are controlled, and dissolved oxygen is the measured response.
+:::
+
+:::sol CB-U9-MCQ041 | label=Question 41 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Biological control uses a natural enemy or pathogen specific to the pest, such as a pathogen that targets rabbits without harming other mammals. Pesticides, poison fumigation and planting native plants are not biological control.
+:::
+
+:::sol CB-U9-MCQ042 | label=Question 42 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Extra CO₂ dissolves to lower pH and reduces carbonate ions that corals need to build calcium carbonate skeletons. It does not stop reproduction through algae or involve ozone.
+:::
+
+:::sol CB-U9-MCQ043 | label=Question 43 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** UV splits oxygen to atoms that form ozone, and UV also breaks ozone apart, the continual production and destruction of stratospheric ozone. It is not photosynthesis or tropospheric ozone formation.
+:::
+
+:::sol CB-U9-MCQ044 | label=Question 44 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Chlorofluorocarbons release chlorine atoms in the stratosphere that catalytically destroy ozone. Methane, VOCs and lead do not do this.
+:::
+
+:::sol CB-U9-MCQ045 | label=Question 45 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** A population bottleneck, a sharp drop in numbers from habitat fragmentation, removes alleles and reduces genetic diversity. Demographic transition and biomagnification are unrelated.
+:::
+
+:::sol CB-U9-MCQ046 | label=Question 46 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** The article says trout fishing has so far been resilient but continued warming could cost millions in revenue. It does not say the industry is destroyed.
+:::
+
+:::sol CB-U9-MCQ047 | label=Question 47 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** The author cites current closures and a projected 35% loss of suitable cold-water habitat by 2080 as grounds for future impact.
+:::
+
+:::sol CB-U9-MCQ048 | label=Question 48 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Moving toward higher latitudes lets species track suitable temperatures. Later mating or becoming a specialist would not improve survival.
+:::
+
+:::sol CB-U9-MCQ049 | label=Question 49 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** A generalist with a varied diet and rapid, repeated reproduction can exploit new areas quickly. Specialists or slow breeders rarely spread aggressively.
+:::
+
+:::sol CB-U9-MCQ050 | label=Question 50 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Requiring boats to be drained and cleaned prevents transfer of larvae and eggs. Collecting larvae or posting lists does not stop spread.
+:::
+
+:::sol CB-U9-MCQ051 | label=Question 51 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Warming thaws permafrost, releasing stored carbon as CO₂ and methane, which warms the climate further (positive feedback).
+:::
+
+:::sol CB-U9-MCQ052 | label=Question 52 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** The Montreal Protocol (1987) is the international treaty that phased out production of CFCs and related chemicals. The Kyoto Protocol addresses greenhouse gases, and the Clean Air Act and Endangered Species Act are US laws.
+:::
+
+:::sol CB-U9-MCQ053 | label=Question 53 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** The Endangered Species Act protects listed species and their critical habitat and restricts trade in them in the United States. The other options regulate air pollution or global emissions.
+:::
+
+:::sol CB-U9-MCQ054 | label=Question 54 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** Ozone (O₃) in the stratosphere absorbs most incoming UV-B. CFCs destroy it, and VOCs and NOx are pollutants that form ozone only in the troposphere.
+:::
+
+:::sol CB-U9-MCQ055 | label=Question 55 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Larvae that feed inside the cactus are shielded from predators and from sprays, so control is very hard. Long flight ability or dormancy would make the pest spread or hide but not shield it the same way.
+:::
+
+:::sol CB-U9-MCQ056 | label=Question 56 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Habitat loss affects 1,800 species, far more than any other threat, so paying landholders not to develop habitat protects the most species.
+:::
+
+:::sol CB-U9-MCQ057 | label=Question 57 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** CFC propellants release chlorine in the stratosphere, destroying ozone. Fossil fuel burning, methane and sewage lagoons do not target ozone.
+:::
+
+:::sol CB-U9-MCQ058 | label=Question 58 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** The largest saltwater loss (101,000 acres) is from sea-level rise submerging habitat.
+:::
+
+:::sol CB-U9-MCQ059 | label=Question 59 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: D.** The average distance moved north increases over time, which fits birds wintering farther north as higher-latitude temperatures rise.
+:::
+
+:::sol CB-U9-MCQ060 | label=Question 60 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: B.** Kudzu can be grazed by goats and harvested as feed for livestock. The other options claim benefits that are false or harmful.
+:::
+
+:::sol CB-U9-MCQ061 | label=Question 61 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** The largest segment is fish.
+:::
+
+:::sol CB-U9-MCQ062 | label=Question 62 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: C.** Percent change = (final − initial) ÷ initial × 100 = (10,119 − 5,742)/5,742 × 100 ≈ 76%.
+:::
+
+:::sol CB-U9-MCQ063 | label=Question 63 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** Warming allows mosquito habitat to expand upward in elevation.
+:::
+
+:::sol CB-U9-MCQ064 | label=Question 64 | year=2024
+*(The source copy had no published key; this answer was derived by Success4Sure Academy.)* **Answer: A.** The robot cannot reproduce or become invasive.
+:::
+
 ### Section B — FRQ Solutions
 
 :::sol CB-U9-FRQ001 | label=Question 1 | year=2006
@@ -2590,6 +3199,19 @@ Data (100 shrimp per dish): ≤0.0001% → 10 dead; 0.001% → 10; 0.01% → 20;
 :::
 
 :::sol CB-U9-FRQ018 | label=Question 18 | year=2024
+(a) Cultural service: recreation, aesthetic or spiritual value, ecotourism. *(1 pt)*
+(b) Forest roots and soil slow runoff and filter water, trapping sediment and pollutants. *(1 pt)*
+(c) Urbanization adds impervious surface, causing runoff, flooding and pollutant loading, which reduces water quality; or it lowers infiltration and groundwater recharge. *(1 pt)*
+(d) Dependent variable: crude-oil concentration remaining. *(1 pt)*
+(e) Hypothesis: warmer water increases bacterial breakdown, so oil concentration will be lower at higher temperatures. *(1 pt)*
+(f) Four replicate tanks per treatment reduce the effect of chance or tank-specific differences and allow averaging. *(1 pt)*
+(g) Aerated tanks supply more oxygen to the aerobic bacteria, so oil would break down faster and concentrations would be lower. *(1 pt)*
+(h) As CO₂ rises, pH falls: an inverse relationship from 1850 to 2100. *(1 pt)*
+(i) CO₂ rise from fossil-fuel burning and deforestation, absorbed by oceans. *(1 pt)*
+(j) Supports hypothesis: falling pH lowers carbonate ions, making calcification harder for corals, so reefs would shrink. *(1 pt)*
+:::
+
+:::sol CB-U9-FRQ019 | label=Question 19 | year=2024
 **(a)** 1700 had the highest forest share. *(1)*
 
 **(b)** Wild grassland decreased as grazing land increased (inverse). *(1)*
@@ -2611,7 +3233,7 @@ Data (100 shrimp per dish): ≤0.0001% → 10 dead; 0.001% → 10; 0.01% → 20;
 **(j)** Extra benefit: other species use corridors or restored forest, improving biodiversity, water, air and carbon storage. *(1)*
 :::
 
-:::sol CB-U9-FRQ019 | label=Question 19 | year=2025
+:::sol CB-U9-FRQ020 | label=Question 20 | year=2025
 **(A)** About 1,400 breeding pairs in 1995 (tallest bar). *(1)*
 **(B)** Pairs generally declined from 1995 to 2008. *(1)*
 **(C)** Sea level rose over the period while tern pairs fell, contradicting an increase. *(1)*

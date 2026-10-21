@@ -102,13 +102,13 @@ ax.set_ylabel('Electricity generated (GWh per year)'); ax.set_xlabel('Year'); ax
 save(fig, OUT+'PE1_U6_grid_mix.png')
 
 # ---------- U6 insolation ----------
-mo = ['J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D']
+mo = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
 X = [4.2, 4.6, 5.0, 5.3, 5.6, 5.8, 5.8, 5.6, 5.2, 4.8, 4.3, 4.0]
 Y = [2.6, 3.2, 4.4, 5.6, 6.6, 7.4, 7.8, 7.2, 5.8, 4.3, 3.0, 2.4]
 print('means', np.mean(X), np.mean(Y))
 fig, ax = plt.subplots(figsize=(5.8, 3.3))
 ax.plot(mo, X, 'o-', color=BLUE, label='Site 1 (coastal plain)'); ax.plot(mo, Y, 's-', color=ORANGE, label='Site 2 (inland basin)')
-ax.set_ylabel('Solar energy received on a\nsouth-facing panel (kWh/m²/day)'); ax.set_xlabel('Month'); ax.set_ylim(0, 9); ax.legend(frameon=False, fontsize=8, loc='lower center', ncol=2); ax.grid(alpha=.25)
+ax.set_ylabel('Solar energy received on a\nsouth-facing panel (kWh/m²/day)'); ax.set_xlabel('Month'); ax.tick_params(axis='x', labelsize=8); ax.set_ylim(0, 9); ax.legend(frameon=False, fontsize=8, loc='lower center', ncol=2); ax.grid(alpha=.25)
 save(fig, OUT+'PE1_U6_insolation.png')
 
 # ---------- U7 diurnal ----------
@@ -165,7 +165,6 @@ ph = 8.12-0.08*((y2-1985)/39)+rng.normal(0, .004, len(y2)); ph[0] = 8.12; ph[-1]
 fig, axs = plt.subplots(1, 2, figsize=(6.4, 3.0))
 axs[0].plot(y2, co2, color=ORANGE, lw=1.5); axs[0].set_ylabel('Surface-seawater pCO₂ (µatm)'); axs[0].set_xlabel('Year')
 axs[1].plot(y2, ph, color=TEAL, lw=1.5); axs[1].set_ylabel('Surface-seawater pH'); axs[1].set_xlabel('Year')
-axs[1].annotate('8.12', (1985, 8.12), xytext=(1987, 8.125), fontsize=8); axs[1].annotate('8.04', (2024, 8.04), xytext=(2014, 8.03), fontsize=8)
 for a in axs: a.grid(alpha=.25)
 fig.tight_layout()
 save(fig, OUT+'PE1_U9_ph.png')
