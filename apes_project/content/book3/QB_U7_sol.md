@@ -63,11 +63,11 @@
 :::
 
 :::sol QB-U7-MCQ016
-**Answer: C.** Device 1 uses charged wires and collection plates, which is an electrostatic precipitator that removes fly ash particles. Device 2 sprays limestone slurry, which is a wet scrubber that absorbs SO₂ from the flue gas. Option A swaps the devices, and neither device removes CO₂ (D).
+**Answer: C.** Device 1 uses charged wires and collection plates, which is an electrostatic precipitator that removes fly ash particles. Device 2 sprays limestone slurry, which is a wet scrubber that absorbs SO₂ from the flue gas. Option A swaps the functions of the devices, and neither device removes CO₂ (D).
 :::
 
 :::sol QB-U7-MCQ017
-**Answer: D.** Volcanic ash, wildfire smoke, windblown dust, and sea spray are all natural particulate sources. Every other list includes a human-caused source: diesel trucks (A), coal fly ash (B), or tire wear (C).
+**Answer: D.** Volcanic ash, windblown dust, and sea spray are all natural particulate sources. Every other list includes a human-caused source: diesel trucks (A), coal fly ash (B), or tire wear (C).
 :::
 
 :::sol QB-U7-MCQ018
@@ -75,7 +75,7 @@
 :::
 
 :::sol QB-U7-MCQ019
-**Answer: C.** The leaf blower (95 dB), chainsaw (105 dB), and jackhammer (110 dB) are above the 85 dB line, so three of the six sources exceed it. Option A is wrong because a leaf blower and a chainsaw are not construction equipment. Heavy traffic is 80 dB, below the line (B), and the chainsaw is above it (D).
+**Answer: C.** The leaf blower (95 dB), chainsaw (105 dB), and jackhammer (110 dB) are above the 85 dB line, so three of the six sources exceed it. Option A is wrong because the leaf blower and chainsaw also exceed the line, not only the jackhammer. Heavy traffic is 80 dB, below the line (B), and the chainsaw is above it (D).
 :::
 
 :::sol QB-U7-MCQ020
