@@ -1,8 +1,8 @@
 :::q QB-C7-MCQ001 | chapter=7 | sec=7 | unit=5 | topic=ext | diff=1
 Ponderosa pine forests in the western United States historically experienced low-intensity surface fires every 5 to 15 years. Which of the following is an ecological benefit of such fires?
-A) They permanently eliminate every woody plant from the understory and prevent the plants from returning.
+A) They permanently eliminate every woody plant from the understory, so that no shrubs or saplings can ever return.
 B) They release nutrients from litter into the soil and reduce the fuel that could carry a later fire into the tree crowns.
-C) They increase the thickness of the organic layer on the forest floor, which stores more water.
+C) They increase the thickness of the organic layer on the forest floor, which allows the soil to store more water.
 D) They stop seeds of fire-adapted species from germinating, which keeps the forest open.
 :::
 
@@ -82,7 +82,7 @@ D) Perennial grass cover is unaffected by grazing, because both pastures started
 Which of the following is a major ecological impact of building a new highway through a large forest?
 A) Increased habitat connectivity, because the road forms a corridor that animals use to cross the forest
 B) Reduced edge habitat, because roads remove the boundaries between forest patches
-C) Habitat fragmentation, which isolates animal populations and makes crossing the road dangerous
+C) Habitat fragmentation, which isolates animal populations
 D) Increased infiltration of rainwater, because the road surface is compacted
 :::
 
@@ -105,9 +105,9 @@ A watershed was monitored before and after a highway, parking areas, and a comme
 | Late-summer stream flow (m³/s) | 0.9 | 0.4 |
 
 Which interpretation is best supported by the data?
-A) The paved surfaces increased evapotranspiration, which lowered the late-summer stream flow.
-B) Rainwater reached the stream more slowly, which raised the peak stream flow.
-C) The development increased infiltration, which shortened the time to peak flow.
+A) The paved surfaces increased evapotranspiration from the watershed, which lowered the late-summer stream flow.
+B) Rainwater reached the stream more slowly after development, which raised the peak stream flow.
+C) The development increased infiltration into the soil, which shortened the time from peak rainfall to peak flow.
 D) Less infiltration and more surface runoff produced a flashier stream and probably reduced groundwater recharge, which lowered the dry-season flow.
 :::
 
@@ -147,9 +147,9 @@ D) 84%
 
 :::q QB-C7-MCQ016 | chapter=7 | sec=15 | unit=5 | topic=5.9 | diff=1
 The market price of copper rises sharply and stays high for several years. Which change is most likely?
-A) Known copper reserves decrease because the metal is used up more quickly.
+A) Known copper reserves decrease because the metal is used up more quickly than before.
 B) Known copper reserves stay the same because the amount of copper in Earth's crust is fixed.
-C) Mining companies stop exploring, because high prices show that deposits are running out.
+C) Mining companies stop exploring, because high prices show that the deposits are running out.
 D) Known copper reserves increase because lower-grade deposits become economically recoverable.
 :::
 
@@ -194,14 +194,14 @@ Which statement is best supported by the table?
 A) Country P has an ecological reserve of 4.5 gha per person.
 B) Country Q has an ecological deficit of 1.6 gha per person.
 C) Country R has an ecological reserve of 0.2 gha per person.
-D) Country Q has an ecological reserve of 1.6 gha per person, so its demand is still below what its ecosystems regenerate.
+D) Country Q has an ecological reserve of 1.6 gha per person.
 :::
 
 :::q QB-C7-MCQ021 | chapter=7 | sec=17 | unit=5 | topic=ext | diff=3
 Over 30 years, the forest cover of a wealthy, high-consumption country increased, while the country's imports of timber, palm oil, and beef from tropical countries rose steeply. Which statement best explains how the country's domestic forest cover can rise even as its total environmental impact does not fall?
-A) Increased forest cover automatically offsets all land-use impacts that occur in other countries.
+A) Increased forest cover automatically offsets all of the land-use impacts that occur in other countries.
 B) Palm oil and beef production do not require land, so imports have no effect on forests abroad.
-C) Imports can shift land clearing and its impacts to exporting countries, so the importer's footprint is partly located abroad.
+C) Imports can shift land clearing to exporting countries, so part of the importer's footprint lies abroad.
 D) Higher GDP always leads to lower consumption of land-based products, so imports must be small.
 :::
 

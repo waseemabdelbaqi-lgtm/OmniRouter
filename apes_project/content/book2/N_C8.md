@@ -24,9 +24,9 @@ D) 3.1
 
 :::q QB-C8-MCQ004 | chapter=8 | sec=6 | unit=6 | topic=6.13 | diff=1
 Why do hybrid-electric cars usually achieve better fuel economy than similar conventional cars in stop-and-go city driving?
-A) Regenerative braking captures kinetic energy as electricity stored in the battery, and the engine can shut off when the car is stopped.
-B) The battery creates new energy that is added to the energy from the gasoline.
-C) The electric motor makes the car heavier, which lets it coast farther.
+A) Regenerative braking recovers braking energy as stored electricity, and the engine can shut off when stopped.
+B) The battery creates new energy that is added to the energy released from the gasoline.
+C) The electric motor makes the car heavier, which lets it coast farther between stops.
 D) Hybrid cars burn a fuel with a much higher energy content than gasoline.
 :::
 
@@ -48,10 +48,10 @@ An electric car uses 0.18 kWh of electricity per km. A comparable gasoline car e
 | C (mostly hydro and wind) | 0.05 |
 
 Which statement is best supported by these data?
-A) The electric car emits less CO₂ per km than the gasoline car in all three regions.
-B) The electric car emits more CO₂ per km than the gasoline car in all three regions.
+A) The electric car emits less CO₂ per km than the gasoline car in all three regions of the table.
+B) The electric car emits more CO₂ per km than the gasoline car in all three regions of the table.
 C) The difference in emissions depends only on the efficiency of the car, not on how the electricity is produced.
-D) The electric car emits less than the gasoline car in regions B and C but more in region A, so its benefit depends on the electricity source.
+D) The electric car emits less in regions B and C but more in region A, so the benefit depends on the grid.
 :::
 
 :::q QB-C8-MCQ007 | chapter=8 | sec=7 | unit=6 | topic=6.13 | diff=1

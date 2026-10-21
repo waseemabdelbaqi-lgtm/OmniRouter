@@ -96,8 +96,8 @@ D) 400 years
 An ice shelf is a thick, floating platform of ice attached to an ice sheet on land. Which statement best describes the effect of an ice shelf collapsing?
 A) It immediately raises sea level by an amount equal to the volume of the shelf, because the shelf was holding water out of the ocean.
 B) It has no effect on the ice sheet, because the shelf and the grounded ice are separate and unrelated bodies of ice.
-C) It lowers sea level, because the exposed ocean surface absorbs more sunlight and evaporates more water.
-D) It adds little sea-level rise directly, but it removes support that slows the seaward flow of grounded glaciers, which can then discharge ice faster.
+C) It lowers sea level, because the newly exposed ocean surface absorbs more sunlight and evaporates much more water.
+D) It adds little sea level directly, but it removes support that holds back grounded glaciers, which can then flow faster.
 :::
 
 :::q QB-C3-MCQ010 | chapter=3 | sec=5 | unit=0 | topic=ext | diff=1

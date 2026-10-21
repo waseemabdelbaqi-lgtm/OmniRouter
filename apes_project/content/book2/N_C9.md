@@ -1,9 +1,9 @@
 :::q QB-C9-MCQ001 | chapter=9 | sec=7 | unit=8 | topic=8.1 | diff=1
 Pollutants that enter an aquifer often remain there for decades, while similar pollutants in a fast-flowing river may be diluted or removed within weeks. Which statement best explains this difference?
-A) Groundwater receives more sunlight than river water, which fixes pollutants in place.
+A) Groundwater receives more sunlight than river water, and the extra light chemically fixes pollutants in place.
 B) Groundwater moves slowly and has little mixing, aeration, or sunlight, so pollutants are neither diluted nor broken down quickly.
-C) Aquifer sediments contain more oxygen than river water, which stops microbes from degrading pollutants.
-D) Pollutants in aquifers cannot dissolve in water, so they accumulate at the water table.
+C) Aquifer sediments contain more dissolved oxygen than river water, and this stops microbes from degrading pollutants.
+D) Pollutants in aquifers cannot dissolve in groundwater, so they simply accumulate at the top of the water table.
 :::
 
 :::q QB-C9-MCQ002 | chapter=9 | sec=7 | unit=8 | topic=8.1 | diff=2
@@ -68,10 +68,10 @@ D) cause fine suspended particles to clump together so that they can settle out.
 
 :::q QB-C9-MCQ008 | chapter=9 | sec=9 | unit=8 | topic=ext | diff=2
 A city that disinfects its drinking water with chlorine finds that trihalomethanes (disinfection byproducts that form when chlorine reacts with dissolved organic matter) are rising in the distribution system after heavy spring runoff. Which action would most directly address the cause while still protecting the public from pathogens?
-A) Stop disinfecting the water until the runoff season ends.
+A) Stop disinfecting the water until the runoff season ends, then restart once the organic matter has cleared.
 B) Remove more organic matter before disinfection, for example by enhanced coagulation or activated carbon filtration.
-C) Add more chlorine at the plant so that more of the organic matter is converted to byproducts.
-D) Filter the water through a coarse screen to remove trihalomethanes after they form.
+C) Add more chlorine at the plant so that the extra chlorine uses up more of the organic matter as byproducts.
+D) Filter the water through a coarse screen at the plant outlet to remove trihalomethanes after they form.
 :::
 
 :::q QB-C9-MCQ009 | chapter=9 | sec=9 | unit=8 | topic=ext | diff=3
@@ -83,7 +83,7 @@ D) 600 kg
 :::
 
 :::q QB-C9-FRQ001 | chapter=9 | sec=8 | unit=8 | topic=8.1 | diff=3 | frqtype=1 | pts=10
-A stream flows from forested headwaters past a fertilized cornfield and then past a small town. Wastewater from the town's treatment plant is discharged into the stream. Residents have noticed dead fish and thick algal mats about 1 km downstream of the outfall. A student group wants to design an investigation to determine whether nutrient pollution from the cornfield, the wastewater plant, or both is responsible for the water-quality problem.
+A stream flows from forested headwaters past a fertilized cornfield and then past a small town. Wastewater from the town's treatment plant is discharged into the stream. Residents have noticed dead fish and thick algal mats about 1.5 km downstream of the outfall. A student group wants to design an investigation to determine whether nutrient pollution from the cornfield, the wastewater plant, or both is responsible for the water-quality problem.
 
 ![Figure — Map of the stream, cornfield, town, and wastewater outfall](figs/QBC9_stream.png)
 

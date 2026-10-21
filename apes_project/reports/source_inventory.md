@@ -15,6 +15,6 @@ Missing/uncertain: S03 and S04 page ranges are numbered continuously; no gaps re
 
 
 ## Processing summary
-- Curriculum authority: 2026 CED (252 pages) — used for all unit/topic mapping.
+- Curriculum authority: 2026 CED (252 pages) — cross-referenced to the academy chapters (ced_to_academy_crossref_map.csv).
 - College Board registers: 2008_Intl.json, 2010_Intl.json, 2016_US.json, 2024.json, FRQ_pt1.json, FRQ_pt2.json, FRQ_pt3.json, FRQ_pt4.json.
 - Prep books: topic checklist only.

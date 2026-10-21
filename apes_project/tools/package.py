@@ -7,7 +7,7 @@ import tempfile
 from pypdf import PdfReader
 
 R = "/home/user/OmniRouter/apes_project"
-FINAL = f"{R}/build/final"; DEL = f"{R}/deliverables"; REP = f"{R}/reports"
+FINAL = f"{R}/build/final4"; DEL = f"{R}/deliverables"; REP = f"{R}/reports"
 os.makedirs(DEL, exist_ok=True); os.makedirs(REP, exist_ok=True)
 BOOKS = [("b1", "APES_Complete_Study_Guide", "Book One — Complete Study Guide", 250, 300),
          ("b2", "APES_Classified_Practice_4_Predicted_Exams", "Book Two — Classified Practice & Four Predicted Exams", 350, 400),

@@ -13,6 +13,6 @@
 - a32fb6ac-2016Intl-2.pdf, c8345d7c-2016Intl-2.pdf
 
 ## Duplicate College Board items
-- 2016 International file is byte-identical to the 2016 US exam (same form 4MBP); registered once (raw_dup/2016_Intl.json kept for audit).
-- 2024 US free-response questions appear in both the 2024 exam file and the FRQ compilation; registered once (compilation copy).
-- Near-duplicate registered items removed automatically by (year, type, descriptor) key: 1.
+- 2016 International file is byte-identical to the 2016 US exam; registered once.
+- 2024 US FRQs appear in the 2024 exam file and the FRQ compilation; registered once.
+- Near-duplicate registered items are removed automatically by (year, type, descriptor).

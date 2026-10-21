@@ -10,9 +10,9 @@
 
 | Book | Pages | Pages missing frame | Pages missing watermark | Blank pages | Content touching frame |
 |---|---|---|---|---|---|
-| Book One — Complete Study Guide | 244 | 0 | 0 | 0 | 0 |
-| Book Two — Classified Practice & Four Predicted Exams | 305 | 0 | 0 | 0 | 0 |
-| Book Three — Complete Solutions | 137 | 0 | 0 | 0 | 0 |
-| Book Four — College Board Questions & Solutions | 115 | 0 | 0 | 0 | 0 |
+| Book One — Complete Study Guide | 290 | 0 | 0 | 0 | 0 |
+| Book Two — Classified Practice & Four Predicted Exams | 348 | 0 | 0 | 0 | 0 |
+| Book Three — Complete Solutions | 145 | 0 | 0 | 0 | 0 |
+| Book Four — College Board Questions & Solutions | 126 | 0 | 0 | 0 | 0 |
 
 Method: each page was rendered; the four frame sides were sampled for the maroon double line at the fixed offset; each page's content stream was checked for the watermark raster; blank-page and frame-crowding tests were run on the interior. In addition, sampled pages from every book (covers, contents, unit pages, question pages, exam FRQ pages, solution pages, contact and back covers) were inspected visually.

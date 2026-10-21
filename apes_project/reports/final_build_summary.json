@@ -2,14 +2,14 @@
  {
   "book": "Book One \u2014 Complete Study Guide",
   "base": "APES_Complete_Study_Guide",
-  "pages": 244,
+  "pages": 290,
   "pref": 250,
   "max": 300,
-  "within_pref": true,
+  "within_pref": false,
   "within_max": true,
   "qa": {
    "pdf": "APES_Complete_Study_Guide.pdf",
-   "pages": 244,
+   "pages": 290,
    "no_watermark": [],
    "no_frame": [],
    "blank": [],
@@ -19,11 +19,11 @@
     841.9
    ]
   },
-  "docx_mb": 7.1,
-  "pdf_mb": 8.0,
+  "docx_mb": 13.2,
+  "pdf_mb": 17.6,
   "protected_encrypted": true,
   "protected_opens_without_password": true,
-  "protected_pages": 244,
+  "protected_pages": 290,
   "aes256": true,
   "p_flag": 0,
   "watermark_in_docx_identical": true,
@@ -31,19 +31,19 @@
   "frame_borders": [
    "<w:pgBorders w:offsetFrom=\"page\"><w:top w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:left w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:bottom w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:right w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/></w:pgBorders>"
   ],
-  "n_headers": 3
+  "n_headers": 22
  },
  {
   "book": "Book Two \u2014 Classified Practice & Four Predicted Exams",
   "base": "APES_Classified_Practice_4_Predicted_Exams",
-  "pages": 305,
+  "pages": 348,
   "pref": 350,
   "max": 400,
   "within_pref": true,
   "within_max": true,
   "qa": {
    "pdf": "APES_Classified_Practice_4_Predicted_Exams.pdf",
-   "pages": 305,
+   "pages": 348,
    "no_watermark": [],
    "no_frame": [],
    "blank": [],
@@ -53,11 +53,11 @@
     841.9
    ]
   },
-  "docx_mb": 12.3,
-  "pdf_mb": 13.8,
+  "docx_mb": 14.2,
+  "pdf_mb": 19.9,
   "protected_encrypted": true,
   "protected_opens_without_password": true,
-  "protected_pages": 305,
+  "protected_pages": 348,
   "aes256": true,
   "p_flag": 0,
   "watermark_in_docx_identical": true,
@@ -65,19 +65,19 @@
   "frame_borders": [
    "<w:pgBorders w:offsetFrom=\"page\"><w:top w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:left w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:bottom w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:right w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/></w:pgBorders>"
   ],
-  "n_headers": 3
+  "n_headers": 22
  },
  {
   "book": "Book Three \u2014 Complete Solutions",
   "base": "APES_Complete_Solutions",
-  "pages": 137,
+  "pages": 145,
   "pref": 350,
   "max": 400,
   "within_pref": true,
   "within_max": true,
   "qa": {
    "pdf": "APES_Complete_Solutions.pdf",
-   "pages": 137,
+   "pages": 145,
    "no_watermark": [],
    "no_frame": [],
    "blank": [],
@@ -88,10 +88,10 @@
    ]
   },
   "docx_mb": 1.5,
-  "pdf_mb": 1.8,
+  "pdf_mb": 4.3,
   "protected_encrypted": true,
   "protected_opens_without_password": true,
-  "protected_pages": 137,
+  "protected_pages": 145,
   "aes256": true,
   "p_flag": 0,
   "watermark_in_docx_identical": true,
@@ -99,19 +99,19 @@
   "frame_borders": [
    "<w:pgBorders w:offsetFrom=\"page\"><w:top w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:left w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:bottom w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:right w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/></w:pgBorders>"
   ],
-  "n_headers": 3
+  "n_headers": 4
  },
  {
   "book": "Book Four \u2014 College Board Questions & Solutions",
   "base": "APES_College_Board_Questions_And_Solutions",
-  "pages": 115,
+  "pages": 126,
   "pref": 350,
   "max": 400,
   "within_pref": true,
   "within_max": true,
   "qa": {
    "pdf": "APES_College_Board_Questions_And_Solutions.pdf",
-   "pages": 115,
+   "pages": 126,
    "no_watermark": [],
    "no_frame": [],
    "blank": [],
@@ -121,11 +121,11 @@
     841.9
    ]
   },
-  "docx_mb": 1.4,
-  "pdf_mb": 2.0,
+  "docx_mb": 1.8,
+  "pdf_mb": 4.6,
   "protected_encrypted": true,
   "protected_opens_without_password": true,
-  "protected_pages": 115,
+  "protected_pages": 126,
   "aes256": true,
   "p_flag": 0,
   "watermark_in_docx_identical": true,
@@ -133,6 +133,6 @@
   "frame_borders": [
    "<w:pgBorders w:offsetFrom=\"page\"><w:top w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:left w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:bottom w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/><w:right w:val=\"double\" w:sz=\"12\" w:space=\"20\" w:color=\"7A1424\"/></w:pgBorders>"
   ],
-  "n_headers": 3
+  "n_headers": 22
  }
 ]

@@ -1,0 +1,3502 @@
+{
+ "QB-C1-MCQ001": {
+  "chapter": 1,
+  "section": 1,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C1-MCQ002": {
+  "chapter": 1,
+  "section": 1,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C1-MCQ003": {
+  "chapter": 1,
+  "section": 1,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C1-MCQ004": {
+  "chapter": 1,
+  "section": 2,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-C1-MCQ005": {
+  "chapter": 1,
+  "section": 2,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-C1-MCQ006": {
+  "chapter": 1,
+  "section": 2,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-U4-MCQ001": {
+  "chapter": 1,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": false
+ },
+ "QB-U4-MCQ002": {
+  "chapter": 1,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": false
+ },
+ "QB-U4-MCQ014": {
+  "chapter": 1,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": false
+ },
+ "QB-U4-MCQ015": {
+  "chapter": 1,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": false
+ },
+ "QB-U4-MCQ036": {
+  "chapter": 1,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": false
+ },
+ "QB-U4-MCQ037": {
+  "chapter": 1,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": false
+ },
+ "QB-C1-MCQ007": {
+  "chapter": 1,
+  "section": 4,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-C1-MCQ008": {
+  "chapter": 1,
+  "section": 4,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-C1-MCQ009": {
+  "chapter": 1,
+  "section": 4,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-C1-MCQ010": {
+  "chapter": 1,
+  "section": 5,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-C1-MCQ011": {
+  "chapter": 1,
+  "section": 5,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-C1-MCQ012": {
+  "chapter": 1,
+  "section": 5,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-C1-MCQ013": {
+  "chapter": 1,
+  "section": 6,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-C1-MCQ014": {
+  "chapter": 1,
+  "section": 6,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-C1-MCQ015": {
+  "chapter": 1,
+  "section": 6,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-U4-MCQ011": {
+  "chapter": 1,
+  "section": 7,
+  "ced_unit": 4,
+  "ced_topic": "4.7",
+  "new": false
+ },
+ "QB-U4-MCQ030": {
+  "chapter": 1,
+  "section": 7,
+  "ced_unit": 4,
+  "ced_topic": "4.7",
+  "new": false
+ },
+ "QB-U4-MCQ031": {
+  "chapter": 1,
+  "section": 7,
+  "ced_unit": 4,
+  "ced_topic": "4.7",
+  "new": false
+ },
+ "QB-U4-MCQ032": {
+  "chapter": 1,
+  "section": 7,
+  "ced_unit": 4,
+  "ced_topic": "4.7",
+  "new": false
+ },
+ "QB-U4-MCQ041": {
+  "chapter": 1,
+  "section": 7,
+  "ced_unit": 4,
+  "ced_topic": "4.7",
+  "new": false
+ },
+ "QB-U4-MCQ003": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.2",
+  "new": false
+ },
+ "QB-U4-MCQ004": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.2",
+  "new": false
+ },
+ "QB-U4-MCQ005": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.2",
+  "new": false
+ },
+ "QB-U4-MCQ006": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.3",
+  "new": false
+ },
+ "QB-U4-MCQ016": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.2",
+  "new": false
+ },
+ "QB-U4-MCQ017": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.3",
+  "new": false
+ },
+ "QB-U4-MCQ018": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.3",
+  "new": false
+ },
+ "QB-U4-MCQ019": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.3",
+  "new": false
+ },
+ "QB-U4-MCQ020": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.3",
+  "new": false
+ },
+ "QB-U4-MCQ021": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.3",
+  "new": false
+ },
+ "QB-U4-MCQ038": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.2",
+  "new": false
+ },
+ "QB-C1-MCQ016": {
+  "chapter": 1,
+  "section": 9,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C1-MCQ017": {
+  "chapter": 1,
+  "section": 9,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C1-MCQ018": {
+  "chapter": 1,
+  "section": 9,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C1-FRQ001": {
+  "chapter": 1,
+  "section": 4,
+  "ced_unit": 4,
+  "ced_topic": "4.1",
+  "new": true
+ },
+ "QB-U4-FRQ001": {
+  "chapter": 1,
+  "section": 8,
+  "ced_unit": 4,
+  "ced_topic": "4.2",
+  "new": false
+ },
+ "QB-C2-MCQ001": {
+  "chapter": 2,
+  "section": 1,
+  "ced_unit": 4,
+  "ced_topic": "4.4",
+  "new": true
+ },
+ "QB-U4-MCQ007": {
+  "chapter": 2,
+  "section": 1,
+  "ced_unit": 4,
+  "ced_topic": "4.4",
+  "new": false
+ },
+ "QB-U4-MCQ008": {
+  "chapter": 2,
+  "section": 1,
+  "ced_unit": 4,
+  "ced_topic": "4.4",
+  "new": false
+ },
+ "QB-C2-MCQ002": {
+  "chapter": 2,
+  "section": 1,
+  "ced_unit": 4,
+  "ced_topic": "4.4",
+  "new": true
+ },
+ "QB-C2-MCQ003": {
+  "chapter": 2,
+  "section": 1,
+  "ced_unit": 4,
+  "ced_topic": "4.4",
+  "new": true
+ },
+ "QB-U4-MCQ022": {
+  "chapter": 2,
+  "section": 1,
+  "ced_unit": 4,
+  "ced_topic": "4.4",
+  "new": false
+ },
+ "QB-U4-MCQ039": {
+  "chapter": 2,
+  "section": 1,
+  "ced_unit": 4,
+  "ced_topic": "4.4",
+  "new": false
+ },
+ "QB-U4-MCQ012": {
+  "chapter": 2,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.8",
+  "new": false
+ },
+ "QB-U4-MCQ033": {
+  "chapter": 2,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.8",
+  "new": false
+ },
+ "QB-U4-MCQ034": {
+  "chapter": 2,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.8",
+  "new": false
+ },
+ "QB-U4-MCQ042": {
+  "chapter": 2,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.8",
+  "new": false
+ },
+ "QB-U4-MCQ009": {
+  "chapter": 2,
+  "section": 4,
+  "ced_unit": 4,
+  "ced_topic": "4.5",
+  "new": false
+ },
+ "QB-U4-MCQ023": {
+  "chapter": 2,
+  "section": 4,
+  "ced_unit": 4,
+  "ced_topic": "4.5",
+  "new": false
+ },
+ "QB-U4-MCQ024": {
+  "chapter": 2,
+  "section": 4,
+  "ced_unit": 4,
+  "ced_topic": "4.5",
+  "new": false
+ },
+ "QB-U4-MCQ025": {
+  "chapter": 2,
+  "section": 4,
+  "ced_unit": 4,
+  "ced_topic": "4.5",
+  "new": false
+ },
+ "QB-U4-MCQ040": {
+  "chapter": 2,
+  "section": 4,
+  "ced_unit": 4,
+  "ced_topic": "4.5",
+  "new": false
+ },
+ "QB-C2-MCQ004": {
+  "chapter": 2,
+  "section": 5,
+  "ced_unit": 4,
+  "ced_topic": "4.5",
+  "new": true
+ },
+ "QB-C2-MCQ005": {
+  "chapter": 2,
+  "section": 5,
+  "ced_unit": 4,
+  "ced_topic": "4.5",
+  "new": true
+ },
+ "QB-C2-MCQ006": {
+  "chapter": 2,
+  "section": 5,
+  "ced_unit": 4,
+  "ced_topic": "4.5",
+  "new": true
+ },
+ "QB-U4-MCQ013": {
+  "chapter": 2,
+  "section": 6,
+  "ced_unit": 4,
+  "ced_topic": "4.9",
+  "new": false
+ },
+ "QB-U4-MCQ035": {
+  "chapter": 2,
+  "section": 6,
+  "ced_unit": 4,
+  "ced_topic": "4.9",
+  "new": false
+ },
+ "QB-U4-MCQ043": {
+  "chapter": 2,
+  "section": 6,
+  "ced_unit": 4,
+  "ced_topic": "4.9",
+  "new": false
+ },
+ "QB-U4-MCQ044": {
+  "chapter": 2,
+  "section": 6,
+  "ced_unit": 4,
+  "ced_topic": "4.9",
+  "new": false
+ },
+ "QB-U4-FRQ004": {
+  "chapter": 2,
+  "section": 3,
+  "ced_unit": 4,
+  "ced_topic": "4.8",
+  "new": false
+ },
+ "QB-U4-FRQ002": {
+  "chapter": 2,
+  "section": 6,
+  "ced_unit": 4,
+  "ced_topic": "4.9",
+  "new": false
+ },
+ "QB-C3-MCQ001": {
+  "chapter": 3,
+  "section": 1,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C3-MCQ002": {
+  "chapter": 3,
+  "section": 1,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C3-MCQ003": {
+  "chapter": 3,
+  "section": 1,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U4-MCQ010": {
+  "chapter": 3,
+  "section": 2,
+  "ced_unit": 4,
+  "ced_topic": "4.6",
+  "new": false
+ },
+ "QB-U4-MCQ026": {
+  "chapter": 3,
+  "section": 2,
+  "ced_unit": 4,
+  "ced_topic": "4.6",
+  "new": false
+ },
+ "QB-U4-MCQ027": {
+  "chapter": 3,
+  "section": 2,
+  "ced_unit": 4,
+  "ced_topic": "4.6",
+  "new": false
+ },
+ "QB-U4-MCQ028": {
+  "chapter": 3,
+  "section": 2,
+  "ced_unit": 4,
+  "ced_topic": "4.6",
+  "new": false
+ },
+ "QB-U4-MCQ029": {
+  "chapter": 3,
+  "section": 2,
+  "ced_unit": 4,
+  "ced_topic": "4.6",
+  "new": false
+ },
+ "QB-C3-MCQ004": {
+  "chapter": 3,
+  "section": 3,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C3-MCQ005": {
+  "chapter": 3,
+  "section": 3,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C3-MCQ006": {
+  "chapter": 3,
+  "section": 3,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C3-MCQ007": {
+  "chapter": 3,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": true
+ },
+ "QB-C3-MCQ008": {
+  "chapter": 3,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": true
+ },
+ "QB-C3-MCQ009": {
+  "chapter": 3,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": true
+ },
+ "QB-C3-MCQ010": {
+  "chapter": 3,
+  "section": 5,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C3-MCQ011": {
+  "chapter": 3,
+  "section": 5,
+  "ced_unit": 9,
+  "ced_topic": "9.6",
+  "new": true
+ },
+ "QB-C3-MCQ012": {
+  "chapter": 3,
+  "section": 5,
+  "ced_unit": 9,
+  "ced_topic": "9.7",
+  "new": true
+ },
+ "QB-U5-MCQ004": {
+  "chapter": 3,
+  "section": 6,
+  "ced_unit": 5,
+  "ced_topic": "5.5",
+  "new": false
+ },
+ "QB-U5-MCQ019": {
+  "chapter": 3,
+  "section": 6,
+  "ced_unit": 5,
+  "ced_topic": "5.5",
+  "new": false
+ },
+ "QB-U5-MCQ020": {
+  "chapter": 3,
+  "section": 6,
+  "ced_unit": 5,
+  "ced_topic": "5.5",
+  "new": false
+ },
+ "QB-U5-MCQ021": {
+  "chapter": 3,
+  "section": 6,
+  "ced_unit": 5,
+  "ced_topic": "5.5",
+  "new": false
+ },
+ "QB-U5-MCQ037": {
+  "chapter": 3,
+  "section": 6,
+  "ced_unit": 5,
+  "ced_topic": "5.5",
+  "new": false
+ },
+ "QB-C3-MCQ013": {
+  "chapter": 3,
+  "section": 7,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C3-MCQ014": {
+  "chapter": 3,
+  "section": 7,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C3-MCQ015": {
+  "chapter": 3,
+  "section": 7,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U4-FRQ003": {
+  "chapter": 3,
+  "section": 2,
+  "ced_unit": 4,
+  "ced_topic": "4.6",
+  "new": false
+ },
+ "QB-C3-FRQ001": {
+  "chapter": 3,
+  "section": 3,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U5-FRQ002": {
+  "chapter": 3,
+  "section": 6,
+  "ced_unit": 5,
+  "ced_topic": "5.5",
+  "new": false
+ },
+ "QB-U1-MCQ001": {
+  "chapter": 4,
+  "section": 1,
+  "ced_unit": 1,
+  "ced_topic": "1.1",
+  "new": false
+ },
+ "QB-U1-MCQ011": {
+  "chapter": 4,
+  "section": 1,
+  "ced_unit": 1,
+  "ced_topic": "1.1",
+  "new": false
+ },
+ "QB-U2-MCQ004": {
+  "chapter": 4,
+  "section": 2,
+  "ced_unit": 2,
+  "ced_topic": "2.4",
+  "new": false
+ },
+ "QB-U2-MCQ012": {
+  "chapter": 4,
+  "section": 2,
+  "ced_unit": 2,
+  "ced_topic": "2.4",
+  "new": false
+ },
+ "QB-U2-MCQ019": {
+  "chapter": 4,
+  "section": 2,
+  "ced_unit": 2,
+  "ced_topic": "2.4",
+  "new": false
+ },
+ "QB-U2-MCQ026": {
+  "chapter": 4,
+  "section": 2,
+  "ced_unit": 2,
+  "ced_topic": "2.4",
+  "new": false
+ },
+ "QB-U1-MCQ007": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.9",
+  "new": false
+ },
+ "QB-U1-MCQ009": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.10",
+  "new": false
+ },
+ "QB-U1-MCQ010": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.8",
+  "new": false
+ },
+ "QB-U1-MCQ018": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.8",
+  "new": false
+ },
+ "QB-U1-MCQ019": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.9",
+  "new": false
+ },
+ "QB-U1-MCQ020": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.10",
+  "new": false
+ },
+ "QB-U1-MCQ021": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.11",
+  "new": false
+ },
+ "QB-U1-MCQ022": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.11",
+  "new": false
+ },
+ "QB-U1-MCQ026": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.8",
+  "new": false
+ },
+ "QB-U1-MCQ027": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.10",
+  "new": false
+ },
+ "QB-U1-MCQ028": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.10",
+  "new": false
+ },
+ "QB-U1-MCQ031": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.11",
+  "new": false
+ },
+ "QB-U1-MCQ002": {
+  "chapter": 4,
+  "section": 4,
+  "ced_unit": 1,
+  "ced_topic": "1.2",
+  "new": false
+ },
+ "QB-U1-MCQ008": {
+  "chapter": 4,
+  "section": 4,
+  "ced_unit": 1,
+  "ced_topic": "1.3",
+  "new": false
+ },
+ "QB-U1-MCQ012": {
+  "chapter": 4,
+  "section": 4,
+  "ced_unit": 1,
+  "ced_topic": "1.2",
+  "new": false
+ },
+ "QB-U1-MCQ013": {
+  "chapter": 4,
+  "section": 4,
+  "ced_unit": 1,
+  "ced_topic": "1.3",
+  "new": false
+ },
+ "QB-U1-MCQ023": {
+  "chapter": 4,
+  "section": 4,
+  "ced_unit": 1,
+  "ced_topic": "1.2",
+  "new": false
+ },
+ "QB-U1-MCQ024": {
+  "chapter": 4,
+  "section": 4,
+  "ced_unit": 1,
+  "ced_topic": "1.3",
+  "new": false
+ },
+ "QB-U2-MCQ001": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.1",
+  "new": false
+ },
+ "QB-U2-MCQ002": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.2",
+  "new": false
+ },
+ "QB-U2-MCQ003": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.7",
+  "new": false
+ },
+ "QB-U2-MCQ005": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.3",
+  "new": false
+ },
+ "QB-U2-MCQ006": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.5",
+  "new": false
+ },
+ "QB-U2-MCQ007": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.6",
+  "new": false
+ },
+ "QB-U2-MCQ008": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.7",
+  "new": false
+ },
+ "QB-U2-MCQ009": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.1",
+  "new": false
+ },
+ "QB-U2-MCQ010": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.2",
+  "new": false
+ },
+ "QB-U2-MCQ011": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.3",
+  "new": false
+ },
+ "QB-U2-MCQ013": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.5",
+  "new": false
+ },
+ "QB-U2-MCQ014": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.6",
+  "new": false
+ },
+ "QB-U2-MCQ015": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.7",
+  "new": false
+ },
+ "QB-U2-MCQ016": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.1",
+  "new": false
+ },
+ "QB-U2-MCQ017": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.2",
+  "new": false
+ },
+ "QB-U2-MCQ018": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.3",
+  "new": false
+ },
+ "QB-U2-MCQ020": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.5",
+  "new": false
+ },
+ "QB-U2-MCQ021": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.6",
+  "new": false
+ },
+ "QB-U2-MCQ022": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.7",
+  "new": false
+ },
+ "QB-U2-MCQ023": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.7",
+  "new": false
+ },
+ "QB-U2-MCQ024": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.2",
+  "new": false
+ },
+ "QB-U2-MCQ025": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.3",
+  "new": false
+ },
+ "QB-U2-MCQ027": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.6",
+  "new": false
+ },
+ "QB-U2-MCQ028": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.7",
+  "new": false
+ },
+ "QB-U2-FRQ001": {
+  "chapter": 4,
+  "section": 2,
+  "ced_unit": 2,
+  "ced_topic": "2.4",
+  "new": false
+ },
+ "QB-U1-FRQ002": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.8",
+  "new": false
+ },
+ "QB-U1-FRQ003": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.10",
+  "new": false
+ },
+ "QB-U1-FRQ004": {
+  "chapter": 4,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.11",
+  "new": false
+ },
+ "QB-U2-FRQ002": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.7",
+  "new": false
+ },
+ "QB-U2-FRQ003": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.2",
+  "new": false
+ },
+ "QB-U2-FRQ004": {
+  "chapter": 4,
+  "section": 5,
+  "ced_unit": 2,
+  "ced_topic": "2.3",
+  "new": false
+ },
+ "QB-U1-MCQ004": {
+  "chapter": 5,
+  "section": 1,
+  "ced_unit": 1,
+  "ced_topic": "1.4",
+  "new": false
+ },
+ "QB-U1-MCQ014": {
+  "chapter": 5,
+  "section": 1,
+  "ced_unit": 1,
+  "ced_topic": "1.4",
+  "new": false
+ },
+ "QB-U1-MCQ029": {
+  "chapter": 5,
+  "section": 1,
+  "ced_unit": 1,
+  "ced_topic": "1.4",
+  "new": false
+ },
+ "QB-U1-MCQ005": {
+  "chapter": 5,
+  "section": 2,
+  "ced_unit": 1,
+  "ced_topic": "1.5",
+  "new": false
+ },
+ "QB-U1-MCQ015": {
+  "chapter": 5,
+  "section": 2,
+  "ced_unit": 1,
+  "ced_topic": "1.5",
+  "new": false
+ },
+ "QB-U1-MCQ030": {
+  "chapter": 5,
+  "section": 2,
+  "ced_unit": 1,
+  "ced_topic": "1.5",
+  "new": false
+ },
+ "QB-U1-MCQ006": {
+  "chapter": 5,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.6",
+  "new": false
+ },
+ "QB-U1-MCQ016": {
+  "chapter": 5,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.6",
+  "new": false
+ },
+ "QB-C5-MCQ001": {
+  "chapter": 5,
+  "section": 4,
+  "ced_unit": 1,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C5-MCQ002": {
+  "chapter": 5,
+  "section": 4,
+  "ced_unit": 1,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C5-MCQ003": {
+  "chapter": 5,
+  "section": 4,
+  "ced_unit": 1,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U1-MCQ003": {
+  "chapter": 5,
+  "section": 5,
+  "ced_unit": 1,
+  "ced_topic": "1.7",
+  "new": false
+ },
+ "QB-U1-MCQ017": {
+  "chapter": 5,
+  "section": 5,
+  "ced_unit": 1,
+  "ced_topic": "1.7",
+  "new": false
+ },
+ "QB-U1-MCQ025": {
+  "chapter": 5,
+  "section": 5,
+  "ced_unit": 1,
+  "ced_topic": "1.7",
+  "new": false
+ },
+ "QB-U1-MCQ032": {
+  "chapter": 5,
+  "section": 5,
+  "ced_unit": 1,
+  "ced_topic": "1.7",
+  "new": false
+ },
+ "QB-C5-MCQ004": {
+  "chapter": 5,
+  "section": 6,
+  "ced_unit": 1,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C5-MCQ005": {
+  "chapter": 5,
+  "section": 6,
+  "ced_unit": 1,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C5-MCQ006": {
+  "chapter": 5,
+  "section": 6,
+  "ced_unit": 1,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U1-FRQ001": {
+  "chapter": 5,
+  "section": 3,
+  "ced_unit": 1,
+  "ced_topic": "1.6",
+  "new": false
+ },
+ "QB-U3-MCQ001": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.1",
+  "new": false
+ },
+ "QB-U3-MCQ002": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.2",
+  "new": false
+ },
+ "QB-U3-MCQ004": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.4",
+  "new": false
+ },
+ "QB-U3-MCQ010": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.4",
+  "new": false
+ },
+ "QB-U3-MCQ013": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.2",
+  "new": false
+ },
+ "QB-U3-MCQ014": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.1",
+  "new": false
+ },
+ "QB-U3-MCQ015": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.2",
+  "new": false
+ },
+ "QB-U3-MCQ016": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.2",
+  "new": false
+ },
+ "QB-U3-MCQ019": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.4",
+  "new": false
+ },
+ "QB-U3-MCQ020": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.4",
+  "new": false
+ },
+ "QB-U3-MCQ033": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.2",
+  "new": false
+ },
+ "QB-U3-MCQ034": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.4",
+  "new": false
+ },
+ "QB-U3-MCQ043": {
+  "chapter": 6,
+  "section": 1,
+  "ced_unit": 3,
+  "ced_topic": "3.1",
+  "new": false
+ },
+ "QB-U3-MCQ003": {
+  "chapter": 6,
+  "section": 2,
+  "ced_unit": 3,
+  "ced_topic": "3.3",
+  "new": false
+ },
+ "QB-U3-MCQ011": {
+  "chapter": 6,
+  "section": 2,
+  "ced_unit": 3,
+  "ced_topic": "3.3",
+  "new": false
+ },
+ "QB-U3-MCQ017": {
+  "chapter": 6,
+  "section": 2,
+  "ced_unit": 3,
+  "ced_topic": "3.3",
+  "new": false
+ },
+ "QB-U3-MCQ018": {
+  "chapter": 6,
+  "section": 2,
+  "ced_unit": 3,
+  "ced_topic": "3.3",
+  "new": false
+ },
+ "QB-U3-MCQ042": {
+  "chapter": 6,
+  "section": 2,
+  "ced_unit": 3,
+  "ced_topic": "3.3",
+  "new": false
+ },
+ "QB-U3-MCQ007": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.7",
+  "new": false
+ },
+ "QB-U3-MCQ008": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.8",
+  "new": false
+ },
+ "QB-U3-MCQ012": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.8",
+  "new": false
+ },
+ "QB-U3-MCQ025": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.7",
+  "new": false
+ },
+ "QB-U3-MCQ026": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.7",
+  "new": false
+ },
+ "QB-U3-MCQ027": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.8",
+  "new": false
+ },
+ "QB-U3-MCQ028": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.8",
+  "new": false
+ },
+ "QB-U3-MCQ029": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.8",
+  "new": false
+ },
+ "QB-U3-MCQ032": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.8",
+  "new": false
+ },
+ "QB-U3-MCQ035": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.7",
+  "new": false
+ },
+ "QB-U3-MCQ038": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.8",
+  "new": false
+ },
+ "QB-U3-MCQ039": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.8",
+  "new": false
+ },
+ "QB-U3-MCQ044": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.8",
+  "new": false
+ },
+ "QB-U3-MCQ009": {
+  "chapter": 6,
+  "section": 4,
+  "ced_unit": 3,
+  "ced_topic": "3.9",
+  "new": false
+ },
+ "QB-U3-MCQ030": {
+  "chapter": 6,
+  "section": 4,
+  "ced_unit": 3,
+  "ced_topic": "3.9",
+  "new": false
+ },
+ "QB-U3-MCQ031": {
+  "chapter": 6,
+  "section": 4,
+  "ced_unit": 3,
+  "ced_topic": "3.9",
+  "new": false
+ },
+ "QB-U3-MCQ041": {
+  "chapter": 6,
+  "section": 4,
+  "ced_unit": 3,
+  "ced_topic": "3.9",
+  "new": false
+ },
+ "QB-U3-MCQ006": {
+  "chapter": 6,
+  "section": 5,
+  "ced_unit": 3,
+  "ced_topic": "3.6",
+  "new": false
+ },
+ "QB-U3-MCQ023": {
+  "chapter": 6,
+  "section": 5,
+  "ced_unit": 3,
+  "ced_topic": "3.6",
+  "new": false
+ },
+ "QB-U3-MCQ024": {
+  "chapter": 6,
+  "section": 5,
+  "ced_unit": 3,
+  "ced_topic": "3.6",
+  "new": false
+ },
+ "QB-U3-MCQ036": {
+  "chapter": 6,
+  "section": 5,
+  "ced_unit": 3,
+  "ced_topic": "3.6",
+  "new": false
+ },
+ "QB-U3-MCQ005": {
+  "chapter": 6,
+  "section": 6,
+  "ced_unit": 3,
+  "ced_topic": "3.5",
+  "new": false
+ },
+ "QB-U3-MCQ021": {
+  "chapter": 6,
+  "section": 6,
+  "ced_unit": 3,
+  "ced_topic": "3.5",
+  "new": false
+ },
+ "QB-U3-MCQ022": {
+  "chapter": 6,
+  "section": 6,
+  "ced_unit": 3,
+  "ced_topic": "3.5",
+  "new": false
+ },
+ "QB-U3-MCQ037": {
+  "chapter": 6,
+  "section": 6,
+  "ced_unit": 3,
+  "ced_topic": "3.5",
+  "new": false
+ },
+ "QB-U3-MCQ040": {
+  "chapter": 6,
+  "section": 6,
+  "ced_unit": 3,
+  "ced_topic": "3.5",
+  "new": false
+ },
+ "QB-U5-MCQ010": {
+  "chapter": 6,
+  "section": 7,
+  "ced_unit": 5,
+  "ced_topic": "5.11",
+  "new": false
+ },
+ "QB-U5-MCQ028": {
+  "chapter": 6,
+  "section": 7,
+  "ced_unit": 5,
+  "ced_topic": "5.11",
+  "new": false
+ },
+ "QB-U5-MCQ029": {
+  "chapter": 6,
+  "section": 7,
+  "ced_unit": 5,
+  "ced_topic": "5.11",
+  "new": false
+ },
+ "QB-U3-FRQ004": {
+  "chapter": 6,
+  "section": 2,
+  "ced_unit": 3,
+  "ced_topic": "3.3",
+  "new": false
+ },
+ "QB-U3-FRQ003": {
+  "chapter": 6,
+  "section": 3,
+  "ced_unit": 3,
+  "ced_topic": "3.8",
+  "new": false
+ },
+ "QB-U3-FRQ002": {
+  "chapter": 6,
+  "section": 4,
+  "ced_unit": 3,
+  "ced_topic": "3.9",
+  "new": false
+ },
+ "QB-U3-FRQ001": {
+  "chapter": 6,
+  "section": 6,
+  "ced_unit": 3,
+  "ced_topic": "3.5",
+  "new": false
+ },
+ "QB-U5-MCQ003": {
+  "chapter": 7,
+  "section": 2,
+  "ced_unit": 5,
+  "ced_topic": "5.4",
+  "new": false
+ },
+ "QB-U5-MCQ006": {
+  "chapter": 7,
+  "section": 2,
+  "ced_unit": 5,
+  "ced_topic": "5.7",
+  "new": false
+ },
+ "QB-U5-MCQ018": {
+  "chapter": 7,
+  "section": 2,
+  "ced_unit": 5,
+  "ced_topic": "5.4",
+  "new": false
+ },
+ "QB-U5-MCQ024": {
+  "chapter": 7,
+  "section": 2,
+  "ced_unit": 5,
+  "ced_topic": "5.7",
+  "new": false
+ },
+ "QB-U5-MCQ036": {
+  "chapter": 7,
+  "section": 2,
+  "ced_unit": 5,
+  "ced_topic": "5.4",
+  "new": false
+ },
+ "QB-U5-MCQ038": {
+  "chapter": 7,
+  "section": 2,
+  "ced_unit": 5,
+  "ced_topic": "5.7",
+  "new": false
+ },
+ "QB-U5-MCQ039": {
+  "chapter": 7,
+  "section": 2,
+  "ced_unit": 5,
+  "ced_topic": "5.7",
+  "new": false
+ },
+ "QB-U5-MCQ016": {
+  "chapter": 7,
+  "section": 3,
+  "ced_unit": 5,
+  "ced_topic": "5.3",
+  "new": false
+ },
+ "QB-U5-MCQ017": {
+  "chapter": 7,
+  "section": 3,
+  "ced_unit": 5,
+  "ced_topic": "5.3",
+  "new": false
+ },
+ "QB-U5-MCQ013": {
+  "chapter": 7,
+  "section": 4,
+  "ced_unit": 5,
+  "ced_topic": "5.15",
+  "new": false
+ },
+ "QB-U5-MCQ031": {
+  "chapter": 7,
+  "section": 4,
+  "ced_unit": 5,
+  "ced_topic": "5.15",
+  "new": false
+ },
+ "QB-U5-MCQ044": {
+  "chapter": 7,
+  "section": 4,
+  "ced_unit": 5,
+  "ced_topic": "5.15",
+  "new": false
+ },
+ "QB-U5-MCQ005": {
+  "chapter": 7,
+  "section": 5,
+  "ced_unit": 5,
+  "ced_topic": "5.6",
+  "new": false
+ },
+ "QB-U5-MCQ012": {
+  "chapter": 7,
+  "section": 5,
+  "ced_unit": 5,
+  "ced_topic": "5.14",
+  "new": false
+ },
+ "QB-U5-MCQ022": {
+  "chapter": 7,
+  "section": 5,
+  "ced_unit": 5,
+  "ced_topic": "5.6",
+  "new": false
+ },
+ "QB-U5-MCQ023": {
+  "chapter": 7,
+  "section": 5,
+  "ced_unit": 5,
+  "ced_topic": "5.6",
+  "new": false
+ },
+ "QB-U5-MCQ043": {
+  "chapter": 7,
+  "section": 5,
+  "ced_unit": 5,
+  "ced_topic": "5.14",
+  "new": false
+ },
+ "QB-U5-MCQ034": {
+  "chapter": 7,
+  "section": 6,
+  "ced_unit": 5,
+  "ced_topic": "5.17",
+  "new": false
+ },
+ "QB-U5-MCQ035": {
+  "chapter": 7,
+  "section": 6,
+  "ced_unit": 5,
+  "ced_topic": "5.17",
+  "new": false
+ },
+ "QB-C7-MCQ001": {
+  "chapter": 7,
+  "section": 7,
+  "ced_unit": 5,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C7-MCQ002": {
+  "chapter": 7,
+  "section": 7,
+  "ced_unit": 5,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C7-MCQ003": {
+  "chapter": 7,
+  "section": 7,
+  "ced_unit": 5,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C7-MCQ004": {
+  "chapter": 7,
+  "section": 8,
+  "ced_unit": 5,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C7-MCQ005": {
+  "chapter": 7,
+  "section": 8,
+  "ced_unit": 5,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C7-MCQ006": {
+  "chapter": 7,
+  "section": 8,
+  "ced_unit": 5,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U5-MCQ002": {
+  "chapter": 7,
+  "section": 9,
+  "ced_unit": 5,
+  "ced_topic": "5.2",
+  "new": false
+ },
+ "QB-U5-MCQ015": {
+  "chapter": 7,
+  "section": 9,
+  "ced_unit": 5,
+  "ced_topic": "5.2",
+  "new": false
+ },
+ "QB-C7-MCQ007": {
+  "chapter": 7,
+  "section": 10,
+  "ced_unit": 5,
+  "ced_topic": "5.4",
+  "new": true
+ },
+ "QB-C7-MCQ008": {
+  "chapter": 7,
+  "section": 10,
+  "ced_unit": 5,
+  "ced_topic": "5.4",
+  "new": true
+ },
+ "QB-C7-MCQ009": {
+  "chapter": 7,
+  "section": 10,
+  "ced_unit": 5,
+  "ced_topic": "5.4",
+  "new": true
+ },
+ "QB-U5-MCQ009": {
+  "chapter": 7,
+  "section": 11,
+  "ced_unit": 5,
+  "ced_topic": "5.10",
+  "new": false
+ },
+ "QB-U5-MCQ011": {
+  "chapter": 7,
+  "section": 11,
+  "ced_unit": 5,
+  "ced_topic": "5.13",
+  "new": false
+ },
+ "QB-U5-MCQ027": {
+  "chapter": 7,
+  "section": 11,
+  "ced_unit": 5,
+  "ced_topic": "5.10",
+  "new": false
+ },
+ "QB-U5-MCQ030": {
+  "chapter": 7,
+  "section": 11,
+  "ced_unit": 5,
+  "ced_topic": "5.13",
+  "new": false
+ },
+ "QB-U5-MCQ041": {
+  "chapter": 7,
+  "section": 11,
+  "ced_unit": 5,
+  "ced_topic": "5.10",
+  "new": false
+ },
+ "QB-C7-MCQ010": {
+  "chapter": 7,
+  "section": 12,
+  "ced_unit": 5,
+  "ced_topic": "5.10",
+  "new": true
+ },
+ "QB-C7-MCQ011": {
+  "chapter": 7,
+  "section": 12,
+  "ced_unit": 5,
+  "ced_topic": "5.10",
+  "new": true
+ },
+ "QB-C7-MCQ012": {
+  "chapter": 7,
+  "section": 12,
+  "ced_unit": 5,
+  "ced_topic": "5.10",
+  "new": true
+ },
+ "QB-C7-MCQ013": {
+  "chapter": 7,
+  "section": 13,
+  "ced_unit": 5,
+  "ced_topic": "5.1",
+  "new": true
+ },
+ "QB-C7-MCQ014": {
+  "chapter": 7,
+  "section": 13,
+  "ced_unit": 5,
+  "ced_topic": "5.1",
+  "new": true
+ },
+ "QB-C7-MCQ015": {
+  "chapter": 7,
+  "section": 13,
+  "ced_unit": 5,
+  "ced_topic": "5.1",
+  "new": true
+ },
+ "QB-U5-MCQ008": {
+  "chapter": 7,
+  "section": 14,
+  "ced_unit": 5,
+  "ced_topic": "5.9",
+  "new": false
+ },
+ "QB-U5-MCQ026": {
+  "chapter": 7,
+  "section": 14,
+  "ced_unit": 5,
+  "ced_topic": "5.9",
+  "new": false
+ },
+ "QB-U5-MCQ040": {
+  "chapter": 7,
+  "section": 14,
+  "ced_unit": 5,
+  "ced_topic": "5.9",
+  "new": false
+ },
+ "QB-C7-MCQ016": {
+  "chapter": 7,
+  "section": 15,
+  "ced_unit": 5,
+  "ced_topic": "5.9",
+  "new": true
+ },
+ "QB-C7-MCQ017": {
+  "chapter": 7,
+  "section": 15,
+  "ced_unit": 5,
+  "ced_topic": "5.9",
+  "new": true
+ },
+ "QB-C7-MCQ018": {
+  "chapter": 7,
+  "section": 15,
+  "ced_unit": 5,
+  "ced_topic": "5.9",
+  "new": true
+ },
+ "QB-U5-MCQ007": {
+  "chapter": 7,
+  "section": 16,
+  "ced_unit": 5,
+  "ced_topic": "5.8",
+  "new": false
+ },
+ "QB-U5-MCQ025": {
+  "chapter": 7,
+  "section": 16,
+  "ced_unit": 5,
+  "ced_topic": "5.8",
+  "new": false
+ },
+ "QB-U5-MCQ032": {
+  "chapter": 7,
+  "section": 16,
+  "ced_unit": 5,
+  "ced_topic": "5.16",
+  "new": false
+ },
+ "QB-U5-MCQ033": {
+  "chapter": 7,
+  "section": 16,
+  "ced_unit": 5,
+  "ced_topic": "5.16",
+  "new": false
+ },
+ "QB-C7-MCQ019": {
+  "chapter": 7,
+  "section": 17,
+  "ced_unit": 5,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C7-MCQ020": {
+  "chapter": 7,
+  "section": 17,
+  "ced_unit": 5,
+  "ced_topic": "5.11",
+  "new": true
+ },
+ "QB-C7-MCQ021": {
+  "chapter": 7,
+  "section": 17,
+  "ced_unit": 5,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U5-MCQ001": {
+  "chapter": 7,
+  "section": 18,
+  "ced_unit": 5,
+  "ced_topic": "5.1",
+  "new": false
+ },
+ "QB-U5-MCQ014": {
+  "chapter": 7,
+  "section": 18,
+  "ced_unit": 5,
+  "ced_topic": "5.1",
+  "new": false
+ },
+ "QB-U5-FRQ001": {
+  "chapter": 7,
+  "section": 2,
+  "ced_unit": 5,
+  "ced_topic": "5.7",
+  "new": false
+ },
+ "QB-U5-FRQ003": {
+  "chapter": 7,
+  "section": 11,
+  "ced_unit": 5,
+  "ced_topic": "5.10",
+  "new": false
+ },
+ "QB-C7-FRQ001": {
+  "chapter": 7,
+  "section": 15,
+  "ced_unit": 5,
+  "ced_topic": "5.9",
+  "new": true
+ },
+ "QB-U5-FRQ004": {
+  "chapter": 7,
+  "section": 16,
+  "ced_unit": 5,
+  "ced_topic": "5.8",
+  "new": false
+ },
+ "QB-C8-MCQ001": {
+  "chapter": 8,
+  "section": 1,
+  "ced_unit": 6,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U6-MCQ001": {
+  "chapter": 8,
+  "section": 1,
+  "ced_unit": 6,
+  "ced_topic": "6.1",
+  "new": false
+ },
+ "QB-C8-MCQ002": {
+  "chapter": 8,
+  "section": 1,
+  "ced_unit": 6,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U6-MCQ014": {
+  "chapter": 8,
+  "section": 1,
+  "ced_unit": 6,
+  "ced_topic": "6.1",
+  "new": false
+ },
+ "QB-C8-MCQ003": {
+  "chapter": 8,
+  "section": 1,
+  "ced_unit": 6,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U6-MCQ002": {
+  "chapter": 8,
+  "section": 2,
+  "ced_unit": 6,
+  "ced_topic": "6.2",
+  "new": false
+ },
+ "QB-U6-MCQ015": {
+  "chapter": 8,
+  "section": 2,
+  "ced_unit": 6,
+  "ced_topic": "6.2",
+  "new": false
+ },
+ "QB-U6-MCQ016": {
+  "chapter": 8,
+  "section": 2,
+  "ced_unit": 6,
+  "ced_topic": "6.2",
+  "new": false
+ },
+ "QB-U6-MCQ042": {
+  "chapter": 8,
+  "section": 2,
+  "ced_unit": 6,
+  "ced_topic": "6.2",
+  "new": false
+ },
+ "QB-U6-MCQ003": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.3",
+  "new": false
+ },
+ "QB-U6-MCQ004": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.3",
+  "new": false
+ },
+ "QB-U6-MCQ005": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.3",
+  "new": false
+ },
+ "QB-U6-MCQ006": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.5",
+  "new": false
+ },
+ "QB-U6-MCQ007": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.6",
+  "new": false
+ },
+ "QB-U6-MCQ017": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.3",
+  "new": false
+ },
+ "QB-U6-MCQ018": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.3",
+  "new": false
+ },
+ "QB-U6-MCQ019": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.4",
+  "new": false
+ },
+ "QB-U6-MCQ020": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.4",
+  "new": false
+ },
+ "QB-U6-MCQ021": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.5",
+  "new": false
+ },
+ "QB-U6-MCQ022": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.5",
+  "new": false
+ },
+ "QB-U6-MCQ023": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.6",
+  "new": false
+ },
+ "QB-U6-MCQ024": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.6",
+  "new": false
+ },
+ "QB-U6-MCQ025": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.6",
+  "new": false
+ },
+ "QB-U6-MCQ036": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.5",
+  "new": false
+ },
+ "QB-U6-MCQ037": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.6",
+  "new": false
+ },
+ "QB-U6-MCQ038": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.5",
+  "new": false
+ },
+ "QB-U6-MCQ008": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.8",
+  "new": false
+ },
+ "QB-U6-MCQ009": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.9",
+  "new": false
+ },
+ "QB-U6-MCQ010": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.12",
+  "new": false
+ },
+ "QB-U6-MCQ012": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.11",
+  "new": false
+ },
+ "QB-U6-MCQ013": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.10",
+  "new": false
+ },
+ "QB-U6-MCQ026": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.7",
+  "new": false
+ },
+ "QB-U6-MCQ027": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.8",
+  "new": false
+ },
+ "QB-U6-MCQ028": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.8",
+  "new": false
+ },
+ "QB-U6-MCQ029": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.9",
+  "new": false
+ },
+ "QB-U6-MCQ030": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.10",
+  "new": false
+ },
+ "QB-U6-MCQ031": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.11",
+  "new": false
+ },
+ "QB-U6-MCQ032": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.12",
+  "new": false
+ },
+ "QB-U6-MCQ035": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.7",
+  "new": false
+ },
+ "QB-U6-MCQ039": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.11",
+  "new": false
+ },
+ "QB-U6-MCQ040": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.12",
+  "new": false
+ },
+ "QB-U6-MCQ041": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.9",
+  "new": false
+ },
+ "QB-U6-MCQ044": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.7",
+  "new": false
+ },
+ "QB-U6-MCQ011": {
+  "chapter": 8,
+  "section": 5,
+  "ced_unit": 6,
+  "ced_topic": "6.13",
+  "new": false
+ },
+ "QB-U6-MCQ033": {
+  "chapter": 8,
+  "section": 5,
+  "ced_unit": 6,
+  "ced_topic": "6.13",
+  "new": false
+ },
+ "QB-U6-MCQ034": {
+  "chapter": 8,
+  "section": 5,
+  "ced_unit": 6,
+  "ced_topic": "6.13",
+  "new": false
+ },
+ "QB-U6-MCQ043": {
+  "chapter": 8,
+  "section": 5,
+  "ced_unit": 6,
+  "ced_topic": "6.13",
+  "new": false
+ },
+ "QB-C8-MCQ004": {
+  "chapter": 8,
+  "section": 6,
+  "ced_unit": 6,
+  "ced_topic": "6.13",
+  "new": true
+ },
+ "QB-C8-MCQ005": {
+  "chapter": 8,
+  "section": 6,
+  "ced_unit": 6,
+  "ced_topic": "6.13",
+  "new": true
+ },
+ "QB-C8-MCQ006": {
+  "chapter": 8,
+  "section": 6,
+  "ced_unit": 6,
+  "ced_topic": "6.13",
+  "new": true
+ },
+ "QB-C8-MCQ007": {
+  "chapter": 8,
+  "section": 7,
+  "ced_unit": 6,
+  "ced_topic": "6.13",
+  "new": true
+ },
+ "QB-C8-MCQ008": {
+  "chapter": 8,
+  "section": 7,
+  "ced_unit": 6,
+  "ced_topic": "6.13",
+  "new": true
+ },
+ "QB-C8-MCQ009": {
+  "chapter": 8,
+  "section": 7,
+  "ced_unit": 6,
+  "ced_topic": "6.13",
+  "new": true
+ },
+ "QB-U6-FRQ001": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.5",
+  "new": false
+ },
+ "QB-U6-FRQ004": {
+  "chapter": 8,
+  "section": 3,
+  "ced_unit": 6,
+  "ced_topic": "6.6",
+  "new": false
+ },
+ "QB-U6-FRQ002": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.12",
+  "new": false
+ },
+ "QB-U6-FRQ003": {
+  "chapter": 8,
+  "section": 4,
+  "ced_unit": 6,
+  "ced_topic": "6.8",
+  "new": false
+ },
+ "QB-U7-MCQ001": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.1",
+  "new": false
+ },
+ "QB-U7-MCQ005": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.6",
+  "new": false
+ },
+ "QB-U7-MCQ007": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.3",
+  "new": false
+ },
+ "QB-U7-MCQ009": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.1",
+  "new": false
+ },
+ "QB-U7-MCQ012": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.3",
+  "new": false
+ },
+ "QB-U7-MCQ013": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.6",
+  "new": false
+ },
+ "QB-U7-MCQ016": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.6",
+  "new": false
+ },
+ "QB-U7-MCQ018": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.1",
+  "new": false
+ },
+ "QB-U7-MCQ022": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.3",
+  "new": false
+ },
+ "QB-U7-MCQ023": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.6",
+  "new": false
+ },
+ "QB-U7-MCQ029": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.6",
+  "new": false
+ },
+ "QB-U7-MCQ030": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.6",
+  "new": false
+ },
+ "QB-U7-MCQ031": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.3",
+  "new": false
+ },
+ "QB-U7-MCQ034": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.1",
+  "new": false
+ },
+ "QB-U7-MCQ002": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.4",
+  "new": false
+ },
+ "QB-U7-MCQ004": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.5",
+  "new": false
+ },
+ "QB-U7-MCQ008": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.2",
+  "new": false
+ },
+ "QB-U7-MCQ010": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.5",
+  "new": false
+ },
+ "QB-U7-MCQ011": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.2",
+  "new": false
+ },
+ "QB-U7-MCQ014": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.5",
+  "new": false
+ },
+ "QB-U7-MCQ017": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.4",
+  "new": false
+ },
+ "QB-U7-MCQ020": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.2",
+  "new": false
+ },
+ "QB-U7-MCQ024": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.5",
+  "new": false
+ },
+ "QB-U7-MCQ025": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.2",
+  "new": false
+ },
+ "QB-U7-MCQ026": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.4",
+  "new": false
+ },
+ "QB-U7-MCQ006": {
+  "chapter": 9,
+  "section": 3,
+  "ced_unit": 7,
+  "ced_topic": "7.7",
+  "new": false
+ },
+ "QB-U7-MCQ015": {
+  "chapter": 9,
+  "section": 3,
+  "ced_unit": 7,
+  "ced_topic": "7.7",
+  "new": false
+ },
+ "QB-U7-MCQ021": {
+  "chapter": 9,
+  "section": 3,
+  "ced_unit": 7,
+  "ced_topic": "7.7",
+  "new": false
+ },
+ "QB-U7-MCQ028": {
+  "chapter": 9,
+  "section": 3,
+  "ced_unit": 7,
+  "ced_topic": "7.7",
+  "new": false
+ },
+ "QB-U7-MCQ032": {
+  "chapter": 9,
+  "section": 3,
+  "ced_unit": 7,
+  "ced_topic": "7.7",
+  "new": false
+ },
+ "QB-U8-MCQ004": {
+  "chapter": 9,
+  "section": 4,
+  "ced_unit": 8,
+  "ced_topic": "8.6",
+  "new": false
+ },
+ "QB-U8-MCQ018": {
+  "chapter": 9,
+  "section": 4,
+  "ced_unit": 8,
+  "ced_topic": "8.6",
+  "new": false
+ },
+ "QB-U7-MCQ003": {
+  "chapter": 9,
+  "section": 5,
+  "ced_unit": 7,
+  "ced_topic": "7.8",
+  "new": false
+ },
+ "QB-U7-MCQ019": {
+  "chapter": 9,
+  "section": 5,
+  "ced_unit": 7,
+  "ced_topic": "7.8",
+  "new": false
+ },
+ "QB-U7-MCQ027": {
+  "chapter": 9,
+  "section": 5,
+  "ced_unit": 7,
+  "ced_topic": "7.8",
+  "new": false
+ },
+ "QB-U7-MCQ033": {
+  "chapter": 9,
+  "section": 5,
+  "ced_unit": 7,
+  "ced_topic": "7.8",
+  "new": false
+ },
+ "QB-U8-MCQ001": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.1",
+  "new": false
+ },
+ "QB-U8-MCQ003": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.4",
+  "new": false
+ },
+ "QB-U8-MCQ009": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.2",
+  "new": false
+ },
+ "QB-U8-MCQ011": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.5",
+  "new": false
+ },
+ "QB-U8-MCQ012": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.5",
+  "new": false
+ },
+ "QB-U8-MCQ013": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.1",
+  "new": false
+ },
+ "QB-U8-MCQ014": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.2",
+  "new": false
+ },
+ "QB-U8-MCQ015": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.2",
+  "new": false
+ },
+ "QB-U8-MCQ017": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.4",
+  "new": false
+ },
+ "QB-U8-MCQ028": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.5",
+  "new": false
+ },
+ "QB-U8-MCQ030": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.2",
+  "new": false
+ },
+ "QB-C9-MCQ001": {
+  "chapter": 9,
+  "section": 7,
+  "ced_unit": 8,
+  "ced_topic": "8.1",
+  "new": true
+ },
+ "QB-C9-MCQ002": {
+  "chapter": 9,
+  "section": 7,
+  "ced_unit": 8,
+  "ced_topic": "8.1",
+  "new": true
+ },
+ "QB-C9-MCQ003": {
+  "chapter": 9,
+  "section": 7,
+  "ced_unit": 8,
+  "ced_topic": "8.1",
+  "new": true
+ },
+ "QB-C9-MCQ004": {
+  "chapter": 9,
+  "section": 8,
+  "ced_unit": 8,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C9-MCQ005": {
+  "chapter": 9,
+  "section": 8,
+  "ced_unit": 8,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C9-MCQ006": {
+  "chapter": 9,
+  "section": 8,
+  "ced_unit": 8,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C9-MCQ007": {
+  "chapter": 9,
+  "section": 9,
+  "ced_unit": 8,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C9-MCQ008": {
+  "chapter": 9,
+  "section": 9,
+  "ced_unit": 8,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C9-MCQ009": {
+  "chapter": 9,
+  "section": 9,
+  "ced_unit": 8,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U8-MCQ008": {
+  "chapter": 9,
+  "section": 10,
+  "ced_unit": 8,
+  "ced_topic": "8.11",
+  "new": false
+ },
+ "QB-U8-MCQ024": {
+  "chapter": 9,
+  "section": 10,
+  "ced_unit": 8,
+  "ced_topic": "8.11",
+  "new": false
+ },
+ "QB-U8-MCQ006": {
+  "chapter": 9,
+  "section": 11,
+  "ced_unit": 8,
+  "ced_topic": "8.9",
+  "new": false
+ },
+ "QB-U8-MCQ010": {
+  "chapter": 9,
+  "section": 11,
+  "ced_unit": 8,
+  "ced_topic": "8.10",
+  "new": false
+ },
+ "QB-U8-MCQ021": {
+  "chapter": 9,
+  "section": 11,
+  "ced_unit": 8,
+  "ced_topic": "8.9",
+  "new": false
+ },
+ "QB-U8-MCQ022": {
+  "chapter": 9,
+  "section": 11,
+  "ced_unit": 8,
+  "ced_topic": "8.10",
+  "new": false
+ },
+ "QB-U8-MCQ023": {
+  "chapter": 9,
+  "section": 11,
+  "ced_unit": 8,
+  "ced_topic": "8.10",
+  "new": false
+ },
+ "QB-U8-MCQ033": {
+  "chapter": 9,
+  "section": 11,
+  "ced_unit": 8,
+  "ced_topic": "8.10",
+  "new": false
+ },
+ "QB-U7-FRQ003": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.6",
+  "new": false
+ },
+ "QB-U7-FRQ004": {
+  "chapter": 9,
+  "section": 1,
+  "ced_unit": 7,
+  "ced_topic": "7.3",
+  "new": false
+ },
+ "QB-U7-FRQ001": {
+  "chapter": 9,
+  "section": 2,
+  "ced_unit": 7,
+  "ced_topic": "7.5",
+  "new": false
+ },
+ "QB-U7-FRQ002": {
+  "chapter": 9,
+  "section": 3,
+  "ced_unit": 7,
+  "ced_topic": "7.7",
+  "new": false
+ },
+ "QB-U8-FRQ001": {
+  "chapter": 9,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.5",
+  "new": false
+ },
+ "QB-C9-FRQ001": {
+  "chapter": 9,
+  "section": 8,
+  "ced_unit": 8,
+  "ced_topic": "8.1",
+  "new": true
+ },
+ "QB-U8-FRQ003": {
+  "chapter": 9,
+  "section": 11,
+  "ced_unit": 8,
+  "ced_topic": "8.10",
+  "new": false
+ },
+ "QB-U8-MCQ027": {
+  "chapter": 10,
+  "section": 1,
+  "ced_unit": 8,
+  "ced_topic": "8.15",
+  "new": false
+ },
+ "QB-U8-MCQ032": {
+  "chapter": 10,
+  "section": 1,
+  "ced_unit": 8,
+  "ced_topic": "8.14",
+  "new": false
+ },
+ "QB-U8-MCQ007": {
+  "chapter": 10,
+  "section": 2,
+  "ced_unit": 8,
+  "ced_topic": "8.12",
+  "new": false
+ },
+ "QB-U8-MCQ025": {
+  "chapter": 10,
+  "section": 2,
+  "ced_unit": 8,
+  "ced_topic": "8.12",
+  "new": false
+ },
+ "QB-U8-MCQ026": {
+  "chapter": 10,
+  "section": 2,
+  "ced_unit": 8,
+  "ced_topic": "8.13",
+  "new": false
+ },
+ "QB-U8-MCQ034": {
+  "chapter": 10,
+  "section": 2,
+  "ced_unit": 8,
+  "ced_topic": "8.13",
+  "new": false
+ },
+ "QB-U8-MCQ002": {
+  "chapter": 10,
+  "section": 3,
+  "ced_unit": 8,
+  "ced_topic": "8.3",
+  "new": false
+ },
+ "QB-U8-MCQ005": {
+  "chapter": 10,
+  "section": 3,
+  "ced_unit": 8,
+  "ced_topic": "8.7",
+  "new": false
+ },
+ "QB-U8-MCQ016": {
+  "chapter": 10,
+  "section": 3,
+  "ced_unit": 8,
+  "ced_topic": "8.3",
+  "new": false
+ },
+ "QB-U8-MCQ019": {
+  "chapter": 10,
+  "section": 3,
+  "ced_unit": 8,
+  "ced_topic": "8.7",
+  "new": false
+ },
+ "QB-C10-MCQ001": {
+  "chapter": 10,
+  "section": 4,
+  "ced_unit": 8,
+  "ced_topic": "8.9",
+  "new": true
+ },
+ "QB-C10-MCQ002": {
+  "chapter": 10,
+  "section": 4,
+  "ced_unit": 8,
+  "ced_topic": "8.9",
+  "new": true
+ },
+ "QB-C10-MCQ003": {
+  "chapter": 10,
+  "section": 4,
+  "ced_unit": 8,
+  "ced_topic": "8.9",
+  "new": true
+ },
+ "QB-C10-MCQ004": {
+  "chapter": 10,
+  "section": 5,
+  "ced_unit": 8,
+  "ced_topic": "8.9",
+  "new": true
+ },
+ "QB-C10-MCQ005": {
+  "chapter": 10,
+  "section": 5,
+  "ced_unit": 8,
+  "ced_topic": "8.9",
+  "new": true
+ },
+ "QB-C10-MCQ006": {
+  "chapter": 10,
+  "section": 5,
+  "ced_unit": 8,
+  "ced_topic": "8.9",
+  "new": true
+ },
+ "QB-U8-MCQ020": {
+  "chapter": 10,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.8",
+  "new": false
+ },
+ "QB-U8-MCQ029": {
+  "chapter": 10,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.8",
+  "new": false
+ },
+ "QB-U8-MCQ031": {
+  "chapter": 10,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.8",
+  "new": false
+ },
+ "QB-C10-MCQ007": {
+  "chapter": 10,
+  "section": 7,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C10-MCQ008": {
+  "chapter": 10,
+  "section": 7,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-C10-MCQ009": {
+  "chapter": 10,
+  "section": 7,
+  "ced_unit": 0,
+  "ced_topic": "ext",
+  "new": true
+ },
+ "QB-U5-MCQ042": {
+  "chapter": 10,
+  "section": 8,
+  "ced_unit": 5,
+  "ced_topic": "5.12",
+  "new": false
+ },
+ "QB-U8-FRQ004": {
+  "chapter": 10,
+  "section": 2,
+  "ced_unit": 8,
+  "ced_topic": "8.13",
+  "new": false
+ },
+ "QB-C10-FRQ001": {
+  "chapter": 10,
+  "section": 4,
+  "ced_unit": 8,
+  "ced_topic": "8.9",
+  "new": true
+ },
+ "QB-U8-FRQ002": {
+  "chapter": 10,
+  "section": 6,
+  "ced_unit": 8,
+  "ced_topic": "8.8",
+  "new": false
+ },
+ "QB-U9-MCQ001": {
+  "chapter": 11,
+  "section": 1,
+  "ced_unit": 9,
+  "ced_topic": "9.1",
+  "new": false
+ },
+ "QB-U9-MCQ002": {
+  "chapter": 11,
+  "section": 1,
+  "ced_unit": 9,
+  "ced_topic": "9.1",
+  "new": false
+ },
+ "QB-U9-MCQ018": {
+  "chapter": 11,
+  "section": 1,
+  "ced_unit": 9,
+  "ced_topic": "9.1",
+  "new": false
+ },
+ "QB-U9-MCQ019": {
+  "chapter": 11,
+  "section": 1,
+  "ced_unit": 9,
+  "ced_topic": "9.1",
+  "new": false
+ },
+ "QB-U9-MCQ046": {
+  "chapter": 11,
+  "section": 1,
+  "ced_unit": 9,
+  "ced_topic": "9.1",
+  "new": false
+ },
+ "QB-U9-MCQ003": {
+  "chapter": 11,
+  "section": 2,
+  "ced_unit": 9,
+  "ced_topic": "9.2",
+  "new": false
+ },
+ "QB-U9-MCQ004": {
+  "chapter": 11,
+  "section": 2,
+  "ced_unit": 9,
+  "ced_topic": "9.2",
+  "new": false
+ },
+ "QB-U9-MCQ020": {
+  "chapter": 11,
+  "section": 2,
+  "ced_unit": 9,
+  "ced_topic": "9.2",
+  "new": false
+ },
+ "QB-U9-MCQ047": {
+  "chapter": 11,
+  "section": 2,
+  "ced_unit": 9,
+  "ced_topic": "9.2",
+  "new": false
+ },
+ "QB-U9-MCQ005": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.3",
+  "new": false
+ },
+ "QB-U9-MCQ006": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.3",
+  "new": false
+ },
+ "QB-U9-MCQ007": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.4",
+  "new": false
+ },
+ "QB-U9-MCQ008": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.4",
+  "new": false
+ },
+ "QB-U9-MCQ009": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": false
+ },
+ "QB-U9-MCQ021": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.3",
+  "new": false
+ },
+ "QB-U9-MCQ022": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.3",
+  "new": false
+ },
+ "QB-U9-MCQ023": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.4",
+  "new": false
+ },
+ "QB-U9-MCQ024": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.4",
+  "new": false
+ },
+ "QB-U9-MCQ025": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": false
+ },
+ "QB-U9-MCQ026": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": false
+ },
+ "QB-U9-MCQ027": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": false
+ },
+ "QB-U9-MCQ028": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": false
+ },
+ "QB-U9-MCQ029": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": false
+ },
+ "QB-U9-MCQ048": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.3",
+  "new": false
+ },
+ "QB-U9-MCQ049": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.3",
+  "new": false
+ },
+ "QB-U9-MCQ050": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": false
+ },
+ "QB-U9-MCQ051": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": false
+ },
+ "QB-U9-MCQ052": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": false
+ },
+ "QB-U9-MCQ010": {
+  "chapter": 11,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.6",
+  "new": false
+ },
+ "QB-U9-MCQ011": {
+  "chapter": 11,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.7",
+  "new": false
+ },
+ "QB-U9-MCQ030": {
+  "chapter": 11,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.6",
+  "new": false
+ },
+ "QB-U9-MCQ031": {
+  "chapter": 11,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.6",
+  "new": false
+ },
+ "QB-U9-MCQ032": {
+  "chapter": 11,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.7",
+  "new": false
+ },
+ "QB-U9-MCQ033": {
+  "chapter": 11,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.7",
+  "new": false
+ },
+ "QB-U9-MCQ034": {
+  "chapter": 11,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.7",
+  "new": false
+ },
+ "QB-U9-MCQ035": {
+  "chapter": 11,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.7",
+  "new": false
+ },
+ "QB-U9-MCQ053": {
+  "chapter": 11,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.7",
+  "new": false
+ },
+ "QB-C11-MCQ001": {
+  "chapter": 11,
+  "section": 5,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": true
+ },
+ "QB-C11-MCQ002": {
+  "chapter": 11,
+  "section": 5,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": true
+ },
+ "QB-C11-MCQ003": {
+  "chapter": 11,
+  "section": 5,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": true
+ },
+ "QB-C11-MCQ004": {
+  "chapter": 11,
+  "section": 5,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": true
+ },
+ "QB-U9-MCQ012": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.8",
+  "new": false
+ },
+ "QB-U9-MCQ013": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.8",
+  "new": false
+ },
+ "QB-U9-MCQ014": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.9",
+  "new": false
+ },
+ "QB-U9-MCQ015": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.9",
+  "new": false
+ },
+ "QB-U9-MCQ016": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.10",
+  "new": false
+ },
+ "QB-U9-MCQ017": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.10",
+  "new": false
+ },
+ "QB-U9-MCQ036": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.8",
+  "new": false
+ },
+ "QB-U9-MCQ037": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.8",
+  "new": false
+ },
+ "QB-U9-MCQ038": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.8",
+  "new": false
+ },
+ "QB-U9-MCQ039": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.8",
+  "new": false
+ },
+ "QB-U9-MCQ040": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.9",
+  "new": false
+ },
+ "QB-U9-MCQ041": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.9",
+  "new": false
+ },
+ "QB-U9-MCQ042": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.10",
+  "new": false
+ },
+ "QB-U9-MCQ043": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.10",
+  "new": false
+ },
+ "QB-U9-MCQ044": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.10",
+  "new": false
+ },
+ "QB-U9-MCQ045": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.10",
+  "new": false
+ },
+ "QB-U9-MCQ054": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.8",
+  "new": false
+ },
+ "QB-U9-MCQ055": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.9",
+  "new": false
+ },
+ "QB-U9-MCQ056": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.10",
+  "new": false
+ },
+ "QB-U9-FRQ003": {
+  "chapter": 11,
+  "section": 1,
+  "ced_unit": 9,
+  "ced_topic": "9.1",
+  "new": false
+ },
+ "QB-U9-FRQ004": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.5",
+  "new": false
+ },
+ "QB-U9-FRQ005": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.3",
+  "new": false
+ },
+ "QB-U9-FRQ006": {
+  "chapter": 11,
+  "section": 3,
+  "ced_unit": 9,
+  "ced_topic": "9.4",
+  "new": false
+ },
+ "QB-U9-FRQ001": {
+  "chapter": 11,
+  "section": 4,
+  "ced_unit": 9,
+  "ced_topic": "9.7",
+  "new": false
+ },
+ "QB-U9-FRQ002": {
+  "chapter": 11,
+  "section": 6,
+  "ced_unit": 9,
+  "ced_topic": "9.8",
+  "new": false
+ }
+}

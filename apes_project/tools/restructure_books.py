@@ -19,6 +19,10 @@ def parse_blocks(text, kind):
         else: i += 1
     return out
 
+def _int(v, default=0):
+    try: return int(v)
+    except Exception: return default
+
 def meta_of(h):
     d = {}
     for part in h.split("|"):
@@ -30,14 +34,14 @@ def load_questions():
     qs = {}
     for f in sorted(glob.glob(f"{C}/book2/U?.md")):
         for qid, h, body, raw in parse_blocks(open(f).read(), "q"):
-            m = meta_of(h); topic = m.get("topic", ""); unit = int(m.get("unit", "0") or 0)
+            m = meta_of(h); topic = m.get("topic", ""); unit = _int(m.get("unit", "0"))
             if topic in CED: ch, sec = CED[topic][0], CED[topic][1]
             else: ch, sec = UNIT_DEFAULT_CH.get(unit, 4), 1
-            qs[qid] = dict(raw=raw, ch=ch, sec=sec, unit=unit, topic=topic, diff=int(m.get("diff", "2") or 2), src=os.path.basename(f), new=False, kind="FRQ" if "FRQ" in qid else "MCQ")
+            qs[qid] = dict(raw=raw, ch=ch, sec=sec, unit=unit, topic=topic, diff=_int(m.get("diff", "2"), 2), src=os.path.basename(f), new=False, kind="FRQ" if "FRQ" in qid else "MCQ")
     for f in sorted(glob.glob(f"{C}/book2/N_C*.md")):
         for qid, h, body, raw in parse_blocks(open(f).read(), "q"):
             m = meta_of(h)
-            qs[qid] = dict(raw=raw, ch=int(m["chapter"]), sec=int(m.get("sec", "1")), unit=int(m.get("unit", "0") or 0), topic=m.get("topic", "ext"), diff=int(m.get("diff", "2") or 2), src=os.path.basename(f), new=True, kind="FRQ" if "FRQ" in qid else "MCQ")
+            qs[qid] = dict(raw=raw, ch=_int(m["chapter"], 1), sec=_int(m.get("sec", "1"), 1), unit=_int(m.get("unit", "0")), topic=m.get("topic", "ext"), diff=_int(m.get("diff", "2"), 2), src=os.path.basename(f), new=True, kind="FRQ" if "FRQ" in qid else "MCQ")
     return qs
 
 def load_solutions():

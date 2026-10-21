@@ -1,0 +1,554 @@
+[
+ {
+  "qid": "QB-U8-MCQ027",
+  "source": "Book2-QB",
+  "required_concept": "climate spreads vectors",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ032",
+  "source": "Book2-QB",
+  "required_concept": "epidemiological design with confounders",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ007",
+  "source": "Book2-QB",
+  "required_concept": "LD50 definition",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ025",
+  "source": "Book2-QB",
+  "required_concept": "dose = mg/kg x mass",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ026",
+  "source": "Book2-QB",
+  "required_concept": "compare toxicity from curves",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ034",
+  "source": "Book2-QB",
+  "required_concept": "LD50 is not a safe dose",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ002",
+  "source": "Book2-QB",
+  "required_concept": "endocrine disruptor definition",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ005",
+  "source": "Book2-QB",
+  "required_concept": "POPs persistence",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ016",
+  "source": "Book2-QB",
+  "required_concept": "endocrine disruption at outfall",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ019",
+  "source": "Book2-QB",
+  "required_concept": "POP long-range transport, fat storage",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C10-MCQ001",
+  "source": "Book2-QB",
+  "required_concept": "bioremediation",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C10-MCQ002",
+  "source": "Book2-QB",
+  "required_concept": "CERCLA polluter pays",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C10-MCQ003",
+  "source": "Book2-QB",
+  "required_concept": "tailing in pump-and-treat",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C10-MCQ005",
+  "source": "Book2-QB",
+  "required_concept": "ten half-lives isolation time",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C10-MCQ006",
+  "source": "Book2-QB",
+  "required_concept": "half-life count calculation",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ020",
+  "source": "Book2-QB",
+  "required_concept": "biomagnification ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ029",
+  "source": "Book2-QB",
+  "required_concept": "testable hypothesis for biomagnification",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-MCQ031",
+  "source": "Book2-QB",
+  "required_concept": "biomagnifier properties from graph",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C10-MCQ007",
+  "source": "Book2-QB",
+  "required_concept": "negative externality, fee",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C10-MCQ008",
+  "source": "Book2-QB",
+  "required_concept": "cap-and-trade cost logic",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U5-MCQ042",
+  "source": "Book2-QB",
+  "required_concept": "sustainable yield from growth curve",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-FRQ004",
+  "source": "Book2-QB",
+  "required_concept": "dose-response, LD50 interpolation, expected deaths, LD50 limits",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C10-FRQ001",
+  "source": "Book2-QB",
+  "required_concept": "mass removed, years, benefit-cost ratio, tailing",
+  "status_before": "Missing Formula",
+  "action": "Added \"1 m³ = 1,000 L\" to the mass-removed formula box in 10.4",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U8-FRQ002",
+  "source": "Book2-QB",
+  "required_concept": "biomagnification ratio, methylmercury, claim from data",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C10-MCQ004",
+  "source": "Book2-QB",
+  "required_concept": "heavy metals do not decay or biodegrade",
+  "status_before": "Partially Covered",
+  "action": "Added one sentence in 10.4 (hazardous-waste disposal): lead and mercury are elements that never decay or biodegrade and must be isolated indefinitely",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C10-MCQ009",
+  "source": "Book2-QB",
+  "required_concept": "marginal cost from a total-cost table",
+  "status_before": "Missing Formula",
+  "action": "Added marginal-cost formula line to 10.7 CBA box and a sentence on steeply rising marginal cost",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ061",
+  "source": "Book2-PE",
+  "required_concept": "ratio of concentrations",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ064",
+  "source": "Book2-PE",
+  "required_concept": "LD50 comparison from graph",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ062",
+  "source": "Book2-PE",
+  "required_concept": "ratio, biomagnification vs bioaccumulation",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ064",
+  "source": "Book2-PE",
+  "required_concept": "LD50 ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ065",
+  "source": "Book2-PE",
+  "required_concept": "sanitation vs cholera association",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ060",
+  "source": "Book2-PE",
+  "required_concept": "fecal coliform as indicator (taught in Ch 9 water testing; 10.1 covers fecal-oral routes)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ062",
+  "source": "Book2-PE",
+  "required_concept": "LD50 comparison",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ063",
+  "source": "Book2-PE",
+  "required_concept": "ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ065",
+  "source": "Book2-PE",
+  "required_concept": "endocrine disruption gradient downstream",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ061",
+  "source": "Book2-PE",
+  "required_concept": "endocrine disruption mechanism",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ062",
+  "source": "Book2-PE",
+  "required_concept": "times more toxic = ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ063",
+  "source": "Book2-PE",
+  "required_concept": "ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ064",
+  "source": "Book2-PE",
+  "required_concept": "LD50 ratio; steepness vs toxicity",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-FRQ001",
+  "source": "Book2-PE",
+  "required_concept": "design an investigation: reference site, replication, variables (Ch 1 design skills + 10.2 test set-up + 10.3 endocrine)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ001",
+  "source": "Book4",
+  "required_concept": "air travel spreads disease",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ002",
+  "source": "Book4",
+  "required_concept": "factors spreading infectious disease",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ003",
+  "source": "Book4",
+  "required_concept": "West Nile virus via mosquito",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ004",
+  "source": "Book4",
+  "required_concept": "limitation of rat cancer tests: extrapolation to humans",
+  "status_before": "Partially Covered",
+  "action": "Expanded LD50-limits sentence in 10.2: size, metabolism and exposure route differ; animal tests give estimates",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ005",
+  "source": "Book4",
+  "required_concept": "manure runoff signature (coliform, nutrients, low DO) - Ch 9",
+  "status_before": "Fully Covered",
+  "action": "covered in Ch 9 water testing",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ006",
+  "source": "Book4",
+  "required_concept": "dose makes the poison vs falling response",
+  "status_before": "Missing",
+  "action": "Added note in 10.2 shapes bullet: inverse (falling) relationship, not \"dose makes the poison\"",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ007",
+  "source": "Book4",
+  "required_concept": "inverse relationship in graph",
+  "status_before": "Missing",
+  "action": "same addition",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ008",
+  "source": "Book4",
+  "required_concept": "50% survival by interpolation",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ009",
+  "source": "Book4",
+  "required_concept": "control group role",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ010",
+  "source": "Book4",
+  "required_concept": "tolerance range of species (Ch 4)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ011",
+  "source": "Book4",
+  "required_concept": "linear dose-response",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ012",
+  "source": "Book4",
+  "required_concept": "experiment design variables, control",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ013",
+  "source": "Book4",
+  "required_concept": "sum toxicity ratings table",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ014",
+  "source": "Book4",
+  "required_concept": "DDT persists, imports",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ015",
+  "source": "Book4",
+  "required_concept": "PCBs estrogen-mimic, biomagnify",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ016",
+  "source": "Book4",
+  "required_concept": "herbicide as endocrine disruptor in amphibians (earlier Flagged, now covered by 10.3)",
+  "status_before": "Flagged: beyond CED",
+  "action": "Re-judged: now covered in 10.3 (endocrine disruptors, amphibian skin and water)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ017",
+  "source": "Book4",
+  "required_concept": "biomagnification",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ018",
+  "source": "Book4",
+  "required_concept": "mercury in predatory fish",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ019",
+  "source": "Book4",
+  "required_concept": "mercury route",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ020",
+  "source": "Book4",
+  "required_concept": "bioaccumulation",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-MCQ021",
+  "source": "Book4",
+  "required_concept": "lower trophic level fish",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-FRQ001",
+  "source": "Book4",
+  "required_concept": "infectious disease transmission/control, drivers; HIV/AIDS as disease behind post-1980 mortality",
+  "status_before": "Partially Covered",
+  "action": "none (HIV/AIDS outside the CED disease list in 8.15)",
+  "status_after": "Flagged: beyond CED (part (d) only)"
+ },
+ {
+  "qid": "CB-C10-FRQ002",
+  "source": "Book4",
+  "required_concept": "one pollutant source/exposure/effect/controls (Ch 9, 10.6), child vulnerability (Ch 9), CO2 cost unit conversion, offshoring economics",
+  "status_before": "Partially Covered",
+  "action": "none (offshoring rationale is outside CED)",
+  "status_after": "Flagged: beyond CED (part (e) only)"
+ },
+ {
+  "qid": "CB-C10-FRQ003",
+  "source": "Book4",
+  "required_concept": "semi-log plot, LD50, threshold, extrapolation to humans",
+  "status_before": "Partially Covered",
+  "action": "Added background-response note to threshold and human-extrapolation reasons in 10.2",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-FRQ004",
+  "source": "Book4",
+  "required_concept": "mercury source, transport, controls, biomagnification, another metal (lead in Ch 9)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-FRQ005",
+  "source": "Book4",
+  "required_concept": "snapping turtle investigation (earlier Flagged): control sites, variables, methylmercury (re-judged)",
+  "status_before": "Flagged: beyond CED",
+  "action": "Re-judged: design skills (Ch 1/10.2), methylmercury (10.6) all covered; soil sub-part in Ch 7",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C10-FRQ006",
+  "source": "Book4",
+  "required_concept": "carbon footprint, green roof, cafeteria, native plants (belong to other chapters)",
+  "status_before": "Flagged: beyond CED",
+  "action": "none (classification mismatch; content in Ch 6/8/11)",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB:2010:a693d29c-2010Intl, exam p.3, Q4 (NEPA matching)",
+  "source": "Book4",
+  "required_concept": "law requiring environmental impact statement",
+  "status_before": "Flagged: beyond CED",
+  "action": "none (not in CED 5.12 scope)",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB:2010:a693d29c-2010Intl, exam p.14, Q60 (risk perception)",
+  "source": "Book4",
+  "required_concept": "activity whose risk the US public overestimates",
+  "status_before": "Flagged: beyond CED",
+  "action": "none (risk perception not in CED 8.14 scope)",
+  "status_after": "Flagged: beyond CED"
+ }
+]

@@ -1,0 +1,378 @@
+[
+ {
+  "qid": "QB-C3-MCQ001",
+  "source": "Book2-QB",
+  "required_concept": "Why ice is less dense (hydrogen-bond lattice)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ002",
+  "source": "Book2-QB",
+  "required_concept": "Percent of freshwater stored as groundwater",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ003",
+  "source": "Book2-QB",
+  "required_concept": "Q = mc\u0394T with specific heats",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ010",
+  "source": "Book2-QB",
+  "required_concept": "Watershed divide",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ028",
+  "source": "Book2-QB",
+  "required_concept": "Runoff = precipitation x area x coefficient",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ029",
+  "source": "Book2-QB",
+  "required_concept": "Hydrograph peak and lag, impervious surfaces",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ004",
+  "source": "Book2-QB",
+  "required_concept": "Porosity vs permeability, best aquifer",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ007",
+  "source": "Book2-QB",
+  "required_concept": "Land vs floating ice and sea level",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ008",
+  "source": "Book2-QB",
+  "required_concept": "Mass balance and sea-level conversion",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ010",
+  "source": "Book2-QB",
+  "required_concept": "Thermohaline circulation drivers",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ011",
+  "source": "Book2-QB",
+  "required_concept": "Thermocline from temperature-depth graph",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U5-MCQ004",
+  "source": "Book2-QB",
+  "required_concept": "Agriculture share of water use",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U5-MCQ019",
+  "source": "Book2-QB",
+  "required_concept": "Salinization and waterlogging diagram",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U5-MCQ020",
+  "source": "Book2-QB",
+  "required_concept": "Water to apply = need / efficiency",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U5-MCQ021",
+  "source": "Book2-QB",
+  "required_concept": "Irrigation method losses and costs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U5-MCQ037",
+  "source": "Book2-QB",
+  "required_concept": "Years to depletion from net rate",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ013",
+  "source": "Book2-QB",
+  "required_concept": "Aral Sea cause (diversion)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-FRQ003",
+  "source": "Book2-QB",
+  "required_concept": "Runoff, discharge, sediment mass, soil depth, sustainability",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U5-FRQ002",
+  "source": "Book2-QB",
+  "required_concept": "Aquifer graph/table trend, rate, sustainability, irrigation problem and solution",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ026",
+  "source": "Book2-QB",
+  "required_concept": "Pollutant reaches only sites downstream of entry",
+  "status_before": "Partially Covered",
+  "action": "Added downstream-only sentence in 3.2",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ027",
+  "source": "Book2-QB",
+  "required_concept": "Clear-cutting raises peak flow and turbidity",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ005",
+  "source": "Book2-QB",
+  "required_concept": "Extrapolate declining water-table depth from graph",
+  "status_before": "Insufficiently Explained",
+  "action": "Added note that increasing depth-to-water-table means falling table (3.3 formula box)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ006",
+  "source": "Book2-QB",
+  "required_concept": "Recharge = precipitation x infiltration fraction; net change",
+  "status_before": "Missing Formula",
+  "action": "Added recharge formula (3.3)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ009",
+  "source": "Book2-QB",
+  "required_concept": "Ice shelf buttressing of grounded glaciers",
+  "status_before": "Partially Covered",
+  "action": "Added buttress sentence (3.4)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ012",
+  "source": "Book2-QB",
+  "required_concept": "Logarithmic pH change; H+ factor from pH drop",
+  "status_before": "Missing Mathematical Skill",
+  "action": "Added log pH rule to 3.5 (full treatment in Ch. 9/11)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ014",
+  "source": "Book2-QB",
+  "required_concept": "Per-capita water = supply / population with category thresholds",
+  "status_before": "Missing Formula",
+  "action": "Added per-person formula (3.7)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-MCQ015",
+  "source": "Book2-QB",
+  "required_concept": "Controlled comparison to attribute water-table decline to pumping",
+  "status_before": "Missing Experimental Skill",
+  "action": "Added one comparison sentence (3.7)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C3-FRQ001",
+  "source": "Book2-QB",
+  "required_concept": "Specific yield storage loss, recharge by balance, years to well depth, subsidence, drip savings",
+  "status_before": "Missing Formula",
+  "action": "Added specific yield, change-in-storage and pumping = recharge + storage-loss relations (3.3)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ028",
+  "source": "Book2-PE",
+  "required_concept": "Runoff with coefficient",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ029",
+  "source": "Book2-PE",
+  "required_concept": "Hydrograph after development",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ035",
+  "source": "Book2-PE",
+  "required_concept": "Percent water saved by drip (percent change)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ027",
+  "source": "Book2-PE",
+  "required_concept": "Land use effects on watershed water quality",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ035",
+  "source": "Book2-PE",
+  "required_concept": "Drip irrigation reduces pumping",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ027",
+  "source": "Book2-PE",
+  "required_concept": "Overgrazing, runoff, sediment",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ034",
+  "source": "Book2-PE",
+  "required_concept": "Salinization by flood irrigation",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ031",
+  "source": "Book2-PE",
+  "required_concept": "Runoff volume with unit conversion",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ037",
+  "source": "Book2-PE",
+  "required_concept": "Withdrawal = need / efficiency from figure",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C3-MCQ001",
+  "source": "Book4",
+  "required_concept": "Region with least freshwater per person",
+  "status_before": "Flagged: beyond CED (old audit)",
+  "action": "none; 3.1/3.7 name Middle East and North Africa",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C3-MCQ002",
+  "source": "Book4",
+  "required_concept": "Region relying on desalination",
+  "status_before": "Flagged: beyond CED (old audit)",
+  "action": "none; 3.7 covers desalination and Arabian Peninsula",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C3-MCQ003",
+  "source": "Book4",
+  "required_concept": "Water saved: flow rate x time x people",
+  "status_before": "Fully Covered",
+  "action": "none (arithmetic)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C3-MCQ004",
+  "source": "Book4",
+  "required_concept": "Water use by sector",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C3-MCQ005",
+  "source": "Book4",
+  "required_concept": "Ogallala location and depletion",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C3-MCQ006",
+  "source": "Book4",
+  "required_concept": "Return per liter of water by crop/livestock from bar graphs",
+  "status_before": "Partially Covered",
+  "action": "Added water productivity paragraph (3.6)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C3-MCQ007",
+  "source": "Book4",
+  "required_concept": "How salinization occurs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C3-MCQ008",
+  "source": "Book4",
+  "required_concept": "Recycled wastewater irrigation raises soil salinity/sodium",
+  "status_before": "Partially Covered",
+  "action": "Added reclaimed wastewater paragraph (3.6)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C3-MCQ009",
+  "source": "Book4",
+  "required_concept": "Furrow irrigation diagram",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C3-FRQ001",
+  "source": "Book4",
+  "required_concept": "Colorado River: drought-tolerant landscaping, percent-of-capacity and unit-conversion calculations; prescribed burn (Ch. 7)",
+  "status_before": "Partially Covered",
+  "action": "Added native drought-tolerant landscaping to conserve list (3.7); calculations use existing percent/conversion skills; burn covered in Ch. 7",
+  "status_after": "Fully Covered"
+ }
+]

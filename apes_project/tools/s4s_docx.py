@@ -487,7 +487,7 @@ class Book:
                 i += 1; self.solution(head, body); continue
             # plain paragraph: gather consecutive text lines
             buf = [s]; i += 1
-            while i < len(lines) and lines[i].strip() and not re.match(r"^(\s*[-*•]\s|\s*\d+[.)]\s|\|!|#|:::|!\[|\[\[)", lines[i]) and not lines[i].strip().startswith("|"):
+            while i < len(lines) and lines[i].strip() and not re.match(r"^(\s*[-*•]\s|\s*\d+[.)]\s|\|!|#|:::|!\[|\[\[|\s*\([a-z]\)\s|\s*\((?:i|ii|iii|iv|v|vi)\)\s)", lines[i]) and not lines[i].strip().startswith("|"):
                 buf.append(lines[i].strip()); i += 1
             joined = " ".join(buf)
             figre = re.compile(r"!\[(.*?)\]\((.*?)\)(\{w=([\d.]+)\})?")
@@ -534,7 +534,7 @@ class Book:
         if "MCQ" in qid:
             no_split_row(t.rows[0])
         if "FRQ" in qid and self.show_ids:
-            ruled_lines(cell, 16 if qid.startswith("PE") else 11, 11)
+            ruled_lines(cell, 12 if qid.startswith("PE") else 8, 11)
         sp = self.d.add_paragraph(); para_fmt(sp, 0, 3, 0.5)
 
     show_ids = True

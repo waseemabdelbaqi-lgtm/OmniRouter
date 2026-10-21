@@ -20,8 +20,8 @@ D) 70%
 
 :::q QB-C5-MCQ003 | chapter=5 | sec=4 | unit=1 | topic=ext | diff=3
 A large volcanic eruption injects several million tons of sulfur dioxide (SO₂) into the stratosphere. Which outcome is most likely over the following one to two years?
-A) Global average surface temperature falls slightly, because SO₂ is converted to sulfate aerosols that reflect incoming sunlight.
-B) Global average surface temperature rises, because SO₂ is a strong absorber of outgoing infrared radiation.
+A) Global average surface temperature falls slightly, because sulfate aerosols formed from SO₂ reflect sunlight.
+B) Global average surface temperature rises, because SO₂ is a strong absorber of outgoing infrared radiation from Earth.
 C) Stratospheric ozone increases, because sulfate particles convert O₂ to O₃.
 D) Sulfur is permanently removed from the cycle, because the eruption deposits it in the stratosphere.
 :::
@@ -45,7 +45,7 @@ D) 19 kg
 :::q QB-C5-MCQ006 | chapter=5 | sec=6 | unit=1 | topic=ext | diff=3
 Nitrogen gas (N₂) makes up about 78% of the air a person breathes, yet a person whose diet lacks protein can develop a nitrogen deficiency. Which statement best explains this?
 A) The concentration of N₂ in inhaled air is too low for the lungs to absorb it.
-B) Human cells can break the strong triple bond in N₂ only during exercise, when oxygen use is high.
+B) Human cells can break the strong triple bond in N₂ only during exercise, when the body's oxygen use is high.
 C) Nitrogen gas dissolves in blood only as nitrate, which the body cannot use.
-D) Humans cannot convert N₂ into usable forms, so they obtain nitrogen from amino acids in food that ultimately trace back to nitrogen fixed by bacteria.
+D) Humans cannot convert N₂ into usable forms, so they obtain nitrogen from amino acids in food that trace back to bacteria.
 :::

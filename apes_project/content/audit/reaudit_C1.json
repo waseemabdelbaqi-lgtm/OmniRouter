@@ -1,0 +1,762 @@
+[
+ {
+  "qid": "QB-C1-MCQ001",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic ext taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ002",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic ext taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ003",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic ext taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ004",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ005",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ006",
+  "source": "Book2-QB",
+  "required_concept": "Older oceanic lithosphere is cooler and denser, so it subducts",
+  "status_before": "Insufficiently Explained",
+  "action": "Added age/density rule to 1.3 oceanic-oceanic bullet",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ001",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ002",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ014",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ015",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ036",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ037",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ007",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ008",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ009",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ010",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ011",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ012",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ013",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ014",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ015",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.1 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ011",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.7 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ030",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.7 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ031",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.7 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ032",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.7 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ041",
+  "source": "Book2-QB",
+  "required_concept": "Sun-angle intensity via sine/cosine of zenith angle",
+  "status_before": "Partially Covered",
+  "action": "Linked sine of sun angle to cosine of angle from vertical in 1.7 formula box",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ003",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.2 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ004",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.2 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ005",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.2 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ006",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.3 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ016",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.2 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ017",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.3 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ018",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.3 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ019",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.3 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ020",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.3 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ021",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic 4.3 taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-MCQ038",
+  "source": "Book2-QB",
+  "required_concept": "Controlled experiment: one variable differs, control treatment",
+  "status_before": "Partially Covered",
+  "action": "Added control-treatment requirement to 1.8 investigation paragraph",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ016",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic ext taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ017",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic ext taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-MCQ018",
+  "source": "Book2-QB",
+  "required_concept": "Concept for topic ext taught in chapter text",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C1-FRQ001",
+  "source": "Book2-QB",
+  "required_concept": "Slab dehydration at ~100 km puts arc volcanoes 100-200 km inland; decimal magnitude energy ratio; focal-depth effect",
+  "status_before": "Partially Covered",
+  "action": "Added slab-depth statement in 1.3; decimal ΔM note in 1.4 formula box",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U4-FRQ001",
+  "source": "Book2-QB",
+  "required_concept": "Design an erosion investigation with control, replication, traps",
+  "status_before": "Partially Covered",
+  "action": "Added control-treatment wording to 1.8 investigation paragraph",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ022",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ023",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ025",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ031",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ022",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ023",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ025",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ028",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ030",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ023",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ024",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ026",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ028",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ029",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ022",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ023",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ024",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ027",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ028",
+  "source": "Book2-PE",
+  "required_concept": "Chapter 1 concept (boundaries, soil, texture, albedo, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ001",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ002",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ003",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ004",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ005",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ006",
+  "source": "Book4",
+  "required_concept": "Article-specific argument analysis (seismic pattern)",
+  "status_before": "Flagged: beyond CED",
+  "action": "none",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB-C1-MCQ007",
+  "source": "Book4",
+  "required_concept": "Article-specific evidence (seismic pattern)",
+  "status_before": "Flagged: beyond CED",
+  "action": "none",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB-C1-MCQ008",
+  "source": "Book4",
+  "required_concept": "Article-specific application (seismic pattern, urban planning)",
+  "status_before": "Flagged: beyond CED",
+  "action": "none",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB-C1-MCQ009",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ010",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ011",
+  "source": "Book4",
+  "required_concept": "24-h daylight poleward of 66.5° in the summer hemisphere (south in December)",
+  "status_before": "Partially Covered",
+  "action": "Rewrote day-length sentence in 1.7 to name both hemispheres",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ012",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ013",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ014",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ015",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ016",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ017",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ018",
+  "source": "Book4",
+  "required_concept": "Cropping without organic inputs lowers soil organic matter",
+  "status_before": "Partially Covered",
+  "action": "Added sentence on continuous cropping and humus decline in 1.8",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ019",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ020",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ021",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ022",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ023",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ024",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-MCQ025",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-FRQ001",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-FRQ002",
+  "source": "Book4",
+  "required_concept": "Control group/experiment design for earthworm-litter study",
+  "status_before": "Partially Covered",
+  "action": "Control wording added in 1.8; litter role already in text",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C1-FRQ003",
+  "source": "Book4",
+  "required_concept": "Soil tests and erosion control in Ch1; fertilizer pro/con and humus biome in Ch7/Ch4",
+  "status_before": "Partially Covered",
+  "action": "none (rest covered in later chapters)",
+  "status_after": "Partially Covered"
+ },
+ {
+  "qid": "CB-C1-FRQ004",
+  "source": "Book4",
+  "required_concept": "Soil formation, A horizon, nitrate leaching covered in Ch1; acid-deposition soil effects (Ch9) and climate degradation of soil (Ch7, Ch11)",
+  "status_before": "Partially Covered",
+  "action": "none (covered in later chapters)",
+  "status_after": "Partially Covered"
+ },
+ {
+  "qid": "CB-C1-FRQ005",
+  "source": "Book4",
+  "required_concept": "Chapter 1 concept (plate maps, soil, seasons, design)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2024:Q53",
+  "source": "Audit-leftover",
+  "required_concept": "Article-specific seismic claim",
+  "status_before": "Flagged: beyond CED",
+  "action": "Re-judged: still article-reading, not CED content",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB:2024:Q54",
+  "source": "Audit-leftover",
+  "required_concept": "Article-specific assumption",
+  "status_before": "Flagged: beyond CED",
+  "action": "Re-judged: unchanged",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB:2024:Q55",
+  "source": "Audit-leftover",
+  "required_concept": "Article-specific evidence",
+  "status_before": "Flagged: beyond CED",
+  "action": "Re-judged: unchanged",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB:2024:Q56",
+  "source": "Audit-leftover",
+  "required_concept": "Article-specific urban-planning implication",
+  "status_before": "Flagged: beyond CED",
+  "action": "Re-judged: unchanged",
+  "status_after": "Flagged: beyond CED"
+ }
+]

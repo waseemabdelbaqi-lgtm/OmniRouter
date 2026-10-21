@@ -1,0 +1,1194 @@
+[
+ {
+  "qid": "QB-U1-MCQ001",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.1 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ011",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.1 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ004",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.4 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ012",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.4 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ019",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.4 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ026",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.4 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ007",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.9 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ009",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.10 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ010",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.8 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ018",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.8 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ019",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.9 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ020",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.10 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ021",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.11 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ022",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.11 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ026",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.8 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ027",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.10 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ028",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.10 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ031",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.11 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ002",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.2 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ008",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.3 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ012",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.2 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ013",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.3 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ023",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.2 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ024",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.3 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ001",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.1 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ002",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.2 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ003",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.7 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ005",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.3 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ006",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.5 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ007",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.6 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ008",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.7 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ009",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.1 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ010",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.2 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ011",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.3 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ013",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.5 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ014",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.6 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ015",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.7 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ016",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.1 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ017",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.2 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ018",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.3 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ020",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.5 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ021",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.6 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ022",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.7 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ023",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.7 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ024",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.2 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ025",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.3 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ027",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.6 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-MCQ028",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.7 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-FRQ001",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.4 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-FRQ002",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.8 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-FRQ003",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.10 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-FRQ004",
+  "source": "Book2-QB",
+  "required_concept": "topic 1.11 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-FRQ002",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.7 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-FRQ003",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.2 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U2-FRQ004",
+  "source": "Book2-QB",
+  "required_concept": "topic 2.3 (see Chapter 4 section)",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ001",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.3",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ003",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.8",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ004",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.11",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ005",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.10",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ007",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.2",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ008",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.7",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ009",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.3",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ010",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.4",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ011",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.7",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ001",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.2",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ002",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.3",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ003",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.8",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ004",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.10",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ006",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.11",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ007",
+  "source": "Book2-PE",
+  "required_concept": "Biodiversity hotspot (endemic + habitat loss)",
+  "status_before": "Flagged: beyond CED (earlier audit)",
+  "action": "Added one-sentence definition in 4.5 Habitat loss",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ008",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.2",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ009",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.3",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ010",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.7",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ011",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.4",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ001",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.11",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ003",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.2",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ004",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.10",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ005",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.8",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ007",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.6",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ008",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.2",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ009",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.7",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ010",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.3",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ011",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.4",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ001",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.2",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ002",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.3",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ004",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.10",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ005",
+  "source": "Book2-PE",
+  "required_concept": "topic 1.8",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ007",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.2",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ008",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.1",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ009",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.7",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ010",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.3",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ011",
+  "source": "Book2-PE",
+  "required_concept": "topic 2.4",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ001",
+  "source": "Book4",
+  "required_concept": "Algal tank experiment, DO vs organic waste",
+  "status_before": "Partially Covered",
+  "action": "none; experimental-design skills in 4.2; DO/oxygen demand in Chapter 9",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ002",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ003",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ004",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ005",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ006",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ007",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ008",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ009",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ010",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ011",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ012",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ013",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ014",
+  "source": "Book4",
+  "required_concept": "Lake/ocean depth zones: littoral, photic, deep dark high-pressure zone",
+  "status_before": "Flagged: beyond CED (earlier audit)",
+  "action": "Added \"Depth zones\" paragraph in 4.4 (zones, light, pressure)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ015",
+  "source": "Book4",
+  "required_concept": "Lake/ocean depth zones: littoral, photic, deep dark high-pressure zone",
+  "status_before": "Flagged: beyond CED (earlier audit)",
+  "action": "Added \"Depth zones\" paragraph in 4.4 (zones, light, pressure)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ016",
+  "source": "Book4",
+  "required_concept": "Lake/ocean depth zones: littoral, photic, deep dark high-pressure zone",
+  "status_before": "Flagged: beyond CED (earlier audit)",
+  "action": "Added \"Depth zones\" paragraph in 4.4 (zones, light, pressure)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ017",
+  "source": "Book4",
+  "required_concept": "Lake/ocean depth zones: littoral, photic, deep dark high-pressure zone",
+  "status_before": "Flagged: beyond CED (earlier audit)",
+  "action": "Added \"Depth zones\" paragraph in 4.4 (zones, light, pressure)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ018",
+  "source": "Book4",
+  "required_concept": "Lake/ocean depth zones: littoral, photic, deep dark high-pressure zone",
+  "status_before": "Flagged: beyond CED (earlier audit)",
+  "action": "Added \"Depth zones\" paragraph in 4.4 (zones, light, pressure)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ019",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ020",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ021",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ022",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ023",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ024",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ025",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ026",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ027",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ028",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ029",
+  "source": "Book4",
+  "required_concept": "Coevolution of native pollinators and plants",
+  "status_before": "Missing",
+  "action": "Added coevolution sentence in 4.5 Adaptations",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ030",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ031",
+  "source": "Book4",
+  "required_concept": "Species richness peaks when pioneers and later species overlap",
+  "status_before": "Partially Covered",
+  "action": "Succession text (richness rises mid-succession) plus graph-reading rule; no change needed beyond named example",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ032",
+  "source": "Book4",
+  "required_concept": "Pioneer needs full sun, declines as canopy closes",
+  "status_before": "Partially Covered",
+  "action": "Same succession edit (named example pioneers)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ033",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ034",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ035",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ036",
+  "source": "Book4",
+  "required_concept": "Late-successional trees slow to return after clear-cutting",
+  "status_before": "Partially Covered",
+  "action": "Named pioneer vs late-successional trees and recovery time in 4.5 Succession",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ037",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ038",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ039",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ040",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ041",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ042",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ043",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ044",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ045",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ046",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ047",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ048",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ049",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-MCQ050",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-FRQ001",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-FRQ002",
+  "source": "Book4",
+  "required_concept": "Estuary salinity/temperature causes, wetland roles, human harms, policy+incentive",
+  "status_before": "Flagged: beyond CED (earlier audit)",
+  "action": "none; ecological/economic services and estuary salinity covered; economic incentives belong to later chapters",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB-C4-FRQ003",
+  "source": "Book4",
+  "required_concept": "Serengeti: plate boundary, biome, partitioning, fragmentation, invasives, crop rotation, IPM",
+  "status_before": "Partially Covered",
+  "action": "none; plate boundary Ch 1, crop rotation/IPM Ch 7; Ch 4 parts covered",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-FRQ004",
+  "source": "Book4",
+  "required_concept": "Pine beetle, fire suppression, climate feedback, bee services",
+  "status_before": "Flagged: beyond CED (earlier audit)",
+  "action": "none; fire suppression/climate parts belong to Chapters 7 and 11; services part covered",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB-C4-FRQ005",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C4-FRQ006",
+  "source": "Book4",
+  "required_concept": "Disease in small populations, slow recovery, emerging disease",
+  "status_before": "Partially Covered",
+  "action": "none; bottleneck/genetic diversity covered; life-history and emerging-disease parts belong to Chapters 6 and 10",
+  "status_after": "Flagged: beyond CED"
+ },
+ {
+  "qid": "CB-C4-FRQ007",
+  "source": "Book4",
+  "required_concept": "see descriptor",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ }
+]

@@ -1,0 +1,298 @@
+[
+ {
+  "qid": "QB-U1-MCQ004",
+  "source": "Book2-QB",
+  "required_concept": "photosynthesis removes CO2",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ014",
+  "source": "Book2-QB",
+  "required_concept": "flux budget in minus out",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ029",
+  "source": "Book2-QB",
+  "required_concept": "seasonal CO2 zigzag and trend",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ005",
+  "source": "Book2-QB",
+  "required_concept": "nitrogen fixation",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ015",
+  "source": "Book2-QB",
+  "required_concept": "denitrification in waterlogged soil",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ030",
+  "source": "Book2-QB",
+  "required_concept": "controlled nutrient experiment design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ006",
+  "source": "Book2-QB",
+  "required_concept": "P cycle vs N cycle",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ016",
+  "source": "Book2-QB",
+  "required_concept": "limiting nutrient from data",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C5-MCQ001",
+  "source": "Book2-QB",
+  "required_concept": "largest sulfur reservoir",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C5-MCQ002",
+  "source": "Book2-QB",
+  "required_concept": "percent from human sulfur sources",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C5-MCQ003",
+  "source": "Book2-QB",
+  "required_concept": "volcanic SO2 aerosol cooling",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ003",
+  "source": "Book2-QB",
+  "required_concept": "largest water reservoir",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ017",
+  "source": "Book2-QB",
+  "required_concept": "urbanization runoff/infiltration",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ025",
+  "source": "Book2-QB",
+  "required_concept": "residence time",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-MCQ032",
+  "source": "Book2-QB",
+  "required_concept": "water budget after clearing",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C5-MCQ004",
+  "source": "Book2-QB",
+  "required_concept": "element roles in body",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C5-MCQ005",
+  "source": "Book2-QB",
+  "required_concept": "percent-of-mass calculation N in protein",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-C5-MCQ006",
+  "source": "Book2-QB",
+  "required_concept": "humans cannot use N2",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U1-FRQ001",
+  "source": "Book2-QB",
+  "required_concept": "nutrient experiment design, hypothesis, remedy tied to cycle",
+  "status_before": "Partially Covered",
+  "action": "Added sentence in 5.3 on reducing limiting-nutrient inputs (match fertilizer to need, buffer strips, wetlands, phosphate removal)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ002",
+  "source": "Book2-PE",
+  "required_concept": "legume N fixation",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ006",
+  "source": "Book2-PE",
+  "required_concept": "soil C loss after draining, C to CO2 x3.67",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ005",
+  "source": "Book2-PE",
+  "required_concept": "peat drainage/burning releases CO2",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ002",
+  "source": "Book2-PE",
+  "required_concept": "root-nodule bacteria fixation",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ006",
+  "source": "Book2-PE",
+  "required_concept": "tillage lowers soil carbon",
+  "status_before": "Partially Covered",
+  "action": "Added plowing mechanism (aeration, aggregate breakup) in 5.1",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ003",
+  "source": "Book2-PE",
+  "required_concept": "denitrification",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ006",
+  "source": "Book2-PE",
+  "required_concept": "annual GPP minus respiration",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2010:MCQ001 (CB-C5-MCQ001)",
+  "source": "Book4",
+  "required_concept": "carbonate sediments as long-term C sink",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2016:MCQ002 (CB-C5-MCQ002)",
+  "source": "Book4",
+  "required_concept": "carbon sink examples",
+  "status_before": "Partially Covered",
+  "action": "Added ocean biological uptake/acid-forming dissolution wording",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2008:MCQ003 (CB-C5-MCQ003)",
+  "source": "Book4",
+  "required_concept": "N-fixing invasive plant enriches soil",
+  "status_before": "Flagged: beyond CED (earlier)",
+  "action": "none; now covered by 5.2 fixation (legumes)",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2010:MCQ004 (CB-C5-MCQ004)",
+  "source": "Book4",
+  "required_concept": "decomposers recycle nutrients",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2016:MCQ005 (CB-C5-MCQ005)",
+  "source": "Book4",
+  "required_concept": "N cycle diagram",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2024:MCQ006 (CB-C5-MCQ006)",
+  "source": "Book4",
+  "required_concept": "fixation arrow",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2010:MCQ007 (CB-C5-MCQ007)",
+  "source": "Book4",
+  "required_concept": "guano = phosphorus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2014:FRQ001 (CB-C5-FRQ001)",
+  "source": "Book4",
+  "required_concept": "C and P cycles: ocean sinks, other human sources, CO2 problem, P differences",
+  "status_before": "Partially Covered",
+  "action": "Added carbonic acid/ocean uptake, phytoplankton, other human sources (cement, livestock, landfill, rice) in 5.1",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2008:FRQ002 (CB-C5-FRQ002)",
+  "source": "Book4",
+  "required_concept": "N cycle, P difference, pollutant, C disruption",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2010:a693d29c-2010Intl, exam p.5, Q19",
+  "source": "Book4",
+  "required_concept": "heat of vaporization of water",
+  "status_before": "Flagged: beyond CED (earlier leftover)",
+  "action": "none; now taught in Chapter 3 water properties and 5.6",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB:2008:9886c6f2, p.17, Q90",
+  "source": "Book4",
+  "required_concept": "invasive N-fixing plant enriches soil",
+  "status_before": "Flagged: beyond CED (earlier leftover)",
+  "action": "none; covered by 5.2 nitrogen fixation",
+  "status_after": "Fully Covered"
+ }
+]

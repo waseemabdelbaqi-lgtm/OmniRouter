@@ -1,0 +1,1274 @@
+[
+ {
+  "qid": "QB-U3-MCQ001",
+  "source": "Book2-QB",
+  "required_concept": "generalist/specialist, paired-plot design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ002",
+  "source": "Book2-QB",
+  "required_concept": "r/K traits, biotic potential, invasives",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ004",
+  "source": "Book2-QB",
+  "required_concept": "carrying capacity, overshoot, dieback, density-dependent limits",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ010",
+  "source": "Book2-QB",
+  "required_concept": "carrying capacity, overshoot, dieback, density-dependent limits",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ013",
+  "source": "Book2-QB",
+  "required_concept": "r/K traits, biotic potential, invasives",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ014",
+  "source": "Book2-QB",
+  "required_concept": "generalist/specialist, paired-plot design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ015",
+  "source": "Book2-QB",
+  "required_concept": "r/K traits, biotic potential, invasives",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ016",
+  "source": "Book2-QB",
+  "required_concept": "r/K traits, biotic potential, invasives",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ019",
+  "source": "Book2-QB",
+  "required_concept": "carrying capacity, overshoot, dieback, density-dependent limits",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ020",
+  "source": "Book2-QB",
+  "required_concept": "carrying capacity, overshoot, dieback, density-dependent limits",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ033",
+  "source": "Book2-QB",
+  "required_concept": "r/K traits, biotic potential, invasives",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ034",
+  "source": "Book2-QB",
+  "required_concept": "carrying capacity, overshoot, dieback, density-dependent limits",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ043",
+  "source": "Book2-QB",
+  "required_concept": "generalist/specialist, paired-plot design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ003",
+  "source": "Book2-QB",
+  "required_concept": "survivorship types and table/log-graph reading",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ011",
+  "source": "Book2-QB",
+  "required_concept": "survivorship types and table/log-graph reading",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ017",
+  "source": "Book2-QB",
+  "required_concept": "survivorship types and table/log-graph reading",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ018",
+  "source": "Book2-QB",
+  "required_concept": "survivorship types and table/log-graph reading",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ042",
+  "source": "Book2-QB",
+  "required_concept": "survivorship types and table/log-graph reading",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ007",
+  "source": "Book2-QB",
+  "required_concept": "TFR, replacement level, infant mortality",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ008",
+  "source": "Book2-QB",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ012",
+  "source": "Book2-QB",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ025",
+  "source": "Book2-QB",
+  "required_concept": "TFR, replacement level, infant mortality",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ026",
+  "source": "Book2-QB",
+  "required_concept": "TFR, replacement level, infant mortality",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ027",
+  "source": "Book2-QB",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ028",
+  "source": "Book2-QB",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ029",
+  "source": "Book2-QB",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ032",
+  "source": "Book2-QB",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ035",
+  "source": "Book2-QB",
+  "required_concept": "TFR, replacement level, infant mortality",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ038",
+  "source": "Book2-QB",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ039",
+  "source": "Book2-QB",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ044",
+  "source": "Book2-QB",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ009",
+  "source": "Book2-QB",
+  "required_concept": "demographic transition stages and rate graphs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ030",
+  "source": "Book2-QB",
+  "required_concept": "demographic transition stages and rate graphs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ031",
+  "source": "Book2-QB",
+  "required_concept": "demographic transition stages and rate graphs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ041",
+  "source": "Book2-QB",
+  "required_concept": "demographic transition stages and rate graphs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ006",
+  "source": "Book2-QB",
+  "required_concept": "age-structure shape, momentum, support ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ023",
+  "source": "Book2-QB",
+  "required_concept": "age-structure shape, momentum, support ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ024",
+  "source": "Book2-QB",
+  "required_concept": "age-structure shape, momentum, support ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ036",
+  "source": "Book2-QB",
+  "required_concept": "age-structure shape, momentum, support ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ005",
+  "source": "Book2-QB",
+  "required_concept": "growth math, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ021",
+  "source": "Book2-QB",
+  "required_concept": "growth math, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ022",
+  "source": "Book2-QB",
+  "required_concept": "growth math, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ037",
+  "source": "Book2-QB",
+  "required_concept": "growth math, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-MCQ040",
+  "source": "Book2-QB",
+  "required_concept": "growth math, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U5-MCQ010",
+  "source": "Book2-QB",
+  "required_concept": "ecological footprint, biocapacity, deficit",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U5-MCQ028",
+  "source": "Book2-QB",
+  "required_concept": "ecological footprint, biocapacity, deficit",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U5-MCQ029",
+  "source": "Book2-QB",
+  "required_concept": "ecological footprint, biocapacity, deficit",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-FRQ004",
+  "source": "Book2-QB",
+  "required_concept": "survivorship types and table/log-graph reading",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-FRQ003",
+  "source": "Book2-QB",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-FRQ002",
+  "source": "Book2-QB",
+  "required_concept": "demographic transition stages and rate graphs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "QB-U3-FRQ001",
+  "source": "Book2-QB",
+  "required_concept": "growth math, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ012",
+  "source": "Book2-PE",
+  "required_concept": "generalist/specialist response to habitat change; paired-plot design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ013",
+  "source": "Book2-PE",
+  "required_concept": "r/K traits, biotic potential, invasives/recovery",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ014",
+  "source": "Book2-PE",
+  "required_concept": "TFR, replacement level, infant mortality, factors lowering TFR",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ015",
+  "source": "Book2-PE",
+  "required_concept": "survivorship types and table/log-graph reading",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ016",
+  "source": "Book2-PE",
+  "required_concept": "carrying capacity, overshoot, dieback, density-dependent limits, K from birth/death table",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ017",
+  "source": "Book2-PE",
+  "required_concept": "growth math: percent change, exponential/logistic, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ018",
+  "source": "Book2-PE",
+  "required_concept": "demographic transition stages, rate graphs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ019",
+  "source": "Book2-PE",
+  "required_concept": "age-structure shape, momentum, support ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ020",
+  "source": "Book2-PE",
+  "required_concept": "growth math: percent change, exponential/logistic, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ021",
+  "source": "Book2-PE",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE1-MCQ040",
+  "source": "Book2-PE",
+  "required_concept": "ecological footprint, biocapacity, deficit, earths required",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ012",
+  "source": "Book2-PE",
+  "required_concept": "generalist/specialist response to habitat change; paired-plot design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ013",
+  "source": "Book2-PE",
+  "required_concept": "r/K traits, biotic potential, invasives/recovery",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ014",
+  "source": "Book2-PE",
+  "required_concept": "survivorship types and table/log-graph reading",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ015",
+  "source": "Book2-PE",
+  "required_concept": "carrying capacity, overshoot, dieback, density-dependent limits, K from birth/death table",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ016",
+  "source": "Book2-PE",
+  "required_concept": "growth math: percent change, exponential/logistic, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ017",
+  "source": "Book2-PE",
+  "required_concept": "age-structure shape, momentum, support ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ018",
+  "source": "Book2-PE",
+  "required_concept": "TFR, replacement level, infant mortality, factors lowering TFR",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ019",
+  "source": "Book2-PE",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ020",
+  "source": "Book2-PE",
+  "required_concept": "growth math: percent change, exponential/logistic, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ021",
+  "source": "Book2-PE",
+  "required_concept": "demographic transition stages, rate graphs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE2-MCQ040",
+  "source": "Book2-PE",
+  "required_concept": "ecological footprint, biocapacity, deficit, earths required",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ012",
+  "source": "Book2-PE",
+  "required_concept": "generalist/specialist response to habitat change; paired-plot design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ013",
+  "source": "Book2-PE",
+  "required_concept": "r/K traits, biotic potential, invasives/recovery",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ014",
+  "source": "Book2-PE",
+  "required_concept": "TFR, replacement level, infant mortality, factors lowering TFR",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ015",
+  "source": "Book2-PE",
+  "required_concept": "survivorship types and table/log-graph reading",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ016",
+  "source": "Book2-PE",
+  "required_concept": "carrying capacity, overshoot, dieback, density-dependent limits, K from birth/death table",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ017",
+  "source": "Book2-PE",
+  "required_concept": "growth math: percent change, exponential/logistic, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ018",
+  "source": "Book2-PE",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ019",
+  "source": "Book2-PE",
+  "required_concept": "age-structure shape, momentum, support ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ020",
+  "source": "Book2-PE",
+  "required_concept": "age-structure shape, momentum, support ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ021",
+  "source": "Book2-PE",
+  "required_concept": "demographic transition stages, rate graphs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-MCQ040",
+  "source": "Book2-PE",
+  "required_concept": "ecological footprint, biocapacity, deficit, earths required",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE3-FRQ002",
+  "source": "Book2-PE",
+  "required_concept": "demographic transition stages, rate graphs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ012",
+  "source": "Book2-PE",
+  "required_concept": "generalist/specialist response to habitat change; paired-plot design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ013",
+  "source": "Book2-PE",
+  "required_concept": "r/K traits, biotic potential, invasives/recovery",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ014",
+  "source": "Book2-PE",
+  "required_concept": "survivorship types and table/log-graph reading",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ015",
+  "source": "Book2-PE",
+  "required_concept": "growth math: percent change, exponential/logistic, K=supply/need, experimental design",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ016",
+  "source": "Book2-PE",
+  "required_concept": "carrying capacity, overshoot, dieback, density-dependent limits, K from birth/death table",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ017",
+  "source": "Book2-PE",
+  "required_concept": "age-structure shape, momentum, support ratio",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ018",
+  "source": "Book2-PE",
+  "required_concept": "TFR, replacement level, infant mortality, factors lowering TFR",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ019",
+  "source": "Book2-PE",
+  "required_concept": "RNI, growth rate with migration, rule of 70, density factors, Malthus",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ020",
+  "source": "Book2-PE",
+  "required_concept": "demographic transition stages, rate graphs",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ021",
+  "source": "Book2-PE",
+  "required_concept": "carrying capacity, overshoot, dieback, density-dependent limits, K from birth/death table",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "PE4-MCQ036",
+  "source": "Book2-PE",
+  "required_concept": "ecological footprint, biocapacity, deficit, earths required",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ001",
+  "source": "Book4",
+  "required_concept": "True of K-strategists compared to r-strategists?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ002",
+  "source": "Book4",
+  "required_concept": "Choose, from the same five graphs, the one for a population that grew and then leveled off at carrying capacity.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ003",
+  "source": "Book4",
+  "required_concept": "Characteristic of r-selected species.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ004",
+  "source": "Book4",
+  "required_concept": "On a growth graph, what does the horizontal line labeled K show?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ005",
+  "source": "Book4",
+  "required_concept": "What does a K-selected strategy produce?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ006",
+  "source": "Book4",
+  "required_concept": "Population graph over 100 years with labeled points; which point shows carrying capacity K.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ007",
+  "source": "Book4",
+  "required_concept": "Same graph: which point shows rapid increase when resources are abundant.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ008",
+  "source": "Book4",
+  "required_concept": "Same graph: which point shows the culmination of a population dieback.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ009",
+  "source": "Book4",
+  "required_concept": "Deer and wolf census table: what happened to the wolf population after 1985.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ010",
+  "source": "Book4",
+  "required_concept": "Same table: year of greatest deer population.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ011",
+  "source": "Book4",
+  "required_concept": "Wolves and elk feedback: why elk herd size changes through time.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ012",
+  "source": "Book4",
+  "required_concept": "Same set: the total number of individuals a habitat can sustain.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ013",
+  "source": "Book4",
+  "required_concept": "Same set: what happens to the ecosystem if a population exceeds this value and resources become depleted.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ014",
+  "source": "Book4",
+  "required_concept": "Best explanation of why a population overshooting carrying capacity can crash.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ015",
+  "source": "Book4",
+  "required_concept": "Squirrels with Type II survivorship: what that implies about mortality.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ016",
+  "source": "Book4",
+  "required_concept": "From a table of population and land area, which country has the highest population density?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ017",
+  "source": "Book4",
+  "required_concept": "Which country has a population about three times that of the U.S.?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ018",
+  "source": "Book4",
+  "required_concept": "Which practice would have the biggest impact on global sustainability?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ019",
+  "source": "Book4",
+  "required_concept": "Which statement about total fertility of a society is true?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ020",
+  "source": "Book4",
+  "required_concept": "Why remain concerned about environmental impact despite slowing population growth?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ021",
+  "source": "Book4",
+  "required_concept": "Which pair of statistics most likely indicates the highest quality of life.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ022",
+  "source": "Book4",
+  "required_concept": "Projected global population levels off; falling world growth rate",
+  "status_before": "Partially Covered",
+  "action": "Added \"Global trend\" paragraph in 6.3",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ023",
+  "source": "Book4",
+  "required_concept": "Table of five countries with fertility, infant mortality and life expectancy: which is most likely shrinking in population?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ024",
+  "source": "Book4",
+  "required_concept": "Same table: which country most likely offers women limited education?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ025",
+  "source": "Book4",
+  "required_concept": "Causes of projected fall in world growth rate",
+  "status_before": "Partially Covered",
+  "action": "Added \"Global trend\" paragraph in 6.3",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ026",
+  "source": "Book4",
+  "required_concept": "Which policy would promote above-replacement fertility?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ027",
+  "source": "Book4",
+  "required_concept": "Which statement is consistent with graphs of meat consumption and population?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ028",
+  "source": "Book4",
+  "required_concept": "Birth and death rate table: most stable population (assuming constant rates).",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ029",
+  "source": "Book4",
+  "required_concept": "Same table: natural rate of increase for Jamaica.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ030",
+  "source": "Book4",
+  "required_concept": "Which combination of birth/death and migration gives greatest population increase.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ031",
+  "source": "Book4",
+  "required_concept": "Same set: the value that, at replacement level, leaves population size relatively stable.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ032",
+  "source": "Book4",
+  "required_concept": "Same diagram: claim about total fertility rate best supported.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ033",
+  "source": "Book4",
+  "required_concept": "Same diagram: likely socioeconomic concern.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ034",
+  "source": "Book4",
+  "required_concept": "In the demographic transition, during which phase is population growth fastest?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ035",
+  "source": "Book4",
+  "required_concept": "Country with negligible migration: birth rate fell from 44 to 16 and death rate from 17 to 5; what stage is it in.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ036",
+  "source": "Book4",
+  "required_concept": "Which describes demographic changes at the start of transition from preindustrial to industrial?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ037",
+  "source": "Book4",
+  "required_concept": "Demographic transition graph: what helps a country move from stage 2 to stage 3.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ038",
+  "source": "Book4",
+  "required_concept": "Global ageing: fertility down, life span up",
+  "status_before": "Partially Covered",
+  "action": "Added \"Global trend\" paragraph in 6.3",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ039",
+  "source": "Book4",
+  "required_concept": "Matching set (carrying capacity, total fertility rate, demographic transition model, density-independent factor): shows birth and death rates shifting as a country develops.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ040",
+  "source": "Book4",
+  "required_concept": "Best description of a population with a stable age distribution?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ041",
+  "source": "Book4",
+  "required_concept": "Population momentum is most likely when a large share of people are in which age group.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ042",
+  "source": "Book4",
+  "required_concept": "Five age-structure diagrams: which population most likely has a negative growth rate?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ043",
+  "source": "Book4",
+  "required_concept": "Four age structure diagrams: which has replacement-level fertility.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ044",
+  "source": "Book4",
+  "required_concept": "Age structure diagram of Country Z: which age range is the largest share.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ045",
+  "source": "Book4",
+  "required_concept": "Environmental consequence of a young, growing age structure",
+  "status_before": "Insufficiently Explained",
+  "action": "Extended 6.5 strategy box with resource demand and waste",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ046",
+  "source": "Book4",
+  "required_concept": "Compound growth over 40 yr (N0(1+r)^t or two doublings at 3.5%)",
+  "status_before": "Flagged: beyond CED",
+  "action": "Formula and doubling-count method already in 6.6; re-judged as covered",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ047",
+  "source": "Book4",
+  "required_concept": "Doubling time of a population growing 2% per year?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ048",
+  "source": "Book4",
+  "required_concept": "Choose, from five population-versus-time graphs, the one for growth at biotic potential.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ049",
+  "source": "Book4",
+  "required_concept": "Which best characterizes exponential population growth.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ050",
+  "source": "Book4",
+  "required_concept": "Doubling time for a population growing 1.75 percent a year.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ051",
+  "source": "Book4",
+  "required_concept": "How is the crude growth rate r calculated.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ052",
+  "source": "Book4",
+  "required_concept": "Map of population doubling times: which statement is best supported?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ053",
+  "source": "Book4",
+  "required_concept": "Which growth rate is paired with the correct doubling time?",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ054",
+  "source": "Book4",
+  "required_concept": "Method for percent increase of 1998 San Francisco rainfall (119.94 cm vs 57.20 cm average).",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-MCQ055",
+  "source": "Book4",
+  "required_concept": "Doubling times from annual percent change in population.",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-FRQ001",
+  "source": "Book4",
+  "required_concept": "Chain/scale-up calculation (area x density x rate), ratio rescaling; tolerance limits; boom and bust; deforestation-climate link (Ch 11)",
+  "status_before": "Missing Mathematical Skill",
+  "action": "Added \"Scale-ups\" bullet to 6.6 toolkit; part (c) deforestation warming is Chapter 11 content",
+  "status_after": "Partially Covered (rest in other chapters)"
+ },
+ {
+  "qid": "CB-C6-FRQ002",
+  "source": "Book4",
+  "required_concept": "K-selected traits (6.1); design question (6.6); spider/insect trophic effect (Ch 4); resilience (Ch 10); fragmentation (Ch 7/11)",
+  "status_before": "Partially Covered",
+  "action": "No C6 change; parts E-H rest on other chapters",
+  "status_after": "Partially Covered (rest in other chapters)"
+ },
+ {
+  "qid": "CB-C6-FRQ003",
+  "source": "Book4",
+  "required_concept": "Fertility/life-expectancy factors (6.3); deforestation and stream quality (Ch 7/9)",
+  "status_before": "Partially Covered",
+  "action": "No C6 change for demography parts; deforestation parts belong to other chapters",
+  "status_after": "Partially Covered (rest in other chapters)"
+ },
+ {
+  "qid": "CB-C6-FRQ004",
+  "source": "Book4",
+  "required_concept": "Plot rates, RNI, back-solve birth rate, doubling-time projection",
+  "status_before": "Fully Covered",
+  "action": "none",
+  "status_after": "Fully Covered"
+ },
+ {
+  "qid": "CB-C6-FRQ005",
+  "source": "Book4",
+  "required_concept": "Percent change, Rule of 70, unit-chain water use (6.6); coal pollutants/ash (Ch 8/10)",
+  "status_before": "Partially Covered",
+  "action": "Scale-ups bullet supports unit chain; coal parts belong to other chapters",
+  "status_after": "Partially Covered (rest in other chapters)"
+ },
+ {
+  "qid": "CB:2010:termite (gap_U2 leftover)",
+  "source": "Audit-leftover",
+  "required_concept": "Termite wood-consumption/methane FRQ (same item as CB-C6-FRQ001)",
+  "status_before": "Flagged: beyond CED",
+  "action": "Re-judged with CB-C6-FRQ001; population and math parts now covered",
+  "status_after": "Partially Covered (rest in other chapters)"
+ },
+ {
+  "qid": "CB:2025:chickadee (gap_U2 leftover)",
+  "source": "Audit-leftover",
+  "required_concept": "K-selected chickadees, ant diversity (same item as CB-C6-FRQ002)",
+  "status_before": "Flagged: beyond CED",
+  "action": "Re-judged: K-selected and design covered in C6",
+  "status_after": "Partially Covered (rest in other chapters)"
+ },
+ {
+  "qid": "CB:2008:p12 Q58 (gap_U6 leftover)",
+  "source": "Audit-leftover",
+  "required_concept": "Compound growth over 40 years",
+  "status_before": "Flagged: beyond CED",
+  "action": "Formula N0(1+r)^t and doubling count in 6.6; no change",
+  "status_after": "Fully Covered"
+ }
+]
