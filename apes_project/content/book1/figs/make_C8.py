@@ -1,0 +1,243 @@
+import sys; sys.path.insert(0,'/home/user/OmniRouter/apes_project/tools')
+from figstyle import *
+import numpy as np
+D='/home/user/OmniRouter/apes_project/content/book1/figs/'
+
+def T(ax,x,y,s,fs=8,ha='center',va='center',c='black',b=False,**k):
+    ax.text(x,y,s,fontsize=fs,ha=ha,va=va,color=c,fontweight='bold' if b else 'normal',**k)
+
+# ---------- 1 history of world primary energy ----------
+yrs=[1800,1850,1900,1925,1950,1975,2000,2020]
+bio=[25,27,30,32,35,40,45,45]
+coal=[1,6,20,35,55,80,100,160]
+oil=[0,0,1,6,20,125,155,185]
+gas=[0,0,0.5,2,8,55,90,140]
+oth=[0,0,0,0.5,3,20,57,78]
+fig,ax=plt.subplots(figsize=(6.2,3.4))
+ax.stackplot(yrs,bio,coal,oil,gas,oth,colors=[GREEN,"#4a4a4a",BROWN,ORANGE,BLUE],
+             labels=['Biomass (wood, crop waste, dung)','Coal','Oil','Natural gas','Nuclear, hydro, wind, solar'])
+ax.set_xlim(1800,2020); ax.set_ylim(0,620)
+ax.set_xlabel('Year'); ax.set_ylabel('Primary energy (EJ per year)')
+ax.set_title('World primary energy by source (approximate, rounded)')
+h,l=ax.get_legend_handles_labels()
+ax.legend(h[::-1],l[::-1],frameon=False,fontsize=7.5,loc='upper left')
+save(fig,D+'C8_history.png')
+
+# ---------- 2 solar systems (3 panels) ----------
+fig,ax=canvas(6.2,3.5,(0,3),(0,1.69))
+for x0 in (1,2): ax.plot([x0,x0],[0.02,1.55],color='#bbb',lw=0.8)
+def sun(x,y):
+    ax.add_patch(Circle((x,y),0.07,fc=YELLOW,ec=ORANGE,lw=1))
+T(ax,0.5,1.63,'A  Photovoltaic (PV)',9,b=True,c=RED)
+sun(0.15,1.38)
+ax.add_patch(Polygon([[0.2,1.0],[0.62,1.12],[0.74,0.93],[0.32,0.81]],fc='#27456b',ec='black'))
+arrow(ax,(0.22,1.30),(0.38,1.12),color=ORANGE)
+T(ax,0.63,1.38,'PV panel\nlight → DC',7.5)
+box(ax,0.05,0.45,0.4,0.2,'Inverter\nDC → AC',fc=LIGHT,fs=7)
+box(ax,0.58,0.45,0.35,0.2,'Home',fc=LIGHT,fs=7.5)
+box(ax,0.05,0.12,0.4,0.17,'Battery\n(optional)',fc='#E5E5E5',fs=7)
+box(ax,0.58,0.12,0.35,0.17,'Grid',fc='#E5E5E5',fs=7.5)
+arrow(ax,(0.33,0.81),(0.25,0.66)); arrow(ax,(0.45,0.55),(0.58,0.55))
+arrow(ax,(0.25,0.45),(0.25,0.30),color=GREY); arrow(ax,(0.75,0.45),(0.75,0.30),color=GREY)
+T(ax,0.5,0.03,'sunlight → electricity directly',7,c=GREY)
+T(ax,1.5,1.63,'B  Active solar heating',9,b=True,c=RED)
+sun(1.15,1.38)
+ax.add_patch(Polygon([[1.1,1.0],[1.5,1.12],[1.6,0.93],[1.2,0.81]],fc='#27456b',ec='black'))
+arrow(ax,(1.22,1.30),(1.36,1.12),color=ORANGE)
+T(ax,1.78,1.38,'Collector\n(heats liquid)',7.5)
+ax.add_patch(Rectangle((1.62,0.2),0.3,0.5,fc='#F6D5C0',ec='black',lw=1.2))
+T(ax,1.77,0.45,'Hot-water\nstorage\ntank',7)
+ax.plot([1.52,1.52,1.62],[0.93,0.62,0.62],color=RED,lw=2.2)
+ax.plot([1.62,1.25,1.25],[0.28,0.28,0.84],color=BLUE,lw=2.2)
+ax.add_patch(Circle((1.42,0.28),0.05,fc='white',ec='black'))
+T(ax,1.42,0.14,'pump',7)
+T(ax,1.48,0.72,'hot',7,c=RED,ha='right'); T(ax,1.21,0.55,'cool\nreturn',7,c=BLUE,ha='right')
+T(ax,1.5,0.03,'collector + pump + storage',7,c=GREY)
+T(ax,2.5,1.63,'C  Passive solar (house)',9,b=True,c=RED)
+ax.add_patch(Rectangle((2.3,0.3),0.6,0.5,fc='white',ec='black',lw=1.5))
+ax.add_patch(Polygon([[2.25,0.8],[2.6,1.02],[2.95,0.8]],fc='#D9B26F',ec='black'))
+ax.add_patch(Rectangle((2.3,0.3),0.6,0.08,fc='#5a4a42',ec='black'))
+T(ax,2.6,0.34,'thermal mass floor',6.5,c='white')
+ax.add_patch(Rectangle((2.28,0.40),0.03,0.30,fc=SKY,ec='black'))
+ax.add_patch(Rectangle((2.12,0.71),0.18,0.035,fc='#777',ec='black'))
+T(ax,2.04,0.90,'overhang',6.5,ha='left')
+arrow(ax,(2.40,1.45),(2.27,0.78),color=ORANGE)
+T(ax,2.45,1.45,'Summer sun (high):\nblocked',6.5,c=ORANGE,ha='left')
+arrow(ax,(2.02,0.62),(2.58,0.40),color=BLUE)
+T(ax,2.06,0.16,'Winter sun (low):\nenters south window',6.5,c=BLUE,ha='left')
+T(ax,2.5,0.03,'no pumps or fans',7,c=GREY)
+save(fig,D+'C8_solar.png')
+
+# ---------- 3 hydro dam ----------
+fig,ax=canvas(6.2,3.3,(0,1),(0,1))
+ax.add_patch(Rectangle((0,0.2),0.45,0.62,fc='#9CC5E3',ec='none'))
+ax.add_patch(Polygon([[0.45,0.2],[0.55,0.2],[0.52,0.85],[0.45,0.85]],fc='#8d8d8d',ec='black'))
+ax.add_patch(Rectangle((0,0.05),1,0.15,fc='#C9AE87',ec='none'))
+ax.add_patch(Rectangle((0.55,0.2),0.45,0.08,fc='#9CC5E3',ec='none'))
+ax.plot([0,0.45],[0.82,0.82],color=BLUE,lw=1.5)
+T(ax,0.20,0.60,'Reservoir\n(stored water =\npotential energy)',8)
+T(ax,0.5,0.90,'Dam',8,b=True)
+ax.plot([0.42,0.50,0.58],[0.66,0.37,0.37],color=DARK,lw=5,solid_capstyle='butt')
+T(ax,0.20,0.34,'Intake',7.5)
+arrow(ax,(0.27,0.37),(0.40,0.62),color=GREY)
+T(ax,0.60,0.66,'Penstock\n(falling water =\nkinetic energy)',7.5,ha='left')
+ax.add_patch(Rectangle((0.55,0.28),0.42,0.24,fc='#F0F0F0',ec=GREY,lw=1))
+T(ax,0.76,0.56,'Powerhouse',7.5,c=GREY)
+box(ax,0.58,0.31,0.12,0.12,'Turbine',fc=LIGHT,fs=7.5,bold=True)
+box(ax,0.75,0.31,0.13,0.12,'Generator',fc=LIGHT,fs=7.5,bold=True)
+arrow(ax,(0.70,0.37),(0.75,0.37))
+arrow(ax,(0.88,0.37),(0.99,0.37),color=RED)
+T(ax,0.88,0.47,'electricity',7.5,c=RED,b=True)
+arrow(ax,(0.64,0.30),(0.64,0.23),color=BLUE)
+arrow(ax,(0.66,0.24),(0.98,0.24),color=BLUE)
+T(ax,0.82,0.16,'water returns to river',7.5,c=BLUE)
+T(ax,0.5,0.99,'Hydroelectric dam: potential → kinetic → electrical energy',10,b=True)
+save(fig,D+'C8_hydro.png')
+
+# ---------- 4 geothermal ----------
+fig,ax=canvas(6.2,3.5,(0,1),(0,1))
+ax.add_patch(Rectangle((0,0),1,0.62,fc='#C9AE87',ec='none'))
+ax.add_patch(Rectangle((0,0),1,0.13,fc='#D9582B',ec='none',alpha=0.85))
+T(ax,0.5,0.065,'Hot rock / magma heat source',8,c='white',b=True)
+ax.add_patch(Ellipse((0.51,0.30),0.72,0.14,fc='#F6C27A',ec='none',alpha=0.9))
+T(ax,0.51,0.30,'Hot water / steam reservoir (about 150–300 °C)',7.5)
+ax.plot([0.22,0.22],[0.36,0.62],color=DARK,lw=3)
+ax.plot([0.80,0.80],[0.36,0.62],color=DARK,lw=3)
+T(ax,0.19,0.50,'Production\nwell',7.5,ha='right')
+T(ax,0.83,0.46,'Injection\nwell',7.5,ha='left')
+arrow(ax,(0.235,0.40),(0.235,0.58),color=RED); arrow(ax,(0.785,0.58),(0.785,0.40),color=BLUE)
+box(ax,0.33,0.68,0.14,0.14,'Turbine',fc=LIGHT,fs=7.5,bold=True)
+box(ax,0.51,0.68,0.14,0.14,'Generator',fc=LIGHT,fs=7.5,bold=True)
+box(ax,0.70,0.68,0.24,0.14,'Condenser\n(steam → water)',fc='#D6E8F5',fs=7)
+ax.plot([0.22,0.22],[0.62,0.75],color=RED,lw=1.8)
+arrow(ax,(0.22,0.75),(0.33,0.75),color=RED)
+T(ax,0.12,0.72,'steam',7.5,c=RED)
+arrow(ax,(0.47,0.75),(0.51,0.75))
+arrow(ax,(0.65,0.75),(0.70,0.75),color=RED)
+ax.plot([0.80,0.80],[0.68,0.62],color=BLUE,lw=1.8)
+T(ax,0.89,0.58,'cooled water\nreturned',7,c=BLUE)
+arrow(ax,(0.58,0.82),(0.58,0.89),color=RED); T(ax,0.58,0.92,'electricity',8,c=RED,b=True)
+T(ax,0.5,0.99,'Geothermal plant: Earth’s heat → steam → turbine → generator',10,b=True)
+save(fig,D+'C8_geothermal.png')
+
+# ---------- 5 wind turbine ----------
+fig,ax=canvas(6.2,3.4,(0,1.97),(0,1.14))
+ax.add_patch(Polygon([[0.94,0.06],[1.10,0.06],[1.07,0.68],[0.99,0.68]],fc='#d0d0d0',ec='black'))
+ax.add_patch(Rectangle((0.82,0.68),0.50,0.14,fc=LIGHT,ec=RED,lw=1.4))
+ax.add_patch(Rectangle((0.87,0.70),0.17,0.10,fc='#F6D5C0',ec='black',lw=0.8)); T(ax,0.955,0.75,'Gearbox',6)
+ax.add_patch(Rectangle((1.09,0.70),0.20,0.10,fc='#F6D5C0',ec='black',lw=0.8)); T(ax,1.19,0.75,'Generator',6)
+ax.plot([0.80,0.87],[0.75,0.75],color='black',lw=2.5); ax.plot([1.04,1.09],[0.75,0.75],color='black',lw=2.5)
+for ang in (90,270):
+    a_=np.radians(ang); L=0.30; w=0.03
+    tip=(0.80+L*np.cos(a_),0.75+L*np.sin(a_)); n=(-np.sin(a_)*w,np.cos(a_)*w)
+    ax.add_patch(Polygon([[0.80+n[0],0.75+n[1]],[0.80-n[0],0.75-n[1]],tip],fc='white',ec='black',lw=1.0))
+ax.add_patch(Circle((0.80,0.75),0.03,fc=RED,ec='black'))
+T(ax,0.70,0.97,'Rotor blades\n(side view)',8,ha='right')
+T(ax,1.07,0.88,'Nacelle',8,b=True)
+T(ax,1.16,0.30,'Tower',8,ha='left')
+for y_ in (0.90,0.72,0.54):
+    arrow(ax,(0.04,y_),(0.40,y_),color=BLUE,lw=2)
+T(ax,0.22,0.40,'Wind (kinetic energy)',8,c=BLUE)
+ax.plot([1.02,1.02,1.45],[0.06,0.08,0.08],color=RED,lw=1.8)
+arrow(ax,(1.40,0.08),(1.47,0.08),color=RED)
+box(ax,1.47,0.04,0.45,0.15,'Transformer → grid',fc=LIGHT,fs=7.5)
+T(ax,1.62,0.55,'Energy chain\nwind (kinetic) → spinning blades\n→ shaft → generator → electricity',7.5,c=DARK)
+T(ax,0.98,1.10,'Wind turbine: kinetic energy of air → electricity',10,b=True)
+save(fig,D+'C8_wind.png')
+
+# ---------- 6 fuel cell ----------
+fig,ax=canvas(6.2,3.4,(0,1),(0,1.1))
+ax.add_patch(Rectangle((0.20,0.25),0.16,0.5,fc='#F6D5C0',ec='black'))
+ax.add_patch(Rectangle((0.36,0.25),0.28,0.5,fc='#D6E8F5',ec='black'))
+ax.add_patch(Rectangle((0.64,0.25),0.16,0.5,fc='#F6D5C0',ec='black'))
+T(ax,0.28,0.66,'Anode\n(−)',8,b=True); T(ax,0.72,0.66,'Cathode\n(+)',8,b=True)
+T(ax,0.50,0.46,'Membrane:\nH$^{+}$ pass through;\nelectrons cannot',7.5)
+arrow(ax,(0.03,0.55),(0.20,0.55),color=BLUE,lw=2); T(ax,0.08,0.62,'H₂ in',8,c=BLUE,b=True)
+arrow(ax,(0.97,0.45),(0.80,0.45),color=GREEN,lw=2); T(ax,0.91,0.54,'O₂ in\n(from air)',8,c=GREEN,b=True)
+T(ax,0.28,0.38,'2 H₂ →\n4 H$^{+}$ + 4 e$^{-}$',6.5)
+T(ax,0.72,0.35,'O₂ + 4 H$^{+}$ + 4 e$^{-}$\n→ 2 H₂O',6)
+arrow(ax,(0.43,0.62),(0.57,0.62),color=GREY); T(ax,0.50,0.67,'H$^{+}$',7.5,c=GREY)
+ax.plot([0.28,0.28,0.42],[0.75,0.88,0.88],color=RED,lw=2)
+ax.plot([0.58,0.72,0.72],[0.88,0.88,0.75],color=RED,lw=2)
+box(ax,0.42,0.83,0.16,0.10,'Motor / load',fc=LIGHT,fs=7)
+arrow(ax,(0.38,0.88),(0.42,0.88),color=RED,lw=1.4); arrow(ax,(0.58,0.88),(0.62,0.88),color=RED,lw=1.4)
+T(ax,0.12,0.90,'electron flow\nthrough circuit →',7,c=RED)
+arrow(ax,(0.72,0.25),(0.72,0.10),color=BLUE,lw=2); T(ax,0.72,0.03,'H₂O (and heat) out',8,c=BLUE,b=True)
+T(ax,0.5,1.06,'Hydrogen fuel cell: 2 H₂ + O₂ → 2 H₂O + electricity',10,b=True)
+save(fig,D+'C8_fuelcell.png')
+
+# ---------- 7 emissions per passenger-km ----------
+names=['Gasoline car, 1 person (30 mpg)','Short-haul flight','Hybrid car, 1 person (50 mpg)','Gasoline car, 2 people',
+       'Battery EV, 1 person (grid 0.40 kg/kWh)','City bus (15 riders)','Gasoline car, 4 people','Commuter / intercity rail','Metro / light rail']
+vals=[180,150,110,90,80,70,45,40,30]
+cols=[RED,"#9a9a9a",ORANGE,RED,TEAL,BLUE,RED,GREEN,GREEN]
+fig,ax=plt.subplots(figsize=(6.2,3.5))
+y=np.arange(len(names))[::-1]
+ax.barh(y,vals,color=cols,height=0.65)
+ax.set_yticks(y); ax.set_yticklabels(names,fontsize=8)
+for yi,v in zip(y,vals): ax.text(v+3,yi,str(v),va='center',fontsize=8)
+ax.set_xlim(0,215); ax.set_xlabel('Grams CO₂ per passenger-kilometer (illustrative, rounded)')
+ax.set_title('Emissions per passenger-km depend on mode and occupancy')
+save(fig,D+'C8_emissions.png')
+
+# ---------- 8 sankey (coal plant energy flow) ----------
+fig,ax=canvas(6.2,3.0,(0,1.9),(0,1))
+H=0.6; y0=0.2; e=0.33*H; g=0.07
+def band(xa,xb,ya0,ya1,yb0,yb1,col):
+    t=np.linspace(0,1,40); sm=(1-np.cos(np.pi*t))/2
+    x=xa+(xb-xa)*t
+    ax.fill_between(x,ya0+(yb0-ya0)*sm,ya1+(yb1-ya1)*sm,color=col,alpha=0.9,lw=0)
+band(0.35,0.95,y0+e,y0+H,y0+e+g,y0+H+g,'#8C8C8C')
+band(0.35,0.95,y0,y0+e,y0,y0+e,'#79B58A')
+ax.add_patch(Rectangle((0.2,y0),0.15,H,fc=BROWN,ec='black'))
+T(ax,0.275,y0+H/2,'Fuel\n100',7.5,c='white',b=True)
+ax.add_patch(Rectangle((0.95,y0+e+g),0.15,H-e,fc=RED,ec='black'))
+ax.add_patch(Rectangle((0.95,y0),0.15,e,fc=GREEN,ec='black'))
+T(ax,1.15,y0+e+g+(H-e)/2,'67 units: waste heat\n(air, cooling water)',8,ha='left')
+T(ax,1.15,y0+e/2,'33 units: electricity',8,ha='left',c=GREEN,b=True)
+T(ax,0.65,y0+0.65*H,'boiler, turbine, generator',7.5,c='black')
+T(ax,0.95,0.93,'Energy flow in a coal-fired plant (illustrative values)',10,b=True)
+T(ax,0.95,0.07,'Energy is conserved: 33 + 67 = 100. Efficiency = 33 ÷ 100 = 33%.',8.5)
+save(fig,D+'C8_sankey.png')
+
+# ---------- 9 steam cycle ----------
+fig,ax=canvas(6.2,3.2)
+box(ax,0.03,0.58,0.16,0.3,'Heat source:\ncoal, gas,\nbiomass,\nor U-235',fc='#EADBC8',fs=8)
+box(ax,0.27,0.55,0.17,0.36,'Boiler or\nreactor\n(makes steam)',fc='#F6D5C0',fs=8)
+box(ax,0.55,0.60,0.13,0.26,'Turbine',fc=LIGHT,fs=9,bold=True)
+box(ax,0.76,0.60,0.13,0.26,'Generator',fc=LIGHT,fs=9,bold=True)
+box(ax,0.52,0.08,0.20,0.26,'Condenser\n(steam → water)',fc='#D6E8F5',fs=8)
+box(ax,0.77,0.08,0.19,0.26,'Cooling water\nor tower:\nwaste heat out',fc='#D6E8F5',fs=8)
+arrow(ax,(0.19,0.73),(0.27,0.73))
+arrow(ax,(0.44,0.73),(0.55,0.73),color=RED); ax.text(0.495,0.78,'steam',ha='center',fontsize=7.5,color=RED)
+arrow(ax,(0.68,0.73),(0.76,0.73))
+arrow(ax,(0.89,0.73),(0.99,0.73),color=RED); ax.text(0.935,0.66,'electricity',ha='center',fontsize=7.5,color=RED,fontweight='bold')
+arrow(ax,(0.615,0.60),(0.615,0.34),color=RED)
+arrow(ax,(0.52,0.21),(0.355,0.21),color=BLUE)
+arrow(ax,(0.355,0.21),(0.355,0.55),color=BLUE)
+ax.text(0.34,0.06,'water returns to boiler',ha='center',fontsize=8,color=BLUE)
+arrow(ax,(0.72,0.21),(0.78,0.21))
+ax.text(0.5,0.97,'Thermal power plant: one steam cycle, different heat sources',ha='center',fontsize=10,fontweight='bold')
+save(fig,D+'C8_steam.png')
+
+# ---------- 10 fission ----------
+fig,ax=canvas(6.2,3.0,(0,2.07),(0,1))
+def nuc(x,y,r,c,t='',fs=8):
+    ax.add_patch(Circle((x,y),r,fc=c,ec='black',lw=1))
+    if t: ax.text(x,y,t,ha='center',va='center',fontsize=fs,color='white',fontweight='bold')
+nuc(0.15,0.62,0.04,GREY,'n',7); arrow(ax,(0.21,0.62),(0.42,0.62))
+nuc(0.56,0.62,0.13,RED,'U-235')
+T(ax,0.56,0.40,'absorbs neutron;\nbecomes unstable',7.5)
+arrow(ax,(0.72,0.62),(0.92,0.62))
+nuc(1.10,0.82,0.09,BLUE); nuc(1.10,0.42,0.10,GREEN)
+T(ax,1.25,0.82,'fission product',7.5,ha='left'); T(ax,1.25,0.42,'fission product',7.5,ha='left')
+for yy in (0.67,0.60,0.53): pass
+nuc(1.05,0.62,0.03,GREY); nuc(1.15,0.62,0.03,GREY)
+arrow(ax,(1.22,0.62),(1.60,0.62),color=GREY)
+T(ax,1.82,0.62,'2–3 new neutrons\n→ chain reaction',7.5)
+T(ax,1.03,0.95,'Fission of uranium-235 (schematic)',10,b=True)
+T(ax,1.03,0.26,'+ large amount of heat → boils water → steam turns turbine',8.5,c=RED,b=True)
+box(ax,0.06,0.05,0.93,0.12,'Control rods absorb neutrons (slow the reaction)',fc='#E5E5E5',fs=7.5)
+box(ax,1.09,0.05,0.93,0.12,'Fuel rods hold U-235 pellets; water = coolant',fc='#E5E5E5',fs=7.5)
+save(fig,D+'C8_fission.png')
+print('ok')

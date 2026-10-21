@@ -74,15 +74,14 @@ ax.text(0.005,0.59,'Raw\nsewage',fontsize=9,ha='left',va='center')
 for (x0,lab,t) in [(0.14,'P','Screens, then\nsettling tank'),(0.37,'Q','Aerated tank with\nmicrobes, then\nsettling tank'),(0.60,'R','Filter bed /\nconstructed\nwetland'),(0.82,'S','Disinfection\nchamber')]:
     box(ax,x0,0.38,0.15,0.42,t,fs=8)
     ax.text(x0+0.075,0.87,lab,ha='center',fontsize=13,fontweight='bold',color=RED)
-for xa,xb in [(0.095,0.14),(0.29,0.37),(0.52,0.60),(0.75,0.82)]:
-    arrow(ax,(xa+ (0.0 if xa>0.1 else 0.0),0.59),(xb,0.59),lw=1.6)
-arrow(ax,(0.97,0.59),(0.995,0.59))
+for xa,xb in [(0.085,0.12),(0.31,0.35),(0.54,0.58),(0.77,0.80)]:
+    arrow(ax,(xa,0.59),(xb,0.59),lw=1.6)
 for bx in [0.41,0.435,0.46]:
     ax.add_patch(Circle((bx,0.43),0.009,fc='white',ec=BLUE,lw=1))
-for x0 in [0.215,0.445]:
-    arrow(ax,(x0,0.38),(x0,0.25),color=BROWN,lw=1.2)
+for x0 in [0.215,0.445,0.895]:
+    arrow(ax,(x0,0.36),(x0,0.25),color=BROWN if x0<0.8 else BLUE,lw=1.2)
 ax.text(0.215,0.15,'Solids\n(sludge)',ha='center',fontsize=8,color=BROWN); ax.text(0.445,0.17,'Sludge',ha='center',fontsize=8,color=BROWN)
-ax.text(0.99,0.14,'Treated water\nto river',ha='right',fontsize=8)
+ax.text(0.895,0.15,'Treated water\nto river',ha='center',fontsize=8)
 ax.set_title('A municipal sewage treatment plant',y=1.0)
 save(fig,D+'QB_U8_sewage.png')
 
@@ -115,8 +114,8 @@ ax.add_patch(Rectangle((0.02,0.04),0.24,0.30,fc='#9FC59A',ec=GREEN)); ax.text(0.
 arrow(ax,(0.26,0.68),(0.43,0.52),color=BLUE,lw=2); arrow(ax,(0.26,0.22),(0.41,0.36),color=BLUE,lw=2)
 arrow(ax,(0.73,0.42),(0.95,0.30),color=BLUE,lw=2); ax.text(0.90,0.20,'Outlet\nstream',fontsize=8,ha='center')
 def site(lbl,x,y): ax.text(x,y,lbl,ha='center',va='center',fontsize=9,fontweight='bold',color='white',bbox=dict(boxstyle='circle,pad=0.3',fc=RED,ec=DARK))
-site('S1',0.33,0.69); site('S2',0.33,0.22); site('S3',0.55,0.30); site('S4',0.80,0.38)
-ax.text(0.40,0.84,'Inlet 1',fontsize=8,style='italic'); ax.text(0.40,0.08,'Inlet 2',fontsize=8,style='italic')
+site('S1',0.33,0.69); site('S2',0.33,0.22); site('S3',0.55,0.30); site('S4',0.84,0.45)
+ax.text(0.33,0.80,'Inlet 1',fontsize=9,style='italic',ha='center'); ax.text(0.33,0.08,'Inlet 2',fontsize=9,style='italic',ha='center')
 ax.set_title('Cedar Pond watershed (not to scale)',y=1.0)
 save(fig,D+'QB_U8_frq1_map.png')
 
@@ -126,7 +125,7 @@ org=['Plankton','Mayfly\nlarvae','Yellow\nperch','Northern\npike','Common\nloon'
 A=[0.01,0.02,0.06,0.20,0.80]; B=[0.02,0.05,0.20,0.90,3.6]
 x=np.arange(5); w=0.38
 ax.bar(x-w/2,A,w,color=GREEN,label='Lake Alder'); ax.bar(x+w/2,B,w,color=RED,label='Lake Birch')
-ax.set_yscale('log'); ax.set_xticks(x); ax.set_xticklabels(org,fontsize=8); ax.set_ylabel('Total mercury (mg/kg wet mass, log scale)')
+ax.set_yscale('log'); ax.set_yticks([0.01,0.1,1]); ax.set_yticklabels(['0.01','0.1','1']); ax.set_xticks(x); ax.set_xticklabels(org,fontsize=8); ax.set_ylabel('Total mercury (mg/kg wet mass, log scale)')
 ax.legend(frameon=False,fontsize=8,loc='upper left'); ax.grid(alpha=.3,axis='y')
 ax.set_title('Mercury in tissue of organisms from two lakes')
 save(fig,D+'QB_U8_frq2_hg.png')

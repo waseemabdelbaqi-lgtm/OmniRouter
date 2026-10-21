@@ -1,6 +1,7 @@
 import sys; sys.path.insert(0,'/home/user/OmniRouter/apes_project/tools')
 from figstyle import *
 import numpy as np
+import matplotlib.ticker
 OUT='/home/user/OmniRouter/apes_project/content/book2/figs/'
 def S(fig,name): save(fig,OUT+name)
 
@@ -18,12 +19,13 @@ sites={'Site P':([5,8,6,3,1,0,0,1,1,2,4,6],[14,17,21,26,31,35,36,35,32,27,20,15]
 fig,axs=plt.subplots(1,3,figsize=(6.4,2.6),sharey=True)
 for ax,(n,(p,t)) in zip(axs,sites.items()):
     ax.bar(range(12),p,color=BLUE,width=0.7)
-    ax.set_xticks(range(12)); ax.set_xticklabels(mon,fontsize=7); ax.set_ylim(0,200); ax.set_title(n,fontsize=10)
+    ax.set_xticks(range(12)); ax.set_xticklabels(mon,fontsize=8.5); ax.set_ylim(0,200); ax.set_title(n,fontsize=10.5); ax.tick_params(axis='y',labelsize=9)
     ax2=ax.twinx(); ax2.plot(range(12),t,color=RED,marker='o',ms=2.5,lw=1.4); ax2.set_ylim(-10,40)
     ax2.spines['right'].set_visible(True)
-    if n!='Site R': ax2.set_yticklabels([]); ax2.tick_params(right=False)
-    else: ax2.set_ylabel('Mean temperature (°C)',color=RED,fontsize=8)
-axs[0].set_ylabel('Monthly precipitation (mm)',fontsize=8)
+    ax2.tick_params(axis='y',labelsize=9)
+    if n!='Site R': ax2.set_yticklabels([]); ax2.tick_params(right=False); ax2.spines['right'].set_visible(False)
+    else: ax2.set_ylabel('Mean temperature (°C)',color=RED,fontsize=9)
+axs[0].set_ylabel('Monthly precipitation (mm)',fontsize=9,color=BLUE)
 fig.tight_layout(); S(fig,'PE3_u1_climate.png')
 
 # ---------- U2 tolerance
@@ -31,7 +33,7 @@ x=np.linspace(0,1000,500)
 a=np.exp(-0.5*((x-600)/80)**2); b=0.8*np.exp(-0.5*((x-500)/200)**2)
 fig,ax=plt.subplots(figsize=(5.6,3.0))
 ax.plot(x,a,color=RED,lw=2,label='Grass species 1'); ax.plot(x,b,color=BLUE,lw=2,label='Grass species 2')
-ax.axvline(300,color=GREY,ls='--',lw=1); ax.text(305,1.0,'Rainfall in\ndrought year',fontsize=8,color=GREY,va='top')
+ax.axvline(300,color=GREY,ls='--',lw=1); ax.text(308,1.04,'Rainfall in\ndrought year',fontsize=9,color='#444',va='top')
 ax.set_xlabel('Mean annual rainfall (mm)'); ax.set_ylabel('Relative abundance'); ax.set_ylim(0,1.1); ax.legend(frameon=False,fontsize=9,loc='upper right')
 S(fig,'PE3_u2_tolerance.png')
 
@@ -49,10 +51,12 @@ S(fig,'PE3_u3_survivorship.png')
 
 # ---------- U3 overshoot
 xs=[0,6,12,18,24,30,36,42,48,54,60]; ys=[40,300,1500,2800,2000,1100,1000,1250,1450,1400,1400]
-xi,yi=smooth(None,xs,ys,0.9)
+from scipy.interpolate import PchipInterpolator
+xi=np.linspace(0,60,400); yi=PchipInterpolator(xs,ys)(xi)
 fig,ax=plt.subplots(figsize=(5.4,3.0))
 ax.plot(xi,yi,color=RED,lw=2); pass
 ax.set_xlabel('Years since introduction'); ax.set_ylabel('Sheep population'); ax.set_ylim(0,3200)
+ax.yaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v,_:f'{int(v):,}'))
 S(fig,'PE3_u3_overshoot.png')
 
 # ---------- U3 age structure
@@ -60,9 +64,9 @@ def pyr(ax,males,title):
     ages=['0–4','5–9','10–14','15–19','20–24','25–29','30–34','35–39','40–44','45–49','50–54','55–59','60–64','65–69','70–74','75–79','80+']
     y=np.arange(len(ages)); m=np.array(males); f=m*1.0
     ax.barh(y,-m,color=BLUE,height=0.85); ax.barh(y,f,color=ORANGE,height=0.85)
-    ax.set_yticks(y[::2]); ax.set_yticklabels(ages[::2],fontsize=7); ax.set_title(title,fontsize=10)
-    ax.set_xlim(-9,9); ax.set_xticks([-8,-4,0,4,8]); ax.set_xticklabels(['8','4','0','4','8'],fontsize=7)
-    ax.set_xlabel('Percent of population',fontsize=8); ax.spines['left'].set_visible(False)
+    ax.set_yticks(y[::2]); ax.set_yticklabels(ages[::2],fontsize=8.5); ax.set_title(title,fontsize=10.5)
+    ax.set_xlim(-9,9); ax.set_xticks([-8,-4,0,4,8]); ax.set_xticklabels(['8','4','0','4','8'],fontsize=8.5)
+    ax.set_xlabel('Percent of population',fontsize=9); ax.spines['left'].set_visible(False)
 A=[8.0,7.0,6.2,5.4,4.6,3.9,3.2,2.6,2.1,1.6,1.2,0.9,0.7,0.5,0.3,0.2,0.1]
 B=[2.1,2.2,2.4,2.5,2.7,3.1,3.4,3.9,4.3,4.5,4.4,4.1,3.8,3.6,3.4,3.1,3.4]
 C=[3.7,3.8,4.0,4.3,4.5,4.4,4.3,4.0,3.6,3.2,2.8,2.4,1.9,1.5,1.1,0.8,0.7]
@@ -71,7 +75,7 @@ for n,v in zip('ABC',[A,B,C]):
     mm=np.array(v); print(n,'sum(m)*2=',mm.sum()*2,'0-14',mm[:3].sum()*2/ (mm.sum()*2)*100,'15-64',mm[3:13].sum()/mm.sum()*100,'65+',mm[13:].sum()/mm.sum()*100)
 fig,axs=plt.subplots(1,3,figsize=(6.6,3.0),sharey=True)
 pyr(axs[0],A,'Country A'); pyr(axs[1],B,'Country B'); pyr(axs[2],C,'Country C')
-axs[0].text(-8.7,16.6,'Male',fontsize=7,color=BLUE); axs[0].text(5.5,16.6,'Female',fontsize=7,color=ORANGE)
+axs[0].text(-8.7,16.6,'Male',fontsize=8.5,color=BLUE); axs[0].text(4.0,16.6,'Female',fontsize=8.5,color='#B5651D')
 fig.tight_layout(); S(fig,'PE3_u3_agestructure.png')
 
 # ---------- U3 transition
@@ -89,15 +93,15 @@ for ax in axs: ax.set_xlabel('Soil sample')
 fig.tight_layout(); S(fig,'PE3_u4_soils.png')
 
 # ---------- U4 rain shadow
-fig,ax=canvas(6.2,3.0,(0,10),(0,5))
-ax.add_patch(Rectangle((0,0),2.4,0.9,fc=SKY,ec='none')); ax.text(1.2,0.35,'Ocean',ha='center',fontsize=9)
+fig,ax=canvas(6.2,2.6,(0,10),(0,4.2))
+ax.add_patch(Rectangle((0,0),2.4,0.9,fc=SKY,ec='none')); ax.text(1.2,0.35,'Ocean',ha='center',fontsize=10)
 ax.add_patch(Polygon([(2.4,0.9),(5.0,3.6),(7.4,0.9),(10,0.9),(10,0),(2.4,0)],fc=SAND,ec='#444',lw=1))
 ax.add_patch(Polygon([(2.4,0.9),(5.0,3.6),(7.4,0.9)],fc=BROWN,ec='#444',lw=1))
 for (px,py,lab) in [(2.9,1.15,'1'),(4.0,2.55,'2'),(8.6,1.2,'3')]:
     ax.add_patch(Circle((px,py),0.17,fc=RED,ec='white')); ax.text(px,py,lab,color='white',ha='center',va='center',fontsize=8,fontweight='bold')
-    ax.text(px,py+0.4,'Site '+lab,ha='center',fontsize=8)
-arrow(ax,(0.3,1.6),(2.1,1.6)); ax.text(1.2,1.8,'Prevailing wind',ha='center',fontsize=8,color=DARK)
-ax.set_xlim(0,10); ax.set_ylim(0,5)
+    ax.text(px+(-0.3 if lab in '12' else 0),py+0.3,'Site '+lab,ha='right' if lab in '12' else 'center',fontsize=9.5)
+arrow(ax,(0.3,2.7),(2.1,2.7)); ax.text(1.2,2.9,'Prevailing wind',ha='center',fontsize=9.5,color=DARK)
+ax.set_xlim(0,10); ax.set_ylim(0,4.2)
 S(fig,'PE3_u4_rainshadow.png')
 
 # ---------- U4 ENSO
@@ -108,16 +112,19 @@ ax.bar(yrs,sst,color=[ORANGE if s>0 else SKY for s in sst],width=0.7); ax.axhlin
 ax.set_ylabel('Sea-surface temperature anomaly (°C)'); ax.set_xlabel('Year'); ax.set_ylim(-1.6,1.6)
 ax2=ax.twinx(); ax2.plot(yrs,catch,color=RED,marker='o',ms=3.5,lw=1.6); ax2.set_ylim(0,14); ax2.spines['right'].set_visible(True)
 ax2.set_ylabel('Anchovy catch (million t)',color=RED)
+from matplotlib.patches import Patch
+from matplotlib.lines import Line2D
+ax.legend(handles=[Patch(fc=ORANGE,label='Warm anomaly'),Patch(fc=SKY,label='Cool anomaly'),Line2D([0],[0],color=RED,marker='o',ms=4,label='Anchovy catch (right axis)')],frameon=False,fontsize=8.5,ncol=3,loc='upper center',bbox_to_anchor=(0.5,1.14))
 S(fig,'PE3_u4_enso.png')
 
 # ---------- U5 overfishing
 y=[2000,2004,2008,2012,2016,2020]; eff=[20,25,32,40,50,60]; cat=[4.0,5.2,6.4,6.8,5.6,4.2]; cpue=[c*1000/e for c,e in zip(cat,eff)]
 fig,axs=plt.subplots(1,2,figsize=(6.3,2.8))
-axs[0].bar(y,cat,width=2.6,color=BLUE); axs[0].set_ylabel('Total catch (thousand t)',color=BLUE); axs[0].set_ylim(0,8)
-a2=axs[0].twinx(); a2.plot(y,eff,color=RED,marker='o',lw=1.6); a2.set_ylim(0,70); a2.spines['right'].set_visible(True); a2.set_ylabel('Fishing effort (thousand boat-days)',color=RED,fontsize=8)
-axs[0].set_xticks(y); axs[0].set_xticklabels(y,fontsize=7,rotation=45)
+axs[0].bar(y,cat,width=2.6,color=BLUE); axs[0].set_ylabel('Total catch (thousand t)',color=BLUE,fontsize=9); axs[0].set_ylim(0,8)
+a2=axs[0].twinx(); a2.plot(y,eff,color=RED,marker='o',lw=1.6); a2.set_ylim(0,70); a2.spines['right'].set_visible(True); a2.set_ylabel('Fishing effort (thousand boat-days)',color=RED,fontsize=8.5); axs[0].set_title('Catch (bars) and effort (line)',fontsize=9.5); axs[1].set_title('Catch per boat-day',fontsize=9.5)
+axs[0].set_xticks(y); axs[0].set_xticklabels(y,fontsize=8.5,rotation=45)
 axs[1].plot(y,cpue,color=GREEN,marker='s',lw=2); axs[1].set_ylabel('Catch per boat-day (kg)'); axs[1].set_ylim(0,260)
-axs[1].set_xticks(y); axs[1].set_xticklabels(y,fontsize=7,rotation=45)
+axs[1].set_xticks(y); axs[1].set_xticklabels(y,fontsize=8.5,rotation=45)
 fig.tight_layout(); print('cpue',cpue); S(fig,'PE3_u5_overfishing.png')
 
 # ---------- U6 mix
@@ -128,17 +135,17 @@ fig,ax=plt.subplots(figsize=(5.6,3.0)); left=np.zeros(3)
 for (k,v),c in zip(data.items(),cols):
     ax.barh(labs,v,left=left,color=c,label=k,height=0.55,edgecolor='white')
     for i,(vv,l) in enumerate(zip(v,left)):
-        if vv>=5: ax.text(l+vv/2,i,str(vv),ha='center',va='center',fontsize=8,color='white' if c in (DARK,BLUE,GREEN) else 'black')
+        if vv>=5: ax.text(l+vv/2,i,str(vv),ha='center',va='center',fontsize=9,color='white' if c in (DARK,BLUE,GREEN) else 'black')
     left+=np.array(v)
 ax.set_xlabel('Share of electricity generation (%)'); ax.set_xlim(0,100); ax.invert_yaxis()
-ax.legend(frameon=False,fontsize=7.5,ncol=3,loc='upper center',bbox_to_anchor=(0.5,-0.2))
+ax.legend(frameon=False,fontsize=8.5,ncol=3,loc='upper center',bbox_to_anchor=(0.5,-0.2))
 S(fig,'PE3_u6_mix.png')
 
 # ---------- U7 PM
 fig,ax=plt.subplots(figsize=(5.2,2.9))
 ax.bar(['Open three-stone\nwood fire','Improved biomass\nstove','LPG stove'],[480,190,30],color=[BROWN,ORANGE,TEAL],width=0.55)
-ax.axhline(15,color=RED,ls='--',lw=1.2); ax.text(2.45,32,'Health-based guideline\n(15 µg/m³)',fontsize=7.5,color=RED,ha='right',va='bottom')
-ax.set_ylabel('Indoor PM2.5, 24-h mean (µg/m³)'); ax.tick_params(axis='x',labelsize=8)
+ax.axhline(15,color=RED,ls='--',lw=1.2); ax.text(2.45,36,'Health-based guideline\n(15 µg/m³)',fontsize=8.5,color=RED,ha='right',va='bottom')
+ax.set_ylabel('Indoor PM2.5, 24-h mean (µg/m³)'); ax.tick_params(axis='x',labelsize=9)
 S(fig,'PE3_u7_pm.png')
 
 # ---------- U7 smog
@@ -159,7 +166,7 @@ do=np.where(d<0,9.0,do)
 bod=np.where(d<0,2,2+23*np.exp(-d.clip(0)/14))
 fig,ax=plt.subplots(figsize=(5.6,3.0))
 ax.plot(d,do,color=BLUE,lw=2.2,label=None); pass
-ax.axvline(0,color=GREY,lw=1); ax.text(0.8,9.3,'Wastewater outfall',fontsize=8,color=GREY)
+ax.axvline(0,color=GREY,lw=1); ax.text(0.8,9.3,'Wastewater outfall',fontsize=9,color='#444')
 ax.set_xlabel('Distance downstream of outfall (km)'); ax.set_ylabel('Dissolved oxygen (mg/L)'); ax.set_ylim(0,10.2); print('do min',do.min(),d[do.argmin()])
 S(fig,'PE3_u8_dosag.png')
 
@@ -168,6 +175,7 @@ x=np.logspace(0,3.3,200); f=lambda ld,sl: 100/(1+(ld/x)**sl)
 fig,ax=plt.subplots(figsize=(5.4,3.0))
 ax.semilogx(x,f(20,2.2),color=RED,lw=2,label='Toxicant 1'); ax.semilogx(x,f(200,2.2),color=BLUE,lw=2,label='Toxicant 2')
 ax.axhline(50,color=GREY,ls=':',lw=1); ax.set_xlabel('Dose (mg per kg body mass, log scale)'); ax.set_ylabel('Test animals that died (%)'); ax.set_ylim(0,100)
+ax.set_xticks([1,10,100,1000]); ax.set_xticklabels(['1','10','100','1,000'])
 ax.legend(frameon=False,fontsize=9,loc='lower right')
 S(fig,'PE3_u8_doseresponse.png')
 
@@ -181,14 +189,15 @@ S(fig,'PE3_u9_co2.png')
 # ---------- U9 invasive
 yy=[2005,2008,2011,2014,2017,2020]; area=[120,190,300,480,760,1200]
 fig,ax=plt.subplots(figsize=(5.4,2.9))
-ax.plot(yy,area,color=RED,marker='o',lw=2); ax.set_xlabel('Survey year'); ax.set_ylabel('Area infested by shrub (ha)'); ax.set_ylim(0,1400)
+ax.plot(yy,area,color=RED,marker='o',lw=2); ax.set_xlabel('Survey year'); ax.set_ylabel('Area infested by shrub (ha)'); ax.set_ylim(0,1400); ax.set_xticks(yy)
+ax.yaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v,_:f'{int(v):,}'))
 S(fig,'PE3_u9_invasive.png')
 
 # ---------- FRQ1 survey
 fig,axs=plt.subplots(1,2,figsize=(5.8,2.7))
 cats=['Not\ninvaded','Light','Heavy']
 axs[0].bar(cats,[62,41,12],color=[GREEN,SAND,BROWN],width=0.6); axs[0].set_ylabel('Perennial grass cover (%)'); axs[0].set_title('Grass cover',fontsize=10)
-axs[1].bar(cats,[9.1,7.4,4.8],color=[GREEN,SAND,BROWN],width=0.6); axs[1].set_ylabel('Soil moisture, 0–20 cm\n(% by volume)'); axs[1].set_title('Soil moisture (end of dry season)',fontsize=9)
+axs[1].bar(cats,[9.1,7.4,4.8],color=[GREEN,SAND,BROWN],width=0.6); axs[1].set_ylabel('Soil moisture, 0–20 cm\n(% by volume)'); axs[1].set_title('Soil moisture (end of dry season)',fontsize=10)
 for ax in axs: ax.set_xlabel('Shrub invasion level of survey plots')
 fig.tight_layout(); S(fig,'PE3_frq1_survey.png')
 
@@ -198,6 +207,6 @@ fig,ax=plt.subplots(figsize=(5.6,3.0))
 ax.plot(yrs,[6.8,6.9,6.8,6.5,6.2,5.7,5.1],color=RED,marker='o',lw=2,label='Country A')
 ax.plot(yrs,[2.6,2.4,1.9,1.5,1.4,1.4,1.3],color=BLUE,marker='s',lw=2,label='Country B')
 ax.plot(yrs,[6.0,5.4,4.2,3.3,2.9,2.3,1.9],color=GREEN,marker='^',lw=2,label='Country C')
-ax.axhline(2.1,color=GREY,ls='--',lw=1); ax.text(1983,2.2,'Replacement level (2.1)',fontsize=8,color=GREY)
+ax.axhline(2.1,color=GREY,ls='--',lw=1); ax.text(1983,2.2,'Replacement level (2.1)',fontsize=9,color='#444')
 ax.set_xlabel('Year'); ax.set_ylabel('Total fertility rate\n(children per woman)'); ax.set_ylim(0,8); ax.legend(frameon=False,fontsize=9,ncol=3,loc='upper center',bbox_to_anchor=(0.5,1.12))
 S(fig,'PE3_frq2_tfr.png')

@@ -6,13 +6,14 @@ D='/home/user/OmniRouter/apes_project/content/book2/figs/'
 
 # 1 salinization cross-section
 fig,ax=canvas(6.2,3.6,(0,10),(0,6))
+ax.add_patch(Rectangle((0,3.6),10,2.4,fc="#F1F6FA",ec="none",zorder=0))
 ax.add_patch(Rectangle((0,0),10,3.6,fc="#E3D2B4",ec="none"))          # soil
 ax.add_patch(Rectangle((0,0),10,2.7,fc=SKY,ec="none",alpha=0.85))      # saturated zone
 ax.plot([0,10],[2.7,2.7],color=BLUE,lw=2)
 ax.text(9.9,2.45,"saturated zone",ha="right",va="top",fontsize=9,color=DARK)
 ax.plot([0,10],[3.6,3.6],color=BROWN,lw=2)
-ax.add_patch(Rectangle((0,3.6),10,0.12,fc="white",ec="#999",lw=0.6))
-for x in np.arange(0.3,10,0.7): ax.add_patch(Rectangle((x,3.6),0.35,0.1,fc="white",ec="none"))
+ax.add_patch(Rectangle((0,3.6),10,0.14,fc="white",ec="#555",lw=1.0,zorder=4))
+for x in np.arange(0.3,10,0.35): ax.add_patch(Rectangle((x,3.74),0.18,0.07,fc="white",ec="#555",lw=0.6,zorder=4))
 # crop plants
 for x in np.arange(1.2,9.5,1.5):
     ax.plot([x,x],[3.7,4.5],color=GREEN,lw=2); ax.plot([x,x+0.25],[4.2,4.6],color=GREEN,lw=1.5); ax.plot([x,x-0.25],[4.0,4.4],color=GREEN,lw=1.5)
@@ -46,7 +47,7 @@ fig,ax=plt.subplots(figsize=(6,3.5))
 ax.plot(yrs,ssb,'-o',color=GREEN,label="Spawning stock biomass")
 ax.plot(yrs,catch,'-s',color=RED,label="Annual landings")
 ax.set_xlabel("Year"); ax.set_ylabel("Thousand metric tons")
-ax.legend(frameon=False,fontsize=9); ax.grid(axis='y',alpha=.25)
+ax.set_ylim(0,950); ax.legend(frameon=False,fontsize=9); ax.grid(axis='y',alpha=.25)
 save(fig,D+'QB_U5_fishery.png')
 
 # 4 hydrograph
@@ -90,6 +91,7 @@ fig,ax=plt.subplots(figsize=(6,3.4))
 ax.bar(lab,v,yerr=e,capsize=4,color=[GREY,SAND,TEAL,GREEN],edgecolor="#333")
 for i,val in enumerate(v): ax.text(i,val+e[i]+.5,f"{val}",ha="center",fontsize=9)
 ax.set_ylabel("Soil loss (t/ha/yr)"); ax.set_ylim(0,22)
+ax.text(3.45,21,"Error bars: range among replicates",ha="right",fontsize=8.5,style="italic",color=GREY)
 save(fig,D+'QB_U5_erosion_plots.png')
 
 # 8 paddocks (FRQ1) -- creek runs between the two rows so every paddock borders it
@@ -98,7 +100,7 @@ for (y0,y1) in [(5.4,7.8),(1.4,3.8)]:
     ax.add_patch(Rectangle((0.2,y0),11.6,y1-y0,fc="#EEF2DF",ec=DARK,lw=1))
     for i in range(1,3): ax.plot([0.2+3.87*i]*2,[y0,y1],color=DARK,lw=1.2)
 xs=np.linspace(0.2,11.8,100); ax.plot(xs,4.6+0.22*np.sin(xs*1.1),color=BLUE,lw=6,solid_capstyle='round')
-ax.text(6.0,4.55,"Creek",ha="center",va="center",color=BLUE,fontsize=9,fontweight="bold",bbox=dict(fc="white",ec="none",pad=2.5))
+ax.text(6.0,5.05,"Creek",ha="center",va="center",color=BLUE,fontsize=10,fontweight="bold")
 names=[["C1","C2","C3"],["R1","R2","R3"]]
 for r,(row,y) in enumerate(zip(names,[6.6,2.6])):
     for i,n in enumerate(row):

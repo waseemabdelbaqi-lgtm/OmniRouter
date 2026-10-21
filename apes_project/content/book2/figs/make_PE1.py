@@ -117,14 +117,14 @@ no2 = 8+30*np.exp(-((hr-7.5)/1.6)**2)+16*np.exp(-((hr-18)/1.8)**2)
 o3 = 12+70*np.exp(-((hr-14.5)/3.2)**2)
 fig, ax = plt.subplots(figsize=(5.8, 3.3))
 ax.plot(hr, no2, color=RED, lw=2, label='Nitrogen dioxide (NO₂)'); ax.plot(hr, o3, color=GREEN, lw=2, label='Ozone (O₃)')
-ax.set_xlim(0, 24); ax.set_xticks(range(0, 25, 3)); ax.set_xticklabels(['12 am', '3 am', '6 am', '9 am', '12 pm', '3 pm', '6 pm', '9 pm', '12 am'], fontsize=8)
+ax.set_ylim(0, 90); ax.set_xlim(0, 24); ax.set_xticks(range(0, 25, 3)); ax.set_xticklabels(['12 am', '3 am', '6 am', '9 am', '12 pm', '3 pm', '6 pm', '9 pm', '12 am'], fontsize=8)
 ax.set_ylabel('Concentration (ppb)'); ax.set_xlabel('Time of day (sunny summer weekday)'); ax.legend(frameon=False, fontsize=8, loc='upper left'); ax.grid(alpha=.25)
 save(fig, OUT+'PE1_U7_diurnal.png')
 
 # ---------- U7 inversion ----------
 alt = [0, 200, 500, 1200]; tmp = [11.0, 8.6, 15.8, 11.6]
 fig, ax = plt.subplots(figsize=(4.6, 3.6))
-ax.plot(tmp, alt, 'o-', color=RED, lw=2)
+ax.plot(tmp, alt, 'o-', color=RED, lw=2, clip_on=False)
 ax.set_xlabel('Air temperature (°C)'); ax.set_ylabel('Altitude above ground (m)'); ax.set_ylim(0, 1300); ax.set_xlim(6, 18); ax.grid(alpha=.25)
 ax.set_yticks([0, 200, 500, 800, 1200])
 save(fig, OUT+'PE1_U7_inversion.png')
@@ -155,7 +155,7 @@ fig, ax = plt.subplots(figsize=(5.8, 3.3))
 ax.plot(yr, ice, 'o-', color=BLUE, ms=3, lw=1)
 ax.annotate('1980: 7.8', (1980, 7.8), xytext=(1983, 8.3), fontsize=8, arrowprops=dict(arrowstyle='-', color=GREY))
 ax.annotate('2020: 3.9', (2020, 3.9), xytext=(2014.5, 3.0), fontsize=8, arrowprops=dict(arrowstyle='-', color=GREY))
-ax.set_ylim(2, 9); ax.set_xlabel('Year'); ax.set_ylabel('September minimum Arctic sea-ice\nextent (million km²)'); ax.grid(alpha=.25)
+ax.set_ylim(0, 9); ax.set_xlabel('Year'); ax.set_ylabel('September minimum Arctic sea-ice\nextent (million km²)'); ax.grid(alpha=.25)
 save(fig, OUT+'PE1_U9_sea_ice.png')
 
 # ---------- U9 pH ----------
@@ -170,23 +170,25 @@ fig.tight_layout()
 save(fig, OUT+'PE1_U9_ph.png')
 
 # ---------- FRQ1 estuary schematic ----------
-fig, ax = canvas(6.4, 4.0, (0, 12), (0, 7.5))
+fig, ax = canvas(6.4, 4.1, (0, 12), (-0.7, 7.5))
 ax.add_patch(Rectangle((0, 0), 12, 7.5, fc='white', ec='#444', lw=.8))
-ax.add_patch(Rectangle((0, 0), 3.4, 7.5, fc='#E3EBC9', ec='none')); ax.text(1.7, 6.9, 'Farmland\n(corn, vegetables)', ha='center', va='center', fontsize=8.5)
-ax.add_patch(Rectangle((8.2, 0), 3.8, 7.5, fc=SKY, ec='none', alpha=.7)); ax.text(10.1, 6.9, 'Harbor Bay', ha='center', fontsize=9, fontweight='bold')
-ax.add_patch(Ellipse((6.3, 4.9), 3.4, 1.9, fc='#9DBB7A', ec=GREEN, lw=1.2)); ax.text(6.3, 4.35, 'Restored salt marsh\n(40 ha)', ha='center', va='center', fontsize=8)
-ax.plot([3.4, 4.6, 8.2], [5.4, 4.9, 4.9], color=BLUE, lw=3); ax.text(3.4, 6.25, 'Harbor Creek', fontsize=8, color=BLUE)
-ax.plot([3.4, 5.0, 6.4, 8.2], [1.6, 1.9, 1.4, 1.4], color=BLUE, lw=3); ax.text(3.6, 0.7, 'Mill Creek (no marsh)', fontsize=8, color=BLUE)
-for (x, y, lab) in [(4.0, 5.2, 'H1'), (7.9, 4.9, 'H2'), (4.3, 1.8, 'M1'), (7.9, 1.4, 'M2')]:
-    ax.add_patch(Circle((x, y), .22, fc=RED, ec='white', zorder=4)); ax.text(x, y+.45, lab, ha='center', fontsize=8.5, color=RED, fontweight='bold')
-ax.text(6, 3.0, 'Drainage ditches carry irrigation and rain runoff\nfrom fields into both creeks', ha='center', fontsize=8, style='italic', color=GREY)
-ax.text(.2, .25, 'Not to scale. Dots mark existing water-quality access points.', fontsize=7.5, color=GREY)
+ax.add_patch(Rectangle((0, 0), 3.4, 7.5, fc='#E3EBC9', ec='none')); ax.text(1.7, 6.8, 'Farmland\n(corn, vegetables)', ha='center', va='center', fontsize=8.5)
+ax.add_patch(Rectangle((8.8, 0), 3.2, 7.5, fc=SKY, ec='none', alpha=.7)); ax.text(10.4, 6.8, 'Harbor Bay', ha='center', va='center', fontsize=9.5, fontweight='bold')
+ax.add_patch(Ellipse((6.1, 5.2), 3.4, 2.6, fc='#9DBB7A', ec=GREEN, lw=1.2, zorder=1)); ax.text(6.1, 4.45, 'Restored salt marsh\n(40 ha)', ha='center', va='center', fontsize=8, zorder=3)
+ax.plot([3.4, 4.4, 8.8], [5.4, 5.2, 5.2], color=BLUE, lw=3, zorder=2); ax.text(3.5, 6.3, 'Harbor Creek', fontsize=8.5, color=BLUE)
+ax.plot([3.4, 5.0, 6.4, 8.8], [1.8, 2.1, 1.6, 1.6], color=BLUE, lw=3, zorder=2); ax.text(4.9, 0.7, 'Mill Creek (no marsh)', fontsize=8.5, color=BLUE)
+for (p, q) in [((0.7, 4.3), (3.3, 5.35)), ((0.7, 2.7), (3.3, 1.85))]:
+    ax.add_patch(FancyArrowPatch(p, q, arrowstyle='-|>', mutation_scale=9, color=BROWN, lw=1.3, ls='--'))
+for (x, y, lab, dy) in [(4.0, 5.28, 'H1', .45), (8.2, 5.2, 'H2', .45), (4.2, 1.95, 'M1', .45), (8.2, 1.6, 'M2', .45)]:
+    ax.add_patch(Circle((x, y), .22, fc=RED, ec='white', zorder=4)); ax.text(x, y+dy, lab, ha='center', fontsize=9, color=RED, fontweight='bold', zorder=5)
+ax.text(5.9, 3.3, 'Drainage ditches (dashed) carry irrigation\nand rain runoff from fields into both creeks', ha='center', va='center', fontsize=8, style='italic', color='#555')
+ax.text(0.1, -0.4, 'Not to scale. Dots mark existing water-quality access points.', fontsize=8, color='#555')
 save(fig, OUT+'PE1_FRQ1_estuary.png')
 
 # ---------- FRQ2 Arctic ----------
 y3 = [2000, 2005, 2010, 2015, 2020, 2025]; ald = [42, 45, 52, 60, 68, 77]; shr = [12, 14, 19, 25, 31, 38]; tm = [3.1, 3.4, 4.0, 4.6, 5.1, 5.7]
 fig, axs = plt.subplots(1, 2, figsize=(6.4, 3.0))
-axs[0].plot(y3, ald, 'o-', color=BROWN); axs[0].set_ylabel('Active-layer depth (cm)'); axs[0].set_xlabel('Year'); axs[0].grid(alpha=.25)
-axs[1].plot(y3, shr, 's-', color=GREEN); axs[1].set_ylabel('Shrub cover (% of ground)'); axs[1].set_xlabel('Year'); axs[1].grid(alpha=.25)
+axs[0].plot(y3, ald, 'o-', color=BROWN); axs[0].set_ylabel('Active-layer depth (cm)'); axs[0].set_xlabel('Year'); axs[0].grid(alpha=.25); axs[0].set_ylim(0, 90)
+axs[1].plot(y3, shr, 's-', color=GREEN); axs[1].set_ylabel('Shrub cover (% of ground)'); axs[1].set_xlabel('Year'); axs[1].grid(alpha=.25); axs[1].set_ylim(0, 45)
 fig.tight_layout()
 save(fig, OUT+'PE1_FRQ2_arctic.png')

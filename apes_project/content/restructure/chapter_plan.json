@@ -1,0 +1,1437 @@
+{
+ "1": {
+  "title": "The Earth",
+  "sections": [
+   "Geologic Time Scale",
+   "Earth's Structure",
+   "Plate Tectonics",
+   "Earthquakes",
+   "Tsunamis",
+   "Volcanoes",
+   "Solar Intensity, Seasons, and Latitude–Longitude",
+   "Soil",
+   "The Rock Cycle",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "4.1",
+    3,
+    [
+     2,
+     4,
+     5,
+     6
+    ]
+   ],
+   [
+    "4.2",
+    8,
+    []
+   ],
+   [
+    "4.3",
+    8,
+    []
+   ],
+   [
+    "4.7",
+    7,
+    []
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U4-E001",
+    "4.1"
+   ],
+   [
+    "SG-U4-E002",
+    "4.2"
+   ],
+   [
+    "SG-U4-E003",
+    "4.3"
+   ],
+   [
+    "SG-U4-E004",
+    "4.3"
+   ],
+   [
+    "SG-U4-E008",
+    "4.7"
+   ],
+   [
+    "SG-U4-E011",
+    "4.1"
+   ],
+   [
+    "SG-U4-E012",
+    "4.2"
+   ],
+   [
+    "SG-U4-E014",
+    "4.3"
+   ],
+   [
+    "SG-U4-E016",
+    "4.7"
+   ]
+  ],
+  "new_only_sections": [
+   [
+    1,
+    "Geologic Time Scale"
+   ],
+   [
+    9,
+    "The Rock Cycle"
+   ]
+  ],
+  "sources": [
+   4
+  ]
+ },
+ "2": {
+  "title": "The Atmosphere",
+  "sections": [
+   "Composition",
+   "Structure",
+   "Weather and Climate",
+   "Atmospheric Circulation—Pressure",
+   "Hurricanes, Tornadoes, and Cyclones",
+   "El Niño—Southern Oscillation (ENSO)",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "4.4",
+    1,
+    [
+     2
+    ]
+   ],
+   [
+    "4.5",
+    4,
+    []
+   ],
+   [
+    "4.8",
+    3,
+    []
+   ],
+   [
+    "4.9",
+    6,
+    []
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U4-E005",
+    "4.4"
+   ],
+   [
+    "SG-U4-E006",
+    "4.5"
+   ],
+   [
+    "SG-U4-E009",
+    "4.8"
+   ],
+   [
+    "SG-U4-E010",
+    "4.9"
+   ]
+  ],
+  "new_only_sections": [
+   [
+    5,
+    "Hurricanes, Tornadoes, and Cyclones"
+   ]
+  ],
+  "sources": [
+   4
+  ]
+ },
+ "3": {
+  "title": "Global Water Resources and Use",
+  "sections": [
+   "Water Distribution and Properties",
+   "Freshwater",
+   "Aquifers",
+   "Types of Ice",
+   "Oceans",
+   "Agricultural, Industrial, and Municipal Use",
+   "Global Problems",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "4.6",
+    2,
+    []
+   ],
+   [
+    "5.5",
+    6,
+    []
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U4-E007",
+    "4.6"
+   ],
+   [
+    "SG-U4-E015",
+    "4.6"
+   ],
+   [
+    "SG-U5-E004",
+    "5.5"
+   ],
+   [
+    "SG-U5-E013",
+    "5.5"
+   ]
+  ],
+  "new_only_sections": [
+   [
+    1,
+    "Water Distribution and Properties"
+   ],
+   [
+    3,
+    "Aquifers"
+   ],
+   [
+    4,
+    "Types of Ice"
+   ],
+   [
+    5,
+    "Oceans"
+   ],
+   [
+    7,
+    "Global Problems"
+   ]
+  ],
+  "sources": [
+   4,
+   5
+  ]
+ },
+ "4": {
+  "title": "Ecosystems",
+  "sections": [
+   "Ecology",
+   "Law of Tolerance",
+   "Energy Flow",
+   "Biomes",
+   "Biodiversity",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "1.1",
+    1,
+    []
+   ],
+   [
+    "1.2",
+    4,
+    []
+   ],
+   [
+    "1.3",
+    4,
+    [
+     3.5
+    ]
+   ],
+   [
+    "1.8",
+    3,
+    []
+   ],
+   [
+    "1.9",
+    3,
+    []
+   ],
+   [
+    "1.10",
+    3,
+    []
+   ],
+   [
+    "1.11",
+    3,
+    []
+   ],
+   [
+    "2.1",
+    5,
+    []
+   ],
+   [
+    "2.2",
+    5,
+    []
+   ],
+   [
+    "2.3",
+    5,
+    []
+   ],
+   [
+    "2.4",
+    2,
+    []
+   ],
+   [
+    "2.5",
+    5,
+    []
+   ],
+   [
+    "2.6",
+    5,
+    []
+   ],
+   [
+    "2.7",
+    5,
+    []
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U1-E001",
+    "1.1"
+   ],
+   [
+    "SG-U1-E002",
+    "1.2"
+   ],
+   [
+    "SG-U1-E003",
+    "1.3"
+   ],
+   [
+    "SG-U1-E008",
+    "1.8"
+   ],
+   [
+    "SG-U1-E009",
+    "1.10"
+   ],
+   [
+    "SG-U1-E010",
+    "1.11"
+   ],
+   [
+    "SG-U1-E011",
+    "1.2"
+   ],
+   [
+    "SG-U2-E001",
+    "2.1"
+   ],
+   [
+    "SG-U2-E002",
+    "2.2"
+   ],
+   [
+    "SG-U2-E003",
+    "2.3"
+   ],
+   [
+    "SG-U2-E004",
+    "2.4"
+   ],
+   [
+    "SG-U2-E005",
+    "2.5"
+   ],
+   [
+    "SG-U2-E006",
+    "2.6"
+   ],
+   [
+    "SG-U2-E007",
+    "2.7"
+   ],
+   [
+    "SG-U2-E008",
+    "2.7"
+   ],
+   [
+    "SG-U2-E009",
+    "2.2"
+   ],
+   [
+    "SG-U2-E010",
+    "2.4"
+   ],
+   [
+    "SG-U2-E011",
+    "2.6"
+   ]
+  ],
+  "new_only_sections": [],
+  "sources": [
+   1,
+   2
+  ]
+ },
+ "5": {
+  "title": "Natural Biogeochemical Cycles",
+  "sections": [
+   "Carbon Cycle",
+   "Nitrogen Cycle",
+   "Phosphorus Cycle",
+   "Sulfur Cycle",
+   "Water Cycle",
+   "Role of H₂O, C, N, P, and S in the Human Body",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "1.4",
+    1,
+    []
+   ],
+   [
+    "1.5",
+    2,
+    []
+   ],
+   [
+    "1.6",
+    3,
+    []
+   ],
+   [
+    "1.7",
+    5,
+    []
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U1-E004",
+    "1.4"
+   ],
+   [
+    "SG-U1-E005",
+    "1.5"
+   ],
+   [
+    "SG-U1-E006",
+    "1.6"
+   ],
+   [
+    "SG-U1-E007",
+    "1.7"
+   ],
+   [
+    "SG-U1-E012",
+    "1.4"
+   ],
+   [
+    "SG-U1-E013",
+    "1.7"
+   ]
+  ],
+  "new_only_sections": [
+   [
+    4,
+    "Sulfur Cycle"
+   ],
+   [
+    6,
+    "Role of H₂O, C, N, P, and S in the Human Body"
+   ]
+  ],
+  "sources": [
+   1
+  ]
+ },
+ "6": {
+  "title": "Populations",
+  "sections": [
+   "Population Ecology",
+   "Survivorship",
+   "Human Population Dynamics",
+   "Demographic Transition",
+   "Age-Structure Diagrams",
+   "Population Size",
+   "Impacts of Population Growth",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "3.1",
+    1,
+    []
+   ],
+   [
+    "3.2",
+    1,
+    []
+   ],
+   [
+    "3.3",
+    2,
+    []
+   ],
+   [
+    "3.4",
+    1,
+    []
+   ],
+   [
+    "3.5",
+    6,
+    []
+   ],
+   [
+    "3.6",
+    5,
+    []
+   ],
+   [
+    "3.7",
+    3,
+    []
+   ],
+   [
+    "3.8",
+    3,
+    [
+     7
+    ]
+   ],
+   [
+    "3.9",
+    4,
+    []
+   ],
+   [
+    "5.11",
+    7,
+    []
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U3-E001",
+    "3.1"
+   ],
+   [
+    "SG-U3-E002",
+    "3.2"
+   ],
+   [
+    "SG-U3-E003",
+    "3.3"
+   ],
+   [
+    "SG-U3-E004",
+    "3.4"
+   ],
+   [
+    "SG-U3-E005",
+    "3.4"
+   ],
+   [
+    "SG-U3-E006",
+    "3.5"
+   ],
+   [
+    "SG-U3-E007",
+    "3.6"
+   ],
+   [
+    "SG-U3-E008",
+    "3.7"
+   ],
+   [
+    "SG-U3-E009",
+    "3.8"
+   ],
+   [
+    "SG-U3-E010",
+    "3.8"
+   ],
+   [
+    "SG-U3-E011",
+    "3.9"
+   ],
+   [
+    "SG-U3-E012",
+    "3.9"
+   ],
+   [
+    "SG-U3-E013",
+    "3.4"
+   ],
+   [
+    "SG-U3-E014",
+    "3.4"
+   ],
+   [
+    "SG-U3-E015",
+    "3.5"
+   ],
+   [
+    "SG-U3-E016",
+    "3.5"
+   ],
+   [
+    "SG-U3-E017",
+    "3.6"
+   ],
+   [
+    "SG-U3-E018",
+    "3.8"
+   ],
+   [
+    "SG-U3-E019",
+    "3.9"
+   ],
+   [
+    "SG-U5-E010",
+    "5.11"
+   ]
+  ],
+  "new_only_sections": [],
+  "sources": [
+   3,
+   5
+  ]
+ },
+ "7": {
+  "title": "Land and Water Use",
+  "sections": [
+   "Feeding a Growing Population",
+   "Types of Agriculture",
+   "Agricultural Productivity",
+   "Sustainable Agriculture",
+   "Controlling Pests",
+   "Forestry",
+   "Forest Fires (Wildfires)",
+   "Wildfire Suppression",
+   "Deforestation—Tree Harvesting",
+   "Rangelands",
+   "Urban Land Development",
+   "Transportation Infrastructure",
+   "Public and Federal Lands",
+   "Mining",
+   "Global Mineral Reserves",
+   "Fishing",
+   "Global Economics",
+   "Tragedy of the Commons",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "5.1",
+    18,
+    []
+   ],
+   [
+    "5.2",
+    9,
+    []
+   ],
+   [
+    "5.3",
+    3,
+    [
+     1
+    ]
+   ],
+   [
+    "5.4",
+    2,
+    [
+     3
+    ]
+   ],
+   [
+    "5.6",
+    5,
+    []
+   ],
+   [
+    "5.7",
+    2,
+    [
+     1
+    ]
+   ],
+   [
+    "5.8",
+    16,
+    []
+   ],
+   [
+    "5.9",
+    14,
+    []
+   ],
+   [
+    "5.10",
+    11,
+    []
+   ],
+   [
+    "5.13",
+    11,
+    []
+   ],
+   [
+    "5.14",
+    5,
+    []
+   ],
+   [
+    "5.15",
+    4,
+    []
+   ],
+   [
+    "5.16",
+    16,
+    []
+   ],
+   [
+    "5.17",
+    6,
+    []
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U5-E001",
+    "5.1"
+   ],
+   [
+    "SG-U5-E002",
+    "5.2"
+   ],
+   [
+    "SG-U5-E003",
+    "5.3"
+   ],
+   [
+    "SG-U5-E005",
+    "5.6"
+   ],
+   [
+    "SG-U5-E006",
+    "5.7"
+   ],
+   [
+    "SG-U5-E007",
+    "5.8"
+   ],
+   [
+    "SG-U5-E008",
+    "5.9"
+   ],
+   [
+    "SG-U5-E009",
+    "5.10"
+   ],
+   [
+    "SG-U5-E011",
+    "5.14"
+   ],
+   [
+    "SG-U5-E012",
+    "5.2"
+   ],
+   [
+    "SG-U5-E014",
+    "5.7"
+   ],
+   [
+    "SG-U5-E015",
+    "5.8"
+   ],
+   [
+    "SG-U5-E016",
+    "5.9"
+   ],
+   [
+    "SG-U5-E017",
+    "5.10"
+   ],
+   [
+    "SG-U5-E018",
+    "5.13"
+   ]
+  ],
+  "new_only_sections": [
+   [
+    7,
+    "Forest Fires (Wildfires)"
+   ],
+   [
+    8,
+    "Wildfire Suppression"
+   ],
+   [
+    10,
+    "Rangelands"
+   ],
+   [
+    12,
+    "Transportation Infrastructure"
+   ],
+   [
+    13,
+    "Public and Federal Lands"
+   ],
+   [
+    15,
+    "Global Mineral Reserves"
+   ],
+   [
+    17,
+    "Global Economics"
+   ]
+  ],
+  "sources": [
+   5
+  ]
+ },
+ "8": {
+  "title": "Energy",
+  "sections": [
+   "Energy Concepts",
+   "Energy Consumption (Past)",
+   "Energy Use (Present)",
+   "Renewable Energy Sources",
+   "Energy Conservation",
+   "Transportation",
+   "Mass Transit",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "6.1",
+    1,
+    []
+   ],
+   [
+    "6.2",
+    2,
+    [
+     3
+    ]
+   ],
+   [
+    "6.3",
+    3,
+    []
+   ],
+   [
+    "6.4",
+    3,
+    []
+   ],
+   [
+    "6.5",
+    3,
+    []
+   ],
+   [
+    "6.6",
+    3,
+    [
+     10
+    ]
+   ],
+   [
+    "6.7",
+    4,
+    []
+   ],
+   [
+    "6.8",
+    4,
+    []
+   ],
+   [
+    "6.9",
+    4,
+    []
+   ],
+   [
+    "6.10",
+    4,
+    []
+   ],
+   [
+    "6.11",
+    4,
+    []
+   ],
+   [
+    "6.12",
+    4,
+    []
+   ],
+   [
+    "6.13",
+    5,
+    [
+     6,
+     7
+    ]
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U6-E001",
+    "6.1"
+   ],
+   [
+    "SG-U6-E002",
+    "6.2"
+   ],
+   [
+    "SG-U6-E003",
+    "6.3"
+   ],
+   [
+    "SG-U6-E004",
+    "6.4"
+   ],
+   [
+    "SG-U6-E005",
+    "6.5"
+   ],
+   [
+    "SG-U6-E006",
+    "6.6"
+   ],
+   [
+    "SG-U6-E007",
+    "6.7"
+   ],
+   [
+    "SG-U6-E008",
+    "6.8"
+   ],
+   [
+    "SG-U6-E009",
+    "6.9"
+   ],
+   [
+    "SG-U6-E010",
+    "6.11"
+   ],
+   [
+    "SG-U6-E011",
+    "6.12"
+   ],
+   [
+    "SG-U6-E012",
+    "6.13"
+   ],
+   [
+    "SG-U6-E013",
+    "6.2"
+   ],
+   [
+    "SG-U6-E014",
+    "6.5"
+   ],
+   [
+    "SG-U6-E015",
+    "6.6"
+   ],
+   [
+    "SG-U6-E016",
+    "6.7"
+   ],
+   [
+    "SG-U6-E017",
+    "6.8"
+   ],
+   [
+    "SG-U6-E018",
+    "6.9"
+   ],
+   [
+    "SG-U6-E019",
+    "6.12"
+   ],
+   [
+    "SG-U6-E020",
+    "6.13"
+   ]
+  ],
+  "new_only_sections": [],
+  "sources": [
+   6
+  ]
+ },
+ "9": {
+  "title": "Pollution",
+  "sections": [
+   "Air Pollution",
+   "Major Air Pollutants",
+   "Acid Deposition",
+   "Thermal Pollution",
+   "Noise Pollution",
+   "Water Pollution",
+   "Groundwater Pollution",
+   "Water Quality—Water Testing",
+   "Maintaining Water Quality—Water Purification",
+   "Septic Systems/Sewage Treatment",
+   "Municipal Solid Waste",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "7.1",
+    1,
+    []
+   ],
+   [
+    "7.2",
+    2,
+    []
+   ],
+   [
+    "7.3",
+    1,
+    []
+   ],
+   [
+    "7.4",
+    2,
+    []
+   ],
+   [
+    "7.5",
+    2,
+    []
+   ],
+   [
+    "7.6",
+    1,
+    [
+     2
+    ]
+   ],
+   [
+    "7.7",
+    3,
+    []
+   ],
+   [
+    "7.8",
+    5,
+    []
+   ],
+   [
+    "8.1",
+    6,
+    []
+   ],
+   [
+    "8.2",
+    6,
+    []
+   ],
+   [
+    "8.4",
+    6,
+    []
+   ],
+   [
+    "8.5",
+    6,
+    []
+   ],
+   [
+    "8.6",
+    4,
+    []
+   ],
+   [
+    "8.9",
+    11,
+    []
+   ],
+   [
+    "8.10",
+    11,
+    []
+   ],
+   [
+    "8.11",
+    10,
+    []
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U7-E001",
+    "7.1"
+   ],
+   [
+    "SG-U7-E002",
+    "7.2"
+   ],
+   [
+    "SG-U7-E003",
+    "7.3"
+   ],
+   [
+    "SG-U7-E004",
+    "7.4"
+   ],
+   [
+    "SG-U7-E005",
+    "7.5"
+   ],
+   [
+    "SG-U7-E006",
+    "7.6"
+   ],
+   [
+    "SG-U7-E007",
+    "7.7"
+   ],
+   [
+    "SG-U7-E008",
+    "7.7"
+   ],
+   [
+    "SG-U7-E009",
+    "7.8"
+   ],
+   [
+    "SG-U7-E010",
+    "7.1"
+   ],
+   [
+    "SG-U7-E011",
+    "7.4"
+   ],
+   [
+    "SG-U7-E012",
+    "7.6"
+   ],
+   [
+    "SG-U7-E013",
+    "7.6"
+   ],
+   [
+    "SG-U7-E014",
+    "7.7"
+   ],
+   [
+    "SG-U8-E001",
+    "8.1"
+   ],
+   [
+    "SG-U8-E002",
+    "8.2"
+   ],
+   [
+    "SG-U8-E003",
+    "8.5"
+   ],
+   [
+    "SG-U8-E004",
+    "8.6"
+   ],
+   [
+    "SG-U8-E006",
+    "8.10"
+   ],
+   [
+    "SG-U8-E007",
+    "8.10"
+   ],
+   [
+    "SG-U8-E008",
+    "8.11"
+   ],
+   [
+    "SG-U8-E011",
+    "8.4"
+   ],
+   [
+    "SG-U8-E012",
+    "8.5"
+   ],
+   [
+    "SG-U8-E013",
+    "8.10"
+   ]
+  ],
+  "new_only_sections": [
+   [
+    7,
+    "Groundwater Pollution"
+   ],
+   [
+    8,
+    "Water Quality—Water Testing"
+   ],
+   [
+    9,
+    "Maintaining Water Quality—Water Purification"
+   ]
+  ],
+  "sources": [
+   7,
+   8
+  ]
+ },
+ "10": {
+  "title": "Impacts on the Environment and Human Health",
+  "sections": [
+   "Hazards to Human Health",
+   "Dose-Response Relationships",
+   "Hazardous Chemicals in the Environment",
+   "Treatment, Disposal, and Cleanup of Contaminated Sites",
+   "Perpetual Storage",
+   "Bioaccumulation—Biomagnification",
+   "Environmental Economics",
+   "Sustainability—Resiliency",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "5.12",
+    8,
+    []
+   ],
+   [
+    "8.3",
+    3,
+    []
+   ],
+   [
+    "8.7",
+    3,
+    []
+   ],
+   [
+    "8.8",
+    6,
+    []
+   ],
+   [
+    "8.12",
+    2,
+    []
+   ],
+   [
+    "8.13",
+    2,
+    []
+   ],
+   [
+    "8.14",
+    1,
+    []
+   ],
+   [
+    "8.15",
+    1,
+    []
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U8-E005",
+    "8.8"
+   ],
+   [
+    "SG-U8-E009",
+    "8.13"
+   ],
+   [
+    "SG-U8-E010",
+    "8.15"
+   ],
+   [
+    "SG-U8-E014",
+    "8.13"
+   ]
+  ],
+  "new_only_sections": [
+   [
+    4,
+    "Treatment, Disposal, and Cleanup of Contaminated Sites"
+   ],
+   [
+    5,
+    "Perpetual Storage"
+   ],
+   [
+    7,
+    "Environmental Economics"
+   ]
+  ],
+  "sources": [
+   5,
+   8
+  ]
+ },
+ "11": {
+  "title": "Stratospheric Ozone and Global Warming",
+  "sections": [
+   "Stratospheric Ozone",
+   "Ozone Depletion",
+   "Global Warming",
+   "Impacts and Consequences of Global Warming",
+   "Reducing Climate Change",
+   "Loss of Biodiversity",
+   "Practice Questions and Answers"
+  ],
+  "old_topics": [
+   [
+    "9.1",
+    1,
+    [
+     2
+    ]
+   ],
+   [
+    "9.2",
+    2,
+    []
+   ],
+   [
+    "9.3",
+    3,
+    []
+   ],
+   [
+    "9.4",
+    3,
+    [
+     5
+    ]
+   ],
+   [
+    "9.5",
+    3,
+    [
+     4
+    ]
+   ],
+   [
+    "9.6",
+    4,
+    []
+   ],
+   [
+    "9.7",
+    4,
+    []
+   ],
+   [
+    "9.8",
+    6,
+    []
+   ],
+   [
+    "9.9",
+    6,
+    []
+   ],
+   [
+    "9.10",
+    6,
+    []
+   ]
+  ],
+  "examples": [
+   [
+    "SG-U9-E001",
+    "9.1"
+   ],
+   [
+    "SG-U9-E002",
+    "9.2"
+   ],
+   [
+    "SG-U9-E003",
+    "9.3"
+   ],
+   [
+    "SG-U9-E004",
+    "9.4"
+   ],
+   [
+    "SG-U9-E005",
+    "9.5"
+   ],
+   [
+    "SG-U9-E006",
+    "9.5"
+   ],
+   [
+    "SG-U9-E007",
+    "9.6"
+   ],
+   [
+    "SG-U9-E008",
+    "9.7"
+   ],
+   [
+    "SG-U9-E009",
+    "9.8"
+   ],
+   [
+    "SG-U9-E010",
+    "9.9"
+   ],
+   [
+    "SG-U9-E011",
+    "9.10"
+   ],
+   [
+    "SG-U9-E012",
+    "9.10"
+   ],
+   [
+    "SG-U9-E013",
+    "9.2"
+   ],
+   [
+    "SG-U9-E014",
+    "9.3"
+   ],
+   [
+    "SG-U9-E015",
+    "9.10"
+   ],
+   [
+    "SG-U9-E016",
+    "9.10"
+   ]
+  ],
+  "new_only_sections": [],
+  "sources": [
+   9
+  ]
+ }
+}

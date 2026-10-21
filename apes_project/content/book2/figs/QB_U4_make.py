@@ -15,11 +15,12 @@ def plates_map():
     def ar(p,q): ax.add_patch(FancyArrowPatch(p,q,arrowstyle="-|>",mutation_scale=18,color=RED,lw=2.6))
     ar((2.9,3.9),(1.5,3.9)); ar((3.7,3.9),(5.1,3.9)); ar((5.9,3.0),(6.4,3.0)) if False else None
     ar((4.6,4.6),(6.3,4.6)); ar((9.2,3.9),(7.3,3.9))
-    ar((9.3,2.65),(7.5,2.65)); ar((7.2,1.65),(9.0,1.65))
-    for lab,x,y in [("I",3.3,2.7),("II",6.6,2.7),("III",8.9,2.2)]:
+    ar((9.2,3.05),(7.5,3.05)); ar((7.2,1.45),(9.0,1.45))
+    for lab,x,y in [("I",3.3,2.7),("II",6.6,2.7),("III",9.35,2.2)]:
         ax.add_patch(Circle((x,y),0.33,fc="white",ec=DARK,lw=1.6,zorder=5)); ax.text(x,y,lab,ha="center",va="center",fontsize=10,fontweight="bold",zorder=6)
-    ax.text(0.1,0.4,"Red arrows show the direction each plate is moving.",fontsize=8.5,style="italic")
-    ax.text(0.1,0.0,"Blue = oceanic crust; tan = continental crust.",fontsize=8.5,style="italic")
+    ax.text(0.1,0.8,"Red arrows show the direction each plate is moving.",fontsize=8.5,style="italic")
+    ax.text(0.1,0.4,"Blue = oceanic crust; tan = continental crust.",fontsize=8.5,style="italic")
+    ax.text(0.1,0.0,"I, II, III = plate boundaries.",fontsize=8.5,style="italic")
     save(fig,OUT+'QB_U4_plates_map.png')
 
 def benioff():
@@ -27,7 +28,7 @@ def benioff():
     x=rng.uniform(0,450,45); d=10+0.45*x+rng.normal(0,14,45); d=np.clip(d,3,None)
     fig,ax=plt.subplots(figsize=(6,3.4))
     ax.scatter(x,d,s=22,color=RED,alpha=.85,edgecolor="white",lw=.4)
-    ax.invert_yaxis(); ax.set_xlabel("Distance inland from the trench (km)"); ax.set_ylabel("Earthquake focal depth (km)")
+    ax.set_ylim(250,0); ax.set_xlabel("Distance inland from the trench (km)"); ax.set_ylabel("Earthquake focal depth (km)")
     ax.set_title("Earthquake foci along a 100-km-wide strip"); ax.set_xlim(0,460); ax.grid(alpha=.25)
     save(fig,OUT+'QB_U4_benioff.png')
 
@@ -37,9 +38,9 @@ def soil_profile():
     ax0=fig.add_subplot(gs[0]); tops=[0,6,28,75,130]; cols=["#3B2A1E","#6B4A2F","#B5763A","#D9C9A8"]; labs=["W","X","Y","Z"]
     for i in range(4):
         ax0.add_patch(Rectangle((0,tops[i]),1,tops[i+1]-tops[i],fc=cols[i],ec="black"))
-        ax0.text(0.5,(tops[i]+tops[i+1])/2,labs[i],ha="center",va="center",color="white" if i<3 else "black",fontsize=13,fontweight="bold")
+        ax0.text(0.5,(tops[i]+tops[i+1])/2,labs[i],ha="center",va="center",color="white" if i<3 else "black",fontsize=8.5 if i==0 else 13,fontweight="bold")
     rng=np.random.default_rng(2)
-    ax0.scatter(rng.uniform(.1,.9,14),rng.uniform(78,128,14),marker="^",s=18,color="#7a7a7a")
+    rx,ry=rng.uniform(.1,.9,14),rng.uniform(78,128,14); keep=~((abs(rx-.5)<.2)&(abs(ry-104)<10)); ax0.scatter(rx[keep],ry[keep],marker="^",s=18,color="#7a7a7a")
     ax0.set_xlim(0,1); ax0.set_ylim(130,0); ax0.set_xticks([]); ax0.set_yticks(tops); ax0.set_ylabel("Depth (cm)")
     ax0.set_title("Profile",fontsize=10); ax0.spines["bottom"].set_visible(False)
     mid=[(tops[i]+tops[i+1])/2 for i in range(4)]; hgt=[tops[i+1]-tops[i] for i in range(4)]
@@ -112,18 +113,18 @@ def watershed():
     main=[(4.5,5.3),(4.7,3.8),(4.5,2.5),(4.7,1.4),(4.6,0.4)]
     for s in (t1,t2,main): ax.plot(*zip(*s),color=BLUE,lw=2.8,solid_capstyle="round")
     ax.add_patch(Ellipse((4.6,-0.35),2.4,0.9,fc=SKY,ec=BLUE)); ax.text(4.6,-0.35,"Lake",ha="center",va="center",fontsize=9)
-    def flow(p,q): ax.add_patch(FancyArrowPatch(p,q,arrowstyle="-|>",mutation_scale=11,color="#0b3d63",lw=1.4,zorder=6))
-    flow((2.8,6.95),(3.15,6.6)); flow((7.1,6.9),(6.8,6.65)); flow((5.1,5.55),(4.8,5.4)); flow((4.65,3.3),(4.6,2.9))
+    def flow(p,q): ax.add_patch(FancyArrowPatch(p,q,arrowstyle="-|>",mutation_scale=20,color="#0b3d63",lw=2.0,zorder=6,shrinkA=0,shrinkB=0))
+    flow((3.65,6.05),(4.05,5.7)); flow((7.2,7.0),(6.75,6.65)); flow((5.1,5.55),(4.7,5.37)); flow((4.6,4.3),(4.65,3.8))
     ax.add_patch(Rectangle((5.9,7.2),1.2,0.9,fc="#D9B26F",ec=DARK,hatch="//",lw=1)); ax.text(6.5,8.25,"Fertilized field",ha="center",fontsize=8.5)
-    ax.add_patch(FancyArrowPatch((6.5,7.2),(6.5,6.65),arrowstyle="-|>",mutation_scale=11,color=BROWN,lw=1.8,zorder=6))
+    ax.add_patch(FancyArrowPatch((6.5,7.2),(6.5,6.42),arrowstyle="-|>",mutation_scale=14,color=BROWN,lw=2.0,zorder=6,shrinkA=0,shrinkB=0))
     for n,(x,y) in {"1":(3.0,6.75),"2":(7.8,7.5),"3":(5.5,5.8),"4":(4.7,1.7)}.items():
-        ax.add_patch(Circle((x,y),0.28,fc=RED,ec="white",zorder=7)); ax.text(x,y,n,color="white",ha="center",va="center",fontsize=9,fontweight="bold",zorder=8)
+        ax.scatter([x],[y],s=300,color=RED,edgecolor="white",linewidth=1.2,zorder=7); ax.text(x,y,n,color="white",ha="center",va="center",fontsize=10,fontweight="bold",zorder=8)
     ax.text(0.0,-0.75,"- - -  watershed divide\n→  stream flow direction",fontsize=8.5,va="bottom",style="italic")
     ax.text(8.3,1.2,"Sites 1–4:\nwater-quality\nsampling points",fontsize=8.5,color=RED,ha="center")
     save(fig,OUT+'QB_U4_watershed.png')
 
 def orbit():
-    fig,ax=canvas(6.2,3.9,(-4.6,4.6),(-3.6,2.7)); a,b=3.0,1.6
+    fig,ax=canvas(6.2,3.9,(-4.6,4.6),(-3.6,2.7)); ax.set_aspect('equal'); a,b=3.0,1.6
     th=np.linspace(0,2*np.pi,200); ax.plot(a*np.cos(th),b*np.sin(th),color=GREY,lw=1.2)
     ax.add_patch(Circle((0,0),.55,fc=YELLOW,ec=ORANGE,lw=2)); ax.text(0,-.85,"Sun",ha="center",fontsize=9)
     pos={"W":(0,b),"X":(a,0),"Y":(0,-b),"Z":(-a,0)}
@@ -159,7 +160,7 @@ def rainshadow():
     ax.fill_between([0,15],[-300,-300],[0,0],color="#BFE0F2"); ax.fill_between([0,15],[0,0],[0,0])
     ax.fill_between(xs,[-300]*5,ys,color=BROWN,alpha=.85); ax.fill_between([0,15],[-300,-300],[0,0],color="#BFE0F2"); ax.plot(xs,ys,color="black")
     def el(x): return float(np.interp(x,xs,ys))
-    for lab,x in [("W",10),("X",40),("Y",55),("Z",85)]:
+    for lab,x in [("W",15),("X",40),("Y",55),("Z",85)]:
         y=el(x); ax.scatter(x,y+60,s=200,color=RED,zorder=5,edgecolor="white"); ax.text(x,y+60,lab,color="white",ha="center",va="center",fontsize=10,fontweight="bold",zorder=6)
     ax.add_patch(FancyArrowPatch((2,3000),(30,3000),arrowstyle="-|>",mutation_scale=16,color=BLUE,lw=2.4)); ax.text(2,3200,"Prevailing wind (moist air from the ocean)",fontsize=9,color=BLUE)
     ax.set_ylim(-300,3600); ax.set_xlim(0,100); ax.set_xlabel("Distance inland (km)"); ax.set_ylabel("Elevation (m)"); ax.text(6,-180,"Ocean",fontsize=8.5)
@@ -169,7 +170,6 @@ def rainshadow():
 def hillside():
     fig,ax=canvas(6.0,4.4,(0,10),(0,8))
     ax.add_patch(Rectangle((0.3,1.6),9.4,6.0,fc="#F1EAD5",ec="black",lw=1.2))
-    for i,y in enumerate([6.9,5.2,3.5,2.3]): ax.plot([0.3,9.7],[y+0.25*(i%2),y+0.25*(i%2)],color="#C9B98F",lw=.8,ls=":")
     ax.text(9.55,7.3,"Higher ground",ha="right",fontsize=8,style="italic"); 
     blocks={"Block 1":(0.6,3.8,"slope 6%\nloam"),"Block 2":(3.6,3.8,"slope 6%\nloam"),"Block 3":(6.6,3.8,"slope 14%\nclay loam"),"Block 4":(0.6,1.9,"slope 14%\nloam")}
     # place blocks: two on upper row, one more on right; use layout 2x2-ish
@@ -185,10 +185,10 @@ def hillside():
 
 SST=[-0.4,0.2,1.9,0.3,-0.7,-1.5,-0.2,0.5,2.4,0.6,-0.9,-0.3]; LAND=[8.1,7.6,3.2,6.8,8.7,9.4,8.0,6.5,1.9,5.8,9.0,8.3]
 def enso():
-    fig,(a1,a2)=plt.subplots(2,1,figsize=(6,4.4),sharex=True,gridspec_kw={"hspace":.35})
+    fig,(a1,a2)=plt.subplots(2,1,figsize=(6,4.4),sharex=False,gridspec_kw={"hspace":.5})
     yrs=np.arange(1,13); a1.bar(yrs,SST,color=[RED if v>0 else BLUE for v in SST]); a1.axhline(0,color="black",lw=.8)
-    a1.set_ylabel("SST anomaly (°C)"); a1.set_title("Sea surface temperature anomaly, eastern equatorial Pacific"); a1.grid(axis="y",alpha=.25)
-    a2.plot(yrs,LAND,marker="o",color=DARK,lw=2); a2.set_ylabel("Anchovy landings\n(million metric tons)"); a2.set_ylim(0,11); a2.grid(alpha=.25)
+    a1.set_xticks(yrs); a1.set_xlabel("Year"); a1.set_xlim(0.4,12.6); a2.set_xlim(0.4,12.6); a1.set_ylabel("SST anomaly (°C)"); a1.set_title("Sea surface temperature anomaly, eastern equatorial Pacific"); a1.grid(axis="y",alpha=.25)
+    a2.plot(yrs,LAND,marker="o",color=DARK,lw=2); a2.set_ylabel("Anchovy landings\n(million metric tons)"); a2.set_ylim(0,11); a2.set_yticks([0,2,4,6,8,10]); a2.grid(alpha=.25)
     a2.set_xticks(yrs); a2.set_xlabel("Year"); a2.set_title("Peruvian anchovy landings",fontsize=10)
     save(fig,OUT+'QB_U4_enso_series.png')
 
@@ -196,13 +196,17 @@ def climato():
     m="JFMAMJJASOND"
     H=([260,215,200,130,85,45,20,25,70,150,240,290],[7,8,9,11,14,16,18,18,16,12,9,7])
     P=([30,25,30,28,35,30,15,12,18,22,32,33],[-2,0,5,10,15,20,24,23,17,10,3,-1])
-    fig,axs=plt.subplots(1,2,figsize=(6.4,3.3),sharey=True)
+    fig,axs=plt.subplots(1,2,figsize=(6.8,3.5),sharey=True)
     for ax,(pr,tp),n in zip(axs,(H,P),("Harbor (coast)","Plain (inland)")):
-        ax.bar(range(12),pr,color=SKY,edgecolor=BLUE); ax.set_ylim(0,320); ax.set_xticks(range(12)); ax.set_xticklabels(list(m),fontsize=8); ax.set_title(n,fontsize=10)
+        ax.bar(range(12),pr,color=SKY,edgecolor=BLUE); ax.set_ylim(0,320); ax.set_xticks(range(12)); ax.set_xticklabels(list(m),fontsize=8.5); ax.set_title(n,fontsize=10.5)
         a2=ax.twinx(); a2.plot(range(12),tp,color=RED,marker="o",ms=3.5,lw=2); a2.set_ylim(-10,32); a2.spines["right"].set_visible(True)
-        if ax is axs[0]: ax.set_ylabel("Precipitation (mm)"); a2.set_yticks([]); a2.spines["right"].set_visible(False)
-        else: a2.set_ylabel("Mean temperature (°C)",color=RED)
-    fig.subplots_adjust(wspace=.12)
+        a2.set_ylabel("Mean temperature (°C)",color=RED); a2.tick_params(axis="y",colors=RED)
+        ax.set_xlabel("Month")
+    axs[0].set_ylabel("Precipitation (mm)")
+    from matplotlib.patches import Patch
+    from matplotlib.lines import Line2D
+    fig.legend(handles=[Patch(fc=SKY,ec=BLUE,label="Precipitation (bars)"),Line2D([0],[0],color=RED,marker="o",ms=4,lw=2,label="Mean temperature (line)")],loc="lower center",ncol=2,frameon=False,fontsize=9,bbox_to_anchor=(0.5,-0.04))
+    fig.subplots_adjust(wspace=.42,bottom=.22)
     save(fig,OUT+'QB_U4_climatograms.png')
     print(sum(H[0]),sum(P[0]),sum(H[1])/12,sum(P[1])/12)
 

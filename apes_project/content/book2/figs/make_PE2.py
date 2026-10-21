@@ -93,7 +93,7 @@ a1.bar(y5,catch,width=3.5,color=SKY,edgecolor=BLUE,label='Total catch (thousand 
 b=a1.twinx(); b.plot(y5,boats,color=RED,marker='o',ms=4); b.set_ylabel('Fishing boats (number)',color=RED); b.set_ylim(0,900); b.spines['right'].set_visible(True)
 a1.set_ylim(0,400)
 a2.plot(y5,cpue,color=DARK,marker='s',ms=4); a2.set_ylabel('Catch per boat (t per boat per year)'); a2.set_xlabel('Year'); a2.set_ylim(0,1.0)
-fig.tight_layout(); S(fig,'PE2_overfish.png')
+fig.tight_layout(w_pad=2.5); S(fig,'PE2_overfish.png')
 
 # 9 hydrograph
 t=np.linspace(0,24,300)
@@ -129,11 +129,14 @@ d=np.linspace(0,60,300); tt=d/20.0
 k1,k2,L0,D0,DOs=0.7,1.3,20.0,0.5,9.0
 BOD=L0*np.exp(-k1*tt); D=(k1*L0/(k2-k1))*(np.exp(-k1*tt)-np.exp(-k2*tt))+D0*np.exp(-k2*tt); DO=DOs-D
 print('DO min',DO.min(),d[DO.argmin()])
-fig,ax=plt.subplots(figsize=(6.0,3.5))
-ax.plot(d,DO,color=BLUE,lw=2,label='Dissolved oxygen (DO)'); ax.plot(d,BOD/2.5,color=BROWN,lw=2,label='BOD ÷ 2.5')
+fig,ax=plt.subplots(figsize=(6.2,3.5))
+ax.plot(d,DO,color=BLUE,lw=2,label='Dissolved oxygen (DO), left axis')
 ax.axhline(5,color=GREY,ls='--',lw=1); ax.text(59,5.15,'5 mg/L',ha='right',fontsize=8,color=GREY)
 ax.axvline(0,color=DARK,lw=1.4); ax.text(0.8,0.4,'Sewage\noutfall',fontsize=8,color=DARK)
-ax.set_xlabel('Distance downstream of outfall (km)'); ax.set_ylabel('Concentration (mg/L)'); ax.set_ylim(0,10.5); ax.legend(frameon=False,loc='upper right',fontsize=8)
+ax.set_xlabel('Distance downstream of outfall (km)'); ax.set_ylabel('Dissolved oxygen (mg/L)',color=BLUE); ax.set_ylim(0,10); ax.set_xlim(-2,60)
+b2=ax.twinx(); b2.plot(d,BOD,color=BROWN,lw=2,label='Biochemical oxygen demand (BOD), right axis'); b2.set_ylim(0,25); b2.set_ylabel('BOD (mg/L)',color=BROWN); b2.spines['right'].set_visible(True)
+h1,l1=ax.get_legend_handles_labels(); h2,l2=b2.get_legend_handles_labels()
+ax.legend(h1+h2,l1+l2,frameon=False,loc='upper right',fontsize=8,bbox_to_anchor=(1,1.0))
 S(fig,'PE2_do.png')
 
 # 13 dose-response

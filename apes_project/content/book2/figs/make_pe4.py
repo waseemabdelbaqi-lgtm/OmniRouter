@@ -2,6 +2,8 @@ import sys, math
 sys.path.insert(0,'/home/user/OmniRouter/apes_project/tools')
 from figstyle import *
 import numpy as np
+import matplotlib.ticker
+comma=matplotlib.ticker.FuncFormatter(lambda v,_:f'{int(v):,}')
 D='/home/user/OmniRouter/apes_project/content/book2/figs/'
 def S(fig,n): save(fig,D+n)
 
@@ -38,7 +40,7 @@ S(fig,'PE4_03_tolerance.png')
 # F04 survivorship
 fig,ax=plt.subplots(figsize=(5.4,3.3))
 x=np.linspace(0,100,200)
-ax.plot(x,1000*np.where(x<80,1-0.02*(x/80)**4*40/40*1, 1)*np.clip(1-(x/100)**5,0.001,1),color=BLUE,lw=2,label="Curve A")
+ax.plot(x,1000*np.exp(-(x/87)**6),color=BLUE,lw=2.2,label="Curve A")
 ax.plot(x,1000*np.exp(-0.046*x),color=GREEN,lw=2,label="Curve B")
 ax.plot(x,1000*np.where(x<10,np.exp(-0.42*x),np.exp(-0.42*10)*np.exp(-0.012*(x-10))),color=RED,lw=2,label="Curve C")
 ax.plot(x,1000*np.where(x<40,1-0.0*x,np.exp(-0.17*(x-40))),color=ORANGE,lw=2,ls="--",label="Curve D")
@@ -54,20 +56,23 @@ xs=np.linspace(1950,1970,200)
 from scipy.interpolate import PchipInterpolator
 ax.plot(xs,PchipInterpolator(yrs,pop)(xs),color=RED,lw=2); ax.plot(yrs,pop,'o',color=DARK,ms=4)
 ax.set_xlabel("Year"); ax.set_ylabel("Reindeer on Marsh Island"); ax.set_ylim(0,6500); ax.grid(alpha=.3)
-ax.set_xticks(range(1950,1971,4))
+ax.set_xticks(range(1950,1971,4)); ax.yaxis.set_major_formatter(comma)
 S(fig,'PE4_05_overshoot.png')
 
 # F06 age structure
 fig,axs=plt.subplots(1,3,figsize=(6.2,3.0),sharey=True)
 ages=["0–14","15–29","30–44","45–59","60–74","75+"]
 data={"Country X":[17,14,11,8,4,1],"Country Y":[8,9,9,9,8,5],"Country Z":[5,7,9,10,11,9]}
+# rescale so each country's bars total 100% (50% per sex)
+data={k:[round(i*50/sum(v),1) for i in v] for k,v in data.items()}
+for k,v in data.items(): print(k,v,round(sum(v)*2,1))
 for ax,(k,v) in zip(axs,data.items()):
     y=np.arange(6)
     ax.barh(y,[-i for i in v],color=BLUE,height=.85); ax.barh(y,v,color=RED,height=.85)
-    ax.set_title(k,fontsize=9); ax.set_xlim(-20,20); ax.set_xticks([-15,-10,-5,0,5,10,15]); ax.set_xticklabels(["15","10","5","0","5","10","15"],fontsize=7)
-    ax.set_yticks(y); ax.set_yticklabels(ages,fontsize=8)
-    ax.set_xlabel("Percent of population",fontsize=8)
-axs[0].text(-19,5.6,"Male",fontsize=7,color=BLUE); axs[0].text(5,5.6,"Female",fontsize=7,color=RED)
+    ax.set_title(k,fontsize=10.5); ax.set_xlim(-20,20); ax.set_xticks([-15,-10,-5,0,5,10,15]); ax.set_xticklabels(["15","10","5","0","5","10","15"],fontsize=8.5)
+    ax.set_yticks(y); ax.set_yticklabels(ages,fontsize=9)
+    ax.set_xlabel("Percent of population",fontsize=9)
+axs[0].text(-19,5.6,"Male",fontsize=8.5,color=BLUE); axs[0].text(2,5.6,"Female",fontsize=8.5,color=RED)
 fig.tight_layout(); S(fig,'PE4_06_age.png')
 
 # F07 demographic transition
@@ -75,8 +80,10 @@ fig,ax=plt.subplots(figsize=(5.8,3.4))
 yy=[1900,1930,1950,1970,1990,2010,2040]
 cbr=[41,41,40,38,26,18,12]; cdr=[36,33,28,14,9,7,9]
 xs=np.linspace(1900,2040,300)
-ax.plot(xs,PchipInterpolator(yy,cbr)(xs),color=RED,lw=2,label="Crude birth rate")
-ax.plot(xs,PchipInterpolator(yy,cdr)(xs),color=BLUE,lw=2,label="Crude death rate")
+pb=PchipInterpolator(yy,cbr)(xs); pd_=PchipInterpolator(yy,cdr)(xs); m1=xs<=2010; m2=xs>=2010
+ax.plot(xs[m1],pb[m1],color=RED,lw=2,label="Crude birth rate"); ax.plot(xs[m2],pb[m2],color=RED,lw=2,ls='--')
+ax.plot(xs[m1],pd_[m1],color=BLUE,lw=2,label="Crude death rate"); ax.plot(xs[m2],pd_[m2],color=BLUE,lw=2,ls='--')
+ax.text(2025,31,"Projected\n(dashed)",fontsize=9,ha='center',color='#444')
 ax.plot(yy,cbr,'o',color=RED,ms=3.5); ax.plot(yy,cdr,'o',color=BLUE,ms=3.5)
 ax.set_xlabel("Year"); ax.set_ylabel("Rate (per 1,000 people per year)"); ax.set_ylim(0,45)
 ax.set_xticks(range(1900,2041,20)); ax.grid(alpha=.35); ax.legend(frameon=False,fontsize=9,loc="center left")
@@ -117,9 +124,9 @@ S(fig,'PE4_10_irrigation.png')
 # F11 emissions intensity
 fig,ax=plt.subplots(figsize=(5.2,3.2))
 m=["Coal","Natural gas","Solar PV","Wind"]; e=[1000,450,45,12]
-b=ax.bar(m,e,color=[DARK,ORANGE,YELLOW,SKY],width=.6)
+b=ax.bar(m,e,color=[DARK,ORANGE,YELLOW,TEAL],width=.6)
 for r,v in zip(b,e): ax.text(r.get_x()+r.get_width()/2,v+20,f"{v:,}",ha="center",fontsize=9)
-ax.set_ylabel("Life-cycle CO₂ emissions\n(g CO₂ per kWh of electricity)"); ax.set_ylim(0,1150)
+ax.set_ylabel("Life-cycle CO₂ emissions\n(g CO₂ per kWh of electricity)"); ax.set_ylim(0,1150); ax.yaxis.set_major_formatter(comma)
 S(fig,'PE4_11_emissions.png')
 
 # F12 biofuel energy
@@ -130,9 +137,9 @@ x=np.arange(2)
 ax.bar(x,farm,.5,color=GREEN,label="Growing and harvesting")
 ax.bar(x,trans,.5,bottom=farm,color=SAND,label="Transport")
 ax.bar(x,proc,.5,bottom=np.array(farm)+np.array(trans),color=BROWN,label="Conversion to fuel")
-ax.axhline(21,color=RED,ls="--",lw=1.5); ax.text(1.42,21.4,"Energy in 1 L of ethanol = 21 MJ",ha="right",fontsize=8.5,color=RED)
+ax.axhline(21,color=RED,ls="--",lw=1.5); ax.text(1.42,21.4,"Energy in 1 L of ethanol = 21 MJ",ha="right",fontsize=9,color=RED)
 ax.set_xticks(x); ax.set_xticklabels(labels); ax.set_ylabel("Fossil energy input (MJ per liter)"); ax.set_ylim(0,25)
-ax.legend(frameon=False,fontsize=8,loc="upper right",bbox_to_anchor=(1.0,0.78)); ax.set_xlim(-.5,1.5)
+h_,l_=ax.get_legend_handles_labels(); ax.legend(h_[::-1],l_[::-1],frameon=False,fontsize=8.5,loc="upper right",bbox_to_anchor=(1.0,0.78)); ax.set_xlim(-.5,1.5)
 S(fig,'PE4_12_biofuel.png')
 
 # F13 smog
@@ -166,18 +173,18 @@ fig,ax=plt.subplots(figsize=(5.8,3.2))
 t=np.linspace(2016,2021.99,72)
 co2=409+2.4*(t-2016)+3.0*np.cos(2*np.pi*(t-2016.37))
 ax.plot(t,co2,color=DARK,lw=1.6)
-ax.set_xlabel("Year"); ax.set_ylabel("Atmospheric CO₂ (ppm)"); ax.set_xticks(range(2016,2023)); ax.grid(alpha=.3)
+ax.set_xlabel("Year"); ax.set_ylabel("Atmospheric CO₂ (ppm)"); ax.set_xticks(range(2016,2023)); ax.grid(alpha=.3); ax.yaxis.set_major_locator(matplotlib.ticker.MultipleLocator(5))
 S(fig,'PE4_15_co2.png')
 
 # F16 ice core
 fig,ax=plt.subplots(figsize=(6.0,4.0),sharex=True,nrows=2)
 k=np.linspace(0,400,500)  # thousand years before present
-base=np.cos(2*np.pi*(k-10)/100)  # warm near 0,100,... (interglacial peaks at ~10,110,...)
-ph=0.25*np.cos(2*np.pi*(k-10)/41)
+base=np.cos(2*np.pi*(k-4)/100)  # warm near 4, 104, ... thousand years before present
+ph=0.25*np.cos(2*np.pi*(k-4)/41)
 sig=base+ph
-co2=230+50*sig*0.9+8*np.sin(k/3.1); tmp=-4+3.2*sig+0.4*np.sin(k/2.3)
-co2=np.clip(co2,180,300)
-ax[0].plot(k,co2,color=RED,lw=1.5); ax[0].set_ylabel("CO₂ (ppm)"); ax[0].plot([0],[425],'o',color=DARK,ms=6); ax[0].annotate("Present: 425 ppm",(0,425),xytext=(95,395),fontsize=8.5,arrowprops=dict(arrowstyle="-",color=GREY))
+sig0=np.cos(2*np.pi*(0-4)/100)+0.25*np.cos(2*np.pi*(0-4)/41)
+co2=235+40*sig+5*np.sin(k/3.1); tmp=3.4*(sig-sig0)+0.4*np.sin(k/2.3)
+ax[0].plot(k,co2,color=RED,lw=1.5); ax[0].set_ylabel("CO₂ (ppm)"); ax[0].plot([0],[425],'o',color=DARK,ms=6); ax[0].annotate("Present: 425 ppm",(0,425),xytext=(30,418),fontsize=9.5,va='center',ha='right',arrowprops=dict(arrowstyle="-",color=GREY))
 ax[0].set_ylim(160,450)
 ax[1].plot(k,tmp,color=BLUE,lw=1.5); ax[1].set_ylabel("Temperature change\nfrom today (°C)"); ax[1].set_xlabel("Thousands of years before present")
 ax[1].invert_xaxis(); 
@@ -193,7 +200,7 @@ ax[0].plot(yrs,pco2,color=BLUE,lw=1.6); ax[0].set_ylabel("Surface seawater\npCO�
 ax[1].plot(yrs,ph,color=RED,lw=1.6); ax[1].set_ylabel("Surface seawater pH"); ax[1].set_xlabel("Year")
 ax[1].set_ylim(8.03,8.13)
 for a_ in ax: a_.grid(alpha=.3)
-ax[1].annotate("1990: pH 8.11",(1990,8.11),xytext=(1993,8.12),fontsize=8.5); ax[1].annotate("2020: pH 8.05",(2020,8.05),xytext=(2010.5,8.04),fontsize=8.5)
+ax[1].plot([1990,2020],[ph[0],ph[-1]],'o',color=DARK,ms=5); ax[1].annotate("1990: pH 8.11",(1990,ph[0]),xytext=(1992,8.122),fontsize=9.5); ax[1].annotate("2020: pH 8.05",(2020,ph[-1]),xytext=(2009.5,8.038),fontsize=9.5)
 fig.tight_layout(); S(fig,'PE4_17_ph.png')
 
 # F18 ozone
@@ -203,8 +210,8 @@ yrs=np.arange(1979,2024)
 sm=np.interp(yrs,[1979,1985,1990,1995,2000,2005,2010,2015,2023],[225,170,110,105,102,112,118,122,128])
 noise=rng.normal(0,7,len(yrs)); val=sm+noise
 ax.plot(yrs,val,'-o',color=DARK,ms=3,lw=1.2)
-ax.axhline(220,color=GREY,ls="--",lw=1); ax.text(1980,226,"220 DU",fontsize=8,color=GREY)
-ax.axvline(1987,color=RED,lw=1.5); ax.text(1987.6,235,"1987 Montreal Protocol signed",fontsize=8,color=RED)
+ax.axhline(220,color=GREY,ls="--",lw=1); ax.text(1991,225,"220 DU (ozone-hole threshold)",fontsize=9,color='#444')
+ax.axvline(1987,color=RED,lw=1.5); ax.text(1987.6,240,"1987 Montreal Protocol signed",fontsize=9,color=RED)
 ax.set_ylim(60,260); ax.set_xlabel("Year"); ax.set_ylabel("Minimum October ozone column\nover Antarctica (Dobson units)")
 ax.grid(alpha=.25); S(fig,'PE4_18_ozone.png')
 
@@ -212,22 +219,22 @@ ax.grid(alpha=.25); S(fig,'PE4_18_ozone.png')
 fig,ax=canvas(6.4,3.6,(0,12),(-0.6,6.6))
 box(ax,0.2,3.6,3.1,2.2,"Irrigated cotton fields\n(herbicide applied\neach spring)",fc="#EAF2D8",ec=GREEN,fs=8.5)
 box(ax,0.2,0.5,3.1,1.7,"Irrigation supply canal\n(Site 1)",fc="#DCEBF5",ec=BLUE,fs=8.5)
-box(ax,4.7,3.6,2.8,2.2,"Return-flow drain\n(Site 2)",fc="#DCEBF5",ec=BLUE,fs=8.5)
+box(ax,4.7,3.6,2.8,2.2,"Return-flow canal\n(Site 2)",fc="#DCEBF5",ec=BLUE,fs=8.5)
 box(ax,8.8,3.6,3.0,2.2,"Desert wetland pond\n(Site 3)\nfrog breeding habitat",fc="#DCEBF5",ec=BLUE,fs=8.5)
 box(ax,8.8,0.5,3.0,1.7,"Reference pond\n(Site 4)\nno upstream farms",fc="#F1F1F1",ec=GREY,fs=8.5)
-arrow(ax,(1.7,2.3),(1.7,3.5),"canal water",fs=7.5,off=(0.9,-0.2))
-arrow(ax,(3.4,4.7),(4.6,4.7),"runoff",fs=7.5)
-arrow(ax,(7.6,4.7),(8.7,4.7),"flow",fs=7.5)
-ax.text(6,-0.3,"Not to scale. Sites 3 and 4 are 25 km apart in the same desert valley.",ha="center",fontsize=8,color=GREY)
+arrow(ax,(1.7,2.3),(1.7,3.5),"canal water",fs=9,off=(1.0,-0.2))
+arrow(ax,(3.4,4.7),(4.6,4.7),"runoff",fs=9,off=(0,0.12))
+arrow(ax,(7.6,4.7),(8.7,4.7),"flow",fs=9,off=(0,0.12))
+ax.text(6,-0.3,"Not to scale. Sites 3 and 4 are 25 km apart in the same desert valley.",ha="center",fontsize=9,color='#444')
 S(fig,'PE4_FRQ1_canal.png')
 
 # FRQ2
 yrs=[2000,2005,2010,2015,2020,2025]; co=[369,380,390,401,413,425]; al=[42,44,47,51,56,61]; ice=[6.3,5.6,4.9,4.6,3.9,3.6]
 fig,axs=plt.subplots(1,2,figsize=(6.4,3.1))
 axs[0].plot(yrs,co,'-o',color=RED,lw=2,ms=4); axs[0].set_ylabel("Atmospheric CO₂ (ppm)"); axs[0].set_xlabel("Year"); axs[0].grid(alpha=.3)
-axs[0].set_xticks(yrs); axs[0].tick_params(axis='x',labelsize=7)
+axs[0].set_xticks(yrs); axs[0].tick_params(axis='x',labelsize=8)
 axs[1].bar([str(y) for y in yrs],al,color=BROWN,width=.6); axs[1].set_ylabel("Active-layer thickness (cm)",color=BROWN)
-axs[1].set_ylim(0,70); axs[1].tick_params(axis='x',labelsize=7)
+axs[1].set_ylim(0,70); axs[1].tick_params(axis='x',labelsize=8)
 a2=axs[1].twinx(); a2.plot([str(y) for y in yrs],ice,'-s',color=BLUE,lw=2,ms=4); a2.set_ylim(0,8); a2.set_ylabel("Sea-ice minimum extent\n(million km²)",color=BLUE); a2.spines['right'].set_visible(True)
 fig.tight_layout(); S(fig,'PE4_FRQ2_arctic.png')
 print("ok")

@@ -13,6 +13,7 @@ ROOT = "/home/user/OmniRouter/apes_project"
 BRAND = f"{ROOT}/01_brand"
 RED, DARK = "7A1424", "4A0D14"
 FONT = "Times New Roman"
+FILLS = True   # False: panels have no fill at all (DOCX deliverable); True: pale tints that pdf_alpha.py makes translucent
 
 BOX = {  # kind: (label, fill, edge)
     "objectives": ("LEARNING OBJECTIVES", "F4E9EA", RED),
@@ -24,7 +25,8 @@ BOX = {  # kind: (label, fill, edge)
     "strategy":   ("AP EXAM STRATEGY", "E8F1F8", "2F6690"),
     "apply":      ("REAL-WORLD EXAMPLE", "EAF5EC", "3E7D4F"),
     "summary":    ("QUICK CONCEPT SUMMARY", "F4E9EA", RED),
-    "example":    ("CLASSROOM EXAMPLE", "FFFFFF", RED),
+    "example":    ("CLASSROOM EXAMPLE", "FAF3F3", RED),
+    "practice":   ("PRACTICE QUESTIONS AND ANSWERS", "F4E9EA", RED),
     "note":       ("NOTE", "F2F2F2", "6B6B6B"),
 }
 
@@ -56,6 +58,10 @@ def para_fmt(p, before=0, after=4, line=1.08, align=None, keep_next=False, left=
     if left is not None: f.left_indent = Cm(left)
     if first is not None: f.first_line_indent = Cm(first)
 
+def run_shade(run, fill):
+    rpr = run._element.get_or_add_rPr(); shd = OxmlElement("w:shd")
+    shd.set(qn("w:val"), "clear"); shd.set(qn("w:color"), "auto"); shd.set(qn("w:fill"), fill); rpr.append(shd)
+
 def para_border(p, side="bottom", color=RED, sz=8, space=2):
     ppr = p._p.get_or_add_pPr()
     b = ppr.find(qn("w:pBdr"))
@@ -74,9 +80,10 @@ def add_bookmark(p, name):
     e = OxmlElement("w:bookmarkEnd"); e.set(qn("w:id"), str(_bm[0]))
     p._p.insert(1 if p._p.pPr is not None else 0, s); p._p.append(e)
 
-def add_field(p, instr, size=9, color="444444", bold=False):
+def add_field(p, instr, size=9, color="444444", bold=False, shade_fill=None):
     for typ, txt in (("begin", None), (None, instr), ("separate", None), (None, "1"), ("end", None)):
         r = p.add_run(); set_run_font(r, size=size, color=color, bold=bold)
+        if shade_fill: run_shade(r, shade_fill)
         if typ:
             fc = OxmlElement("w:fldChar"); fc.set(qn("w:fldCharType"), typ); r._r.append(fc)
         elif txt == instr:
@@ -144,6 +151,8 @@ def cell_margins(cell, top=60, bottom=60, left=120, right=120):
     tcpr.append(m)
 
 def set_cell_fill(cell, fill):
+    if not FILLS and fill not in (RED, DARK):
+        return
     shade(cell._tc.get_or_add_tcPr(), fill)
 
 def table_fixed(tbl, widths_cm):
@@ -230,7 +239,8 @@ def apply_master_frame(section):
     for r in list(p.runs): r._r.getparent().remove(r._r)
     off = FRAME_SPACE_PT / 28.3465 - 0.12   # cm: ornament sits on the border corner
     W, H, o = 21.0, 29.7, 1.05
-    anchor_picture(p, f"{BRAND}/watermark.png", 15.5, ("align", "center"), ("align", "center"))
+    wm = Image.open(f"{BRAND}/watermark.png")
+    anchor_picture(p, f"{BRAND}/watermark.png", wm.width / 220 * 2.54, ("align", "center"), ("align", "center"))
     for nm, (x, y) in {"tl": (off, off), "tr": (W - off - o, off), "bl": (off, H - off - o), "br": (W - off - o, H - off - o)}.items():
         anchor_picture(p, f"{BRAND}/corner_{nm}.png", o, ("offset", x), ("offset", y))
 
@@ -266,8 +276,10 @@ def write_footer(section, show_numbers=True, text="Success4Sure Academy  |  Prep
     p.paragraph_format.tab_stops.add_tab_stop(Cm(16.6), alignment=2)
     if show_numbers:
         r = p.add_run(text); set_run_font(r, size=8.5, color="6B6B6B")
-        r = p.add_run("\tPage "); set_run_font(r, size=8.5, color=DARK, bold=True)
-        add_field(p, "PAGE", size=8.5, color=DARK, bold=True)
+        r = p.add_run("\t"); set_run_font(r, size=8.5)
+        r = p.add_run("  "); set_run_font(r, size=9, bold=True, color="FFFFFF"); run_shade(r, RED)
+        add_field(p, "PAGE", size=9, color="FFFFFF", bold=True, shade_fill=RED)
+        r = p.add_run("  "); set_run_font(r, size=9, bold=True, color="FFFFFF"); run_shade(r, RED)
         para_border(p, "top", RED, 6, 3)
 
 # ---------------------------------------------------------------- document
@@ -328,7 +340,7 @@ class Book:
             para_fmt(p, 8, 3, 1.0, keep_next=True)
             r = p.add_run(text); set_run_font(r, size=12, bold=True, color=RED)
         add_bookmark(p, bm)
-        if not front: self.headings.append((level, text, bm))
+        if not front: self.headings.append((level + 1, text, bm, None))
         if level == 1 or (level == 2 and text.lower().startswith(("section", "part"))):
             self.qcount["n"] = 0
         return p
@@ -352,7 +364,7 @@ class Book:
         p = (container or self.d).add_paragraph(); para_fmt(p, 4, 1, 1.0, align=WD_ALIGN_PARAGRAPH.CENTER, keep_next=True)
         w_cm = 16.6 * width
         im = Image.open(full)
-        max_h = 11.5
+        max_h = 9.8
         if w_cm * im.height / im.width > max_h: w_cm = max_h * im.width / im.height
         p.add_run().add_picture(full, width=Cm(w_cm))
         c = (container or self.d).add_paragraph(); para_fmt(c, 0, 6, 1.0, align=WD_ALIGN_PARAGRAPH.CENTER)
@@ -403,8 +415,9 @@ class Book:
             r = first.add_run(f"   {qid}"); set_run_font(r, size=8.5, bold=True, color="6B6B6B")
         self.render_blocks(content, container=cell, size=10.5)
         if kind == "example":
-            ruled_lines(cell, 6, 10, "C9B5B8")
-        no_split = False
+            ruled_lines(cell, 4, 10, "C9B5B8")
+        if sum(len(l) for l in content) < 1000:
+            no_split_row(tbl.rows[0])
         sp = self.d.add_paragraph(); para_fmt(sp, 0, 3, 0.5)
 
     # ---- generic block renderer (also used inside boxes / questions)
@@ -416,6 +429,10 @@ class Book:
             s = ln.strip()
             if not s:
                 i += 1; continue
+            if s.startswith("%%"):
+                i += 1; continue
+            if s == "[[chapter-practice]]":
+                self.practice_box(); i += 1; continue
             if s.startswith("[[space"):
                 n = int(re.findall(r"\d+", s)[0]) if re.findall(r"\d+", s) else 3
                 for _ in range(n):
@@ -514,6 +531,8 @@ class Book:
             m = re.match(r"([A-D])\)\s*(.*)", o)
             r = p.add_run(m.group(1) + ".\t"); set_run_font(r, size=10.5, bold=True, color=DARK)
             add_inline(p, m.group(2), 10.5)
+        if "MCQ" in qid:
+            no_split_row(t.rows[0])
         if "FRQ" in qid and self.show_ids:
             ruled_lines(cell, 16 if qid.startswith("PE") else 11, 11)
         sp = self.d.add_paragraph(); para_fmt(sp, 0, 3, 0.5)
@@ -536,9 +555,98 @@ class Book:
     def reset_numbering(self): self.qcount["n"] = 0
 
     # ---- markdown file ingestion
-    def add_markdown(self, path):
+    def add_markdown(self, path, skip_h1=False):
         lines = open(path, encoding="utf-8").read().splitlines()
         self.base = os.path.dirname(path)
+        if skip_h1:
+            for k, ln in enumerate(lines):
+                if ln.startswith("# "):
+                    del lines[k]; break
         self.render_blocks(lines)
+
+
+    # ---------------------------------------------------------------- openers (units / chapters)
+    practice_info = {}      # chapter -> dict(examples=[...], mcq=int, frq=int)
+    cur_chapter = None
+
+    def register(self, level, text, find=None):
+        """Create a TOC entry + bookmark on a fresh zero-height paragraph."""
+        self._hn += 1; bm = f"h{self._hn}"
+        p = self.d.add_paragraph(); para_fmt(p, 0, 0, 0.1)
+        add_bookmark(p, bm); self.headings.append((level, text, bm, find))
+        return p
+
+    def unit_opener(self, label, title, chapters, art=None):
+        """Full-page unit opening: label (UNIT I), title, illustration, chapter list."""
+        self.new_section(f"AP Environmental Science  |  {self.short}", f"{label.title()} · {title.title()}")
+        self.cur_chapter = None
+        self.register(1, f"{label} — {title}", ("re", "IN THIS UNIT"))
+        sp = self.d.add_paragraph(); para_fmt(sp, 0, 30)
+        t = self.d.add_table(rows=1, cols=1); table_fixed(t, [16.4]); t.alignment = WD_TABLE_ALIGNMENT.CENTER
+        c = t.rows[0].cells[0]; set_cell_fill(c, RED); cell_margins(c, 300, 300, 300, 300)
+        cell_borders(c, bottom=("single", 24, DARK))
+        p = c.paragraphs[0]; para_fmt(p, 0, 4, 1.0)
+        r = p.add_run(label); set_run_font(r, size=44, bold=True, color="FFFFFF")
+        p = c.add_paragraph(); para_fmt(p, 0, 0, 1.0)
+        r = p.add_run(title); set_run_font(r, size=26, bold=True, color="F2D7DA")
+        sp = self.d.add_paragraph(); para_fmt(sp, 0, 14)
+        if art and os.path.exists(art):
+            p = self.d.add_paragraph(); para_fmt(p, 0, 0, 1.0, align=WD_ALIGN_PARAGRAPH.CENTER)
+            p.add_run().add_picture(art, width=Cm(16.4))
+            sp = self.d.add_paragraph(); para_fmt(sp, 0, 16)
+        p = self.d.add_paragraph(); para_fmt(p, 0, 6, 1.0)
+        r = p.add_run("IN THIS UNIT"); set_run_font(r, size=10.5, bold=True, color=RED)
+        para_border(p, "bottom", RED, 8, 2)
+        for num, ttl in chapters:
+            p = self.d.add_paragraph(); para_fmt(p, 4, 4, 1.0)
+            r = p.add_run(f"Chapter {num}"); set_run_font(r, size=15, bold=True, color=RED)
+            r = p.add_run(f"     {ttl}"); set_run_font(r, size=15, bold=True, color=DARK)
+        return t
+
+    def chapter_opener(self, num, title, sections, unit_label=None):
+        """Starts a new page/section with a banner (number + title) and the list of sections."""
+        self.new_section(f"AP Environmental Science  |  {self.short}", f"Chapter {num} · {title}")
+        self.cur_chapter = num
+        self.register(2, f"Chapter {num} — {title}", ("re", rf"CHAPTER {num}\b"))
+        t = self.d.add_table(rows=1, cols=2); table_fixed(t, [3.6, 12.8]); t.alignment = WD_TABLE_ALIGNMENT.CENTER
+        a, b = t.rows[0].cells
+        set_cell_fill(a, RED); cell_margins(a, 120, 120, 100, 100)
+        p = a.paragraphs[0]; para_fmt(p, 0, 0, 1.0, align=WD_ALIGN_PARAGRAPH.CENTER)
+        r = p.add_run("CHAPTER"); set_run_font(r, size=9.5, bold=True, color="F2D7DA")
+        p = a.add_paragraph(); para_fmt(p, 0, 0, 1.0, align=WD_ALIGN_PARAGRAPH.CENTER)
+        r = p.add_run(str(num)); set_run_font(r, size=38, bold=True, color="FFFFFF")
+        cell_margins(b, 120, 120, 220, 120); cell_borders(b, top=("single", 8, RED), bottom=("single", 8, RED), right=("single", 8, RED))
+        p = b.paragraphs[0]; para_fmt(p, 0, 0, 1.0)
+        if unit_label:
+            r = p.add_run(unit_label); set_run_font(r, size=9.5, bold=True, color="6B6B6B")
+            p = b.add_paragraph(); para_fmt(p, 0, 0, 1.0)
+        r = p.add_run(title); set_run_font(r, size=21, bold=True, color=DARK)
+        if sections:
+            sp = self.d.add_paragraph(); para_fmt(sp, 0, 2, 0.4)
+            half = (len(sections) + 1) // 2
+            st = self.d.add_table(rows=1, cols=2); table_fixed(st, [8.2, 8.2]); st.alignment = WD_TABLE_ALIGNMENT.CENTER
+            for ci, chunk in enumerate((sections[:half], sections[half:])):
+                cell = st.rows[0].cells[ci]; cell_margins(cell, 40, 40, 100, 60)
+                first = True
+                for k, name in chunk:
+                    p = cell.paragraphs[0] if first else cell.add_paragraph(); first = False
+                    para_fmt(p, 0, 1, 1.0)
+                    r = p.add_run(f"{k} · "); set_run_font(r, size=9.5, bold=True, color=RED)
+                    r = p.add_run(name); set_run_font(r, size=9.5, color="333333")
+        sp = self.d.add_paragraph(); para_fmt(sp, 0, 6, 0.6)
+
+    def practice_box(self):
+        info = self.practice_info.get(self.cur_chapter, {})
+        ex = info.get("examples", []); mcq = info.get("mcq"); frq = info.get("frq")
+        lines = []
+        if ex: lines.append("**Classroom examples in this chapter** (unsolved; space is provided in each box): " + ", ".join(ex) + ".")
+        if mcq is not None:
+            lines.append(f"**Classified practice:** Book Two, Chapter {self.cur_chapter} — {mcq} multiple-choice questions (Section A) followed by {frq} free-response questions (Section B).")
+        lines.append(f"**Answers and complete worked solutions:** Book Three — Part I (classroom examples) and Part II (practice questions), Chapter {self.cur_chapter}. Answers are deliberately not printed in this guide.")
+        lines.append("")
+        lines.append("- Try every example without notes, then check your reasoning against Book Three.")
+        lines.append("- For each miss, re-read the section named in the solution and rewrite the idea in your own words.")
+        lines.append("- Redo missed questions after two days to lock in the learning.")
+        self.box("practice", [x for l in lines for x in (l, "")])
 
     def save(self, path): self.d.save(path)

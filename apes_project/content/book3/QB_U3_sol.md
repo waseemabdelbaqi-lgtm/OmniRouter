@@ -91,7 +91,7 @@
 :::
 
 :::sol QB-U3-MCQ023
-**Answer: C.** Country C has by far the largest share of its population in the youngest age groups, so a large cohort will soon enter its reproductive years and births will greatly exceed deaths. Country D also has a broad base, but its younger groups are much smaller relative to its middle-aged groups, so its growth will be slower. Countries A and B have nearly constant or inverted shapes, indicating stable or declining populations.
+**Answer: C.** Country C has by far the largest share of its population in the youngest age groups, so a large cohort will soon enter its reproductive years and births will greatly exceed deaths. Country D has a flat base (its youngest age groups are all about the same size), so births are no longer rising from one cohort to the next and its growth will be slower. Countries A and B have nearly constant or inverted shapes, indicating stable or declining populations.
 :::
 
 :::sol QB-U3-MCQ024
