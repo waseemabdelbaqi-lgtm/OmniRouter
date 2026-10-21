@@ -1,0 +1,402 @@
+book4_id,year,exam,type,unit,topic,secondary_units,orig_ref,key,points,status,notes
+CB-U4-MCQ001,2008,Intl,MCQ,4,4.6,5,"9886c6f2, p.2, Q1",D,1,included,"Map location letter D read from the figure (Arabian Peninsula/Middle East). Document is the 2008 AP Environmental Science Practice Exam (copyright 2008; never administered operationally; 100 MCQ with five choices, 4 FRQs). Its text does not itself state International vs US; Intl label follows the assignment. Printed page numbers used in orig_ref."
+CB-U6-MCQ001,2008,Intl,MCQ,6,6.9,4,"9886c6f2, p.2, Q2",E,1,included,Locational fact; the underlying hydropower concept is in scope (Topic 6.9).
+CB-U4-MCQ002,2008,Intl,MCQ,4,4.6,6,"9886c6f2, p.2, Q3",D,1,included,Desalination is not a named CED topic; classified under freshwater availability (4.6) as the nearest fit. Map letters read from the figure.
+CB-U9-MCQ001,2008,Intl,MCQ,9,9.3,7,"9886c6f2, p.3, Q4",A,1,included,
+CB-U9-MCQ002,2008,Intl,MCQ,9,9.3,,"9886c6f2, p.3, Q5",E,1,included,
+CB-U7-MCQ001,2008,Intl,MCQ,7,7.2,9,"9886c6f2, p.3, Q6",D,1,included,
+CB-U7-MCQ002,2008,Intl,MCQ,7,7.7,6,"9886c6f2, p.3, Q7",B,1,included,
+CB-U6-MCQ002,2008,Intl,MCQ,6,6.1,,"9886c6f2, p.3, Q8",E,1,included,
+CB-U6-MCQ003,2008,Intl,MCQ,6,6.4,,"9886c6f2, p.3, Q9",D,1,included,"Reserve-lifetime estimates change with technology and prices (shale, tar sands); treat the keyed answer as dated."
+CB-U7-MCQ003,2008,Intl,MCQ,7,7.5,6,"9886c6f2, p.3, Q10",A,1,included,Indoor radon is a CED indoor-air topic (7.5); kept in U8 health context as primary assessed concept is the uranium decay source.
+CB-U4-MCQ003,2008,Intl,MCQ,4,4.4,9,"9886c6f2, p.3, Q11",B,1,included,
+CB-U4-MCQ004,2008,Intl,MCQ,4,4.4,,"9886c6f2, p.3, Q12",A,1,included,
+CB-U4-MCQ005,2008,Intl,MCQ,4,4.4,,"9886c6f2, p.3, Q13",A,1,included,
+CB-U4-MCQ006,2008,Intl,MCQ,4,4.4,,"9886c6f2, p.3, Q14",E,1,included,
+CB-U2-MCQ001,2008,Intl,MCQ,2,2.1,,"9886c6f2, p.4, Q15",A,1,included,
+CB-U2-MCQ002,2008,Intl,MCQ,2,2.1,8,"9886c6f2, p.4, Q16",E,1,included,
+CB-U5-MCQ001,2008,Intl,MCQ,5,5.9,8,"9886c6f2, p.4, Q17",B,1,included,
+CB-U6-MCQ004,2008,Intl,MCQ,6,6.8,,"9886c6f2, p.4, Q18",B,1,included,
+CB-U8-MCQ001,2008,Intl,MCQ,8,8.2,1,"9886c6f2, p.5, Q19",C,1,included,
+CB-U1-MCQ001,2008,Intl,MCQ,1,1.3,,"9886c6f2, p.5, Q20",E,1,included,
+CB-U7-MCQ004,2008,Intl,MCQ,7,7.7,8,"9886c6f2, p.5, Q21",E,1,included,Arrow position read from figure (about 5.6); normal-rainfall pH is in CED Topic 7.7.
+CB-U7-MCQ005,2008,Intl,MCQ,7,7.7,,"9886c6f2, p.5, Q22",D,1,included,
+CB-U6-MCQ005,2008,Intl,MCQ,6,6.8,,"9886c6f2, p.5, Q23",E,1,included,
+CB-U4-MCQ007,2008,Intl,MCQ,4,4.3,,"9886c6f2, p.5, Q24",B,1,included,
+CB-U5-MCQ002,2008,Intl,MCQ,5,5.2,2,"9886c6f2, p.5, Q25",B,1,included,
+CB-U8-MCQ002,2008,Intl,MCQ,8,8.5,,"9886c6f2, p.5, Q26",E,1,included,
+CB-U1-MCQ002,2008,Intl,MCQ,1,1.1,8,"9886c6f2, p.6, Q27",E,1,included,Experimental-design skill item; no single CED topic. Classified to U8 water-quality context by phenomenon is also possible.
+CB-U8-MCQ003,2008,Intl,MCQ,8,8.5,1,"9886c6f2, p.6, Q28",C,1,included,
+CB-U8-MCQ004,2008,Intl,MCQ,8,8.5,,"9886c6f2, p.6, Q29",C,1,included,Experimental design item.
+CB-U3-MCQ001,2008,Intl,MCQ,3,3.8,,"9886c6f2, p.7, Q30",B,1,included,
+CB-U3-MCQ002,2008,Intl,MCQ,3,3.8,,"9886c6f2, p.7, Q31",E,1,included,
+CB-U6-MCQ006,2008,Intl,MCQ,6,6.2,3,"9886c6f2, p.7, Q32",A,1,included,
+CB-U9-MCQ003,2008,Intl,MCQ,9,9.4,1,"9886c6f2, p.8, Q33",C,1,included,
+CB-U8-MCQ005,2008,Intl,MCQ,8,8.5,1,"9886c6f2, p.8, Q35",C,1,included,
+CB-U3-MCQ003,2008,Intl,MCQ,3,3.8,,"9886c6f2, p.8, Q36",D,1,included,Judgment-type item; keyed answer reflects the exam's framing.
+CB-U6-MCQ007,2008,Intl,MCQ,6,6.5,7,"9886c6f2, p.8, Q37",D,1,included,
+CB-U7-MCQ006,2008,Intl,MCQ,7,7.6,,"9886c6f2, p.8, Q38",D,1,included,
+CB-U9-MCQ004,2008,Intl,MCQ,9,9.3,,"9886c6f2, p.8, Q39",A,1,included,
+CB-U3-MCQ004,2008,Intl,MCQ,3,3.9,,"9886c6f2, p.8, Q40",C,1,included,
+CB-U6-MCQ008,2008,Intl,MCQ,6,6.2,,"9886c6f2, p.9, Q41",E,1,included,Graph read visually at low resolution; oil rise clearly largest.
+CB-U8-MCQ006,2008,Intl,MCQ,8,8.5,5,"9886c6f2, p.9, Q42",B,1,included,
+CB-U9-MCQ005,2008,Intl,MCQ,9,9.3,7,"9886c6f2, p.9, Q43",C,1,included,
+CB-U6-MCQ009,2008,Intl,MCQ,6,6.6,,"9886c6f2, p.9, Q44",C,1,included,
+CB-U3-MCQ005,2008,Intl,MCQ,3,3.7,,"9886c6f2, p.9, Q45",E,1,included,
+CB-U6-MCQ010,2008,Intl,MCQ,6,6.5,,"9886c6f2, p.9, Q46",B,1,included,
+CB-U5-MCQ003,2008,Intl,MCQ,5,5.14,2,"9886c6f2, p.10, Q47",A,1,included,
+CB-U8-MCQ007,2008,Intl,MCQ,8,8.9,,"9886c6f2, p.10, Q48",E,1,included,
+CB-U3-MCQ006,2008,Intl,MCQ,3,3.6,,"9886c6f2, p.10, Q49",D,1,included,
+CB-U8-MCQ008,2008,Intl,MCQ,8,8.1,"6,7","9886c6f2, p.10, Q50",C,1,included,
+CB-U8-MCQ009,2008,Intl,MCQ,8,8.11,,"9886c6f2, p.10, Q51",E,1,included,"Item says wastewater, but the steps listed are those of drinking-water purification; kept in 8.11 as the nearest water-treatment topic. Stem wording is inconsistent with content."
+CB-U5-MCQ004,2008,Intl,MCQ,5,5.9,8,"9886c6f2, p.10, Q52",B,1,included,
+CB-U9-MCQ006,2008,Intl,MCQ,9,9.4,,"9886c6f2, p.10, Q53",A,1,included,
+CB-U7-MCQ007,2008,Intl,MCQ,7,7.6,,"9886c6f2, p.11, Q54",D,1,included,Legal detail; CED covers acid-rain and air-pollution regulation only generally.
+CB-U5-MCQ005,2008,Intl,MCQ,5,5.16,8,"9886c6f2, p.11, Q55",D,1,included,
+CB-U5-MCQ006,2008,Intl,MCQ,5,5.6,,"9886c6f2, p.11, Q56",B,1,included,
+CB-U6-MCQ011,2008,Intl,MCQ,6,6.2,3,"9886c6f2, p.12, Q57",B,1,included,
+CB-U3-MCQ007,2008,Intl,MCQ,3,3.5,6,"9886c6f2, p.12, Q58",D,1,included,
+CB-U6-MCQ012,2008,Intl,MCQ,6,6.2,3,"9886c6f2, p.12, Q59",C,1,included,
+CB-U4-MCQ008,2008,Intl,MCQ,4,4.3,,"9886c6f2, p.13, Q60",A,1,included,
+CB-U8-MCQ010,2008,Intl,MCQ,8,8.8,,"9886c6f2, p.13, Q61",C,1,included,
+CB-U8-MCQ011,2008,Intl,MCQ,8,8.11,,"9886c6f2, p.13, Q62",C,1,included,
+CB-U8-MCQ012,2008,Intl,MCQ,8,8.4,1,"9886c6f2, p.13, Q63",E,1,included,
+CB-U7-MCQ008,2008,Intl,MCQ,7,7.5,8,"9886c6f2, p.13, Q64",E,1,included,
+CB-U8-MCQ013,2008,Intl,MCQ,8,8.13,,"9886c6f2, p.14, Q65",D,1,included,Graph read from figure: induction falls from ~85% to ~20% over 0.1 to 100 µM.
+CB-U8-MCQ014,2008,Intl,MCQ,8,8.13,,"9886c6f2, p.14, Q66",B,1,included,
+CB-U5-MCQ007,2008,Intl,MCQ,5,5.7,8,"9886c6f2, p.14, Q67",E,1,included,
+CB-U7-MCQ009,2008,Intl,MCQ,7,7.2,,"9886c6f2, p.14, Q68",C,1,included,
+CB-U7-MCQ010,2008,Intl,MCQ,7,7.6,,"9886c6f2, p.14, Q69",B,1,included,
+CB-U2-MCQ003,2008,Intl,MCQ,2,2.1,,"9886c6f2, p.14, Q70",A,1,included,
+CB-U7-MCQ011,2008,Intl,MCQ,7,7.1,,"9886c6f2, p.14, Q71",E,1,included,"Option E lists CO₂, NOₓ and VOCs as direct emissions; H₂O also produced."
+CB-U8-MCQ015,2008,Intl,MCQ,8,8.9,,"9886c6f2, p.15, Q72",D,1,included,
+CB-U6-MCQ013,2008,Intl,MCQ,6,6.6,8,"9886c6f2, p.15, Q73",A,1,included,Policy status has changed; Yucca Mountain licensing was halted. Treat the stem as dated.
+CB-U6-MCQ014,2008,Intl,MCQ,6,6.4,,"9886c6f2, p.15, Q74",B,1,included,"Factual recall; reserve rankings vary with source and year, partly in CED 6.4."
+CB-U3-MCQ008,2008,Intl,MCQ,3,3.2,,"9886c6f2, p.15, Q75",D,1,included,
+CB-U8-MCQ016,2008,Intl,MCQ,8,8.9,,"9886c6f2, p.15, Q76",A,1,included,
+CB-U8-MCQ017,2008,Intl,MCQ,8,8.9,,"9886c6f2, p.15, Q77",B,1,included,
+CB-U5-MCQ008,2008,Intl,MCQ,5,5.1,,"9886c6f2, p.15, Q78",A,1,included,
+CB-U2-MCQ004,2008,Intl,MCQ,2,2.5,,"9886c6f2, p.15, Q80",A,1,included,Fire ecology as natural disruption (2.5).
+CB-U1-MCQ003,2008,Intl,MCQ,1,1.3,,"9886c6f2, p.16, Q82",C,1,included,
+CB-U9-MCQ007,2008,Intl,MCQ,9,9.1,,"9886c6f2, p.16, Q83",B,1,included,
+CB-U9-MCQ008,2008,Intl,MCQ,9,9.8,2,"9886c6f2, p.16, Q84",C,1,included,
+CB-U3-MCQ009,2008,Intl,MCQ,3,3.8,6,"9886c6f2, p.16, Q85",A,1,included,
+CB-U3-MCQ010,2008,Intl,MCQ,3,3.5,,"9886c6f2, p.16, Q86",B,1,included,
+CB-U8-MCQ018,2008,Intl,MCQ,8,8.1,,"9886c6f2, p.16, Q87",E,1,included,
+CB-U8-MCQ019,2008,Intl,MCQ,8,8.9,,"9886c6f2, p.16, Q88",A,1,included,
+CB-U8-MCQ020,2008,Intl,MCQ,8,8.15,9,"9886c6f2, p.17, Q89",A,1,included,"Graph shows air travel rising from near 0 in 1950 to about 3,000 billion passenger-km by 2003."
+CB-U1-MCQ004,2008,Intl,MCQ,1,1.5,2,"9886c6f2, p.17, Q90",C,1,included,
+CB-U5-MCQ009,2008,Intl,MCQ,5,5.10,1,"9886c6f2, p.18, Q91",A,1,included,
+CB-U6-MCQ015,2008,Intl,MCQ,6,6.2,,"9886c6f2, p.18, Q92",D,1,included,
+CB-U5-MCQ010,2008,Intl,MCQ,5,5.15,,"9886c6f2, p.18, Q93",C,1,included,USDA organic rules detail; CED covers sustainable agriculture only generally.
+CB-U5-MCQ011,2008,Intl,MCQ,5,5.9,,"9886c6f2, p.18, Q94",B,1,included,
+CB-U5-MCQ012,2008,Intl,MCQ,5,5.7,"1,3","9886c6f2, p.19, Q95",B,1,included,
+CB-U8-MCQ021,2008,Intl,MCQ,8,8.7,,"9886c6f2, p.19, Q96",C,1,included,Persistence of DDT is the main concept; keyed rationale is continued foreign use.
+CB-U9-MCQ009,2008,Intl,MCQ,9,9.5,,"9886c6f2, p.19, Q97",C,1,included,
+CB-U8-MCQ022,2008,Intl,MCQ,8,8.12,,"9886c6f2, p.20, Q98",C,1,included,Interpolation gives ≈4.7–5.0; 4.5 is the closest option.
+CB-U8-MCQ023,2008,Intl,MCQ,8,8.12,,"9886c6f2, p.20, Q99",A,1,included,
+CB-U8-MCQ024,2008,Intl,MCQ,8,8.12,2,"9886c6f2, p.20, Q100",D,1,included,
+CB-U8-FRQ005,2008,Intl,FRQ,8,8.9,"5,2","9886c6f2, pp.23, 28, FRQ1",n/a,10,included,Article and map read from the page image. Raw scoring points total exactly 10. Legal element (law/treaty) is only loosely tied to the CED; landfill content is Topic 8.9.
+CB-U5-FRQ005,2008,Intl,FRQ,5,5.9,8,"9886c6f2, pp.24, 29-30, FRQ2",n/a,10,included,Guideline awards more raw points than 10 when elaboration points are counted; total treated as 10 (equally weighted questions). Block counts (7/7/6) taken from the guideline and checked against the front face of the diagram.
+CB-U6-FRQ006,2008,Intl,FRQ,6,6.2,"3,9","9886c6f2, pp.25, 31-32, FRQ3",n/a,10,included,"Guideline awards more raw points than 10 when elaboration points are counted; total treated as 10 (equally weighted questions). Calculations verified: 3.9/1.3 = 3.0 (300%), 0.5/2.5 = 0.2 (20%). Note the guideline's setup shows 3.0 × 10¹⁷ in the numerator for (b)(i) as printed, which is a typographical slip for 3.9 × 10¹⁷ (the correct increase is 3.9 × 10¹⁷ Btu); answer 300% is right. Item (d) is a fossil-fuel electricity process."
+CB-U1-FRQ002,2008,Intl,FRQ,1,1.5,"9,8","9886c6f2, pp.25, 33, FRQ4",n/a,10,included,Guideline awards more raw points than 10 when elaboration points are counted; total treated as 10 (equally weighted questions). Guideline's final line ('elaboration for a more detailed description of a sustainable method') appears to be a copy slip and was ignored.
+CB-U1-MCQ005,2010,Intl,MCQ,1,1.4,,"a693d29c-2010Intl, exam p.3 (PDF p.15), Q1",A,1,included,
+CB-U1-MCQ006,2010,Intl,MCQ,1,1.6,,"a693d29c-2010Intl, exam p.3 (PDF p.15), Q2",D,1,included,
+CB-U5-MCQ013,2010,Intl,MCQ,5,5.9,1,"a693d29c-2010Intl, exam p.3 (PDF p.15), Q3",C,1,included,
+CB-U9-MCQ010,2010,Intl,MCQ,9,9.9,,"a693d29c-2010Intl, exam p.3 (PDF p.15), Q5",A,1,included,
+CB-U9-MCQ011,2010,Intl,MCQ,9,9.2,,"a693d29c-2010Intl, exam p.3 (PDF p.15), Q6",C,1,included,
+CB-U6-MCQ016,2010,Intl,MCQ,6,6.10,,"a693d29c-2010Intl, exam p.3 (PDF p.15), Q7",B,1,included,
+CB-U6-MCQ017,2010,Intl,MCQ,6,6.7,6,"a693d29c-2010Intl, exam p.3 (PDF p.15), Q8",C,1,included,
+CB-U6-MCQ018,2010,Intl,MCQ,6,6.8,,"a693d29c-2010Intl, exam p.3 (PDF p.15), Q9",A,1,included,
+CB-U3-MCQ011,2010,Intl,MCQ,3,3.5,,"a693d29c-2010Intl, exam p.4 (PDF p.16), Q10",B,1,included,
+CB-U3-MCQ012,2010,Intl,MCQ,3,3.4,,"a693d29c-2010Intl, exam p.4 (PDF p.16), Q11",E,1,included,
+CB-U1-MCQ007,2010,Intl,MCQ,1,1.3,2,"a693d29c-2010Intl, exam p.4 (PDF p.16), Q12",A,1,included,Figure rendered; zone labels read from the diagram; keyed answer accepted as printed.
+CB-U1-MCQ008,2010,Intl,MCQ,1,1.3,,"a693d29c-2010Intl, exam p.4 (PDF p.16), Q13",E,1,included,
+CB-U1-MCQ009,2010,Intl,MCQ,1,1.3,9,"a693d29c-2010Intl, exam p.4 (PDF p.16), Q14",B,1,included,
+CB-U7-MCQ012,2010,Intl,MCQ,7,7.5,8,"a693d29c-2010Intl, exam p.5 (PDF p.17), Q15",C,1,included,
+CB-U6-MCQ019,2010,Intl,MCQ,6,6.13,,"a693d29c-2010Intl, exam p.5 (PDF p.17), Q16",E,1,included,
+CB-U1-MCQ010,2010,Intl,MCQ,1,1.8,,"a693d29c-2010Intl, exam p.5 (PDF p.17), Q17",C,1,included,
+CB-U1-MCQ011,2010,Intl,MCQ,1,1.8,,"a693d29c-2010Intl, exam p.5 (PDF p.17), Q18",B,1,included,
+CB-U6-MCQ020,2010,Intl,MCQ,6,6.9,4,"a693d29c-2010Intl, exam p.5 (PDF p.17), Q20",E,1,included,
+CB-U9-MCQ012,2010,Intl,MCQ,9,9.9,,"a693d29c-2010Intl, exam p.6 (PDF p.18), Q21",D,1,included,
+CB-U9-MCQ013,2010,Intl,MCQ,9,9.10,,"a693d29c-2010Intl, exam p.6 (PDF p.18), Q22",B,1,included,
+CB-U5-MCQ014,2010,Intl,MCQ,5,5.9,8,"a693d29c-2010Intl, exam p.7 (PDF p.19), Q23",B,1,included,
+CB-U1-MCQ012,2010,Intl,MCQ,1,1.2,,"a693d29c-2010Intl, exam p.7 (PDF p.19), Q24",C,1,included,
+CB-U3-MCQ013,2010,Intl,MCQ,3,3.5,,"a693d29c-2010Intl, exam p.7 (PDF p.19), Q25",C,1,included,
+CB-U5-MCQ015,2010,Intl,MCQ,5,5.14,8,"a693d29c-2010Intl, exam p.7 (PDF p.19), Q26",B,1,included,
+CB-U9-MCQ014,2010,Intl,MCQ,9,9.5,6,"a693d29c-2010Intl, exam p.7 (PDF p.19), Q27",A,1,included,
+CB-U7-MCQ013,2010,Intl,MCQ,7,7.2,,"a693d29c-2010Intl, exam p.7 (PDF p.19), Q28",B,1,included,
+CB-U8-MCQ025,2010,Intl,MCQ,8,8.5,,"a693d29c-2010Intl, exam p.8 (PDF p.20), Q29",A,1,included,
+CB-U9-MCQ015,2010,Intl,MCQ,9,9.8,,"a693d29c-2010Intl, exam p.8 (PDF p.20), Q30",E,1,included,
+CB-U8-MCQ026,2010,Intl,MCQ,8,8.11,5,"a693d29c-2010Intl, exam p.8 (PDF p.20), Q31",B,1,included,
+CB-U9-MCQ016,2010,Intl,MCQ,9,9.5,,"a693d29c-2010Intl, exam p.8 (PDF p.20), Q32",D,1,included,
+CB-U8-MCQ027,2010,Intl,MCQ,8,8.13,,"a693d29c-2010Intl, exam p.8 (PDF p.20), Q33",D,1,included,
+CB-U9-MCQ017,2010,Intl,MCQ,9,9.3,4,"a693d29c-2010Intl, exam p.9 (PDF p.21), Q34",C,1,included,Diagram read; values consistent with key.
+CB-U9-MCQ018,2010,Intl,MCQ,9,9.3,,"a693d29c-2010Intl, exam p.9 (PDF p.21), Q35",E,1,included,
+CB-U9-MCQ019,2010,Intl,MCQ,9,9.3,,"a693d29c-2010Intl, exam p.9 (PDF p.21), Q36",D,1,included,
+CB-U3-MCQ014,2010,Intl,MCQ,3,3.6,,"a693d29c-2010Intl, exam p.10 (PDF p.22), Q37",A,1,included,
+CB-U3-MCQ015,2010,Intl,MCQ,3,3.8,,"a693d29c-2010Intl, exam p.10 (PDF p.22), Q38",B,1,included,
+CB-U9-MCQ020,2010,Intl,MCQ,9,9.4,6,"a693d29c-2010Intl, exam p.10 (PDF p.22), Q39",D,1,included,
+CB-U8-MCQ028,2010,Intl,MCQ,8,8.3,8,"a693d29c-2010Intl, exam p.10 (PDF p.22), Q40",D,1,included,
+CB-U9-MCQ021,2010,Intl,MCQ,9,9.1,,"a693d29c-2010Intl, exam p.10 (PDF p.22), Q43",A,1,included,
+CB-U9-MCQ022,2010,Intl,MCQ,9,9.4,,"a693d29c-2010Intl, exam p.10 (PDF p.22), Q44",D,1,included,
+CB-U3-MCQ016,2010,Intl,MCQ,3,3.9,,"a693d29c-2010Intl, exam p.11 (PDF p.23), Q45",D,1,included,Item text says the same data; solution computes natural increase 16 minus 5 per thousand per year.
+CB-U1-MCQ013,2010,Intl,MCQ,1,1.5,1,"a693d29c-2010Intl, exam p.11 (PDF p.23), Q46",C,1,included,
+CB-U7-MCQ014,2010,Intl,MCQ,7,7.7,8,"a693d29c-2010Intl, exam p.11 (PDF p.23), Q47",B,1,included,
+CB-U7-MCQ015,2010,Intl,MCQ,7,7.7,,"a693d29c-2010Intl, exam p.11 (PDF p.23), Q48",D,1,included,
+CB-U9-MCQ023,2010,Intl,MCQ,9,9.1,,"a693d29c-2010Intl, exam p.12 (PDF p.24), Q49",D,1,included,
+CB-U9-MCQ024,2010,Intl,MCQ,9,9.1,,"a693d29c-2010Intl, exam p.12 (PDF p.24), Q50",B,1,included,
+CB-U9-MCQ025,2010,Intl,MCQ,9,9.1,,"a693d29c-2010Intl, exam p.12 (PDF p.24), Q51",A,1,included,
+CB-U9-MCQ026,2010,Intl,MCQ,9,9.1,,"a693d29c-2010Intl, exam p.12 (PDF p.24), Q52",A,1,included,
+CB-U7-MCQ016,2010,Intl,MCQ,7,7.7,,"a693d29c-2010Intl, exam p.13 (PDF p.25), Q53",A,1,included,
+CB-U3-MCQ017,2010,Intl,MCQ,3,3.5,,"a693d29c-2010Intl, exam p.13 (PDF p.25), Q55",B,1,included,
+CB-U9-MCQ027,2010,Intl,MCQ,9,9.1,7,"a693d29c-2010Intl, exam p.13 (PDF p.25), Q56",D,1,included,
+CB-U7-MCQ017,2010,Intl,MCQ,7,7.5,,"a693d29c-2010Intl, exam p.13 (PDF p.25), Q57",E,1,included,
+CB-U8-MCQ029,2010,Intl,MCQ,8,8.9,,"a693d29c-2010Intl, exam p.14 (PDF p.26), Q58",C,1,included,
+CB-U7-MCQ018,2010,Intl,MCQ,7,7.1,,"a693d29c-2010Intl, exam p.14 (PDF p.26), Q59",C,1,included,
+CB-U7-MCQ019,2010,Intl,MCQ,7,7.1,,"a693d29c-2010Intl, exam p.14 (PDF p.26), Q61",A,1,included,
+CB-U5-MCQ016,2010,Intl,MCQ,5,5.6,,"a693d29c-2010Intl, exam p.14 (PDF p.26), Q62",C,1,included,
+CB-U6-MCQ021,2010,Intl,MCQ,6,6.2,,"a693d29c-2010Intl, exam p.15 (PDF p.27), Q63",B,1,included,
+CB-U6-MCQ022,2010,Intl,MCQ,6,6.2,,"a693d29c-2010Intl, exam p.15 (PDF p.27), Q64",C,1,included,
+CB-U6-MCQ023,2010,Intl,MCQ,6,6.6,,"a693d29c-2010Intl, exam p.15 (PDF p.27), Q65",C,1,included,
+CB-U6-MCQ024,2010,Intl,MCQ,6,6.2,5,"a693d29c-2010Intl, exam p.15 (PDF p.27), Q66",C,1,included,
+CB-U4-MCQ009,2010,Intl,MCQ,4,4.4,9,"a693d29c-2010Intl, exam p.16 (PDF p.28), Q67",D,1,included,
+CB-U3-MCQ018,2010,Intl,MCQ,3,3.5,,"a693d29c-2010Intl, exam p.16 (PDF p.28), Q68",E,1,included,
+CB-U7-MCQ020,2010,Intl,MCQ,7,7.7,,"a693d29c-2010Intl, exam p.16 (PDF p.28), Q69",A,1,included,
+CB-U8-MCQ030,2010,Intl,MCQ,8,8.1,,"a693d29c-2010Intl, exam p.16 (PDF p.28), Q70",D,1,included,
+CB-U3-MCQ019,2010,Intl,MCQ,3,3.8,,"a693d29c-2010Intl, exam p.17 (PDF p.29), Q71",C,1,included,Graph read at low resolution.
+CB-U8-MCQ031,2010,Intl,MCQ,8,8.15,,"a693d29c-2010Intl, exam p.17 (PDF p.29), Q72",D,1,included,
+CB-U9-MCQ028,2010,Intl,MCQ,9,9.4,7,"a693d29c-2010Intl, exam p.17 (PDF p.29), Q73",C,1,included,
+CB-U4-MCQ010,2010,Intl,MCQ,4,4.8,,"a693d29c-2010Intl, exam p.17 (PDF p.29), Q74",E,1,included,
+CB-U5-MCQ017,2010,Intl,MCQ,5,5.16,9,"a693d29c-2010Intl, exam p.17 (PDF p.29), Q75",C,1,included,
+CB-U3-MCQ020,2010,Intl,MCQ,3,3.2,,"a693d29c-2010Intl, exam p.18 (PDF p.30), Q76",C,1,included,
+CB-U5-MCQ018,2010,Intl,MCQ,5,5.14,,"a693d29c-2010Intl, exam p.18 (PDF p.30), Q77",D,1,included,
+CB-U8-MCQ032,2010,Intl,MCQ,8,8.15,,"a693d29c-2010Intl, exam p.18 (PDF p.30), Q79",D,1,included,
+CB-U1-MCQ014,2010,Intl,MCQ,1,1.2,,"a693d29c-2010Intl, exam p.18 (PDF p.30), Q80",D,1,included,
+CB-U7-MCQ021,2010,Intl,MCQ,7,7.7,,"a693d29c-2010Intl, exam p.19 (PDF p.31), Q82",C,1,included,
+CB-U7-MCQ022,2010,Intl,MCQ,7,7.7,6,"a693d29c-2010Intl, exam p.19 (PDF p.31), Q83",B,1,included,
+CB-U1-MCQ015,2010,Intl,MCQ,1,1.1,,"a693d29c-2010Intl, exam p.19 (PDF p.31), Q84",B,1,included,
+CB-U8-MCQ033,2010,Intl,MCQ,8,8.14,,"a693d29c-2010Intl, exam p.19 (PDF p.31), Q85",D,1,included,
+CB-U6-MCQ025,2010,Intl,MCQ,6,6.9,,"a693d29c-2010Intl, exam p.19 (PDF p.31), Q86",C,1,included,
+CB-U4-MCQ011,2010,Intl,MCQ,4,4.3,,"a693d29c-2010Intl, exam p.20 (PDF p.32), Q88",E,1,included,
+CB-U4-MCQ012,2010,Intl,MCQ,4,4.3,,"a693d29c-2010Intl, exam p.20 (PDF p.32), Q89",C,1,included,
+CB-U4-MCQ013,2010,Intl,MCQ,4,4.9,5,"a693d29c-2010Intl, exam p.20 (PDF p.32), Q90",C,1,included,
+CB-U4-MCQ014,2010,Intl,MCQ,4,4.9,,"a693d29c-2010Intl, exam p.20 (PDF p.32), Q91",B,1,included,
+CB-U5-MCQ019,2010,Intl,MCQ,5,5.5,,"a693d29c-2010Intl, exam p.21 (PDF p.33), Q93",E,1,included,
+CB-U2-MCQ005,2010,Intl,MCQ,2,2.2,,"a693d29c-2010Intl, exam p.21 (PDF p.33), Q94",D,1,included,
+CB-U4-MCQ015,2010,Intl,MCQ,4,4.3,,"a693d29c-2010Intl, exam p.21 (PDF p.33), Q95",A,1,included,
+CB-U5-MCQ020,2010,Intl,MCQ,5,5.15,,"a693d29c-2010Intl, exam p.22 (PDF p.34), Q96",D,1,included,
+CB-U6-MCQ026,2010,Intl,MCQ,6,6.13,,"a693d29c-2010Intl, exam p.22 (PDF p.34), Q97",E,1,included,
+CB-U5-MCQ021,2010,Intl,MCQ,5,5.4,9,"a693d29c-2010Intl, exam p.22 (PDF p.34), Q98",A,1,included,
+CB-U9-MCQ029,2010,Intl,MCQ,9,9.9,3,"a693d29c-2010Intl, exam p.22 (PDF p.34), Q99",D,1,included,
+CB-U9-MCQ030,2010,Intl,MCQ,9,9.5,4,"a693d29c-2010Intl, exam p.22 (PDF p.34), Q100",E,1,included,
+CB-U8-FRQ006,2010,Intl,FRQ,8,8.1,"7,9,5","a693d29c-2010Intl, Sec II booklet p.2-3 (PDF p.36-37), FRQ 1",,10,included,Printed part points total 11 (1+2+2+1+2+1+2); the scoring worksheet caps the question at 10. The newspaper article figure is not reproduced; the three pollutants are named in the question text.
+CB-U9-FRQ002,2010,Intl,FRQ,9,9.4,"1,3,2","a693d29c-2010Intl, Sec II booklet p.4 (PDF p.38), FRQ 2",,10,included,Printed part points total 11; the worksheet caps the question at 10. Table values read from the printed text layer and consistent with guideline answers.
+CB-U9-FRQ003,2010,Intl,FRQ,9,9.8,"1,3,2","a693d29c-2010Intl, Sec II booklet p.5 (PDF p.39), FRQ 3",,10,included,Printed part points total 11; the worksheet caps the question at 10. Range map not reproduced.
+CB-U9-FRQ004,2010,Intl,FRQ,9,9.6,"8,5","a693d29c-2010Intl, Sec II booklet p.6 (PDF p.40), FRQ 4",,10,included,Printed part points total 11; the worksheet caps the question at 10.
+CB-U8-MCQ034,2016,US,MCQ,8,8.1,,"917bf6f8-2016, p.3, Q1",C,1,included,
+CB-U8-MCQ035,2016,US,MCQ,8,8.1,7,"917bf6f8-2016, p.3, Q2",A,1,included,
+CB-U7-MCQ023,2016,US,MCQ,7,7.5,8,"917bf6f8-2016, p.3, Q3",A,1,included,Item as printed asks for a leading cause among the listed choices.
+CB-U8-MCQ036,2016,US,MCQ,8,8.8,,"917bf6f8-2016, p.3, Q4",B,1,included,
+CB-U9-MCQ031,2016,US,MCQ,9,9.5,4,"917bf6f8-2016, p.4, Q6",D,1,included,
+CB-U2-MCQ006,2016,US,MCQ,2,2.2,9,"917bf6f8-2016, p.4, Q8",B,1,included,Map position of B (equatorial central Africa) read from figure.
+CB-U6-MCQ027,2016,US,MCQ,6,6.4,,"917bf6f8-2016, p.4, Q9",E,1,included,
+CB-U4-MCQ016,2016,US,MCQ,4,4.1,,"917bf6f8-2016, p.5, Q10",E,1,included,
+CB-U4-MCQ017,2016,US,MCQ,4,4.1,,"917bf6f8-2016, p.5, Q11",C,1,included,
+CB-U4-MCQ018,2016,US,MCQ,4,4.1,,"917bf6f8-2016, p.5, Q12",B,1,included,
+CB-U1-MCQ016,2016,US,MCQ,1,1.2,4,"917bf6f8-2016, p.6, Q13",B,1,included,
+CB-U1-MCQ017,2016,US,MCQ,1,1.2,,"917bf6f8-2016, p.6, Q14",C,1,included,
+CB-U3-MCQ021,2016,US,MCQ,3,3.7,3,"917bf6f8-2016, p.7, Q15",C,1,included,
+CB-U3-MCQ022,2016,US,MCQ,3,3.8,,"917bf6f8-2016, p.7, Q16",A,1,included,
+CB-U4-MCQ019,2016,US,MCQ,4,4.1,1,"917bf6f8-2016, p.8, Q17",D,1,included,
+CB-U1-MCQ018,2016,US,MCQ,1,1.3,1,"917bf6f8-2016, p.8, Q18",B,1,included,
+CB-U7-MCQ024,2016,US,MCQ,7,7.6,,"917bf6f8-2016, p.8, Q19",B,1,included,
+CB-U6-MCQ028,2016,US,MCQ,6,6.11,,"917bf6f8-2016, p.8, Q20",C,1,included,
+CB-U4-MCQ020,2016,US,MCQ,4,4.3,5,"917bf6f8-2016, p.8, Q21",C,1,included,Graph options (A–E) not individually described; key C taken from official key and consistent with a declining trend.
+CB-U4-MCQ021,2016,US,MCQ,4,4.3,,"917bf6f8-2016, p.9, Q22",D,1,included,
+CB-U4-MCQ022,2016,US,MCQ,4,4.3,8,"917bf6f8-2016, p.9, Q23",D,1,included,
+CB-U7-MCQ025,2016,US,MCQ,7,7.3,,"917bf6f8-2016, p.10, Q24",C,1,included,
+CB-U5-MCQ022,2016,US,MCQ,5,5.5,,"917bf6f8-2016, p.10, Q25",D,1,included,
+CB-U9-MCQ032,2016,US,MCQ,9,9.5,2,"917bf6f8-2016, p.10, Q26",D,1,included,
+CB-U9-MCQ033,2016,US,MCQ,9,9.5,,"917bf6f8-2016, p.10, Q27",A,1,included,
+CB-U1-MCQ019,2016,US,MCQ,1,1.1,6,"917bf6f8-2016, p.10, Q28",D,1,included,
+CB-U2-MCQ007,2016,US,MCQ,2,2.7,1,"917bf6f8-2016, p.11, Q29",B,1,included,Read from graph; five curves compared.
+CB-U2-MCQ008,2016,US,MCQ,2,2.7,,"917bf6f8-2016, p.11, Q30",D,1,included,
+CB-U4-MCQ023,2016,US,MCQ,4,4.5,,"917bf6f8-2016, p.12, Q31",C,1,included,
+CB-U8-MCQ037,2016,US,MCQ,8,8.9,,"917bf6f8-2016, p.12, Q32",E,1,included,
+CB-U6-MCQ029,2016,US,MCQ,6,6.13,7,"917bf6f8-2016, p.12, Q33",C,1,included,
+CB-U2-MCQ009,2016,US,MCQ,2,2.3,3,"917bf6f8-2016, p.12, Q34",D,1,included,
+CB-U3-MCQ023,2016,US,MCQ,3,3.4,,"917bf6f8-2016, p.12, Q35",C,1,included,
+CB-U1-MCQ020,2016,US,MCQ,1,1.5,,"917bf6f8-2016, p.13, Q36",A,1,included,Diagram arrows read from figure.
+CB-U5-MCQ023,2016,US,MCQ,5,5.6,2,"917bf6f8-2016, p.14, Q37",C,1,included,
+CB-U5-MCQ024,2016,US,MCQ,5,5.3,2,"917bf6f8-2016, p.14, Q38",B,1,included,
+CB-U8-MCQ038,2016,US,MCQ,8,8.3,2,"917bf6f8-2016, p.15, Q39",C,1,included,
+CB-U6-MCQ030,2016,US,MCQ,6,6.2,,"917bf6f8-2016, p.15, Q40",B,1,included,
+CB-U3-MCQ024,2016,US,MCQ,3,3.6,,"917bf6f8-2016, p.16, Q41",D,1,included,
+CB-U8-MCQ039,2016,US,MCQ,8,8.2,5,"917bf6f8-2016, p.17, Q42",C,1,included,
+CB-U1-MCQ021,2016,US,MCQ,1,1.10,5,"917bf6f8-2016, p.17, Q43",B,1,included,
+CB-U6-MCQ031,2016,US,MCQ,6,6.6,,"917bf6f8-2016, p.18, Q44",E,1,included,
+CB-U7-MCQ026,2016,US,MCQ,7,7.7,4,"917bf6f8-2016, p.18, Q45",A,1,included,
+CB-U3-MCQ025,2016,US,MCQ,3,3.8,,"917bf6f8-2016, p.18, Q46",D,1,included,
+CB-U4-MCQ024,2016,US,MCQ,4,4.9,1,"917bf6f8-2016, p.18, Q47",A,1,included,
+CB-U1-MCQ022,2016,US,MCQ,1,1.8,,"917bf6f8-2016, p.18, Q48",C,1,included,
+CB-U7-MCQ027,2016,US,MCQ,7,7.2,,"917bf6f8-2016, p.19, Q49",D,1,included,Graph (gas concentration versus time of day) not individually inspected; key D from official key and consistent with standard smog chemistry.
+CB-U7-MCQ028,2016,US,MCQ,7,7.2,,"917bf6f8-2016, p.19, Q50",D,1,included,
+CB-U5-MCQ025,2016,US,MCQ,5,5.9,2,"917bf6f8-2016, p.19, Q51",E,1,included,Species survival tie (3 vs 4) judged less important than cover and growth.
+CB-U5-MCQ026,2016,US,MCQ,5,5.10,4,"917bf6f8-2016, p.20, Q52",A,1,included,
+CB-U8-MCQ040,2016,US,MCQ,8,8.2,5,"917bf6f8-2016, p.20, Q53",C,1,included,
+CB-U5-MCQ027,2016,US,MCQ,5,5.13,8,"917bf6f8-2016, p.20, Q54",E,1,included,
+CB-U2-MCQ010,2016,US,MCQ,2,2.6,,"917bf6f8-2016, p.21, Q55",E,1,included,
+CB-U4-MCQ025,2016,US,MCQ,4,4.6,5,"917bf6f8-2016, p.21, Q56",D,1,included,
+CB-U6-MCQ032,2016,US,MCQ,6,6.5,,"917bf6f8-2016, p.21, Q57",A,1,included,
+CB-U3-MCQ026,2016,US,MCQ,3,3.9,,"917bf6f8-2016, p.21, Q58",E,1,included,
+CB-U5-MCQ028,2016,US,MCQ,5,5.10,4,"917bf6f8-2016, p.22, Q60",B,1,included,
+CB-U5-MCQ029,2016,US,MCQ,5,5.15,,"917bf6f8-2016, p.22, Q61",D,1,included,
+CB-U4-MCQ026,2016,US,MCQ,4,4.8,9,"917bf6f8-2016, p.23, Q62",A,1,included,Surface ocean currents are touched on in 4.8/4.9; coverage is light.
+CB-U6-MCQ033,2016,US,MCQ,6,6.6,,"917bf6f8-2016, p.23, Q63",B,1,included,
+CB-U8-MCQ041,2016,US,MCQ,8,8.5,5,"917bf6f8-2016, p.23, Q64",C,1,included,
+CB-U2-MCQ011,2016,US,MCQ,2,2.5,9,"917bf6f8-2016, p.23, Q65",A,1,included,
+CB-U8-MCQ042,2016,US,MCQ,8,8.12,,"917bf6f8-2016, p.23, Q66",D,1,included,
+CB-U6-MCQ034,2016,US,MCQ,6,6.8,,"917bf6f8-2016, p.24, Q67",B,1,included,
+CB-U8-MCQ043,2016,US,MCQ,8,8.1,5,"917bf6f8-2016, p.24, Q68",B,1,included,
+CB-U6-MCQ035,2016,US,MCQ,6,6.13,9,"917bf6f8-2016, p.24, Q69",C,1,included,
+CB-U3-MCQ027,2016,US,MCQ,3,3.7,,"917bf6f8-2016, p.24, Q70",E,1,included,
+CB-U8-MCQ044,2016,US,MCQ,8,8.15,5,"917bf6f8-2016, p.25, Q72",C,1,included,
+CB-U8-MCQ045,2016,US,MCQ,8,8.8,,"917bf6f8-2016, p.26, Q73",B,1,included,
+CB-U4-MCQ027,2016,US,MCQ,4,4.3,1,"917bf6f8-2016, p.26, Q74",A,1,included,
+CB-U8-MCQ046,2016,US,MCQ,8,8.5,,"917bf6f8-2016, p.26, Q75",B,1,included,
+CB-U1-MCQ023,2016,US,MCQ,1,1.4,9,"917bf6f8-2016, p.26, Q77",A,1,included,
+CB-U3-MCQ028,2016,US,MCQ,3,3.5,,"917bf6f8-2016, p.27, Q78",B,1,included,
+CB-U5-MCQ030,2016,US,MCQ,5,5.9,6,"917bf6f8-2016, p.28, Q79",A,1,included,
+CB-U1-MCQ024,2016,US,MCQ,1,1.1,2,"917bf6f8-2016, p.28, Q80",D,1,included,Topic assignment approximate (experimental design).
+CB-U3-MCQ029,2016,US,MCQ,3,3.2,,"917bf6f8-2016, p.28, Q81",A,1,included,
+CB-U8-MCQ047,2016,US,MCQ,8,8.9,,"917bf6f8-2016, p.28, Q82",E,1,included,
+CB-U9-MCQ034,2016,US,MCQ,9,9.5,,"917bf6f8-2016, p.28, Q83",E,1,included,
+CB-U1-MCQ025,2016,US,MCQ,1,1.8,4,"917bf6f8-2016, p.29, Q84",D,1,included,
+CB-U7-MCQ029,2016,US,MCQ,7,7.2,,"917bf6f8-2016, p.30, Q85",D,1,included,
+CB-U4-MCQ028,2016,US,MCQ,4,4.7,,"917bf6f8-2016, p.30, Q86",E,1,included,
+CB-U8-MCQ048,2016,US,MCQ,8,8.8,,"917bf6f8-2016, p.30, Q87",B,1,included,
+CB-U7-MCQ030,2016,US,MCQ,7,7.4,,"917bf6f8-2016, p.30, Q88",D,1,included,
+CB-U2-MCQ012,2016,US,MCQ,2,2.7,5,"917bf6f8-2016, p.30, Q89",B,1,included,
+CB-U5-MCQ031,2016,US,MCQ,5,5.1,,"917bf6f8-2016, p.30, Q90",A,1,included,Key A is the official answer; option (A) is arguably a pollution example but is the best fit among options.
+CB-U9-MCQ035,2016,US,MCQ,9,9.4,7,"917bf6f8-2016, p.31, Q91",A,1,included,
+CB-U7-MCQ031,2016,US,MCQ,7,7.4,8,"917bf6f8-2016, p.31, Q92",A,1,included,
+CB-U9-MCQ036,2016,US,MCQ,9,9.3,,"917bf6f8-2016, p.31, Q93",C,1,included,
+CB-U9-MCQ037,2016,US,MCQ,9,9.5,,"917bf6f8-2016, p.31, Q94",B,1,included,
+CB-U2-MCQ013,2016,US,MCQ,2,2.2,5,"917bf6f8-2016, p.31, Q95",A,1,included,
+CB-U5-MCQ032,2016,US,MCQ,5,5.5,,"917bf6f8-2016, p.32, Q96",B,1,included,
+CB-U9-MCQ038,2016,US,MCQ,9,9.5,2,"917bf6f8-2016, p.32, Q97",B,1,included,
+CB-U3-MCQ030,2016,US,MCQ,3,3.8,5,"917bf6f8-2016, p.33, Q98",D,1,included,
+CB-U7-MCQ032,2016,US,MCQ,7,7.3,,"917bf6f8-2016, p.34, Q99",A,1,included,
+CB-U3-MCQ031,2016,US,MCQ,3,3.5,,"917bf6f8-2016, p.34, Q100",B,1,included,
+CB-U2-FRQ004,2016,US,FRQ,2,2.2,"3,9","917bf6f8-2016, p.2 of Section II, FRQ1",,10,included,"Article is a newspaper-style passage with no data; all parts answered from scoring guidance concepts, restated. Ecosystem services and biodiversity map to Unit 2; disease and climate links to Units 3/9."
+CB-U5-FRQ010,2016,US,FRQ,5,5.9,"6,8","917bf6f8-2016, p.4 of Section II, FRQ2",,10,included,"Printed point total 10 (1+2+1+1+2+1+2). Part (a)(iii) reads as 95 % of the reserves, per the guideline's answer of 760 billion tons."
+CB-U8-FRQ013,2016,US,FRQ,8,8.9,"6,8","917bf6f8-2016, p.5 of Section II, FRQ3",,10,included,Graph values (about 150 and 250 million tons) taken from the official guideline's calculation; the graph image itself was not examined at full resolution. Points: 1+1+1+1+3+1+1+1 = 10.
+CB-U4-FRQ004,2016,US,FRQ,4,4.2,"8,9","917bf6f8-2016, p.6 of Section II, FRQ4",,10,included,"Points 2+2+1+1+1+1+2 = 10. Soil topics span 4.2 and 4.3, with acid deposition (7.7) and nitrate (8.5) as secondary links."
+CB-U6-FRQ001,2002,Unspecified,FRQ,6,6.13,7,"e110483b, p7 (statement on sample-response cover page); commentary pp2, Q1",n/a,10,included,"Only the sample-response/commentary pieces are in the range; no scoring guideline for 2002. Official 10-point total per commentary samples. Part-point split per commentary: (a) 4, (b) 2, (c) 1-2, (d) 2. Exam form not stated."
+CB-U5-FRQ001,2002,Unspecified,FRQ,5,5.1,"1,6,9","e110483b, p18 (statement on sample-response page); commentary pp3, Q2",n/a,10,included,Part-point totals and the exact 2002 guideline are not in the range; only commentary is available. Statement read from the sample-response cover page.
+CB-U8-FRQ001,2002,Unspecified,FRQ,8,8.12,8,"e110483b, p25 (statement on sample-response page); commentary p4, Q3",n/a,10,included,"Table values read from the image; LD50 estimate is my own log-interpolation (official acceptable range not in range). Point totals per commentary samples (a2,b2,c2,d4 = 10)."
+CB-U4-FRQ001,2003,Unspecified,FRQ,4,4.3,"9,1","c6885669, p10 (Q1); guidelines pp20-22",n/a,10,included,Article text for the stem was an image and not extractable; the question asks about it. Guideline totals 2+3+1+4=10.
+CB-U3-FRQ001,2003,Unspecified,FRQ,3,3.9,3,"c6885669, p11 (Q2); guidelines pp23-26",n/a,10,included,Guideline total 3+2+4+1=10.
+CB-U1-FRQ001,2003,Unspecified,FRQ,1,1.3,"5,8","c6885669, p12 (Q3); guidelines pp27-33",n/a,10,included,Guideline lists 11 points; score capped at 10 per commentary.
+CB-U2-FRQ001,2003,Unspecified,FRQ,2,9.9,3,"c6885669, p12 (Q4); guidelines pp34-37",n/a,10,included,Guideline allows 11 points; total scored out of 10.
+CB-U8-FRQ002,2004,Unspecified,FRQ,8,8.8,"6,7","2f591c9e, p10 (Q1); guidelines pp14-18",n/a,10,included,Editorial text was an image. Guideline allows 11 raw points; capped at 10.
+CB-U6-FRQ002,2004,Unspecified,FRQ,6,6.12,6,"2f591c9e, p11 (Q2); guidelines pp19-23",n/a,10,included,"Official alternate solution assuming the plant at full output (about $0.01/kWh) earns only one point. Real turbines would not run 8,000 h/yr at full capacity. Raw guideline points exceed 10; capped."
+CB-U6-FRQ003,2004,Unspecified,FRQ,6,6.6,8,"2f591c9e, p11 (Q3); guidelines pp24-27",n/a,10,included,
+CB-U4-FRQ002,2004,Unspecified,FRQ,4,4.3,5,"2f591c9e, p12 (Q4); guidelines pp28-32",n/a,10,included,Raw guideline points sum above 10; capped.
+CB-U8-FRQ003,2005,Unspecified,FRQ,8,8.15,9,"2f591c9e, p40-41 (Q1); guidelines pp44-48",n/a,10,included,Article and the mortality graphs were images/not fully read; the graph trend (increase beginning about 1980) taken from the question. Guideline total 4+2+2+2=10.
+CB-U5-FRQ002,2005,Unspecified,FRQ,5,5.7,"1,9","2f591c9e, p41 (Q2); guidelines pp49-51",n/a,10,included,Guideline sum 10.
+CB-U5-FRQ003,2005,Unspecified,FRQ,5,5.9,"6,8","2f591c9e, p42 (Q3); guidelines pp52-53",n/a,10,included,Guideline sum 11; capped at 10 for FRQ score.
+CB-U6-FRQ004,2005,Unspecified,FRQ,6,6.5,"4,5","2f591c9e, p42 (Q4); guidelines pp54-56",n/a,10,included,Guideline sum 10.
+CB-U6-FRQ005,2006,Unspecified,FRQ,6,6.8,6,"d1acf739, p5 (Q1); guidelines 2f591c9e pp58-61 and d1acf739 pp9-12",n/a,10,included,Raw guideline points 11; capped 10.
+CB-U9-FRQ001,2006,Unspecified,FRQ,9,9.5,9,"d1acf739, pp6-7 (Q2); guidelines (2f591c9e pp62-65)",n/a,10,included,"Graph readings checked on the rendered page (200 ppm, 280 ppm, −8 °C, +2 °C). Official answer 25 °C is the exam's stated outcome of the ratio. Total 1+2+1+2+2+2=10."
+CB-U8-FRQ004,2006,Unspecified,FRQ,8,8.9,5,"d1acf739, p7 (Q3); guidelines (2f591c9e pp66-69)",n/a,10,included,Raw guideline 11; capped 10.
+CB-U5-FRQ004,2006,Unspecified,FRQ,5,5.8,5,"d1acf739, p8 (Q4); guidelines (2f591c9e p70, d1acf739 pp1-3)",n/a,10,included,Graph checked visually (about 700 to 200 thousand tons).
+CB-U8-FRQ007,2010,US,FRQ,8,8.14,"7,9,5","2117f46c-0561-0630 pp.25-26 (compiled 585-586, statement) + 9f958242-0491-0560 pp.14-18 (compiled 504-508, guidelines), Q1",,10,included,Article text is an image in the source; stem reconstructed from the printed page. Many alternative correct answers exist (open-ended lists). Part-level point values printed in the guideline add up to more than 10 in places (some parts are capped); the official maximum for the question is 10.
+CB-U3-FRQ002,2010,US,FRQ,3,3.4,"9,1,2","2117f46c-0561-0630 p.27 (compiled 587, statement) + 9f958242-0491-0560 pp.19-22 (compiled 509-512, guidelines), Q2",,10,included,The scaling in (a)(iii) assumes methane output is proportional to wood consumption; the guideline uses the same ratio method.
+CB-U9-FRQ005,2010,US,FRQ,9,9.8,"3,2","2117f46c-0561-0630 p.28 (compiled 588, statement) + 9f958242-0491-0560 pp.23-27 (compiled 513-517, guidelines), Q3",,10,included,Map is an image; answer (a) relies on the printed text (East vs West) and standard knowledge of mussel spread.
+CB-U9-FRQ006,2010,US,FRQ,9,9.5,"8,4","2117f46c-0561-0630 p.29 (compiled 589, statement) + 9f958242-0491-0560 pp.28-30 (compiled 518-520, guidelines), Q4",,10,included,Points total beyond 10 across parts (parts capped); official max 10.
+CB-U2-FRQ002,2011,US,FRQ,2,2.2,"9,1,5","668780c6-0631-0700 pp.28-29 (compiled 658-659, statement) + 2117f46c-0561-0630 pp.31-33 (compiled 591-593, guidelines), Q1",,10,included,Article text is an image; descriptor based on question parts. Part-level point values printed in the guideline add up to more than 10 in places (some parts are capped); the official maximum for the question is 10.
+CB-U9-FRQ007,2011,US,FRQ,9,9.7,"1,2,8","668780c6-0631-0700 pp.29-30 (compiled 659-660, statement) + 2117f46c-0561-0630 pp.34-36 (compiled 594-596, guidelines), Q2",,10,included,Graph not needed for answers beyond the stated assumptions. Part-level point values printed in the guideline add up to more than 10 in places (some parts are capped); the official maximum for the question is 10.
+CB-U6-FRQ007,2011,US,FRQ,6,6.2,"7,9,5","668780c6-0631-0700 p.31 (compiled 661, statement) + 2117f46c-0561-0630 pp.37-39 (compiled 597-599, guidelines), Q3",,10,included,Graph image not needed for the answers. Part-level point values printed in the guideline add up to more than 10 in places (some parts are capped); the official maximum for the question is 10.
+CB-U5-FRQ006,2011,US,FRQ,5,5.4,"4,3","668780c6-0631-0700 pp.32-33 (compiled 662-663, statement) + 2117f46c-0561-0630 pp.40-44 (compiled 600-604, guidelines), Q4",,10,included,Graph paper not shown; answer (b) depends on the student's curve (official model answer about 2048). Part-level point values printed in the guideline add up to more than 10 in places (some parts are capped); the official maximum for the question is 10.
+CB-U6-FRQ008,2012,US,FRQ,6,6.5,"8,7,9","83408857-0701-0770 p.38 (compiled 738, statement) + 668780c6-0631-0700 pp.36-38 (compiled 666-668, guidelines), Q1",,10,included,"Article text is an image. Points per part in the guideline sum to 11; the sample commentary shows only 3 credited for (a), giving the printed maximum of 10."
+CB-U6-FRQ009,2012,US,FRQ,6,6.1,"1,2,9","83408857-0701-0770 p.39 (compiled 739, statement) + 668780c6-0631-0700 pp.50-54 (compiled 680-684, guidelines), Q2",,10,included,Per-hectare biomass growth rate is as printed (very high for real forests); used as given. Part points exceed 10 in total; official max 10.
+CB-U5-FRQ007,2012,US,FRQ,5,5.14,"8,3","83408857-0701-0770 p.40 (compiled 740, statement) + 668780c6-0631-0700 pp.62-64 (compiled 692-694, guidelines), Q3",,10,included,Points per part in the guideline sum to 11; official maximum 10 (a part is capped).
+CB-U8-FRQ008,2012,US,FRQ,8,8.4,"1,5","83408857-0701-0770 p.41 (compiled 741, statement) + 83408857-0701-0770 pp.3-6 (compiled 703-706, guidelines), Q4",,10,included,Food-web diagram image not visible in text layer; answer to (b)(i) is generic. Part points exceed 10 in total; official max 10.
+CB-U8-FRQ009,2013,Unspecified,FRQ,8,8.5,"4,5","ed751acb-0771-0840, piece p38, Q1",,10,included,Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. The guideline for 2013 Q1 is not in the assigned pieces (it begins in an earlier piece); solution is derived independently from the printed question. The opening article about the Gulf Coast is not visible in these pieces.
+CB-U6-FRQ010,2013,Unspecified,FRQ,6,6.13,"9,5","ed751acb-0771-0840, piece p39, Q2",,10,included,"Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. The 2013 Q2 guideline is not in the assigned pieces; only the commentary for Q2 appears (page 7), which confirms the point structure. Answers computed independently and consistent with the commentary's description of setup/answer points."
+CB-U9-FRQ008,2013,Unspecified,FRQ,9,9.1,"7,9","ed751acb-0771-0840, piece p40, Q3 (guideline pp8-10)",,10,included,Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. Rubric sums to 11; capped at 10.
+CB-U2-FRQ003,2013,Unspecified,FRQ,2,2.1,"9,5","ed751acb-0771-0840, piece p41, Q4 (guideline pp21-23)",,10,included,Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. Rubric sums to 11; capped at 10.
+CB-U6-FRQ011,2014,Unspecified,FRQ,6,6.6,"8,5","ed751acb-0771-0840, piece p39 (guideline pp51-53) / 5ec22d1f, Q1",,10,included,Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. The newspaper article stimulus is not visible in the extracted text. Rubric sums to 11; capped at 10.
+CB-U5-FRQ008,2014,Unspecified,FRQ,5,5.10,"8,4","ed751acb-0771-0840, piece p40 (guideline pp54-56), Q2",,10,included,"Exam form (US/Intl) is not stated in the source pages. Rubric totals 10; (d) answer 95,000 m3 verified against guideline page image."
+CB-U4-FRQ003,2014,Unspecified,FRQ,4,4.1,"2,4","ed751acb-0771-0840, piece p41 (guideline pp57-58), Q3",,10,included,Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. The Ring of Fire map is not reproduced in the extracted text. Rubric sums to 11; capped at 10.
+CB-U1-FRQ003,2014,Unspecified,FRQ,1,1.4,"1,9","ed751acb-0771-0840, piece p42 (guideline pp59-61), Q4",,10,included,Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. Rubric sums to 11; capped at 10.
+CB-U8-FRQ010,2015,Unspecified,FRQ,8,8.5,"5,9","5ec22d1f-0841-0910, piece p43/p52-55 and e3e3aa13 p45, Q1",,10,included,Exam form (US/Intl) is not stated in the source pages. Article stimulus not visible in extracted text. Rubric totals 10.
+CB-U8-FRQ011,2015,Unspecified,FRQ,8,8.10,8,"e3e3aa13-0911-0980, piece p46 (guideline p8-10 / 5ec22d1f p56-58), Q2",,10,included,Exam form (US/Intl) is not stated in the source pages. Rubric totals 10.
+CB-U8-FRQ012,2015,Unspecified,FRQ,8,8.1,"6,5","e3e3aa13-0911-0980, piece p47 (guideline 5ec22d1f p59-60), Q3",,10,included,Exam form (US/Intl) is not stated in the source pages. Bar-graph value verified from the rendered question page: Deepwater Horizon high estimate is a little under 200 million gallons; guideline accepts 185-199 million gallons. Rubric totals 10.
+CB-U5-FRQ009,2015,Unspecified,FRQ,5,5.10,"5,6","e3e3aa13-0911-0980, piece p48 (guideline 5ec22d1f p61-63), Q4",,10,included,Exam form (US/Intl) is not stated in the source pages. Graph rendered and checked: per-capita petroleum use falls steeply as density rises (inverse curve). Rubric totals 10.
+CB-U9-FRQ009,2016,Unspecified,FRQ,9,9.9,"2,3,8","739781b5-0981-1050, piece p47-48 (guideline pp37-39), Q1",,10,included,Exam form (US/Intl) is not stated in the source pages. The Fremont New Tribune article (image) is not visible in extracted text. Rubric totals 10.
+CB-U5-FRQ011,2016,Unspecified,FRQ,5,5.9,8,"739781b5-0981-1050, piece p49 (guideline pp40-41), Q2",,10,included,Exam form (US/Intl) is not stated in the source pages. Rubric totals 10. Guideline page 41 of the piece was rendered to read (c)-(e); the 1.25 tons ore per ton recycled steel figure in the stem is not used by any part.
+CB-U8-FRQ014,2016,Unspecified,FRQ,8,8.9,"6,9","739781b5-0981-1050, piece p50 (guideline pp42-43), Q3",,10,included,Exam form (US/Intl) is not stated in the source pages. Graph rendered and read: total MSW about 150 million tons in 1980 and about 250 million tons in 2012. Rubric totals 10.
+CB-U8-FRQ015,2017,Unspecified,FRQ,8,8.11,8,"6eae8dcd-1051-1120, piece p47-48 (guideline), Q1",,10,included,Exam form (US/Intl) is not stated in the source pages. The newspaper article stimulus is not visible in the extracted text; question statement is taken from the scoring guideline pages. Rubric totals 10.
+CB-U9-FRQ010,2017,Unspecified,FRQ,9,9.9,3,"6eae8dcd-1051-1120, piece p49-50 (guideline), Q2",,10,included,"Exam form (US/Intl) is not stated in the source pages. The data table (1970 about 2,000,000; 2000 about 400,000; 2015 about 600,000 elephants, plus snow leopard data) is not visible in the extracted text; the values used are those shown in the scoring guideline calculations. Rubric totals 10."
+CB-U3-FRQ003,2017,Unspecified,FRQ,3,3.7,"5,9,3","6eae8dcd-1051-1120, piece p51-54 (guideline), Q3",,10,included,Exam form (US/Intl) is not stated in the source pages. Rubric totals 10 (1+1+2+2+2+2).
+CB-U6-FRQ012,2017,Unspecified,FRQ,6,6.9,"2,8","6eae8dcd-1051-1120, piece p55-56 (guideline), Q4",,10,included,Exam form (US/Intl) is not stated in the source pages. Rubric totals 10.
+CB-U5-FRQ012,2018,Unspecified,FRQ,5,5.12,"6,8,9","b4984937-1121-1190, piece p56 (guideline pp62-64), Q1",,10,included,Exam form (US/Intl) is not stated in the source pages. The article stimulus is not visible in the extracted text. Rubric totals 10.
+CB-U6-FRQ013,2018,Unspecified,FRQ,6,6.12,9,"b4984937-1121-1190, piece p57 (guideline pp65-67), Q2",,10,included,Exam form (US/Intl) is not stated in the source pages. Rubric totals 10. The $1.2 million per-turbine cost is not used by any part.
+CB-U9-FRQ011,2018,Unspecified,FRQ,9,9.5,"1,9","b4984937-1121-1190, piece p58-59 (guideline pp68-70), Q3",,10,included,Exam form (US/Intl) is not stated in the source pages. Food-web figure not reproduced; organisms taken from the guideline. Rubric totals 10.
+CB-U7-FRQ001,2018,Unspecified,FRQ,7,7.5,8,"b4984937-1121-1190, piece p60 (guideline pp42-44 and 62-70), Q4",,10,included,Exam form (US/Intl) is not stated in the source pages. Rubric totals 10.
+CB-U7-FRQ002,2018,Unspecified,FRQ,7,7.5,8,"8bdc1c0d p1-3, 2018 Q4",n/a,10,included,
+CB-U9-FRQ012,2019,Unspecified,FRQ,9,9.10,"2,4","8bdc1c0d p5-7 (guideline), 39dadb27 p1 and 8bdc1c0d p70 (stem), 2019 Q1",n/a,10,included,Maps are images in the source; values (44 and 25 nests) come from the scoring guideline.
+CB-U6-FRQ014,2019,Unspecified,FRQ,6,6.5,"5,2","8bdc1c0d p18-19 (guideline), 39dadb27 p2 (stem), 2019 Q2",n/a,10,included,
+CB-U9-FRQ013,2019,Unspecified,FRQ,9,9.7,"1,5","8bdc1c0d p29-31 (guideline), 39dadb27 p3 (stem), 2019 Q3",n/a,10,included,Graph not available as text; the 380 ppm and 8.08 readings are from the guideline.
+CB-U7-FRQ003,2019,Unspecified,FRQ,7,7.1,"5,9","8bdc1c0d p39-41 (guideline), 39dadb27 p4 (stem), 2019 Q4",n/a,10,included,The 2015 Great Smoky Mountains value of 45 miles is read from the graph via the guideline.
+CB-U6-FRQ015,2021,Unspecified,FRQ,6,6.8,"9,5","39dadb27 p6-8 (guideline), 5c9c0993 p16-17 (stem), 2021 Set 1 Q1",n/a,10,included,
+CB-U5-FRQ013,2021,Unspecified,FRQ,5,5.6,"3,8","39dadb27 p28-30 (guideline), 5c9c0993 p18-19 (stem), 2021 Set 1 Q2",n/a,10,included,
+CB-U9-FRQ014,2021,Unspecified,FRQ,9,9.10,"3,5","39dadb27 p52-54 (guideline), 5c9c0993 p20 (stem), 2021 Set 1 Q3",n/a,10,included,
+CB-U4-FRQ005,2021,Unspecified,FRQ,4,4.2,"5,3","39dadb27 p17-18 (guideline), 5c9c0993 p23-24 (stem), 2021 Set 2 Q1",n/a,10,included,
+CB-U9-FRQ015,2021,Unspecified,FRQ,9,9.9,"2,1,5","39dadb27 p40-43 (guideline), 5c9c0993 p25-26 (stem), 2021 Set 2 Q2",n/a,10,included,
+CB-U6-FRQ016,2021,Unspecified,FRQ,6,6.5,"7,5","39dadb27 p63-65 (guideline), 5c9c0993 p27 (stem), 2021 Set 2 Q3",n/a,10,included,
+CB-U8-FRQ016,2022,Unspecified,FRQ,8,8.8,"4,5","3baadc16 p22-24 (guideline), p9-10 (stem), 2022 Set 1 Q1",n/a,10,included,
+CB-U6-FRQ017,2022,Unspecified,FRQ,6,6.5,"5,4","3baadc16 p25-28 (guideline), p11-12 (stem), 2022 Set 1 Q2",n/a,10,included,
+CB-U5-FRQ014,2022,Unspecified,FRQ,5,5.10,"6,4","3baadc16 p29-31 (guideline), p13 (stem), 2022 Set 1 Q3",n/a,10,included,
+CB-U8-FRQ017,2022,Unspecified,FRQ,8,8.5,"5,4","3baadc16 p33-35 (guideline), p16-17 (stem), 2022 Set 2 Q1",n/a,10,included,
+CB-U9-FRQ016,2022,Unspecified,FRQ,9,9.8,"2,5","3baadc16 p36-38 (guideline), p18 (stem), 2022 Set 2 Q2",n/a,10,included,
+CB-U3-FRQ004,2022,Unspecified,FRQ,3,3.5,"6,8,5","3baadc16 p39-40 (guideline), p19 (stem), 2022 Set 2 Q3",n/a,10,included,The coal-ash and coal-health parts are Unit 6 and 8 content; the calculation block is Unit 3.
+CB-U5-FRQ015,2023,Unspecified,FRQ,5,5.3,"2,8,9","7f93c255 p17-19 (guideline), p3-4 (stem), 2023 Set 1 Q1",n/a,10,included,
+CB-U2-FRQ005,2023,Unspecified,FRQ,2,2.4,"1,6,7,8","7f93c255 p20-22 (guideline), p5-6 (stem), 2023 Set 1 Q2",n/a,10,included,Diagram not available as text; the 13-19 degrees C range is taken from the scoring guideline.
+CB-U6-FRQ018,2023,Unspecified,FRQ,6,6.5,"5,7","7f93c255 p23-26 (guideline), p7 (stem), 2023 Set 1 Q3",n/a,10,included,
+CB-U5-FRQ016,2023,Unspecified,FRQ,5,5.9,"2,4,8","7f93c255 p28-30 (guideline), p10-11 (stem), 2023 Set 2 Q1",n/a,10,included,
+CB-U9-FRQ017,2023,Unspecified,FRQ,9,9.8,"1,5","7f93c255 p31-34 (guideline), p12-13 (stem), 2023 Set 2 Q2",n/a,10,included,Map not available as text; answers for (a)-(b) rely on the guideline.
+CB-U8-FRQ018,2023,Unspecified,FRQ,8,8.9,"9,5","7f93c255 p35-38 (guideline), p14 (stem), 2023 Set 2 Q3",n/a,10,included,Printed stem says 'in 2021' for part (e); the scoring guideline treats the answer as one year (365 days).
+CB-U8-FRQ019,2024,Unspecified,FRQ,8,8.5,"4,1","c20356cb p12-14 (guideline), e3e6619f p68-69 (stem), 2024 Set 1 Q1",n/a,10,included,Diagram not available as text; answers for (a) and (c) rely on the guideline.
+CB-U5-FRQ017,2024,Unspecified,FRQ,5,5.7,"3,9,8","c20356cb p15-17 (guideline), e3e6619f p70 and c20356cb p1 (stem), 2024 Set 1 Q2",n/a,10,included,Graph values not in text; the 50 m2 value comes from the guideline.
+CB-U6-FRQ019,2024,Unspecified,FRQ,6,6.6,"7,9,5","c20356cb p18-20 (guideline), c20356cb p2 (stem), 2024 Set 1 Q3",n/a,10,included,
+CB-U2-FRQ006,2024,Unspecified,FRQ,2,2.7,"8,5,4","c20356cb p22-23 (guideline), p5-6 (stem), 2024 Set 2 Q1",n/a,10,included,Diagrams not in text; answers follow the guideline.
+CB-U9-FRQ018,2024,Unspecified,FRQ,9,9.10,"5,2,3","c20356cb p24-26 (guideline), p7-8 (stem), 2024 Set 2 Q2",n/a,10,included,
+CB-U4-FRQ006,2024,Unspecified,FRQ,4,4.6,"5,6,9","c20356cb p27-29 (guideline), p9 (stem), 2024 Set 2 Q3",n/a,10,included,
+CB-U3-FRQ005,2025,Unspecified,FRQ,3,3.2,"1,2,9","c20356cb p31-34, 2025 Set 1 Q1",n/a,10,included,No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures.
+CB-U4-FRQ007,2025,Unspecified,FRQ,4,4.9,"5,2,9","c20356cb p35-37, 2025 Set 1 Q2",n/a,10,included,"No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures. Figure 1 shows stronger trade winds and cooler eastern Pacific, read as La Nina."
+CB-U7-FRQ004,2025,Unspecified,FRQ,7,7.1,"6,5,3","c20356cb p38, 2025 Set 1 Q3",n/a,10,included,No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures. Part G asks for 'kilowatts per year'; the quantity computed is energy (kWh) per year.
+CB-U9-FRQ019,2025,Unspecified,FRQ,9,9.5,"1,8,5","c20356cb p41-42, 2025 Set 2 Q1",n/a,10,included,"No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures. The 1995 bar (~1,400) is read visually from the graph."
+CB-U1-FRQ004,2025,Unspecified,FRQ,1,1.2,"4,2,5,9","c20356cb p43-45, 2025 Set 2 Q2",n/a,10,included,No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures. Part C (calving location) is read from Figure 2 without a key and may differ from the official answer.
+CB-U6-FRQ020,2025,Unspecified,FRQ,6,6.5,"5,7,3","c20356cb p46, 2025 Set 2 Q3",n/a,10,included,No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures.
+,2008,Intl,MCQ,8,8.1,,"9886c6f2, p.8, Q34",A,1,excluded (outside 2026 scope or unverifiable),Phytoremediation is not named in the CED; vocabulary item.
+,2008,Intl,MCQ,1,1.3,,"9886c6f2, p.15, Q79",D,1,excluded (outside 2026 scope or unverifiable),Geographic fact recall not in the 2026 CED.
+,2008,Intl,MCQ,5,5.17,2,"9886c6f2, p.16, Q81",A,1,excluded (outside 2026 scope or unverifiable),Geographic recall not in the 2026 CED.
+,2010,Intl,MCQ,5,5.12,,"a693d29c-2010Intl, exam p.3 (PDF p.15), Q4",D,1,excluded (outside 2026 scope or unverifiable),Specific US statute (NEPA) is not itemized in the 2026 CED.
+,2010,Intl,MCQ,1,1.7,,"a693d29c-2010Intl, exam p.5 (PDF p.17), Q19",E,1,excluded (outside 2026 scope or unverifiable),Physical properties of water are not itemized in the 2026 CED; scope judged from topic list.
+,2010,Intl,MCQ,9,9.9,,"a693d29c-2010Intl, exam p.10 (PDF p.22), Q41",E,1,excluded (outside 2026 scope or unverifiable),Species-specific case study not required by the 2026 CED.
+,2010,Intl,MCQ,1,1.1,,"a693d29c-2010Intl, exam p.10 (PDF p.22), Q42",n/a,1,excluded (outside 2026 scope or unverifiable),Item 42 was not scored and its question text is absent from the source; unit/topic are placeholders.
+,2010,Intl,MCQ,8,8.1,,"a693d29c-2010Intl, exam p.13 (PDF p.25), Q54",C,1,excluded (outside 2026 scope or unverifiable),Regulatory timeline reasoning; no matching CED topic.
+,2010,Intl,MCQ,8,8.14,,"a693d29c-2010Intl, exam p.14 (PDF p.26), Q60",C,1,excluded (outside 2026 scope or unverifiable),Risk perception is not itemized in the 2026 CED.
+,2010,Intl,MCQ,5,5.1,,"a693d29c-2010Intl, exam p.18 (PDF p.30), Q78",E,1,excluded (outside 2026 scope or unverifiable),Economic policy tools are not in the 2026 CED topic list.
+,2010,Intl,MCQ,5,5.9,,"a693d29c-2010Intl, exam p.18 (PDF p.30), Q81",E,1,excluded (outside 2026 scope or unverifiable),Cost-benefit analysis is not itemized in the 2026 CED.
+,2010,Intl,MCQ,5,5.17,,"a693d29c-2010Intl, exam p.19 (PDF p.31), Q87",E,1,excluded (outside 2026 scope or unverifiable),Federal forest policy is outside the 2026 CED.
+,2010,Intl,MCQ,5,5.1,,"a693d29c-2010Intl, exam p.21 (PDF p.33), Q92",A,1,excluded (outside 2026 scope or unverifiable),Economic concept not in the 2026 CED.
+,2016,US,MCQ,9,9.5,,"917bf6f8-2016, p.4, Q5",D,1,excluded (outside 2026 scope or unverifiable),"Methane hydrates themselves are not named in the 2026 CED, though Arctic permafrost methane feedback is covered under Topic 9.5. Figure (world map) read: D marks Alaska/Arctic."
+,2016,US,MCQ,4,4.8,,"917bf6f8-2016, p.4, Q7",A,1,excluded (outside 2026 scope or unverifiable),Tornado climatology is not in the 2026 CED.
+,2016,US,MCQ,8,8.2,,"917bf6f8-2016, p.21, Q59",D,1,excluded (outside 2026 scope or unverifiable),"Externalities are not named in the 2026 CED, though related cost concepts appear in unit 8."
+,2016,US,MCQ,7,7.6,,"917bf6f8-2016, p.24, Q71",A,1,excluded (outside 2026 scope or unverifiable),Specific provisions of the 1990 amendments (SO₂ allowance trading) are beyond what the 2026 CED lists; only Clean Air Act in general is covered.
+,2016,US,MCQ,6,6.5,,"917bf6f8-2016, p.26, Q76",A,1,excluded (outside 2026 scope or unverifiable),True-cost / externality accounting is not in the 2026 CED.

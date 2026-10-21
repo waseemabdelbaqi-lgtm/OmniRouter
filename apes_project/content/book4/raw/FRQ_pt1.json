@@ -1,0 +1,371 @@
+[
+ {
+  "year": 2002,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "e110483b, p7 (statement on sample-response cover page); commentary pp2, Q1",
+  "unit": 6,
+  "topic": "6.13",
+  "secondary_units": [
+   7
+  ],
+  "descriptor": "Electric vehicles versus gasoline cars: two environmental benefits, estimate petroleum saved if 10% of 150 million cars are electric, point vs. dispersed pollution sources, and two policies to encourage adoption.",
+  "frqtype": "calc",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Two benefits, each with its reason. (i) Electric cars emit no tailpipe CO₂, so less greenhouse gas enters the atmosphere per mile driven at the vehicle, slowing warming if the grid is cleaner. (ii) Less crude oil is needed, so there is less drilling, spill risk and habitat disturbance. Also acceptable: no tailpipe NOₓ/CO/VOC in cities, lower noise. *(commentary indicates 4 points for part (a): each benefit identified and explained; vague \"less pollution\" earns nothing)*\n\n**(b)** Cars converted = 0.10 × 150,000,000 = 1.5 × 10⁷ cars. Fuel per car per year = 10,000 mi ÷ 25 mi/gal = 400 gal/yr. Savings = 1.5 × 10⁷ × 400 gal = 6 × 10⁹ gal of gasoline per year. *(setup with units, then answer; the official answer is gasoline, 6 billion gallons per year)*\n\n**(c)** The statement is largely true: gasoline cars are many small *dispersed (mobile, non-point-like) sources*, whereas generating the electricity is concentrated at a few *point sources*, the power plants. A defender notes that a coal- or gas-fired grid still emits SO₂, NOₓ, CO₂ and particulates; a refuter notes that a solar-, wind- or hydro-supplied grid would emit almost none, and that point sources are easier to regulate and fit with scrubbers. Either position earns credit if the point/dispersed distinction is made and defended. *(1–2 points)*\n\n**(d)** Two policies, each explained: tax credits or rebates lowering the purchase price; funding for battery and charging-network research and build-out; preferential parking or lane access; stricter fleet fuel-economy or zero-emission mandates; higher fuel taxes. *(1 point each)*",
+  "in_2026_scope": true,
+  "notes": "Only the sample-response/commentary pieces are in the range; no scoring guideline for 2002. Official 10-point total per commentary samples. Part-point split per commentary: (a) 4, (b) 2, (c) 1-2, (d) 2. Exam form not stated."
+ },
+ {
+  "year": 2002,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "e110483b, p18 (statement on sample-response page); commentary pp3, Q2",
+  "unit": 5,
+  "topic": "5.1",
+  "secondary_units": [
+   1,
+   6,
+   9
+  ],
+  "descriptor": "Colorado River water diversion: two environmental problems, argue for urban use and for natural-area flow, and another large diversion project with two problems.",
+  "frqtype": "other",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Two problems: (i) less flow carries less sediment, nutrients and organisms downstream, lowering productivity in the delta/estuary, while dams trap silt upstream; (ii) reduced flow warms the water and lowers dissolved oxygen, concentrates pollutants and salts, blocks fish migration and exposes banks to erosion. *(1 point each described; commentary shows 3–4 points available)*\n\n**(b)** For cities: drinking water, sanitation and public health, industry and jobs, hydroelectric power; people's needs come first. For nature: wetlands and riparian habitat, fisheries and biodiversity depend on flow, ecosystems provide services (flood control, water filtration), and species have intrinsic value. *(arguments for both sides, each supported)*\n\n**(c)** Examples: Aswan High Dam (Nile): the lake behind it floods land and loses water to evaporation, silt no longer fertilizes the floodplain, and downstream erosion and salinity rise. Mono Lake (water exported to Los Angeles): the lake level fell, salinity rose and bird/brine-shrimp habitat shrank. Aral Sea, California Water Project, Owens Valley also work. *(1 point for naming the project, 1 point per impact)*",
+  "in_2026_scope": true,
+  "notes": "Part-point totals and the exact 2002 guideline are not in the range; only commentary is available. Statement read from the sample-response cover page."
+ },
+ {
+  "year": 2002,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "e110483b, p25 (statement on sample-response page); commentary p4, Q3",
+  "unit": 8,
+  "topic": "8.12",
+  "secondary_units": [
+   8
+  ],
+  "descriptor": "Brine-shrimp toxicity test with copper sulfate: plot dose data on a semi-log graph, find LD50, find threshold level, and argue for and against extending results to humans.",
+  "frqtype": "data",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "Data (100 shrimp per dish): ≤0.0001% → 10 dead; 0.001% → 10; 0.01% → 20; 0.1% → 55; 1% → 90; 10% → 100.\n\n**(a)** Put concentration on the logarithmic x-axis and number dead on the linear y-axis; plot the six points and draw a smooth S-shaped (sigmoid) curve. *(1 point axes/points, 1 point smooth curve)*\n\n**(b)** LD50 is the dose that kills half of the test population. Reading the curve at 50 dead gives a concentration just below 0.1%, about 0.07–0.08% (interpolating on the log scale between 0.01% and 0.1%). Mark it on the graph. *(1 point definition, 1 point value read from the graph; \"about 0.1%\" with no marking was judged too vague)*\n\n**(c)** The threshold is the highest dose that produces no response above the background effect. The 10% mortality at the lowest two concentrations is background, so response first rises above it between 0.001% and 0.01%; the threshold is about 0.001%. *(1 point definition, 1 point value)*\n\n**(d)** For: both are animals with similar basic physiology, the dose–response pattern probably holds, testing on people is unethical so animal tests give estimates. Against: humans differ in size, metabolism and exposure route (swallowed or touched, not immersed in water), a short 48-hour test on an invertebrate cannot capture chronic effects, and species vary in sensitivity. *(2 points for, 2 for against; maximum 4)*",
+  "in_2026_scope": true,
+  "notes": "Table values read from the image; LD50 estimate is my own log-interpolation (official acceptable range not in range). Point totals per commentary samples (a2,b2,c2,d4 = 10)."
+ },
+ {
+  "year": 2003,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c6885669, p10 (Q1); guidelines pp20-22",
+  "unit": 4,
+  "topic": "4.3",
+  "secondary_units": [
+   9,
+   1
+  ],
+  "descriptor": "Article about invasive earthworms consuming forest leaf litter: roles of leaf litter, three abiotic changes, link to takeover by exotic grass, and a controlled experiment design.",
+  "frqtype": "design",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Leaf litter is a protective, nutrient-recycling layer. It decomposes into humus and nutrients for plants, holds moisture, lowers erosion, shelters seedlings and decomposer organisms, and insulates the soil. One statement must relate directly to plants. *(2 points)*\n\n**(b)** Three described changes (not just listed) if worms remove the litter in a year: soil moisture falls as evaporation rises; erosion and runoff increase (with sediment in streams); soil fertility and humus drop, and soil temperature swings widen. Also pH change or compaction. *(3 points)*\n\n**(c)** Pick one change and tie it to invaders: with drier, less fertile, more exposed soil, generalist exotic plants with broad tolerance (such as stilt grass) out-compete natives adapted to moist, humus-rich conditions. *(1 point; must be based on a part (b) change)*\n\n**(d)** Hypothesis: forest plots with worms will have thinner litter depth and lower soil moisture than worm-free plots. Procedure: set matched plots of equal area in the same forest; control plots without added worms, experimental plots with a stated number of worms; same period (for example one year); several replicate plots; control other variables (slope, canopy, rainfall). Data: measure the dependent variable quantitatively, such as litter mass or depth and soil moisture percentage, at set intervals; compare means statistically. *(1 hypothesis naming a measurable factor, 1 design with control, experimental and one specific (area/time/sample size), 1 elaboration such as replication, 1 quantitative data)*",
+  "in_2026_scope": true,
+  "notes": "Article text for the stem was an image and not extractable; the question asks about it. Guideline totals 2+3+1+4=10."
+ },
+ {
+  "year": 2003,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c6885669, p11 (Q2); guidelines pp23-26",
+  "unit": 3,
+  "topic": "3.9",
+  "secondary_units": [
+   3
+  ],
+  "descriptor": "Fictional country Industria: plot birth and death rates over time, compute 1950 growth rate and 1977 birth rate, reasons for falling death rate and sticky birth rate, and project a population using doubling time.",
+  "frqtype": "data",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Time on the x-axis (1855–1990), rate per 1,000 on the y-axis. Birth rate points: 1855 = 43, 1875 = 43, 1895 = 37, 1950 = 22, 1990 = 10. Death rate: 1855 = 41, 1875 = 20, 1895 = 12, 1950 = 12, 1977 = 10, 1990 = 10. Label both curves. *(3 points: axes, birth curve, death curve)*\n\n**(b)** Growth rate 1950: r = (22 − 12) ÷ 1,000 = 0.010 = **1% per year**. In 1977 the growth rate is 0.4% and death rate is 10/1,000 = 1.0%: birth rate = 0.4% + 1.0% = 1.4% = **14 per 1,000**. *(1 point each)*\n\n**(c)** Death-rate drop: better sanitation and clean water, improved nutrition and food supply, medical care and hygiene (antibiotics not yet available). High birth rate: children provided farm labor and old-age support and offset infant deaths; slow decline because cultural norms, women's education and employment, and access to contraception changed gradually. *(2 + 1 + 1 points)*\n\n**(d)** 1895 growth rate = (37 − 12) ÷ 10 = 2.5%. Doubling time = 70 ÷ 2.5 = 28 yr. Time from 1895 to 1951 = 56 yr = 2 doublings. P = 2.5 × 10⁶ × 2 × 2 = **1.0 × 10⁷** people. (Exponential check: 2.5 × 10⁶ × e^(0.025×56) ≈ 1.01 × 10⁷.) *(1 point)*",
+  "in_2026_scope": true,
+  "notes": "Guideline total 3+2+4+1=10."
+ },
+ {
+  "year": 2003,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c6885669, p12 (Q3); guidelines pp27-33",
+  "unit": 1,
+  "topic": "1.3",
+  "secondary_units": [
+   5,
+   8
+  ],
+  "descriptor": "Coastal estuaries: two causes of temperature or salinity variation, two ecological and two economic roles of coastal wetlands, three human harms, and a policy plus an economic incentive for one harm.",
+  "frqtype": "other",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Causes with the direction of change: tides mix ocean and river water, raising salinity at high tide and lowering it at low tide; river and runoff pulses (storms, snowmelt) add fresh water and lower salinity; seasonal sunlight and air temperature warm shallow water in summer and cool it in winter, and evaporation then raises salinity. *(1 point each, 2 max)*\n\n**(b)** Ecological: nursery habitat for fish and shellfish; filtering of sediment, nutrients and toxins; buffering floods and storm waves; high productivity and biodiversity; bird nesting and migration stops. Economic: fisheries and aquaculture; tourism and recreation; storm and flood protection of property; reduced water-treatment costs. *(2 + 2 points)*\n\n**(c)** Three harms with explanation: filling and development destroys habitat; fertilizer, pesticide and sewage runoff cause eutrophication and oxygen loss; dredging, dams and diversions alter flow and bury benthic life; industrial effluent adds toxins or heat; invasive species or overharvesting disrupt food webs. *(3 points)*\n\n**(d)** For filling and development: a zoning or law forbidding building in wetlands (Clean Water Act permits, coastal-zone rules) plus an economic incentive such as a property-tax reduction for undeveloped wetland, conservation easements, or fines/fees on development. *(1 point policy, 1 point incentive, linked to the chosen harm)*",
+  "in_2026_scope": true,
+  "notes": "Guideline lists 11 points; score capped at 10 per commentary."
+ },
+ {
+  "year": 2003,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c6885669, p12 (Q4); guidelines pp34-37",
+  "unit": 2,
+  "topic": "9.9",
+  "secondary_units": [
+   3
+  ],
+  "descriptor": "Whooping crane and California condor recovery: causes of original decline, protection measures, characteristics that slow recovery, and an argument for and against protecting an endangered species.",
+  "frqtype": "other",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Two declines, each with its cause: habitat loss (wetland drainage or farmland conversion for cranes; shrinking range and loss of food for condors), hunting and egg collecting, and lead poisoning from ammunition in carrion eaten by condors. *(1 point each, must be described)*\n\n**(b)** Examples: Endangered Species Act protection and critical-habitat refuges (both); captive breeding and release (both, condors especially); bans on DDT or lead shot; CITES trade limits; wetland protection and migratory-bird treaties (cranes). Name which species benefited. *(2 points; a third possible for elaboration)*\n\n**(c)** Slow-recovery traits: low reproductive rate (one egg or chick, few per lifetime), late maturity, long parental care, large range or specialized habitat needs, tiny population with low genetic diversity. Link each to slow rebound. *(1 point each)*\n\n**(d)** For: protecting a species preserves biodiversity and a role in its ecosystem (scavenger, keystone predator) and supports ecotourism income. Against: protection can cost public money and restrict land use and development, and funds could save more species elsewhere. Each side needs a supported argument for the same species. *(4 points: 2 for, 2 against)*",
+  "in_2026_scope": true,
+  "notes": "Guideline allows 11 points; total scored out of 10."
+ },
+ {
+  "year": 2004,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "2f591c9e, p10 (Q1); guidelines pp14-18",
+  "unit": 8,
+  "topic": "8.8",
+  "secondary_units": [
+   6,
+   7
+  ],
+  "descriptor": "Editorial about mercury from coal: source and transport, two ways to cut emissions, why predatory fish carry more risk, and another toxic metal with sources and a sublethal effect.",
+  "frqtype": "other",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Source: coal burning in power plants. Mercury leaves with the flue gas, travels on wind, and returns by rain or dry fallout onto land and water; microbes convert it to methylmercury that enters food webs. *(source 1, transport 1, entry to water 1; up to 3)*\n\n**(b)** Reduce emissions by fuel switching or efficiency (lower-mercury coal, natural gas, wind/solar, conservation), by washing coal before burning, or by post-combustion capture (activated-carbon sorbent with filters, scrubbers). Describe how each cuts mercury. *(1 point each)*\n\n**(c)** Mercury biomagnifies: it is stored in tissue and not excreted, so concentrations increase at each trophic level; big predators eat many contaminated prey and live long, bioaccumulating more over a lifetime. *(up to 3 points)*\n\n**(d)** Lead: from mining and smelting, old paint, leaded gasoline, plumbing, batteries. Acute sublethal effects: abdominal pain, headaches, anemia, and nervous-system effects such as learning problems or irritability. Cadmium, arsenic also accepted. *(1 point each: metal, release route, effect)*",
+  "in_2026_scope": true,
+  "notes": "Editorial text was an image. Guideline allows 11 raw points; capped at 10."
+ },
+ {
+  "year": 2004,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "2f591c9e, p11 (Q2); guidelines pp19-23",
+  "unit": 6,
+  "topic": "6.12",
+  "secondary_units": [
+   6
+  ],
+  "descriptor": "Small town replacing a 12 MW coal plant with 10 wind turbines: compute plant annual output, household total, compare, cost per kWh of wind over 25 years, and two benefits plus two costs.",
+  "frqtype": "calc",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** 12 MW = 12,000 kW; 12,000 kW × 8,000 h/yr = 9.6 × 10⁷ kWh/yr. *(2 points)*\n\n**(b)** 3,000 homes × 8,000 kWh/yr = 2.4 × 10⁷ kWh/yr. *(2 points)*\n\n**(c)** The plant could produce about four times what the homes use. Differences are expected: the plant is sized for peak demand and growth, supplies businesses, loses energy in transmission, and rarely runs at full capacity all year. *(1 point comparison/reason, plus an elaboration point)*\n\n**(d)** Cost = 10 turbines × $3 × 10⁶ = $3 × 10⁷. Energy used over 25 yr = 2.4 × 10⁷ kWh/yr × 25 = 6 × 10⁸ kWh. $3 × 10⁷ ÷ 6 × 10⁸ kWh = **$0.05 per kWh** (the answer based on community use). *(setup 1, answer 1)*\n\n**(e)** Benefits: no SO₂/NOₓ (less acid deposition and smog); no CO₂ from operation (slower warming); no mercury or ash; no coal mining damage. Costs: bird and bat collisions; noise; visual impact on ridges; land clearing, habitat fragmentation and erosion; need for backup power when wind is weak. *(1 point each, 4 total)*",
+  "in_2026_scope": true,
+  "notes": "Official alternate solution assuming the plant at full output (about $0.01/kWh) earns only one point. Real turbines would not run 8,000 h/yr at full capacity. Raw guideline points exceed 10; capped."
+ },
+ {
+  "year": 2004,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "2f591c9e, p11 (Q3); guidelines pp24-27",
+  "unit": 6,
+  "topic": "6.6",
+  "secondary_units": [
+   8
+  ],
+  "descriptor": "Radioactive waste: low versus high-level properties and storage, characteristics of an ideal deep burial site, two other management options with feasibility, and a sublethal health effect of radiation.",
+  "frqtype": "other",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Low-level waste has low radioactivity and short half-lives (decays to safe levels within a few hundred years), so it can be kept in shielded drums on site or sent to a licensed landfill. High-level waste (spent fuel) is intensely radioactive for tens of thousands of years, so it needs heavily shielded casks or cooling pools and finally deep isolated storage. Isotope example: iodine-131 or technetium-99 (medical use, low level) or plutonium-239/cesium-137 from reactors. *(1 + 1 + 1)*\n\n**(b)** Ideal site: stable geology away from faults and volcanoes; dry climate with little groundwater contact; deep (hundreds of meters) in non-reactive rock; remote from population; large enough. *(3 points, one each)*\n\n**(c)** Options and limits: burial in polar ice (ice instability, treaties); launch into space (cost and launch-accident risk); seabed or subduction-zone disposal (leaks, treaties); reprocessing (cost, proliferation risk, law). *(1 identify + 2 feasibility points)*\n\n**(d)** Cancer: ionizing radiation breaks DNA or damages chromosomes, causing mutations that lead to tumors. Other accepted: cataracts, sterility, birth defects, weakened immune system. *(1 point)*",
+  "in_2026_scope": true,
+  "notes": ""
+ },
+ {
+  "year": 2004,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "2f591c9e, p12 (Q4); guidelines pp28-32",
+  "unit": 4,
+  "topic": "4.3",
+  "secondary_units": [
+   5
+  ],
+  "descriptor": "Summer extension-service intern: describe one chemical and one physical soil test and how results guide sustainable farming, one pro and con of inorganic fertilizer, two erosion-control practices, and a humus-rich biome.",
+  "frqtype": "other",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Chemical test: soil pH (or N-P-K, salinity); physical test: texture (sand/silt/clay by settling or ribbon test) or water-holding capacity. Use: acidic soil needs lime; low nitrogen suggests legume rotation; sandy soil needs organic matter or more frequent irrigation. *(3 points)*\n\n**(b)** Advantage: nutrients are concentrated, immediately available and easy to apply, raising yield. Disadvantage: runoff causes eutrophication; no organic matter is added; energy-intensive to make; N₂O emission. *(1 each)*\n\n**(c)** Contour plowing or terracing slows runoff; no-till keeps residue and roots; windbreaks, cover crops, strip cropping hold soil. Link each to reduced erosion. *(2 points)*\n\n**(d)** Temperate deciduous forest or grassland. Humus forms from partly decomposed leaves, roots and organisms. It holds water and nutrients, improves aeration and structure, buffers pH and supports soil life. *(1 biome, 1 origin, 2 benefits; 3 maximum for the part)*",
+  "in_2026_scope": true,
+  "notes": "Raw guideline points sum above 10; capped."
+ },
+ {
+  "year": 2005,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "2f591c9e, p40-41 (Q1); guidelines pp44-48",
+  "unit": 8,
+  "topic": "8.15",
+  "secondary_units": [
+   9
+  ],
+  "descriptor": "Article on emerging and re-emerging infectious diseases: transmission and control for a new and an old disease, an environmental driver, a rationale for a quoted statement, and a disease behind rising US mortality after 1980.",
+  "frqtype": "data",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Pick, e.g., SARS (new) and malaria (old). SARS: virus spread by respiratory droplets and close contact; control by quarantine, masks, handwashing. Malaria: parasite spread by infected mosquito bites; control with nets, repellent, drained standing water, spraying or biological control. *(1 transmission + 1 control per disease = 4)*\n\n**(b)** For malaria: warmer or wetter climate expands mosquito breeding range, or habitat change creates standing water, raising infections. *(factor 1, causal explanation 1)*\n\n**(c)** Diseases spread quickly because travel and trade move infected people, animals and vectors worldwide; deforestation, crowding and climate change bring humans into contact with new pathogens. *(mechanism 1, matching explanation 1)*\n\n**(d)** HIV/AIDS: spread through unprotected sex, shared needles, blood and mother-to-child; no cure or vaccine and long latency. (Influenza/pneumonia in an aging population also accepted.) *(1 disease, 1 cause)*",
+  "in_2026_scope": true,
+  "notes": "Article and the mortality graphs were images/not fully read; the graph trend (increase beginning about 1980) taken from the question. Guideline total 4+2+2+2=10."
+ },
+ {
+  "year": 2005,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "2f591c9e, p41 (Q2); guidelines pp49-51",
+  "unit": 5,
+  "topic": "5.7",
+  "secondary_units": [
+   1,
+   9
+  ],
+  "descriptor": "Global meat production grew from 52 to 240 billion kg while population rose 2.6 to 6.0 billion: per capita figures, percent change, efficiency of grain vs meat, environmental consequences, and health effects of low-meat diets.",
+  "frqtype": "calc",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** 1950: 5.2 × 10¹⁰ kg ÷ 2.6 × 10⁹ people = 20 kg per person. 2000: 2.4 × 10¹¹ kg ÷ 6.0 × 10⁹ = 40 kg per person. *(1 point each)*\n\n**(b)** (40 − 20) ÷ 20 × 100 = **100% increase**. *(setup 1, answer 1)*\n\n**(c)** Land: grain eaten directly needs only cropland; meat needs pasture plus land to grow feed, so a hectare of grain feeds more people. Energy: only about 10% of energy passes up each trophic level, so feeding crops to livestock wastes most of it, and raising, processing and cooling meat takes extra fossil fuel. *(1 land, 1 energy; must compare)*\n\n**(d)** Overgrazing causing erosion and desertification; manure runoff causing eutrophication and low oxygen; deforestation for pasture lowering habitat and releasing CO₂; livestock methane warming the climate; heavy water use. *(2 points)*\n\n**(e)** Advantage: less saturated fat and cholesterol, lower heart-disease risk. Disadvantage: risk of protein, iron or vitamin B₁₂ deficiency without careful planning. *(1 each)*",
+  "in_2026_scope": true,
+  "notes": "Guideline sum 10."
+ },
+ {
+  "year": 2005,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "2f591c9e, p42 (Q3); guidelines pp52-53",
+  "unit": 5,
+  "topic": "5.9",
+  "secondary_units": [
+   6,
+   8
+  ],
+  "descriptor": "Surface coal mining reclamation: restoration steps, why arid regions are harder, sulfur impact and remedy, two other impacts of coal use, and why per capita coal use may rise.",
+  "frqtype": "other",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** After replacing overburden: regrade to the original contours, spread topsoil and add nutrients or organic matter, replant native or fast-growing cover, then monitor for years. *(3 points)*\n\n**(b)** Low rainfall and poor soils make plants slow to establish; bare ground then erodes by wind and water and reclamation takes longer. *(1 + 1)*\n\n**(c)** Sulfur minerals exposed to water and air form sulfuric acid (acid mine drainage), acidifying soil and streams and mobilizing heavy metals. Remedy: add crushed limestone, cover waste to keep it dry, or use retention ponds. *(1 + 1)*\n\n**(d)** Acid deposition from SO₂/NOₓ; CO₂ adding to global warming; mercury and particulates harming health; toxic ash disposal; thermal pollution. *(1 each)*\n\n**(e)** Coal is abundant and cheap in the US, so it can replace costlier fuels as oil supplies tighten; and rising affluence raises energy use per person. *(1 + 1)*",
+  "in_2026_scope": true,
+  "notes": "Guideline sum 11; capped at 10 for FRQ score."
+ },
+ {
+  "year": 2005,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "2f591c9e, p42 (Q4); guidelines pp54-56",
+  "unit": 6,
+  "topic": "6.5",
+  "secondary_units": [
+   4,
+   5
+  ],
+  "descriptor": "Arctic refuge oil development: days of US supply from 10 billion barrels at 20 million barrels per day, fragility of tundra, activities with impacts, and two end uses with conservation measures.",
+  "frqtype": "calc",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** 10 × 10⁹ barrels ÷ 20 × 10⁶ barrels/day = 500 days. *(setup 1, answer 1)*\n\n**(b)** Permafrost keeps meltwater and spills near the surface and is easily damaged by heat or vehicles; a short, cold growing season and thin nutrient-poor soil mean slow decomposition and recovery, so scars persist for decades. *(2 points)*\n\n**(c)** Roads and drilling pads: destroy and fragment habitat, disrupt caribou migration and nesting. Pipelines or seismic surveys: spill risk, disturbance to dens, displacement of wildlife. *(2 activities + 2 impacts)*\n\n**(d)** Transportation fuel: use mass transit, higher-efficiency or electric vehicles. Heating or plastics/petrochemicals: insulation, recycling, substitution with other energy. *(1 each, use linked to measure)*",
+  "in_2026_scope": true,
+  "notes": "Guideline sum 10."
+ },
+ {
+  "year": 2006,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "d1acf739, p5 (Q1); guidelines 2f591c9e pp58-61 and d1acf739 pp9-12",
+  "unit": 6,
+  "topic": "6.8",
+  "secondary_units": [
+   6
+  ],
+  "descriptor": "Arizona family weighing a photovoltaic system: one benefit and one cost, persuasive choice between stand-alone and grid-connected, two ways to promote PV use, and two passive solar approaches.",
+  "frqtype": "other",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Benefit: no combustion emissions (CO₂, SO₂) or thermal pollution during operation. Cost: manufacturing uses energy and toxic materials, batteries or panels create waste, and large arrays need land. *(1 each plus elaboration)*\n\n**(b)** Choose grid-connected: no batteries needed, grid supplies backup at night and in peak demand, a smaller system suffices, and net metering lets surplus be sold; cons: hookup cost and outage dependence. The stand-alone system's strength (independence) is outweighed by battery cost and capacity limits. *(3 points: clear choice, supported statements outweighing the other side)*\n\n**(c)** Tax credits or subsidies; low-interest loans; research funding; mandatory net metering; lower panel prices by manufacturers. *(1 each)*\n\n**(d)** Deciduous trees on the sun side shade in summer and admit winter sun; roof overhangs; thermal mass floors storing daytime heat; south-facing windows. Each reduces heating or cooling energy bills. *(1 + 1 each)*",
+  "in_2026_scope": true,
+  "notes": "Raw guideline points 11; capped 10."
+ },
+ {
+  "year": 2006,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "d1acf739, pp6-7 (Q2); guidelines (2f591c9e pp62-65)",
+  "unit": 9,
+  "topic": "9.5",
+  "secondary_units": [
+   9
+  ],
+  "descriptor": "Ice-core graphs of CO₂ and temperature over 200,000 years: change between two dates, ratio, prediction with the ratio, assumption, causes of a 200 ppm rise, and two other warming gases.",
+  "frqtype": "data",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)(i)** CO₂ about 200 ppm at 140,000 yr ago and about 280 ppm at 125,000 yr ago: increase ≈ **80 ppm**. *(1)*\n\n**(ii)** Temperature went from about −8 °C to +2 °C: change = +10 °C. Ratio = 10 °C ÷ 80 ppm = **0.125 °C per ppm** (1 °C per 8 ppm). *(1 + 1)*\n\n**(iii)** 200 ppm × 0.125 °C/ppm = **25 °C**. *(1)*\n\n**(iv)** Assumption: CO₂ alone controls temperature with a constant linear relationship. Not valid: other greenhouse gases and aerosols, feedbacks, and the rapid rate of modern change mean the relationship is not constant (and the answer is unrealistically large). *(1 + 1)*\n\n**(b)** Fossil fuel burning for electricity, transport and industry as population and per capita use grow; deforestation and land clearing. *(2 points)*\n\n**(c)** Methane from rice paddies, livestock, landfills; N₂O from fertilizer use and combustion; CFCs/HFCs from refrigeration. *(1 each, gas + activity)*",
+  "in_2026_scope": true,
+  "notes": "Graph readings checked on the rendered page (200 ppm, 280 ppm, −8 °C, +2 °C). Official answer 25 °C is the exam's stated outcome of the ratio. Total 1+2+1+2+2+2=10."
+ },
+ {
+  "year": 2006,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "d1acf739, p7 (Q3); guidelines (2f591c9e pp66-69)",
+  "unit": 8,
+  "topic": "8.9",
+  "secondary_units": [
+   5
+  ],
+  "descriptor": "City brownfield cleanup: problems of excavating soil, using plants to decontaminate with a pro and con, environmental and societal benefits of reclamation, and one hazardous-waste reduction method and one legal disposal method.",
+  "frqtype": "other",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Excavation is costly; transporting soil risks spills and dust; contaminated soil is only moved to a landfill; the site is disrupted and erosion/groundwater issues may remain. *(2)*\n\n**(b)** Phytoremediation: plants take up or break down contaminants through roots. Advantage: cheap, less disruptive, controls erosion. Disadvantage: slow; contaminated plant matter needs disposal; only works to root depth. *(1 + 1 + 1)*\n\n**(c)** Environmental: green space/habitat and less runoff and groundwater contamination. Societal: higher property values, jobs, reduced health risk, reduced sprawl. *(1 + 1)*\n\n**(d)(i)** Reduction: substitute less toxic materials, recycle or reuse solvents, or improve process efficiency, each with description. **(ii)** Legal disposal: lined secure landfill, incineration, deep-well injection or stabilization, with a brief description. *(2 + 2)*",
+  "in_2026_scope": true,
+  "notes": "Raw guideline 11; capped 10."
+ },
+ {
+  "year": 2006,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "d1acf739, p8 (Q4); guidelines (2f591c9e p70, d1acf739 pp1-3)",
+  "unit": 5,
+  "topic": "5.8",
+  "secondary_units": [
+   5
+  ],
+  "descriptor": "Georges Bank groundfish harvest graph: five-year period of steepest decline and rate, two commercial fishing practices and how they deplete stocks, a law or treaty managing marine harvest, and another commons with impacts and management.",
+  "frqtype": "data",
+  "points": 10,
+  "key": "n/a",
+  "key_choices": 0,
+  "solution": "**(a)** Steepest drop: 1965–1970, from about 700 thousand to about 200 thousand metric tons: (700,000 − 200,000) ÷ 5 yr = **100,000 metric tons per year**. *(1 + 1)*\n\n**(b)** Bottom trawling: drags nets or lines along the seafloor, destroying habitat and catching nontarget species (bycatch). Drift/gill nets or purse seines: huge nets catch whole schools and bycatch, and lost nets keep killing. Long-lining or sonar also acceptable. *(1 + 1 each)*\n\n**(c)** Magnuson-Stevens Act: regional councils set quotas, size limits and seasons and protect habitat to rebuild stocks. (Also ESA, Marine Mammal Protection Act, CITES, UN Law of the Sea.) *(1)*\n\n**(d)** Atmosphere: fossil-fuel burning raises greenhouse gases; manage by emissions limits or agreements. (Or aquifers, Antarctica, public forests.) *(3 points)*",
+  "in_2026_scope": true,
+  "notes": "Graph checked visually (about 700 to 200 thousand tons)."
+ }
+]

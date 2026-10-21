@@ -1,0 +1,684 @@
+[
+ {
+  "year": 2018,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "8bdc1c0d p1-3, 2018 Q4",
+  "unit": 7,
+  "topic": "7.5",
+  "secondary_units": [
+   8
+  ],
+  "descriptor": "Burning biomass indoors for cooking and heat: pollutants and a resulting illness, a practical mitigation, why under-five children are more at risk, then sources and exposure controls for two of asbestos, radon, mold.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "**(a)(i)** Any two indoor combustion pollutants: carbon monoxide, particulate matter (soot), nitrogen oxides, sulfur oxides, volatile organic compounds, methane, or trace metals. *(2 points: 1 each)*\n**(a)(ii)** Link one pollutant to a named respiratory illness: fine particulates to COPD, asthma, bronchitis or lung cancer; CO to carbon monoxide poisoning. *(1 point: specific illness matched to a pollutant you listed)*\n**(b)** Pair an approach with its health effect, e.g. a chimney or vented stove sends smoke outdoors, so less is inhaled; a cleaner, more efficient stove burns less fuel and releases fewer pollutants; switching to biogas, solar or electric cooking removes the smoke source; cooking outdoors moves the smoke away from the home. *(2 points: realistic approach; how it lowers respiratory illness)*\n**(c)** Young children breathe in more air per kilogram of body mass, have immature immune systems and narrow airways, and spend more time indoors near the stove, so the dose and effect are larger. *(1 point: one valid reason)*\n**(d)** Choose two: asbestos source = old insulation, floor tiles, cement or ceiling products; control = leave undisturbed, seal or enclose, or have it professionally removed. Radon source = uranium-bearing soil and rock whose gas seeps through foundations; control = seal cracks and install subfloor venting. Mold source = leaks, flooding or damp, poorly ventilated rooms; control = fix the leak, dry or ventilate the space, clean or replace damaged material. *(4 points: a source and a control for each of two pollutants)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2019,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "8bdc1c0d p5-7 (guideline), 39dadb27 p1 and 8bdc1c0d p70 (stem), 2019 Q1",
+  "unit": 9,
+  "topic": "9.10",
+  "secondary_units": [
+   2,
+   4
+  ],
+  "descriptor": "Piping plover nesting on Assateague Island (two nest maps): preferred habitat, nest change, cause, protecting nests, barrier-island functions, a human threat to coastal habitat, and economic effects of and local defenses against sea-level rise.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)(i)** Open, unvegetated sandy beach and storm-washover areas. *(1 point)*\n**(a)(ii)** Nests fell from 44 in 1999 to 25 in 2009, a drop of about 43%. *(1 point: direction plus a number or percent)*\n**(a)(iii)** Plant cover spread over formerly bare sand, so the open sandy nesting habitat shrank. *(1 point: habitat loss from revegetation)*\n**(b)(i)** Fence or sign off nesting zones, cover nests with protective enclosures, restrict vehicles, kites or fireworks, or require leashed pets. *(1 point: one realistic restriction)*\n**(b)(ii)** Barrier islands absorb wave energy and wind, which reduces mainland erosion and storm-surge flooding; their lagoons and marshes also trap sediment and shelter nursery habitat. *(1 point: one function with its protective effect)*\n**(b)(iii)** E.g. beachfront development removes habitat; or trash and plastic entangle or are swallowed by wildlife; or oil spills coat marine life. Name the action and its effect on a species other than the plover. *(2 points: action; effect on species)*\n**(c)** Lost tourism revenue, lower property values, repair costs for damaged infrastructure, higher insurance, or loss of farmland or fisheries income. *(1 point: one economic impact)*\n**(d)** Two of: raise buildings; set new construction back from the shore; install pumps; build seawalls or groins; plant shoreline vegetation; nourish beaches with sand. *(2 points: 1 each)*",
+  "in_2026_scope": true,
+  "notes": "Maps are images in the source; values (44 and 25 nests) come from the scoring guideline.",
+  "key": "n/a"
+ },
+ {
+  "year": 2019,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "8bdc1c0d p18-19 (guideline), 39dadb27 p2 (stem), 2019 Q2",
+  "unit": 6,
+  "topic": "6.5",
+  "secondary_units": [
+   5,
+   2
+  ],
+  "descriptor": "Oil-sands (bitumen) mining under boreal forest in Alberta: forest benefits, environmental costs of extraction and transport, and three unit-conversion calculations (days and years to extract 73 billion barrels; water needed for synthetic crude).",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(a)** One ecological service: carbon dioxide uptake, climate and water regulation, erosion control, nutrient cycling, soil formation or maintaining biodiversity. *(1 point)*\n**(b)** One economic benefit: timber and other forest products, tourism and recreation jobs, or lower health costs from cleaner air. *(1 point)*\n**(c)** Two non-habitat consequences: fossil-fuel combustion for machinery and processing releases CO₂, NOₓ, SO₂ and particulates; toxic tailings need storage; spills or leaks from pipelines contaminate water; strip mining adds sediment to streams; large volumes of water are withdrawn. *(2 points: 1 each)*\n**(d)** Days = 73 × 10⁹ barrels ÷ (1 × 10⁶ barrels/day) = 7.3 × 10⁴ days = 73,000 days. *(2 points: setup; answer)*\n**(e)** Years = 7.3 × 10⁴ days ÷ 365 days/year ≈ 200 years (2 × 10²). *(2 points; an error carried from (d) is not penalized again)*\n**(f)** 30 × 10⁶ barrels synthetic crude/month × 2 barrels water/barrel × 12 months/year = 7.2 × 10⁸ barrels of freshwater per year. *(2 points: setup; answer)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2019,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "8bdc1c0d p29-31 (guideline), 39dadb27 p3 (stem), 2019 Q3",
+  "unit": 9,
+  "topic": "9.7",
+  "secondary_units": [
+   1,
+   5
+  ],
+  "descriptor": "Graph of Mauna Loa atmospheric CO₂ and nearby ocean pH since 1992: read values for 2005, relate CO₂ to ocean CO₂ and pH, write the reaction with water, name the problem, explain harm to shell-builders, and name another reef threat.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)(i)** About 380 ppm CO₂ in 2005 (±5). *(1 point)*\n**(a)(ii)** About pH 8.08 in 2005 (±0.02). *(1 point)*\n**(b)(i)** More atmospheric CO₂ means more CO₂ dissolves in the ocean. *(1 point)*\n**(b)(ii)** Inverse relationship: as atmospheric CO₂ climbs, ocean pH falls (more acidic). *(1 point)*\n**(b)(iii)** CO₂ + H₂O ⇌ H₂CO₃ (carbonic acid), which ionizes to H⁺ + HCO₃⁻. *(1 point: balanced equation)*\n**(b)(iv)** Ocean acidification. *(1 point)*\n**(c)(i)** Added H⁺ lowers the carbonate available and can dissolve calcium carbonate, so shells and coral skeletons form more slowly or erode; weaker organisms have lower reproduction and survival and are easier prey. *(2 points: chemical effect on shell or skeleton; consequence for survival)*\n**(c)(ii)** E.g. warming causes bleaching (loss of symbiotic algae); nutrient runoff drives algal blooms that block light and deplete oxygen; destructive fishing or tourism physically breaks reefs; invasive species outcompete natives. *(2 points: threat; how it damages reefs)*",
+  "in_2026_scope": true,
+  "notes": "Graph not available as text; the 380 ppm and 8.08 readings are from the guideline.",
+  "key": "n/a"
+ },
+ {
+  "year": 2019,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "8bdc1c0d p39-41 (guideline), 39dadb27 p4 (stem), 2019 Q4",
+  "unit": 7,
+  "topic": "7.1",
+  "secondary_units": [
+   5,
+   9
+  ],
+  "descriptor": "Visibility loss in four national parks (graph): worst park, primary versus secondary pollutants and how each enters or forms, percent increase in Great Smoky Mountains visibility, two government actions, and two non-air impacts of heavy visitation.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)** Sequoia National Park shows the largest loss of visibility versus the natural baseline. *(1 point)*\n**(b)(i)** Primary pollutant example: SO₂, NOₓ, CO, particulate matter or VOCs. *(1 point)*\n**(b)(ii)** Primary pollutants enter the air directly from a source such as a smokestack, tailpipe or burning fuel. *(1 point)*\n**(b)(iii)** Secondary pollutant example: ozone, sulfuric acid, nitric acid or PANs. *(1 point)*\n**(b)(iv)** Secondary pollutants form when primary pollutants react in the air, e.g. NOₓ and VOCs react in sunlight to make ozone, or SO₂ and water form sulfuric acid. *(1 point)*\n**(c)(i)** Percent increase = (45 mi − 25 mi) ÷ 25 mi × 100 = 80%. *(1 point)*\n**(c)(ii)** Two actions: tighten emission standards or cap-and-trade for utilities; incentivize renewable energy; limit private vehicles with shuttles or parking fees; support electric vehicles; restrict campfires or burning. *(2 points: 1 each)*\n**(d)** Two non-air impacts: litter harming wildlife or water; trampling and off-trail travel causing erosion and compaction; roads and facilities fragmenting habitat; noise or light disrupting animal behavior; visitors bringing invasive species; wastewater pollution. *(2 points: 1 each)*",
+  "in_2026_scope": true,
+  "notes": "The 2015 Great Smoky Mountains value of 45 miles is read from the graph via the guideline.",
+  "key": "n/a"
+ },
+ {
+  "year": 2021,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "39dadb27 p6-8 (guideline), 5c9c0993 p16-17 (stem), 2021 Set 1 Q1",
+  "unit": 6,
+  "topic": "6.8",
+  "secondary_units": [
+   9,
+   5
+  ],
+  "descriptor": "Homeowner designs a test of rooftop solar panel compass direction (variables, hypothesis, extra variable), then hydroelectric dam diagram: turbine energy step, stored potential energy, pairing with solar or wind, climate risks, reservoir benefit and silt effect.",
+  "frqtype": "design",
+  "points": 10,
+  "solution": "**(a)(i)** Independent variable: the compass direction the panels face. *(1)*\n**(a)(ii)** Dependent variable: electricity produced (kWh). *(1)*\n**(a)(iii)** E.g. \"If panels face south (north hemisphere), then they will generate more kWh than panels facing other directions.\" A null statement of no effect is also acceptable. *(1: testable prediction relating the two variables)*\n**(a)(iv)** An uncontrolled variable such as panel tilt, shading, dust or snow, cloud cover, season, or panel temperature. *(1)*\n**(b)(i)** The turbine, where moving water's kinetic energy becomes rotational mechanical energy. *(1)*\n**(b)(ii)** Water held high behind the dam has gravitational potential energy; releasing it downhill (greater head, more pressure) converts that energy to motion. *(1)*\n**(b)(iii)** Solar and wind output varies with weather and time of day; hydro can be dispatched to fill gaps, and surplus solar or wind power can pump water back uphill into the reservoir. *(1)*\n**(b)(iv)** Drought, evaporation or reduced snowpack lowers reservoir storage and generation; heavy storms increase sediment that shrinks storage; glacier loss first raises then lowers flow. *(1)*\n**(c)(i)** Benefit besides power: flood control, water supply or irrigation, recreation, or lake habitat. *(1)*\n**(c)(ii)** Silt reduces storage volume and the head available, lowering output, and abrasion damages turbine blades, raising repair cost. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2021,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "39dadb27 p28-30 (guideline), 5c9c0993 p18-19 (stem), 2021 Set 1 Q2",
+  "unit": 5,
+  "topic": "5.6",
+  "secondary_units": [
+   3,
+   8
+  ],
+  "descriptor": "Pesticide use in cotton: human-health benefit, exposure route, a 1960-2015 table of application rate versus pests trapped, evidence of resistance, effects on non-target wildlife, crop rotation, a lower-pesticide alternative and its human benefit.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)** Pesticides suppress disease vectors (mosquitoes, ticks, rodents) and raise food supply, improving health. *(1)*\n**(b)** Entry routes: inhaling spray, drinking contaminated water, eating residues on food, or absorption through skin. *(1)*\n**(c)(i)** 1975, when only 2 pests were captured. *(1)*\n**(c)(ii)** Pests started at 700 (no pesticide), crashed to 2 after first use, then climbed steadily to 1,100 by 2015. *(1)*\n**(c)(iii)** Even with the dose rising from 500 to 1,000 g/ha, catches rose from 2 to 1,100: survivors carried heritable resistance and reproduced, so each generation tolerates more pesticide (the pesticide treadmill). *(1)*\n**(d)** Two non-lethal effects: contamination of soil and water; bioaccumulation and biomagnification; endocrine disruption and reproductive problems; thinner eggshells; impaired bee signaling; loss of food supply or predators upsetting the food web. *(2: 1 each)*\n**(e)(i)** Rotation means growing different crops in sequence on the same field. *(1)*\n**(e)(ii)** Integrated pest management, intercropping, timing application to the vulnerable stage, or pest-resistant crop varieties. *(1)*\n**(e)(iii)** Justification: less pesticide residue in food, lower input cost and higher farm profit, or fewer exposed workers. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2021,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "39dadb27 p52-54 (guideline), 5c9c0993 p20 (stem), 2021 Set 1 Q3",
+  "unit": 9,
+  "topic": "9.10",
+  "secondary_units": [
+   3,
+   5
+  ],
+  "descriptor": "Subdivision planned on forest used by wood thrush: why specialists suffer from fragmentation, cowbird relationship, benefits of keeping forest, a mitigation proposal, and area and percentage calculations for a 275-territory target.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(a)** Specialists have narrow niches, low adaptability and often small, genetically limited populations, so losing or splitting habitat harms them more than flexible generalists. *(1)*\n**(b)** Brood parasitism (cowbird benefits, thrush harmed). *(1)*\n**(c)** Retained forest keeps some species, reduces erosion, provides shade and transpiration cooling, and can buffer edge effects. *(1)*\n**(d)** E.g. wildlife corridors, conservation easements, buffer zones, offsetting preserved land, clustered or vertical housing, shared green space. *(1)*\n**(e)** Area = 275 territories × 800 m²/territory = 220,000 m². *(2: setup; answer)*\n**(f)** Set-aside = 1,000 lots × 1,100 m² × 0.10 = 110,000 m²; ÷ 800 m² = 137.5 (about 137) territories. *(2)*\n**(g)** Needed fraction = 220,000 m² ÷ (1,000 × 1,100 m² = 1,100,000 m²) × 100 = 20% of each lot (twice the developer's 10%). *(2)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2021,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "39dadb27 p17-18 (guideline), 5c9c0993 p23-24 (stem), 2021 Set 2 Q1",
+  "unit": 4,
+  "topic": "4.2",
+  "secondary_units": [
+   5,
+   3
+  ],
+  "descriptor": "Soil erosion rate versus slope for four farming practices (graph), then a road-construction test of straw bales versus grass for sediment control (hypothesis, control, variables, turbidity data), and fish that lay eggs in streambed gravel.",
+  "frqtype": "design",
+  "points": 10,
+  "solution": "**(a)(i)** Question: how do slope and land-use or tillage practice (crop rotation, no-till, cover crops) affect annual soil erosion? *(1)*\n**(a)(ii)** Crop rotation is the practice that stays within tolerable loss on a 15% slope. *(1)*\n**(a)(iii)** A cover crop gives lower erosion than no-till alone, allowing steeper land to stay within the tolerable limit. *(1)*\n**(a)(iv)** Natural erosion agents: running water, rainfall or wind. *(1)*\n**(b)(i)** Dependent variable: amount of sediment run-off or discharge. *(1)*\n**(b)(ii)** Add an untreated bare plot, or measure sediment before and after treatment. *(1)*\n**(b)(iii)** An uncontrolled factor: slope, rainfall amount, soil type, plot size, distance to stream, road material or time since rain. *(1)*\n**(b)(iv)** Turbidity was measured as sight depth: straw plot 12 cm, grass plot 28 cm. Deeper sight depth means clearer water, so grass trapped more sediment and the hypothesis (straw is better) is rejected. *(1)*\n**(c)(i)** Type III: very high early mortality, few survive to adulthood. *(1)*\n**(c)(ii)** Sediment smothers eggs and cuts oxygen, removes spawning gravel, carries toxins, warms water (less dissolved oxygen) or clouds water, impairing reproduction. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2021,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "39dadb27 p40-43 (guideline), 5c9c0993 p25-26 (stem), 2021 Set 2 Q2",
+  "unit": 9,
+  "topic": "9.9",
+  "secondary_units": [
+   2,
+   1,
+   5
+  ],
+  "descriptor": "Global amphibian species-richness map: richest latitudes, biome and why, a cause of deforestation, richness and resilience, other causes of decline, a species-protection law, and a development plan that protects frogs in a wetland.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)(i)** Greatest richness lies between the Tropics of Cancer and Capricorn (roughly 30° N-30° S). *(1)*\n**(a)(ii)** Tropical rainforest. *(1)*\n**(a)(iii)** Warm, wet conditions all year and high productivity supply many niches, food and habitat. *(1)*\n**(b)** Clearing land for farming, housing, fuel or timber. *(1)*\n**(c)(i)** A species-rich ecosystem is more resilient: some species survive a stressor and help restore function. *(1)*\n**(c)(ii)** Other drivers: pesticide or drug pollution and endocrine disruptors, climate-driven loss of moist habitat, illegal collection, invasive species, habitat fragmentation, chytrid fungus. *(1)*\n**(d)(i)** Endangered Species Act, CITES or the Lacey Act. *(1)*\n**(d)(ii)** ESA: lists species, bans harming them, protects critical habitat and requires recovery plans; CITES: regulates or bans international trade; Lacey Act: bans trade in illegally taken wildlife. *(1)*\n**(e)(i)** E.g. relocate frogs, reserve part of the wetland, build corridors, require a setback, or cluster buildings. *(1)*\n**(e)(ii)** Justify with a non-frog benefit, e.g. buffer strip filters runoff, preserve raises rental appeal, clustering frees land and limits fragmentation. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2021,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "39dadb27 p63-65 (guideline), 5c9c0993 p27 (stem), 2021 Set 2 Q3",
+  "unit": 6,
+  "topic": "6.5",
+  "secondary_units": [
+   7,
+   5
+  ],
+  "descriptor": "Replacing aging coal plants with natural gas: why coal is nonrenewable, environmental and economic gains of gas, preventing CO poisoning, then percent change in PM2.5, kilograms of PM2.5 no longer removed by logging, and added hospital admissions.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(a)** Coal forms far more slowly than it is burned, so the supply is finite. *(1)*\n**(b)** Gas emits less CO₂, no mercury or other trace metals, less NOₓ, SOₓ and particulates, and avoids strip-mining. *(1)*\n**(c)** Economic edge: cheaper pipeline transport, fewer pollution controls, cheaper waste disposal, higher plant efficiency or lower health-care costs. *(1)*\n**(d)** Install CO detectors, maintain and vent furnaces, mandate detectors, run public education, or change heating system. *(1)*\n**(e)** Percent change = (188 − 85) ÷ 85 × 100 = +121% (the table gives 85 for 1990 and 188 for 2016). *(2)*\n**(f)** Lost removal = (50,000 − 43,000) ha × 2.3 kg/ha = 7,000 × 2.3 = 16,100 kg PM2.5 per year. *(2)*\n**(g)** A 23% rise ÷ 10% = 2.3 steps × 1% = 2.3% increase; 7,390 × 0.023 ≈ 170 additional admissions. *(2)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2022,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "3baadc16 p22-24 (guideline), p9-10 (stem), 2022 Set 1 Q1",
+  "unit": 8,
+  "topic": "8.8",
+  "secondary_units": [
+   4,
+   5
+  ],
+  "descriptor": "Snapping-turtle nests upstream and downstream of a mercury-emitting factory (nest map): best site, dependent variable, research question, role of upstream sites, effect of removing bank vegetation, mercury effects, methylmercury origin, claim testing, farming and soil.",
+  "frqtype": "design",
+  "points": 10,
+  "solution": "**(a)(i)** Area A (upstream, no mercury). *(1)*\n**(a)(ii)** Nesting success. *(1)*\n**(a)(iii)** Does mercury level in nesting habitat affect snapping-turtle nest success or nest location? *(1)*\n**(a)(iv)** Upstream sites are the control: baseline comparison with mercury-exposed downstream nests. *(1)*\n**(a)(v)** Without bank vegetation, less mercury is taken up or filtered, soil near the river erodes, and nests may be placed nearer contaminated ground or in hotter, drier soil, so fewer succeed. *(1)*\n**(b)(i)** Persistent mercury bioaccumulates and is a neurotoxin that damages organs, reproduction and survival. *(1)*\n**(b)(ii)** It biomagnifies up the food chain, harming top predators and potentially causing trophic cascades and lower diversity. *(1)*\n**(b)(iii)** The factory releases inorganic mercury; bacteria in sediment convert it to methylmercury. *(1)*\n**(b)(iv)** The map shows nests near the river in Area B failed while those farther away succeeded, supporting the claim that mercury-rich soil near the river reduces success. *(1)*\n**(c)** E.g. tilling loosens and erodes soil; monocropping depletes nutrients; fertilizer alters chemistry; irrigation can salinize; heavy machinery compacts soil; legumes add nitrogen. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2022,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "3baadc16 p25-28 (guideline), p11-12 (stem), 2022 Set 1 Q2",
+  "unit": 6,
+  "topic": "6.5",
+  "secondary_units": [
+   5,
+   4
+  ],
+  "descriptor": "Hydraulic fracturing: well-water methane versus distance to a fracking well (graph), how fracking fluid works, a geologic effect, tragedy of the commons, groundwater overuse and saltwater intrusion, and a policy to cut oil use.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)(i)** Highest methane is 64 mg/L. *(1)*\n**(a)(ii)** Methane concentration falls as distance from the fracking well increases (inverse, nonlinear). *(1)*\n**(a)(iii)** Any distance of about 1,800-2,200 m, where the curve levels near zero. *(1)*\n**(a)(iv)** High-pressure fluid cracks the shale, and sand in the fluid props the fractures open so gas and oil can flow to the well. *(1)*\n**(a)(v)** Induced earthquakes or ground subsidence and sinkholes. *(1)*\n**(b)(i)** Tragedy of the commons. *(1)*\n**(b)(ii)** Falling water tables dry springs and groundwater-fed streams, harm habitats, increase erosion or cause desertification. *(1)*\n**(b)(iii)** Pumping lowers the freshwater head in coastal aquifers so seawater flows in (saltwater intrusion), making water too salty to drink. *(1)*\n**(c)(i)** Claim: raise vehicle fuel-economy standards, subsidize electric vehicles or transit, invest in renewables, or tax fuel. *(1)*\n**(c)(ii)** Justify with a non-climate gain: less smog, particulates and acid rain, or fewer spills and less drilling disturbance. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2022,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "3baadc16 p29-31 (guideline), p13 (stem), 2022 Set 1 Q3",
+  "unit": 5,
+  "topic": "5.10",
+  "secondary_units": [
+   6,
+   4
+  ],
+  "descriptor": "Urban heat islands and rooftop solar: cause, a solution and extra benefit, percent change in cell efficiency, change in yearly electricity cost, annual kWh from 30 panels, and seasonal sunlight difference between hemispheres.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(a)** Dark pavement and roofs store heat, buildings block wind, there is little shade or evapotranspiration, and vehicles and air conditioners add waste heat. *(1)*\n**(b)(i)** E.g. green roofs and more vegetation, reflective light-colored surfaces, or more efficient or less-used heat-producing equipment. *(1)*\n**(b)(ii)** Extra benefit: stormwater capture, habitat, cleaner air, insulation or lower energy cost. *(1)*\n**(c)(i)** Percent change = (44.5 − 15.9) ÷ 15.9 × 100 ≈ +180%. *(2)*\n**(c)(ii)** Change = 12,900 kWh × ($0.13 − $0.11)/kWh = **$258** more per year. *(2)*\n**(c)(iii)** 30 panels × 300 W × (1 kW/1,000 W) × 4 h/day × 365 days = 9 kW × 1,460 h = **13,140 kWh/year**. *(2)*\n**(d)** June-August the Northern Hemisphere is tilted toward the Sun, so sunlight is more direct and days are longer. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2022,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "3baadc16 p33-35 (guideline), p16-17 (stem), 2022 Set 2 Q1",
+  "unit": 8,
+  "topic": "8.5",
+  "secondary_units": [
+   5,
+   4
+  ],
+  "descriptor": "Gulf of Mexico dead zone: least-extensive watershed land use, how upstream farming and cities feed the zone, effects on marine life and coastal economy, summer growth, and designing a study of riparian buffers on stream nutrients.",
+  "frqtype": "design",
+  "points": 10,
+  "solution": "**(a)(i)** Urban land covers the least area. *(1)*\n**(a)(ii)** Fertilizer or manure runoff (or sewage) from farms enters rivers, carries nutrients to the Gulf, and fuels algae. *(1)*\n**(a)(iii)** Cities release treated or overflow wastewater, and impervious surfaces speed lawn-fertilizer and detergent runoff into the river. *(1)*\n**(b)(i)** Algae die and decompose, depleting dissolved oxygen (and block light), so organisms flee or die. *(1)*\n**(b)(ii)** Smaller fish catch and fishing income, lower tourism, or higher fuel and consumer costs. *(1)*\n**(b)(iii)** Summer brings heavy fertilizer runoff and spring flows, and warmer water holds less dissolved oxygen. *(1)*\n**(c)(i)** Hypothesis: stream sites downstream of riparian buffers will have lower nitrate and phosphate than sites without buffers. *(1)*\n**(c)(ii)** Control: sites 100 m downstream from areas lacking a vegetation buffer. *(1)*\n**(c)(iii)** Another test: turbidity, dissolved oxygen, temperature, fecal coliform, pH, conductivity, BOD or total suspended solids. *(1)*\n**(c)(iv)** A feeding operation adds manure nutrients, bacteria, solids or antibiotics that would worsen water quality independent of the buffer, confounding results. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2022,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "3baadc16 p36-38 (guideline), p18 (stem), 2022 Set 2 Q2",
+  "unit": 9,
+  "topic": "9.8",
+  "secondary_units": [
+   2,
+   5
+  ],
+  "descriptor": "Lizard counts on Pacific islands with and without mongooses (graph by habitat): richest habitat, mongoose effect, island biogeography, invasive-species harm and control, forest services, effect of sugarcane, monoculture problems and legume rotation.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)(i)** Clearings and gardens had the most lizards. *(1)*\n**(a)(ii)** Inverse: lizard counts are lower where mongooses live than on mongoose-free islands. *(1)*\n**(b)** Largest island located close to the mainland has highest species diversity. *(1)*\n**(c)(i)** Invasive animals outcompete or prey on natives, cutting biodiversity and disrupting food webs. *(1)*\n**(c)(ii)** Claim: biological control, trapping or hunting, manual removal, or chemicals. *(1)*\n**(c)(iii)** Justify with a benefit matched to the method, e.g. trapping avoids synthetic chemicals; pesticides act quickly. *(1)*\n**(d)(i)** Provisioning service: timber, food or medicine. *(1)*\n**(d)(ii)** The graph shows more lizards in cleared land than forest on mongoose-free islands, so converting forest to cane likely increased counts (more food, suitable habitat, fewer predators). *(1)*\n**(d)(iii)** Monocultures lower species and genetic diversity, raise pest vulnerability, deplete nutrients and need more inputs. *(1)*\n**(e)** Legumes host nitrogen-fixing bacteria, enriching the soil and reducing nitrogen-fertilizer needs. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2022,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "3baadc16 p39-40 (guideline), p19 (stem), 2022 Set 2 Q3",
+  "unit": 3,
+  "topic": "3.5",
+  "secondary_units": [
+   6,
+   8,
+   5
+  ],
+  "descriptor": "Charlotte, North Carolina growth and coal dependence: health effect of coal pollutants, coal-ash disposal problem and clay liners, percent population change 2013-2019, doubling year from a 1.88% rate, annual water use, and cutting outdoor water use.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(a)** Coal pollutants cause respiratory disease, heart disease, neurological damage or birth defects. *(1)*\n**(b)(i)** Ash leaches toxic metals into groundwater or spills into waterways. *(1)*\n**(b)(ii)** Clay is much less permeable than bare soil, so it slows leaching. *(1)*\n**(c)(i)** Percent change = (857,425 − 757,278) ÷ 757,278 × 100 ≈ +13.2%. *(2)*\n**(c)(ii)** Rule of 70: doubling time = 70 ÷ 1.88 ≈ 37 years; 2019 + 37 = **2056**. *(2)*\n**(c)(iii)** 90 gal/person/day × 841,611 people × 365 days ≈ 2.76 × 10¹⁰ gallons. *(2)*\n**(d)** Xeriscape or drought-tolerant plants, skip nonessential washing, smart or drip irrigation, rain barrels or gray water, water at night. *(1)*",
+  "in_2026_scope": true,
+  "notes": "The coal-ash and coal-health parts are Unit 6 and 8 content; the calculation block is Unit 3.",
+  "key": "n/a"
+ },
+ {
+  "year": 2023,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "7f93c255 p17-19 (guideline), p3-4 (stem), 2023 Set 1 Q1",
+  "unit": 5,
+  "topic": "5.3",
+  "secondary_units": [
+   2,
+   8,
+   9
+  ],
+  "descriptor": "Four-plot trial of three genetically modified bean strains versus unmodified beans on a floodplain: control, research question, less irrigation, runoff and soil-temperature table, fertilizer-use hypothesis, post-burn succession, diversity and recovery, invasive beetle and its control.",
+  "frqtype": "design",
+  "points": 10,
+  "solution": "**(a)** Control group: Plot D (unmodified beans). *(1)*\n**(b)** Does genetic modification change green-bean yield compared with unmodified beans? *(1)*\n**(c)** Less water would lower yields overall, and unmodified beans would likely suffer most if modified types tolerate drought. *(1)*\n**(d)** Lowest soil temperature: Plot D (17.6 °C). *(1)*\n**(e)** Sediment, phosphorus and nitrogen runoff were all lower from modified-bean plots than from unmodified plot D (e.g. sediment 3.5 vs 0.9-2.4 mg/L). *(1)*\n**(f)** Supported: plot B (Type 2) shows far lower P and N runoff than D and still yielded more, so more fertilizer was taken up by plants rather than washed off. *(1)*\n**(g)** Secondary succession: pioneer, fast-growing species recolonized soil left intact after the fire. *(1)*\n**(h)** More species means a flood removes a smaller share of species and interactions, and diversity includes flood-tolerant types that survive. *(1)*\n**(i)** The newcomer could be a generalist or r-selected invader that reproduces quickly and exploits niches opened by the flood in a low-diversity plot. *(1)*\n**(j)** Trap or remove beetles, apply pesticide, or introduce a biological control. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2023,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "7f93c255 p20-22 (guideline), p5-6 (stem), 2023 Set 1 Q2",
+  "unit": 2,
+  "topic": "2.4",
+  "secondary_units": [
+   1,
+   6,
+   7,
+   8
+  ],
+  "descriptor": "Satellite track of a manatee crossing a shipping channel with water temperatures: temperature range used, why power-plant discharge attracts manatees, harm to other species, seagrass loss effects, an estuary pollution fix, photochemical smog in summer, and fuel-cell car drawbacks.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)** Most movement occurred in water at about 13-19 °C (read from the diagram). *(1)*\n**(b)** The discharge is warm (about 24-26 °C), above the 20 °C survival threshold. *(1)*\n**(c)** Warm effluent lowers dissolved oxygen, can exceed other species' tolerance range, and may shift reproductive timing. *(1)*\n**(d)(i)** Manatees are herbivores that need much food, have a slow reproductive rate, and are tied to warm water, so seagrass loss means starvation and slow recovery. *(1)*\n**(d)(ii)** Less producer biomass, so less energy reaches every higher trophic level. *(1)*\n**(e)(i)** Permeable pavement, vegetated buffers, less fertilizer, runoff barriers, or better wastewater treatment. *(1)*\n**(e)(ii)** Less nutrient load reduces eutrophication, improves water clarity and biodiversity, supports fisheries or ecotourism. *(1)*\n**(f)** Summer has stronger sunlight and heat that speed the reactions of NOₓ and VOCs that form ozone, and trees emit more VOCs. *(1)*\n**(g)** Ozone harms plant tissue and photosynthesis, stunts growth and irritates animals' lungs and eyes. *(1)*\n**(h)** Hydrogen fuel needs substantial (often fossil) energy to make, is flammable, requires new fueling infrastructure and costly vehicles. *(1)*",
+  "in_2026_scope": true,
+  "notes": "Diagram not available as text; the 13-19 degrees C range is taken from the scoring guideline.",
+  "key": "n/a"
+ },
+ {
+  "year": 2023,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "7f93c255 p23-26 (guideline), p7 (stem), 2023 Set 1 Q3",
+  "unit": 6,
+  "topic": "6.5",
+  "secondary_units": [
+   5,
+   7
+  ],
+  "descriptor": "Crude oil and gold-ore mining: marine impact, a pollutant from burning oil, a personal fuel-saving action and its health benefit, then grams of gold in a deposit, value from 1,000 t, and ore needed for 100,000 phones.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(a)** Spills coat or poison marine life, block light, damage wetlands, or noise disrupts animals; fuel CO₂ adds to acidification. *(1)*\n**(b)** CO₂, NOₓ, SO₂, particulates, CO or VOCs. *(1)*\n**(c)** Walk, bike, use transit, carpool, drive an efficient, hybrid or electric vehicle, or telework. *(1)*\n**(d)** Fewer combustion pollutants lowers asthma, COPD and cardiovascular disease; active travel adds fitness. *(1)*\n**(e)** 260 × 10⁶ t × 5.0 g/t = 1.3 × 10⁹ g of gold. *(2)*\n**(f)** 1,000 t × 5.0 g/t = 5,000 g; × $62.56/g = **$312,800**. *(2)*\n**(g)** Gold needed = 0.034 g × 100,000 = 3,400 g; ÷ 5.0 g/t = **680 t** of ore. *(2)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2023,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "7f93c255 p28-30 (guideline), p10-11 (stem), 2023 Set 2 Q1",
+  "unit": 5,
+  "topic": "5.9",
+  "secondary_units": [
+   2,
+   4,
+   8
+  ],
+  "descriptor": "Coal-mine overburden piles restored naturally versus technically (plant-species graph): readings and trends, claim about animal richness, early colonizers, tundra versus forest recovery, then a wheatgrass, wood-chip and bare-soil runoff test, sand effects, and mine-drainage impact and control.",
+  "frqtype": "design",
+  "points": 10,
+  "solution": "**(a)** About 8-9 plant species in technically restored piles after 16-25 years (graph reading). *(1)*\n**(b)** Plant species richness on spontaneous piles rises with pile age (direct relationship). *(1)*\n**(c)** Claim: supports the hypothesis, because more plant species provide more food, shelter and habitat for animals. *(1)*\n**(d)** Early colonizers are pioneer or generalist plants that tolerate poor, low-nutrient soil and full sun and spread fast. *(1)*\n**(e)** Recovery in tundra would be slower (cold, short season, little rain) and involve tundra species with lower diversity. *(1)*\n**(f)** Does ground cover (plants or wood chips) affect the quantity and clarity of runoff? *(1)*\n**(g)** Dependent variable: volume of water collected (or its appearance). *(1)*\n**(h)** More sand means more infiltration, so less runoff and probably clearer runoff because sand settles quickly. *(1)*\n**(i)** Acidic, metal-laden or sediment-rich drainage can exceed tolerance, cause disease or death, or biomagnify metals. *(1)*\n**(j)** Plant vegetation, cap waste with soil or lime, divert water, treat drainage, or store waste in basins or under water. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2023,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "7f93c255 p31-34 (guideline), p12-13 (stem), 2023 Set 2 Q2",
+  "unit": 9,
+  "topic": "9.8",
+  "secondary_units": [
+   1,
+   5
+  ],
+  "descriptor": "Spread of Asian carp from the Mississippi basin toward the Great Lakes (map): a water body invaded, distribution change, ecosystem-service impact, control measure and extra benefit, primary consumer, arrow meaning, food-chain effects, blue-pike tragedy of the commons, and aquaculture drawbacks.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)** Any labeled invaded water body, e.g. Mississippi, Missouri or Ohio River, Lake Erie. *(1)*\n**(b)** Carp now occupy a much larger area, having moved up the Mississippi, Missouri and Ohio rivers. *(1)*\n**(c)** Possible impacts: reduced fishing or recreation, or changed water quality by displacing native filter feeders. *(1)*\n**(d)** Reward fishing for carp, promote eating carp, barriers or electric dispersal, carp-specific deterrents or sound, ballast and bait rules. *(1)*\n**(e)** Justify with an added benefit, e.g. new jobs or income, little harm to natives, or protecting food webs. *(1)*\n**(f)** Zooplankton (eats algae, the producer). *(1)*\n**(g)** Arrows show flow of energy (and matter) from prey to predator. *(1)*\n**(h)** Carp compete for plankton, lowering food for fish higher in the chain. *(1)*\n**(i)** Blue pike were an open-access shared resource; each fisher maximized catch, and the stock collapsed. *(1)*\n**(j)** Aquaculture drawbacks: waste or antibiotic pollution, escapes and disease spread to wild fish, forage-fish feed demand, habitat conversion. *(1)*",
+  "in_2026_scope": true,
+  "notes": "Map not available as text; answers for (a)-(b) rely on the guideline.",
+  "key": "n/a"
+ },
+ {
+  "year": 2023,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "7f93c255 p35-38 (guideline), p14 (stem), 2023 Set 2 Q3",
+  "unit": 8,
+  "topic": "8.9",
+  "secondary_units": [
+   9,
+   5
+  ],
+  "descriptor": "Landfill methane and beef: methane problem, decomposition factors, a fix and extra benefit, then yearly methane from 31.2 million cattle, pasture hectares for one day, and extra people fed if corn replaces beef land.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(a)** Methane is a potent greenhouse gas that traps heat, driving warming and sea-level rise. *(1)*\n**(b)** Factors: share of organic matter, oxygen and moisture, microbe population, temperature or climate. *(1)*\n**(c)** Capture and burn or use landfill gas, compost organics, divert and recycle, or incinerate waste. *(1)*\n**(d)** Extra benefit: electricity or heat, compost fertilizer, longer landfill life, or less land and raw material use. *(1)*\n**(e)** 150 L/cow/day × 31.2 × 10⁶ cows × 365 days = 1.7 × 10¹² L per year (the guideline scores it as an annual amount). *(2)*\n**(f)** 31.2 × 10⁶ cows × 11.8 kg/cow/day ÷ 26.2 kg/ha ≈ 1.4 × 10⁷ ha (14,051,908 ha). *(2)*\n**(g)** (30.4 × 10⁶ − 2.7 × 10⁶) kcal/ha × 150 ha ÷ 2,250 kcal/person = 27.7 × 10⁶ × 150 ÷ 2,250 ≈ 1.8 × 10⁶ more people (1,846,667). *(2)*",
+  "in_2026_scope": true,
+  "notes": "Printed stem says 'in 2021' for part (e); the scoring guideline treats the answer as one year (365 days).",
+  "key": "n/a"
+ },
+ {
+  "year": 2024,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p12-14 (guideline), e3e6619f p68-69 (stem), 2024 Set 1 Q1",
+  "unit": 8,
+  "topic": "8.5",
+  "secondary_units": [
+   4,
+   1
+  ],
+  "descriptor": "Five zones of a stream with dissolved oxygen and biological oxygen demand (diagram): lowest-oxygen zone, BOD-DO relationship, likely point-source zone, dependent variable and hypothesis, control choice, winter sampling, raw sewage and bacteria, abiotic factor, persistent pollutants.",
+  "frqtype": "design",
+  "points": 10,
+  "solution": "**(a)** Zone C has the lowest dissolved oxygen. *(1)*\n**(b)** Inverse: as BOD rises, dissolved oxygen falls. *(1)*\n**(c)** Zone B, where BOD jumps and oxygen starts to drop, likely marks the discharge point. *(1)*\n**(d)** Dependent variable: macroinvertebrate species richness. *(1)*\n**(e)** E.g. \"Lower dissolved oxygen will be associated with fewer macroinvertebrate species.\" *(1)*\n**(f)** Zone A is upstream of the pollution source, so it shows unaffected baseline conditions. *(1)*\n**(g)** Winter water is colder, holds more oxygen (more species) but may be below some species' tolerance or have less photosynthesis (fewer species). *(1)*\n**(h)** Sewage supplies nutrients and bacteria, so bacterial populations rise. *(1)*\n**(i)** Abiotic factor: temperature, pH, light, turbidity, salinity or nutrient level. *(1)*\n**(j)** Persistent organic pollutants accumulate in fatty tissue and biomagnify, so top consumers carry the highest doses and suffer toxicity. *(1)*",
+  "in_2026_scope": true,
+  "notes": "Diagram not available as text; answers for (a) and (c) rely on the guideline.",
+  "key": "n/a"
+ },
+ {
+  "year": 2024,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p15-17 (guideline), e3e6619f p70 and c20356cb p1 (stem), 2024 Set 1 Q2",
+  "unit": 5,
+  "topic": "5.7",
+  "secondary_units": [
+   3,
+   9,
+   8
+  ],
+  "descriptor": "Environmental costs of animal protein (global warming potential and land use graphs): land for chicken protein, mealworm survivorship type and advantage, chicken versus pork impact, why beef differs, cattle grazing near streams, sustainable erosion control, and climate effects on crops.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)** Chicken protein needs about 50 m² per kilogram. *(1)*\n**(b)** Type III survivorship (many offspring, high early mortality). *(1)*\n**(c)** r-selected beetles reproduce quickly and in large numbers, so large protein output in a short time. *(1)*\n**(d)** Chicken causes less damage: lower GWP and less land than pork (less greenhouse gas, deforestation). *(1)*\n**(e)** Beef's footprint is higher because cattle also emit methane, a strong greenhouse gas, and need more land. *(1)*\n**(f)** Grazing near streams causes erosion and turbidity, and manure adds nutrients and bacteria. *(1)*\n**(g)** Rotational grazing, fenced riparian zones, alternative water supply, or less beef in the diet. *(1)*\n**(h)** Terraces, contour farming, no-till, cover crops or perennial crops. *(1)*\n**(i)** Added advantage: more soil carbon, lower fuel and cost, farmable steep land, better infiltration. *(1)*\n**(j)** Drought, flooding, heat, shifted rain seasons or expanded pests reduce yields. *(1)*",
+  "in_2026_scope": true,
+  "notes": "Graph values not in text; the 50 m2 value comes from the guideline.",
+  "key": "n/a"
+ },
+ {
+  "year": 2024,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p18-20 (guideline), c20356cb p2 (stem), 2024 Set 1 Q3",
+  "unit": 6,
+  "topic": "6.6",
+  "secondary_units": [
+   7,
+   9,
+   5
+  ],
+  "descriptor": "Climate mitigation with nuclear and natural gas: nuclear fuel, cooling-water impact, nuclear kWh from an 18.9% share, air-quality gain from gas, tree planting benefit, homes powered by a gas deposit, and CO₂ saved by replacing coal.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(a)** Uranium (U-235) or plutonium. *(1)*\n**(b)** Cooling discharge causes thermal pollution, lowering dissolved oxygen and exceeding tolerance; intakes kill organisms; evaporation reduces flow. *(1)*\n**(c)** 4.1 × 10¹² kWh × 0.189 ≈ 7.7 × 10¹¹ kWh (7.749 × 10¹¹). *(2)*\n**(d)** Gas gives off far less NOₓ, SOₓ, ash, particulates, smog precursors and toxic metals. *(1)*\n**(e)** Extra benefit: habitat and biodiversity, jobs, less erosion, shade cooling, or slower runoff. *(1)*\n**(f)** 7.4 × 10⁷ m³ × 4.76 kWh/m³ = 3.52 × 10⁸ kWh; ÷ 10,715 kWh/home ≈ 32,874 homes. *(2)*\n**(g)** Savings per kWh = 1.0 − 0.42 = 0.58 kg CO₂; × 8.99 × 10¹¹ kWh = 5.2 × 10¹¹ kg CO₂ (about 521 billion kg). *(2)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2024,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p22-23 (guideline), p5-6 (stem), 2024 Set 2 Q1",
+  "unit": 2,
+  "topic": "2.7",
+  "secondary_units": [
+   8,
+   5,
+   4
+  ],
+  "descriptor": "Succession diagram from bare rock to forest: process name, stage where pioneers appear, soil formation, a cultural service, then a clear-cut versus intact watershed stream study (hypothesis, independent variable, comparison forest, temperature, golf-course effects).",
+  "frqtype": "design",
+  "points": 10,
+  "solution": "**(a)** Primary succession. *(1)*\n**(b)** Stage II. *(1)*\n**(c)** Weathering by wind and rain breaks rock, and pioneers such as lichens break rock and add organic matter when they die. *(1)*\n**(d)** Recreation, aesthetic, spiritual or educational value. *(1)*\n**(e)** \"Clear-cutting forest B will raise stream temperature (or turbidity) relative to forest A.\" *(1)*\n**(f)** Independent variable: forest condition (intact versus clear-cut). *(1)*\n**(g)** Forest A is the control against which forest B is compared. *(1)*\n**(h)** Without shade, more sunlight and eroded sediment warm the water. *(1)*\n**(i)** Fertilizer runoff raises nitrate and phosphate and can lower dissolved oxygen via algal blooms; alternatively, new grass reduces turbidity. *(1)*\n**(j)** Fertilizer or pesticide runoff can cause eutrophication and oxygen loss or toxicity that kills lake organisms. *(1)*",
+  "in_2026_scope": true,
+  "notes": "Diagrams not in text; answers follow the guideline.",
+  "key": "n/a"
+ },
+ {
+  "year": 2024,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p24-26 (guideline), p7-8 (stem), 2024 Set 2 Q2",
+  "unit": 9,
+  "topic": "9.10",
+  "secondary_units": [
+   5,
+   2,
+   3
+  ],
+  "descriptor": "Land-use change since 1700 (graph): year of most forest, grassland versus grazing, overgrazing problem, forest change and CO₂, water problems of cities and responses, why bobcats vanished from farmland, and risks and improvements for small reintroduced populations.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(a)** 1700 had the highest forest share. *(1)*\n**(b)** Wild grassland decreased as grazing land increased (inverse). *(1)*\n**(c)** Overgrazing causes loss of vegetation, erosion, soil compaction, desertification or sediment in water. *(1)*\n**(d)** Refuted: forest share fell, so less photosynthetic carbon uptake and storage, which would raise CO₂, not lower it. *(1)*\n**(e)** Impervious surfaces raise runoff and flooding, groundwater overuse, polluted runoff, or lost aquatic habitat. *(1)*\n**(f)** Matched response: permeable pavement, green roofs, retention basins, preserved green space, groundwater management, less fertilizer and salt, cleanup. *(1)*\n**(g)** Forest clearing removed food, shelter and mates; hunting or trapping also reduces bobcats. *(1)*\n**(h)** Small populations have low genetic diversity, inbreeding risk and vulnerability to disease or disturbance. *(1)*\n**(i)** Link patches with habitat corridors, or restore and protect more forest. *(1)*\n**(j)** Extra benefit: other species use corridors or restored forest, improving biodiversity, water, air and carbon storage. *(1)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2024,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p27-29 (guideline), p9 (stem), 2024 Set 2 Q3",
+  "unit": 4,
+  "topic": "4.6",
+  "secondary_units": [
+   5,
+   6,
+   9
+  ],
+  "descriptor": "Colorado River drought: desert landscaping plant and extra benefit, prescribed burn purpose and drawback, then Lake Powell calculations: maf at 36% full, snowmelt share in a low-flow year, and households supported by 9.60 maf.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(a)** Cacti, succulents or other drought-tolerant plants. *(1)*\n**(b)** Native plantings support wildlife, need less fertilizer, pesticide and mowing, or reduce fuel use. *(1)*\n**(c)** Burning removes fuel (undergrowth), lowering intensity and creating a firebreak. *(1)*\n**(d)** Drawbacks: displaces wildlife, emits CO₂ and particulates, post-burn runoff, helps invasive species. *(1)*\n**(e)** 25.16 maf × 0.36 = 9.06 maf. *(2)*\n**(f)** 9.60 maf × 0.36 × 0.50 = 1.73 maf. *(2)*\n**(g)** 9.60 maf × 3.26 × 10¹¹ gal/maf = 3.13 × 10¹² gal; ÷ 5.0 × 10⁴ gal/household ≈ 6.3 × 10⁷ households. *(2)*",
+  "in_2026_scope": true,
+  "notes": "",
+  "key": "n/a"
+ },
+ {
+  "year": 2025,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p31-34, 2025 Set 1 Q1",
+  "unit": 3,
+  "topic": "3.2",
+  "secondary_units": [
+   1,
+   2,
+   9
+  ],
+  "descriptor": "Chickadees (K-selected) and nonnative yard plants: reproductive strategy, spider decline effect, reading spider counts and insect trend (Figure 1), growth-rate evidence for a 25% threshold (Figure 2), ant-diversity study in mowed park versus grassland, resilience, paved playground effect, road fragmentation.",
+  "frqtype": "design",
+  "points": 10,
+  "solution": "**(A)** K-selected species have few, well-cared-for offspring, long life, late maturity and stable populations near carrying capacity. *(1)*\n**(B)** Fewer spiders means less predation on insects, so insect (herbivore) populations can rise, then eat more plants. *(1)*\n**(C)** About 2.0 spiders per sample at 25% nonnative plants (read from Figure 1). *(1)*\n**(D)** Insect numbers decline as the percentage of nonnative plants rises. *(1)*\n**(E)** In Figure 2 the growth rate is at or above 0 until about 25% nonnative plants and negative beyond, so below 25% populations are stable or growing. *(1)*\n**(F)(i)** Does mowing (site type) affect ant species richness? *(1)*\n**(F)(ii)** Dependent variable: number of ant species per trap (richness). *(1)*\n**(G)(i)** The grassland has more species (5 vs 3), so more functional redundancy and genetic variety, making recovery from fire or flood more likely. *(1)*\n**(G)(ii)** Pavement offers little habitat or food, so fewer ant species would be found than in grassland. *(1)*\n**(H)** Roads divide habitat, causing vehicle deaths, restricted movement, smaller isolated populations or edge effects. *(1)*",
+  "in_2026_scope": true,
+  "notes": "No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures.",
+  "key": "n/a"
+ },
+ {
+  "year": 2025,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p35-37, 2025 Set 1 Q2",
+  "unit": 4,
+  "topic": "4.9",
+  "secondary_units": [
+   5,
+   2,
+   9
+  ],
+  "descriptor": "El Niño-Southern Oscillation maps and North American jet stream: sea surface condition, which phase, regional climate contrast, urban flooding cause, solution and extra benefit, temperate forest versus savanna climate, post-fire process, fire pollution, sustainable forestry.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(A)** The eastern equatorial Pacific is cooler than average. *(1)*\n**(B)** La Niña (stronger trade winds, cool east, warm west). *(1)*\n**(C)** Region A (northwest) is cooler with greater chance of precipitation; Region B (south) is warmer with lower chance of precipitation. *(1)*\n**(D)** Impervious surfaces and storm drains cause rapid runoff with little infiltration. *(1)*\n**(E)** E.g. permeable pavement, green roofs, rain gardens, retention basins or wetlands. *(1)*\n**(F)** Extra benefit: groundwater recharge, urban cooling, habitat, cleaner runoff or aesthetic value. *(1)*\n**(G)** Temperate seasonal forest has moderate rain with cold winters and warm summers; savanna is warm year-round with a distinct dry season and less rain. *(1)*\n**(H)** Secondary succession. *(1)*\n**(I)** Smoke releases particulates, CO, NOₓ, VOCs and CO₂. *(1)*\n**(J)** Prescribed burns or thinning to cut fuel, or selective harvesting and firebreaks. *(1)*",
+  "in_2026_scope": true,
+  "notes": "No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures. Figure 1 shows stronger trade winds and cooler eastern Pacific, read as La Nina.",
+  "key": "n/a"
+ },
+ {
+  "year": 2025,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p38, 2025 Set 1 Q3",
+  "unit": 7,
+  "topic": "7.1",
+  "secondary_units": [
+   6,
+   5,
+   3
+  ],
+  "descriptor": "Air pollution and energy use: a particulate source, vapor-recovery nozzle, acid rain and commuting, percent change in mileage (22 to 36 mpg), extra miles on 14 gallons, school heating fix, and LED lighting energy for 28,000 bulbs.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(A)** E.g. coal-fired power plants, industrial combustion, construction, agriculture tilling or open burning. *(1)*\n**(B)** The nozzle captures gasoline vapors (VOCs) during fueling so they do not escape to form smog. *(1)*\n**(C)** Fewer car trips burn less fuel, cutting NOₓ and SO₂ emissions, which form nitric and sulfuric acids in rain. *(1)*\n**(D)** Percent change = (36 − 22) ÷ 22 × 100 ≈ +63.6%. *(2)*\n**(E)** 14 gal × (36 − 22) mi/gal = **196 more miles**. *(2)*\n**(F)** E.g. insulation, efficient HVAC or smart thermostats, window upgrades, reflective roofing, or passive solar design. *(1)*\n**(G)** 2.8 × 10⁴ bulbs × 0.0085 kW × 2,340 h/yr = **5.57 × 10⁵ kWh per year** (about 556,920). *(2)*",
+  "in_2026_scope": true,
+  "notes": "No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures. Part G asks for 'kilowatts per year'; the quantity computed is energy (kWh) per year.",
+  "key": "n/a"
+ },
+ {
+  "year": 2025,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p41-42, 2025 Set 2 Q1",
+  "unit": 9,
+  "topic": "9.5",
+  "secondary_units": [
+   1,
+   8,
+   5
+  ],
+  "descriptor": "Common Tern pairs versus sea-level rise (graph) and wading-bird species at four sites (table): reading and trend, refuting a hypothesis, sea-level cause, hypothesis, variable, PCB runoff, wetland service, sediment and urbanization effects.",
+  "frqtype": "design",
+  "points": 10,
+  "solution": "**(A)** About 1,400 breeding pairs in 1995 (tallest bar). *(1)*\n**(B)** Pairs generally declined from 1995 to 2008. *(1)*\n**(C)** Sea level rose over the period while tern pairs fell, contradicting an increase. *(1)*\n**(D)** Warming melts land ice and causes thermal expansion of ocean water. *(1)*\n**(E)(i)** E.g. \"As sea level rises, the number of wading-bird species increases.\" *(1)*\n**(E)(ii)** Dependent variable: number of wading-bird species per location. *(1)*\n**(F)** PCBs bioaccumulate and biomagnify in fish-eating birds, likely lowering survival or reproduction at A and B so species counts there would drop or rise less. *(1)*\n**(G)** Regulating service examples: flood and storm buffering, water filtration, carbon storage, erosion control. *(1)*\n**(H)** Turbid water hinders visual hunters, so prey capture falls, reducing birds' food, survival and population size. *(1)*\n**(I)** Habitat loss, pollution, runoff, hydrological change or invasive species. *(1)*",
+  "in_2026_scope": true,
+  "notes": "No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures. The 1995 bar (~1,400) is read visually from the graph.",
+  "key": "n/a"
+ },
+ {
+  "year": 2025,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p43-45, 2025 Set 2 Q2",
+  "unit": 1,
+  "topic": "1.2",
+  "secondary_units": [
+   4,
+   2,
+   5,
+   9
+  ],
+  "descriptor": "Serengeti ecology: plate boundary type, dominant biome, wildebeest calving location from a migration map, resource partitioning, effect of a proposed highway and a solution, traits of invasive plants, crop rotation, pesticide problems and an alternative pest control.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "**(A)** A divergent boundary (East African Rift, plates moving apart). *(1)*\n**(B)** Savanna (tropical grassland with scattered trees). *(1)*\n**(C)** The southern part of the park (the January-March positions on the migration loop, near the southern plains), where new grass is growing. *(1)*\n**(D)** Wildebeest eat long grass and gazelles eat short grass, so they avoid direct competition for the same niche. *(1)*\n**(E)** The highway cuts across the migration route in the north, causing collisions, barriers and habitat fragmentation. *(1)*\n**(F)** Underpasses or overpasses, wildlife-crossing structures, fencing, or rerouting around the migration path. *(1)*\n**(G)** Invasive species grow and reproduce quickly, spread widely, and lack natural predators. *(1)*\n**(H)** Rotation restores soil nitrogen, reduces fertilizer, and improves soil health. *(1)*\n**(I)** Heavy pesticide use can contaminate water, kill non-target species, bioaccumulate, or breed resistance. *(1)*\n**(J)** Integrated pest management, biological control, hand weeding, or resistant crops. *(1)*",
+  "in_2026_scope": true,
+  "notes": "No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures. Part C (calving location) is read from Figure 2 without a key and may differ from the official answer.",
+  "key": "n/a"
+ },
+ {
+  "year": 2025,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "c20356cb p46, 2025 Set 2 Q3",
+  "unit": 6,
+  "topic": "6.5",
+  "secondary_units": [
+   5,
+   7,
+   3
+  ],
+  "descriptor": "New coal-powered town: surface mining type, mining and downwind problems, a policy to cut coal impacts, pounds of coal for 11,000 homes, percent change in bird richness 7.5 to 6.0, and doubling year at 5.38% growth.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "**(A)** Strip mining, open-pit, or mountaintop removal. *(1)*\n**(B)** Habitat loss, erosion and sedimentation, acid mine drainage or dust. *(1)*\n**(C)** Downwind exposure to SO₂ and NOₓ (acid rain), particulates (respiratory disease), mercury or smog. *(1)*\n**(D)** Require scrubbers and filters, shift to renewables or gas, fund efficiency, or tax emissions. *(1)*\n**(E)** Energy = 11,000 homes × 1.064 × 10⁴ kWh = 1.1704 × 10⁸ kWh; ÷ 0.88 kWh/lb = **1.33 × 10⁸ lb of coal**. *(2)*\n**(F)** Percent change = (6.0 − 7.5) ÷ 7.5 × 100 = **−20%**. *(2)*\n**(G)** Doubling time = 70 ÷ 5.38 ≈ 13 years; 2022 + 13 = **2035** (26,250 → 52,500 is exactly a doubling). *(2)*",
+  "in_2026_scope": true,
+  "notes": "No scoring guideline for 2025 is in the assigned pieces; points assumed 10 from the exam format; solution derived independently from the stem and figures.",
+  "key": "n/a"
+ }
+]

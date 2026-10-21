@@ -1,0 +1,433 @@
+[
+ {
+  "year": 2013,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "ed751acb-0771-0840, piece p38, Q1",
+  "unit": 8,
+  "topic": "8.5",
+  "secondary_units": [
+   4,
+   5
+  ],
+  "descriptor": "Gulf Coast wetlands: human activities that change sediment delivery, harm from sediment loss, effects of Mississippi fertilizer runoff on the Gulf, economic costs, and a non-fertilizer-reduction way to cut nutrient flow.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a) Two activities, each with its mechanism. Levees and channelization confine the river so sediment is shot out to deep water instead of spreading over the delta; dams and reservoirs trap sediment upstream, so less travels downstream; dredged canals and navigation channels divert flow and let seawater in. *(1 point per activity named, 1 per correct explanation of the effect on sediment flow; 4 points.)*\n\n(b) Two harms. Without fresh sediment the marsh surface cannot build up as the land sinks, so wetlands drown and convert to open water; the lost marsh and barrier land no longer buffers storm surge, and nursery habitat for fish, shrimp and birds shrinks, lowering biodiversity and productivity. *(2 points.)*\n\n(c)(i) Two impacts of fertilizer reaching the Gulf: nitrogen and phosphorus drive algal blooms; when the algae die, decomposers use up dissolved oxygen, producing a hypoxic \"dead zone\" where fish and shellfish die or flee; reduced light penetration also damages seagrass. *(2 points.)*\n(ii) Two economic consequences: lower commercial and recreational fishing catches (lost income, jobs); reduced tourism and higher costs for water treatment or monitoring. *(2 points.)*\n(iii) Another strategy: restore or build wetlands and vegetated buffer strips that trap nutrients before they enter the river, or upgrade wastewater treatment to remove nutrients. *(1 point.)*",
+  "in_2026_scope": true,
+  "notes": "Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. The guideline for 2013 Q1 is not in the assigned pieces (it begins in an earlier piece); solution is derived independently from the printed question. The opening article about the Gulf Coast is not visible in these pieces."
+ },
+ {
+  "year": 2013,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "ed751acb-0771-0840, piece p39, Q2",
+  "unit": 6,
+  "topic": "6.13",
+  "secondary_units": [
+   9,
+   5
+  ],
+  "descriptor": "Compares battery electric and gasoline vehicles: government incentives, fuel cost per mile for each, charging cost from a 4.0 kW charger over 7.0 h, difference in CO2 per 100 miles, and economic effects of more BEVs.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "(a) Three federal strategies: tax credits or rebates for buying BEVs; funding or mandating public charging stations; higher fuel taxes on gasoline (also: subsidies for manufacturers, fleet purchase requirements, public education). *(3 points.)*\n\n(b) Gasoline cost per mile = price ÷ efficiency = $3.75/gal ÷ 25 mi/gal = **$0.15 per mile**. *(1 point setup with units, 1 point answer.)*\n\n(c)(i) Energy = power × time = 4.0 kW × 7.0 h = 28 kWh; cost = 28 kWh × $0.11/kWh = **$3.08**. *(setup, answer.)*\n(c)(ii) $3.08 ÷ 100 mi = **$0.031 per mile** (about 3 cents), roughly one fifth of the gasoline cost. *(1 point.)*\n\n(d) ICE total = 72.8 + 17.7 = 90.5 lb CO2; BEV total = 63.6 lb (all upstream, from coal-fired electricity). Difference = 90.5 − 63.6 = **26.9 lb CO2 less for the BEV** per 100 miles. *(1 point.)*\n\n(e) Two economic impacts: higher demand for electricity may raise power prices or require new generating capacity and grid upgrades; charging infrastructure creates jobs and investment, while gasoline stations, refiners and repair shops lose business and revenue. Highway fuel-tax revenue also falls. *(2 points; exclude climate costs and pump price.)*",
+  "in_2026_scope": true,
+  "notes": "Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. The 2013 Q2 guideline is not in the assigned pieces; only the commentary for Q2 appears (page 7), which confirms the point structure. Answers computed independently and consistent with the commentary's description of setup/answer points."
+ },
+ {
+  "year": 2013,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "ed751acb-0771-0840, piece p40, Q3 (guideline pp8-10)",
+  "unit": 9,
+  "topic": "9.1",
+  "secondary_units": [
+   7,
+   9
+  ],
+  "descriptor": "Ozone in two atmospheric layers: UV absorbed by the stratospheric layer and a health benefit, the formation/breakdown balance, CFC destruction chemistry and why recovery is slow, tropospheric ozone formation and its impacts.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a) Stratospheric ozone absorbs ultraviolet (mainly UV-B and UV-C) radiation; the health benefit is lower rates of skin cancer, sunburn or cataracts. *(1 + 1.)*\n\n(b) UV splits ozone: O₃ + UV → O₂ + O. The free oxygen atom meets an O₂ molecule: O + O₂ → O₃. The two steps continuously recycle ozone and absorb UV. *(1 point for each process.)*\n\n(c)(i) UV breaks chlorine atoms off CFC molecules (e.g., CCl₃F + UV → CCl₂F + Cl); each free Cl then attacks ozone: Cl + O₃ → ClO + O₂, and the chlorine is regenerated so one atom destroys many ozone molecules. *(1 + 1.)*\n(ii) Ozone recovery lags because CFCs are very long-lived and take years to reach the stratosphere, chlorine already present stays aloft for decades, and other ozone-depleting substances are still emitted. *(1 point for one.)*\n\n(d) Burning fossil fuels (e.g., vehicle exhaust) emits NOₓ and VOCs, which react to form ozone. Ozone peaks in the daytime because the reactions are photochemical and need sunlight. *(1 + 1.)*\n\n(e) Ecological: ozone damages plant tissue and reduces photosynthesis/crop growth. Health: ozone irritates the respiratory system and aggravates asthma. *(1 + 1.)*",
+  "in_2026_scope": true,
+  "notes": "Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. Rubric sums to 11; capped at 10."
+ },
+ {
+  "year": 2013,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "ed751acb-0771-0840, piece p41, Q4 (guideline pp21-23)",
+  "unit": 2,
+  "topic": "2.1",
+  "secondary_units": [
+   9,
+   5
+  ],
+  "descriptor": "Biodiversity: two traits of high-biodiversity ecosystems, two human activities that reduce it with mechanisms, practical solutions for each, one natural cause of loss, and two ecological benefits.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a) Two shared traits: many different species with large numbers of individuals each, complex food webs and many niches, high genetic variation. *(2 points.)*\n\n(b) Two activities with mechanisms: clearing land for development or logging removes and fragments habitat; introducing invasive species lets them outcompete natives; monoculture agriculture replaces diverse natives; fertilizer or sewage runoff lowers dissolved oxygen so only tolerant species persist; overharvesting removes keystone species or top predators. *(1 per activity, 1 per mechanism; 4 points.)*\n\n(c) A practical solution for each, linked: cluster development or smart growth and wildlife corridors for development; selective cutting and replanting for logging; border inspections and public education for invasives; buffer strips or advanced sewage treatment for runoff; quotas and enforcement for harvest. *(1 each; 2 points.)*\n\n(d) One natural factor: volcanic eruption or asteroid impact darkening the sky, wildfire, drought, hurricane damage to coastal nurseries, or a new disease. *(1 point.)*\n\n(e) Two benefits: greater resilience and stability of the ecosystem; pollination and pest control; natural water and air purification; more genetic material for adaptation; faster nutrient cycling by soil organisms. *(2 points.)*",
+  "in_2026_scope": true,
+  "notes": "Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. Rubric sums to 11; capped at 10."
+ },
+ {
+  "year": 2014,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "ed751acb-0771-0840, piece p39 (guideline pp51-53) / 5ec22d1f, Q1",
+  "unit": 6,
+  "topic": "6.6",
+  "secondary_units": [
+   8,
+   5
+  ],
+  "descriptor": "Nuclear plant proposal for a river town: judge two claims (solid waste, greenhouse gases), construction-phase environmental problems, normal-operation pollutant, its ecological effect and control system, electricity-saving steps, and an accident example.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a)(i) Disagree: spent fuel rods and contaminated tools and clothing are radioactive wastes that must be isolated for very long periods. *(1.)* (ii) Either position can be defended if justified: agree because no fossil fuel is burned in operation; disagree because mining, enrichment, transport and construction use fossil energy, and cooling releases water vapor. *(1.)*\n\n(b) Two construction problems: clearing and fragmenting riparian habitat, soil compaction, erosion and sediment runoff, noise and exhaust from machinery, construction waste. *(2.)*\n\n(c)(i) The most likely river pollutant in normal operation is thermal pollution from heated cooling water (not radioactive release). *(1.)*\n(ii) Warm water holds less dissolved oxygen and raises metabolic rates, causing thermal shock or fish kills and shifting community composition. *(1.)*\n(iii) Cooling towers, cooling ponds or canals let the water shed heat before discharge. *(1.)*\n\n(d) Two steps: replace old appliances and bulbs with efficient ones (LEDs); raise insulation or adjust thermostats; turn off or unplug idle devices. *(2.)*\n\n(e) Accidents: Three Mile Island, Chernobyl or Fukushima Daiichi. One consequence: radioactive contamination spreading through food webs, killing plants and animals or causing mutations and loss of biodiversity. *(1 + 1.)*",
+  "in_2026_scope": true,
+  "notes": "Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. The newspaper article stimulus is not visible in the extracted text. Rubric sums to 11; capped at 10."
+ },
+ {
+  "year": 2014,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "ed751acb-0771-0840, piece p40 (guideline pp54-56), Q2",
+  "unit": 5,
+  "topic": "5.10",
+  "secondary_units": [
+   8,
+   4
+  ],
+  "descriptor": "Combined sewer overflow: two runoff pollutants, runoff volume from a 200 by 100 m parking lot and from 20 percent impervious city area after 5 cm rain, bypass volume at the plant, ways to cut runoff, a paving problem.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "(a) Two pollutants: nitrogen or phosphorus (fertilizer), sediment, pathogens such as E. coli, motor oil, road salt, pesticides, trash. *(2.)*\n\n(b) Area = 200 m × 100 m = 20,000 m²; depth 5 cm = 0.05 m. Volume = 20,000 m² × 0.05 m = **1,000 m³**. *(1 setup, 1 answer.)*\n\n(c) City area 10 km² = 10 × 10⁶ m² = 1.0 × 10⁷ m²; impervious = 0.20 × 1.0 × 10⁷ = 2.0 × 10⁶ m². Runoff = 2.0 × 10⁶ m² × 0.05 m = **1.0 × 10⁵ m³** (100,000 m³). *(1 + 1.)*\n\n(d) Flow arriving = 100,000 + 5,000 (domestic) = 105,000 m³; plant capacity 10,000 m³ per day. Bypass = 105,000 − 10,000 = **95,000 m³ untreated**. *(1.)*\n\n(e) Reduce runoff by: replacing pavement with permeable surfaces or planting vegetation; building retention basins, wetlands, rain barrels or green roofs. *(2.)*\n\n(f) Extensive pavement causes habitat loss and fragmentation, an urban heat island effect, or reduced aquifer recharge. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Rubric totals 10; (d) answer 95,000 m3 verified against guideline page image."
+ },
+ {
+  "year": 2014,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "ed751acb-0771-0840, piece p41 (guideline pp57-58), Q3",
+  "unit": 4,
+  "topic": "4.1",
+  "secondary_units": [
+   2,
+   4
+  ],
+  "descriptor": "Pacific Ring of Fire: what happens at subduction zones and why volcanoes form, primary succession and soil formation on new volcanic ground, tsunami generation and ecological harm, and transform-boundary behavior during and between earthquakes.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a)(i) At a subduction zone, denser oceanic plate is forced beneath the other plate, often forming a deep trench. *(1.)*\n(ii) The sinking slab heats and releases water, melting overlying mantle; the buoyant magma rises through the crust and erupts, building volcanic arcs and island chains. *(1 for melting, 1 for rising magma.)*\n\n(b)(i) Primary succession is colonization of bare rock, ash or sand where no soil previously existed. *(1.)*\n(ii) Pioneers such as lichens and mosses secrete acids and wedge into rock, weathering it into mineral particles; as they die and decompose, organic matter mixes with these particles, forming a thin soil that later plants can use. *(1 + 1.)*\n\n(c)(i) A sudden vertical slip of the seafloor during a subduction earthquake displaces a huge volume of water, which radiates outward as waves growing taller in shallow water. *(1 + 1.)*\n(ii) Tsunamis destroy coastal habitats (mangroves, reefs), drown land organisms, or contaminate soils with salt water. *(1.)*\n\n(d)(i) At the moment of an earthquake, locked plates suddenly slip past each other horizontally, releasing stored energy. *(1.)*\n(ii) Between quakes the plates stay stuck by friction while stress and strain accumulate. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. The Ring of Fire map is not reproduced in the extracted text. Rubric sums to 11; capped at 10."
+ },
+ {
+  "year": 2014,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "ed751acb-0771-0840, piece p42 (guideline pp59-61), Q4",
+  "unit": 1,
+  "topic": "1.4",
+  "secondary_units": [
+   1,
+   9
+  ],
+  "descriptor": "Carbon and phosphorus cycles: biological removal and return of atmospheric carbon, ocean sinks, a long-term land sink, other human carbon sources, a CO2-related problem with a consequence, and how phosphorus differs and why it is needed.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a)(i) Photosynthesis: autotrophs take in CO₂ and build it into sugars and other organic molecules. *(1.)* (ii) Cellular respiration or decomposition converts organic carbon back to CO₂ (or CH₄ under anaerobic conditions) released to the air. *(1.)*\n\n(b)(i) Two ocean sinks: CO₂ dissolves in seawater, where it forms carbonic acid and bicarbonate; marine organisms use carbon for shells and skeletons (calcium carbonate) that sink and become limestone; phytoplankton fix carbon and it sinks. *(2.)*\n(ii) A long-term land sink: peat or wetland sediments, old-growth wood, soil organic matter, or carbonate rock. *(1.)*\n\n(c) Other human activities: deforestation and burning biomass (removes sink and releases carbon); cement production, landfills and livestock produce CO₂ or methane. *(2.)*\n\n(d) Problem: enhanced greenhouse effect causing global warming; consequence: sea-level rise and habitat loss, shifting climate zones, or ocean acidification dissolving shells. *(1 + 1.)*\n\n(e)(i) Phosphorus has no significant atmospheric phase; it cycles slowly through rock, soil and water and is released by weathering. *(1.)* (ii) Needed for DNA, RNA, ATP and cell-membrane phospholipids (also bones and teeth). *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Rubric parts sum to more than 10; the printed exam maximum is 10 points. Exam form (US/Intl) is not stated in the source pages. Rubric sums to 11; capped at 10."
+ },
+ {
+  "year": 2015,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "5ec22d1f-0841-0910, piece p43/p52-55 and e3e3aa13 p45, Q1",
+  "unit": 8,
+  "topic": "8.5",
+  "secondary_units": [
+   5,
+   9
+  ],
+  "descriptor": "Everglades restoration: two human activities reducing freshwater inflow, phosphorus sources, effects and reduction, one climate-change impact each on water quantity, quality and habitat, and ecological and economic restoration benefits.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a) Two activities that reduce inflow: diverting water for irrigation or flood-control canals; withdrawals for homes, industry and lawns; roads and filled wetlands that block sheet flow. *(2; must be described, not just named.)*\n\n(b)(i) Phosphorus source: fertilizer runoff from farms or lawns, septic seepage, or discharge from plants lacking advanced treatment. *(1.)*\n(ii) Excess phosphorus triggers algal blooms and eutrophication, or favors invasive cattails over native sawgrass adapted to low-nutrient water. *(1.)*\n(iii) Link the fix to the source: buffer strips and constructed treatment wetlands for farm runoff, precision fertilizer use, or tertiary treatment. *(1.)*\n\n(c) One example for each: water quantity: higher evaporation or sea-level rise lowers freshwater levels (or heavy storms increase flooding); water quality: warmer water holds less dissolved oxygen, or saltwater intrusion raises salinity; habitat: saltwater pushes mangroves inland, displacing freshwater communities. *(3.)*\n\n(d)(i) Restoring flow and water quality re-establishes native vegetation and habitat, stabilizing food webs and reducing algal blooms. *(1.)* (ii) Restoration increases tourism and recreation revenue and jobs, and avoids water-treatment costs. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Article stimulus not visible in extracted text. Rubric totals 10."
+ },
+ {
+  "year": 2015,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "e3e3aa13-0911-0980, piece p46 (guideline p8-10 / 5ec22d1f p56-58), Q2",
+  "unit": 8,
+  "topic": "8.10",
+  "secondary_units": [
+   8
+  ],
+  "descriptor": "Mobile-phone e-waste: percent increase in sales from 30 to 180 million, gold used at 0.03 g each, mass not recycled at 0.1 kg each with 10 percent recycled, mercury health effect, reasons for exporting e-waste, a retailer change.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "(a) Percent increase = (new − old) ÷ old × 100 = (180 − 30) ÷ 30 × 100 = **500%**. *(1 setup, 1 answer.)*\n\n(b) 1.8 × 10⁸ devices × 0.03 g/device = **5.4 × 10⁶ g** (5,400,000 g) of gold. *(1 + 1.)*\n\n(c) Total mass = 1.8 × 10⁸ × 0.1 kg = 1.8 × 10⁷ kg; 90% not recycled = 0.90 × 1.8 × 10⁷ = **1.62 × 10⁷ kg**. *(1 + 1.)*\n\n(d) Mercury exposure can damage the nervous system, brain or kidneys, impair development (birth defects, learning problems) or vision and hearing. *(1.)*\n\n(e)(i) Two reasons the U.S. ships e-waste abroad: labor and disposal are cheaper there; environmental and worker-safety rules are weaker or less enforced; avoiding liability and public opposition at home. *(2; reasons must explain the sender's motive, and \"cheaper\" counts once.)*\n(ii) Take-back or trade-in programs, modular repairable designs, longer-lasting products, or reduced planned obsolescence. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Rubric totals 10."
+ },
+ {
+  "year": 2015,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "e3e3aa13-0911-0980, piece p47 (guideline 5ec22d1f p59-60), Q3",
+  "unit": 8,
+  "topic": "8.1",
+  "secondary_units": [
+   6,
+   5
+  ],
+  "descriptor": "Oil spills: read the high-estimate Deepwater Horizon volume from a bar graph, coastal environmental and economic impacts, dispersant pros and cons, a cleanup method, another oil source, and a petroleum substitute in a product.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "(a) On the bar chart the highest estimate for the Deepwater Horizon (Gulf of Mexico, 2010) is just below 200 million gallons, accepted as any value from 185 to 199 million gallons. *(1 point with units.)*\n\n(b) Two problems: oil coats birds and mammals, destroying insulation and buoyancy; smothered or poisoned marsh, beach and reef habitat disrupts food webs and loses nursery grounds; oil blocks light for photosynthesis. *(2.)*\n\n(c) One economic impact: lost fishing and tourism income, or cleanup costs (a positive: temporary cleanup jobs). *(1.)*\n\n(d)(i) Advantage: breaks slicks into droplets that dilute and disperse, protecting birds and shorelines. Disadvantage: dispersed oil and the chemicals can be toxic to marine life and the oil is not removed, harming the water column and seafloor. *(1 + 1.)*\n(ii) Physical: floating booms and skimmers contain and collect surface oil; or biological: adding oil-degrading microbes. *(1.)*\n\n(e) Other source: leaking boat engines and bilge discharge, stormwater runoff carrying oil from roads and cars, natural seeps, or leaks in drilling and pipelines; give how it reaches the water. *(1 + 1.)*\n\n(f) Substitute: plant-derived plastic (corn-based bottles), paper bags, or cotton and hemp fibers in place of synthetic fabrics. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Bar-graph value verified from the rendered question page: Deepwater Horizon high estimate is a little under 200 million gallons; guideline accepts 185-199 million gallons. Rubric totals 10."
+ },
+ {
+  "year": 2015,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "e3e3aa13-0911-0980, piece p48 (guideline 5ec22d1f p61-63), Q4",
+  "unit": 5,
+  "topic": "5.10",
+  "secondary_units": [
+   5,
+   6
+  ],
+  "descriptor": "Urban sprawl: causes, health effects, describe the trend between population density and petroleum use on a graph, smart-growth measures, ways to reduce harm to wildlife from roads and sprawl, and urban food production.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "(a) Two causes: heavy reliance on cars and new highways; cheaper land and larger lots outside cities; higher inner-city taxes or poor schools and crime; telecommuting. *(2.)*\n\n(b) Two health effects: respiratory disease from traffic pollution; obesity and hypertension from inactive car-based living; crash injuries; longer emergency response times. *(2.)*\n\n(c) The graph shows an inverse (negative) relationship: cities with lower population density use more petroleum per person, and use falls as density rises. *(1.)*\n\n(d) Two smart-growth steps: invest in mass transit and bike paths; mixed-use zoning and urban growth boundaries; tax incentives for infill and brownfield redevelopment. *(2.)*\n\n(e) Two wildlife measures: wildlife overpasses or underpasses and corridors linking habitat; fencing along migration routes, preserved green buffers, or routing highways away from prime habitat. *(2.)*\n\n(f) Urban food production: rooftop or community gardens, vertical farms or hydroponics, converting vacant lots. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Graph rendered and checked: per-capita petroleum use falls steeply as density rises (inverse curve). Rubric totals 10."
+ },
+ {
+  "year": 2016,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "739781b5-0981-1050, piece p47-48 (guideline pp37-39), Q1",
+  "unit": 9,
+  "topic": "9.9",
+  "secondary_units": [
+   2,
+   3,
+   8
+  ],
+  "descriptor": "White-nose syndrome in little brown bats: why disease rarely drives extinction, threats to tiny populations, slow recovery biology, effects of bat decline on other organisms, forest ecosystem services, and a reason emerging human diseases are rising.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a) One reason: genetic variation means some individuals resist the pathogen and reproduce; or deaths reduce host density so transmission slows; or pathogens that kill every host lose their own habitat. *(1.)*\n\n(b)(i) Two threats to a very small population: trouble finding mates; loss of genetic diversity (inbreeding, one disease or change affecting all); competition from similar species; reduced group protection, such as shared roost warmth. *(2.)*\n(ii) Bats reproduce slowly (often one pup a year), mature late and have long generation times, so numbers rebound slowly. *(1.)*\n\n(c) Two effects: insect prey increase (more crop pests and disease vectors); plants relying on bat pollination or seed dispersal decline; predators of bats lose food; guano-dependent cave communities shrink. *(2.)*\n\n(d) Two forest services with human benefits: timber and fuel; carbon storage that slows climate change; soil protection and flood control; water purification; recreation and tourism. *(1 + 1 each pair.)*\n\n(e) A likely reason: growing contact with wildlife through habitat clearing or wildlife trade spreads zoonotic disease to people; or increased global travel and dense populations spread pathogens quickly; or climate change widens vector ranges. *(1 for reason, 1 for explanation.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. The Fremont New Tribune article (image) is not visible in extracted text. Rubric totals 10."
+ },
+ {
+  "year": 2016,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "739781b5-0981-1050, piece p49 (guideline pp40-41), Q2",
+  "unit": 5,
+  "topic": "5.9",
+  "secondary_units": [
+   8
+  ],
+  "descriptor": "Iron and steel supply chain: calculate rock waste, pig iron from all reserves, ore reserve used for steel, coal saved by recycling, then abandoned mine problems, a mitigation method, and why surface mining costs less.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "(a)(i) Waste = ore in − pig iron out = 1.6 − 1.2 = 0.4 billion tons = **4 × 10⁸ tons**. *(1.)*\n(ii) Pig iron per ton of ore = 1.2 ÷ 1.6 = 0.75; applied to reserves: 0.75 × 800 billion = **600 billion tons**. *(1 setup, 1 answer.)*\n(iii) Steel uses 95% of mined ore: 0.95 × 800 billion = **760 billion tons**. *(1.)*\n\n(b) Coal saved = 0.7 tons coal/ton steel × 80 million tons recycled = **56 million tons per year**. *(1.)*\n\n(c) Two problems at abandoned coal mines: acid mine drainage and heavy-metal runoff polluting streams; subsidence and sinkholes; habitat destruction and erosion; underground fires or methane release. *(2.)*\n\n(d) One mitigation: neutralize acid drainage with limestone or retention ponds, replant and regrade slopes to stop erosion, or seal and fence shafts. *(1.)*\n\n(e) Surface mining is cheaper because it needs fewer workers and less costly equipment and ventilation and has lower safety, insurance and legal liabilities than deep mining. *(2: reason plus discussion.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Rubric totals 10. Guideline page 41 of the piece was rendered to read (c)-(e); the 1.25 tons ore per ton recycled steel figure in the stem is not used by any part."
+ },
+ {
+  "year": 2016,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "739781b5-0981-1050, piece p50 (guideline pp42-43), Q3",
+  "unit": 8,
+  "topic": "8.9",
+  "secondary_units": [
+   6,
+   9
+  ],
+  "descriptor": "US municipal solid waste graph: cause of a change in per-person waste 2000-2012, percent rise in total MSW 1980 to 2012, incineration and landfill drawbacks, landfill-gas power steps, tire pile health risk, composting benefit and drawback.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "(a)(i) One cause: more reduction, reuse and recycling; lighter packaging; economic recession lowering consumption; digital media replacing paper. *(1.)*\n(ii) From the graph, total MSW rose from about 150 to about 250 million tons: (250 − 150) ÷ 150 × 100 = **≈ 67%** (accepted 66% to 67%). *(1.)*\n\n(b)(i) Incineration: releases air pollutants (particulates, dioxins, CO₂, NOₓ), leaves toxic ash, expensive to build. *(1.)* (ii) Landfills: leachate can contaminate groundwater, methane and odors escape, land is lost for other uses. *(1.)*\n\n(c) Landfill gas electricity: (1) collect the methane produced by decomposing waste through wells and pipes; (2) burn the methane, converting chemical energy to heat that produces steam or drives an engine; (3) the steam or exhaust spins a turbine connected to a generator, making electricity. *(3.)*\n\n(d) Tire piles collect rainwater that breeds mosquitoes that carry disease, and tire fires release toxic smoke harming respiration. *(1.)*\n\n(e)(i) Compost provides a free soil amendment/fertilizer and can create jobs. *(1.)* (ii) Compost can attract pests, smell bad, or release methane if poorly managed; it requires labor and space. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Graph rendered and read: total MSW about 150 million tons in 1980 and about 250 million tons in 2012. Rubric totals 10."
+ },
+ {
+  "year": 2016,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "739781b5-0981-1050, piece p51 (guideline pp44-45), Q4",
+  "unit": 4,
+  "topic": "4.2",
+  "secondary_units": [
+   4,
+   8,
+   7,
+   9
+  ],
+  "descriptor": "Soil: how two climate factors affect formation rate, biotic and abiotic components of the A horizon, nitrate groundwater pollution from agriculture, acid deposition effect on plants and remediation, and two climate-related soil degradation routes.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a) Two climate factors: warmer temperatures and moderate rainfall speed weathering and decomposition, so soil forms faster; cold or dry conditions slow them (freeze-thaw can crack rock, but heavy rain also increases erosion, lowering soil accumulation); wind can add or strip particles. *(2.)*\n\n(b) The A horizon (topsoil) is rich in humus. Biotic: earthworms, fungi, bacteria or roots. Abiotic: sand, silt, clay, minerals, air or water. *(1 + 1.)*\n\n(c)(i) Practice: applying nitrogen fertilizer, or poorly built animal-waste lagoons. *(1.)* (ii) Nitrate is highly soluble and, not taken up by crops, percolates down through the soil to the aquifer (or enters surface water that recharges it). *(1.)*\n\n(d)(i) Acid deposition lowers soil pH, leaching nutrient cations such as calcium and magnesium and mobilizing toxic aluminum, which damage roots and reduce growth. *(1.)* (ii) Spread lime (crushed limestone) to neutralize acidity. *(1.)*\n\n(e) Two ways: warming and drought speed desertification and soil drying; faster decomposition lowers organic matter; heavy storms increase erosion; sea-level rise salinizes coastal soils. *(2.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Rubric totals 10."
+ },
+ {
+  "year": 2017,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "6eae8dcd-1051-1120, piece p47-48 (guideline), Q1",
+  "unit": 8,
+  "topic": "8.11",
+  "secondary_units": [
+   8
+  ],
+  "descriptor": "Microbeads and nutrients in wastewater: effects of ingested microbeads, how nitrates degrade water quality, primary-treatment plastic removal, a disinfection method, sludge on farmland pros and cons, and mangrove loss and services.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a) Two effects: beads clog or fill the digestive tract so animals feel full and starve; beads carry toxic chemicals that accumulate in tissues and may magnify up the food chain. *(2.)*\n\n(b) Nitrates fertilize algae, causing blooms (cultural eutrophication); when the algae die, decomposition by microbes consumes dissolved oxygen, creating hypoxic water that kills fish; blooms also cloud water and block light. *(1 for response, 1 for effect linked to it.)*\n\n(c)(i) Primary treatment removes large plastic by screens or bar racks, settling tanks and skimmers. *(1.)* (ii) Disinfect with chlorine, ultraviolet light or ozone. *(1.)*\n(iii) Advantage: biosolids are a nutrient-rich, low-cost fertilizer and avoid landfilling; disadvantage: they may contain heavy metals, pathogens or drug residues that contaminate soil and water, and may smell. *(1 + 1.)*\n\n(d)(i) Mangroves are cut for shrimp farms, coastal development, agriculture, or wood and charcoal. *(1.)* (ii) Intact mangroves protect shorelines from storms and erosion and provide nursery habitat for fisheries. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. The newspaper article stimulus is not visible in the extracted text; question statement is taken from the scoring guideline pages. Rubric totals 10."
+ },
+ {
+  "year": 2017,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "6eae8dcd-1051-1120, piece p49-50 (guideline), Q2",
+  "unit": 9,
+  "topic": "9.9",
+  "secondary_units": [
+   3
+  ],
+  "descriptor": "Declining large mammals: plot elephant counts over time, percent loss 1970 to 2000, projected 2022 herd after a 20 percent decline from 2015, a K-strategist trait that raises extinction risk, and two conservation strategies.",
+  "frqtype": "data",
+  "points": 10,
+  "solution": "(a) Plot year (independent variable) on the x-axis and elephant population on the y-axis, with labeled axes and even scales, then place each table point; connect or not as instructed. *(1 point axes labeled and scaled; 1 point data plotted with at most one error.)*\n\n(b) Percent loss = (initial − final) ÷ initial × 100 = (2,000,000 − 400,000) ÷ 2,000,000 × 100 = **80%**. *(1 + 1.)*\n\n(c) 20% decline from the 2015 population of 600,000: 600,000 × 0.80 = **480,000 elephants** in 2022. *(1 + 1.)*\n\n(d) K-strategists have few offspring and long gestation, mature late and give much parental care, so each lost adult is hard to replace and populations rebound slowly after losses, making them vulnerable to poaching or habitat change. *(1 trait, 1 explanation.)*\n\n(e) Two strategies, each with consequence: anti-poaching enforcement and trade bans lower killing and demand; protected reserves or corridors secure habitat; ecotourism gives communities a stake in conservation; captive breeding and reintroduction restore numbers. *(1 + 1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. The data table (1970 about 2,000,000; 2000 about 400,000; 2015 about 600,000 elephants, plus snow leopard data) is not visible in the extracted text; the values used are those shown in the scoring guideline calculations. Rubric totals 10."
+ },
+ {
+  "year": 2017,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "6eae8dcd-1051-1120, piece p51-54 (guideline), Q3",
+  "unit": 3,
+  "topic": "3.7",
+  "secondary_units": [
+   5,
+   9,
+   3
+  ],
+  "descriptor": "Haiti: reason for deforestation and a strategy to reduce it, how deforestation alters stream water quality, other forest benefits, then a fertility and life-expectancy data table and factors that could explain falling fertility and rising life expectancy.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a)(i) Reason: forests are cleared for farmland, fuelwood or charcoal income, and enforcement is weaker. *(1.)* (ii) Strategy: enforce logging limits, promote efficient stoves or alternative fuels, sustainable forestry, or ecotourism. *(1.)*\n\n(b) Change: warmer, more turbid stream water. Without canopy shade, sunlight warms the water; without roots and litter, soil erodes and washes in. (Alternatives: lower dissolved oxygen, more nutrient runoff.) *(1 + 1.)*\n\n(c) Two other benefits: habitat and biodiversity; carbon storage and oxygen release; local climate regulation; soil conservation; air filtration. *(2.)*\n\n(d) Table shows fertility 5.2 → 2.7 children, life expectancy 55 → 64 years, infant mortality 85 → 48 per 1,000. Factor: better access to health care or vaccines cuts deaths from treatable disease; clean water and sanitation reduce water-borne disease. *(1 + 1.)*\n\n(e) A factor lowering fertility: more education and job opportunities for women, delaying marriage and births and increasing awareness of family planning; with lower infant mortality parents expect children to survive. *(1 + 1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Rubric totals 10 (1+1+2+2+2+2)."
+ },
+ {
+  "year": 2017,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "6eae8dcd-1051-1120, piece p55-56 (guideline), Q4",
+  "unit": 6,
+  "topic": "6.9",
+  "secondary_units": [
+   2,
+   8
+  ],
+  "descriptor": "Dams: how a hydroelectric dam generates electricity, two economic benefits besides power and flood control, ecological value of floodplain flooding, benefits and drawbacks of dam removal, and beaver dams as a keystone species.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a) Water stored behind the dam has gravitational potential energy; released through intakes it falls and converts to kinetic energy, rotating turbine blades (mechanical energy); the turbine shaft spins a generator that converts the mechanical energy to electricity. *(3: one per step.)*\n\n(b) Two benefits: recreation and tourism; reservoir water for irrigation, drinking and industry; jobs; fisheries or shipping. *(2.)*\n\n(c) Seasonal floods deposit nutrient-rich sediment, recharge groundwater and maintain wetland and riparian habitat for fish and birds. *(1.)*\n\n(d)(i) Removal reopens migration routes to spawning habitat and restores natural temperature and flow. *(1.)* (ii) Negatives: stored sediment and pollutants are released downstream, bank erosion, or loss of the lake habitat that has developed. *(1.)*\n\n(e)(i) A keystone species has a disproportionately large effect on its ecosystem relative to its abundance. *(1.)* (ii) Beaver dams create ponds and wetlands, trap sediment, slow flow and reduce erosion, giving habitat to many other species. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Rubric totals 10."
+ },
+ {
+  "year": 2018,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "b4984937-1121-1190, piece p56 (guideline pp62-64), Q1",
+  "unit": 5,
+  "topic": "5.12",
+  "secondary_units": [
+   6,
+   8,
+   9
+  ],
+  "descriptor": "School renovation article: define carbon footprint, link a heating system to it and reduce it, two green-roof benefits, cafeteria practices, native-plant landscaping, and an environmental benefit of plant-based flooring over synthetic carpet.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a)(i) A carbon footprint is the total carbon dioxide (and other carbon compounds) released by an activity, product or person. *(1.)* (ii) Burning fossil fuel (oil, natural gas) in boilers emits CO₂ (CO if combustion is incomplete). *(1.)* (iii) Add insulation or sealing, lower the thermostat schedule, or switch to a renewable or more efficient heat source. *(1.)*\n\n(b) Two green-roof benefits: insulation that cuts heating and cooling energy; stormwater absorption; habitat for pollinators; reduced urban heat island; CO₂ uptake. *(2.)*\n\n(c) Two cafeteria practices: composting scraps, donating surplus food, using reusable trays, offering more plant-based or local food (lower transport and meat impact), bulk packaging. *(2.)*\n\n(d) Two native-plant benefits: adapted to local conditions, so they need less water, fertilizer and pesticide (saving money); they support native food webs and biodiversity and crowd out invasives. *(2.)*\n\n(e) Cork or bamboo flooring is a renewable, biodegradable product made with fewer fossil fuels and fewer VOC emissions than synthetic carpet, and the growing plants store carbon. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. The article stimulus is not visible in the extracted text. Rubric totals 10."
+ },
+ {
+  "year": 2018,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "b4984937-1121-1190, piece p57 (guideline pp65-67), Q2",
+  "unit": 6,
+  "topic": "6.12",
+  "secondary_units": [
+   9
+  ],
+  "descriptor": "Offshore wind farm: environmental benefit, an economic effect, another ocean energy source, then calculations for 200 turbines of 4 MW and 2.0 million MWh annual demand: 80 percent of demand, revenue at $0.20 per kWh, and operating hours needed.",
+  "frqtype": "calc",
+  "points": 10,
+  "solution": "(a) Benefit: displaces fossil fuel generation, reducing CO₂ and air pollutants and fuel extraction damage; turbine bases can act as artificial reefs. *(1.)*\n\n(b) Identify and describe one effect: job creation in construction and maintenance (positive), or reduced tourism and property values or high construction costs (negative). *(1 identify, 1 describe.)*\n\n(c) Another ocean energy: tidal turbines, wave energy converters, or ocean thermal energy conversion. *(1.)*\n\n(d) 0.80 × 2.0 × 10⁶ MWh = **1.6 × 10⁶ MWh**. *(1 + 1.)*\n\n(e) Revenue = 1.6 × 10⁶ MWh × 1,000 kWh/MWh × $0.20/kWh = 1.6 × 10⁹ kWh × $0.20 = **$3.2 × 10⁸** ($320 million). *(1 + 1.)*\n\n(f) Total capacity = 200 turbines × 4 MW = 800 MW; hours = 1.6 × 10⁶ MWh ÷ 800 MW = **2,000 hours**. *(1 + 1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Rubric totals 10. The $1.2 million per-turbine cost is not used by any part."
+ },
+ {
+  "year": 2018,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "b4984937-1121-1190, piece p58-59 (guideline pp68-70), Q3",
+  "unit": 9,
+  "topic": "9.5",
+  "secondary_units": [
+   1,
+   9
+  ],
+  "descriptor": "Arctic food web diagram: name a producer, primary consumer and secondary consumer, what arrows mean, effects of less sea ice on polar bear hunting, the albedo feedback, and migration reasons plus a commercial threat and fix for right whales.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a) Producer: diatom (phytoplankton); primary consumer: krill (zooplankton); secondary consumer: cod or seal (as drawn). *(3.)*\n\n(b) The arrows also show the direction of energy (and matter) flow between trophic levels. *(1.)*\n\n(c) With less ice there are fewer platforms and seal breathing holes, so bears must swim farther, expend more energy and wait longer between kills. *(1.)*\n\n(d) Melting sea ice lowers surface albedo; dark open water absorbs more solar energy and warms, which melts more ice: a positive feedback that amplifies warming. *(1 for reduced reflectivity and more absorption, 1 for completing the loop.)*\n\n(e)(i) Reasons to migrate: follow food, seek a milder climate, or reach breeding grounds. *(1.)*\n(ii) Commercial activity: shipping lanes cause ship strikes; fishing gear entangles whales; seismic surveys and engines create disruptive noise. *(1.)*\n(iii) Linked strategy: slow-speed zones and rerouting ships; modified or weak-link fishing gear; limits on seismic surveys or quieter engines. *(1.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Food-web figure not reproduced; organisms taken from the guideline. Rubric totals 10."
+ },
+ {
+  "year": 2018,
+  "exam": "Unspecified",
+  "type": "FRQ",
+  "orig_ref": "b4984937-1121-1190, piece p60 (guideline pp42-44 and 62-70), Q4",
+  "unit": 7,
+  "topic": "7.5",
+  "secondary_units": [
+   8
+  ],
+  "descriptor": "Household biomass burning: two indoor pollutants and a respiratory illness, a realistic approach to reduce harm, why young children are more at risk, and sources and exposure-reduction methods for two of asbestos, radon and mold.",
+  "frqtype": "other",
+  "points": 10,
+  "solution": "(a)(i) Two pollutants: carbon monoxide, particulate matter (also NOₓ, SOₓ, VOCs). *(2.)* (ii) Illness: particulates are linked to asthma, bronchitis, COPD or lung cancer; CO causes poisoning. *(1.)*\n\n(b) Approach: install a chimney or ventilation, or switch to a cleaner-burning stove or fuel. Why it works: pollutants are vented out or less is produced, so indoor exposure and respiratory illness fall. *(1 + 1.)*\n\n(c) Young children breathe more air per kilogram of body mass, have developing lungs and immune systems and narrower airways, and spend more time indoors. *(1 for one reason.)*\n\n(d) Pick two. Asbestos: source is old insulation, tiles or building materials; reduce exposure by sealing or leaving undisturbed, or professional removal. Radon: source is uranium-bearing rock and soil seeping through the foundation; reduce by sealing cracks and installing a sub-slab vent. Mold: source is damp or flooded areas; reduce by repairing leaks, ventilating or dehumidifying and cleaning. *(1 per source, 1 per method; 4.)*",
+  "in_2026_scope": true,
+  "notes": "Exam form (US/Intl) is not stated in the source pages. Rubric totals 10."
+ }
+]

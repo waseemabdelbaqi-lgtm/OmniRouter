@@ -1,0 +1,3039 @@
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+                                          AP ENVIRONMENTAL SCIENCE
+
+
+                                          UNIT 7
+                                          Atmospheric
+                                          Pollution
+
+
+
+
+                                                       7–10%
+                                                       AP EXAM WEIGHTING
+
+
+
+                                                       ~11–12
+                                                       CL ASS PERIODS
+
+
+
+
+AP Environmental Science Course and Exam Description                       Course Framework V.1 | 135
+                                                                               Return to Table of Contents
+                                                                                          © 2026 College Board
+                                            Remember to go to AP Classroom
+                                            to assign students the online
+                                            Progress Check for this unit.
+                                            Whether assigned as homework or
+                                            completed in class, the Progress
+                                            Check provides each student with
+                                            immediate feedback related to this
+                                            unit’s topics and skills.
+
+                                            Progress Check 7
+                                            Multiple-choice: ~20 questions
+                                            Free-response: 1 question
+                                             § Design an investigation
+
+
+
+
+AP Environmental Science Course and Exam Description                             Course Framework V.1 | 136
+                                                                                     Return to Table of Contents
+                                                                                                © 2026 College Board
+                                      7
+                                      UNIT
+                                                  7–10% AP EXAM WEIGHTING               ~11–12 CLASS PERIODS
+
+
+                               Atmospheric
+                               Pollution
+
+                               Building Understanding
+  BIG IDEA 4                   Air pollution has many sources and effects, both indoors and outdoors. Air is a natural
+  Sustainability   STB         resource that covers the Earth and crosses many system boundaries. Human activities
+  § Where does air pollution   affect the quality of the air both indoors and outdoors. Through legislation, the Clean Air Act
+    go once it is airborne?    regulates the emission of air pollutants that affect human health. The gases and particulates
+                               in the atmosphere come from both natural and human sources; once air pollution sources
+                               are identified, methods can be used to reduce it. Subsequent units will focus on pollution’s
+                               impacts to land and water.
+
+
+                               Building the                                      Preparing for
+                               Science Practices                                 the AP Exam
+                                5.B   5.C   7.D
+                                                                                 On the AP Exam, students must be able
+                               In this unit, students can practice comparing     to describe or identify a research method
+                               and predicting patterns and/or trends in a        used to understand air pollution. They
+                               graph or table to explain how the data or         will also have to explain the patterns and
+                               representation illustrates environmental          trends in data related to air pollution and
+                               concepts. They can also practice drawing          describe the relationship among variables
+                               conclusions about an environmental concept        of data represented graphically. Students
+                               based on a comparison of the patterns and         may benefit from time in class devoted to
+                               trends in a graph or table.                       hands-on laboratory activities related to air
+                                                                                 pollution. Teachers can also provide students
+                               Students can also practice proposing
+                                                                                 practice in identifying information from
+                               solutions to combat the effects of air
+                                                                                 graphs, diagrams, or infographics related
+                               pollution on human health and, most
+                                                                                 to air pollution. Students often struggle to
+                               importantly, using data or evidence
+                                                                                 identify specific air pollutants and related
+                               to support their solutions. In order to
+                                                                                 illnesses. To combat this, teacher can
+                               understand the implications of environmental
+                                                                                 provide opportunities for students to identify
+                               legislation, it is important to know how
+                                                                                 air pollutants and their impacts on
+                               environmental policies are applied and what
+                                                                                 human health.
+                               the outcomes are in a variety of contexts.
+                               With that knowledge, students can then
+                               explain why those outcomes occurred and
+                               how the policy affected the outcomes.
+
+
+
+
+AP Environmental Science Course and Exam Description                                             Course Framework V.1 | 137
+                                                                                                     Return to Table of Contents
+                                                                                                                © 2026 College Board
+                   7
+                  UNIT
+                                        Atmospheric Pollution
+
+
+UNIT AT A GLANCE
+Understanding
+
+
+
+
+                                                                                                             Class Periods
+Enduring
+
+
+
+
+                Topic                                 Suggested Skill                                        ~11–12 CLASS PERIODS
+
+                7.1 I ntroduction to Air             4.E Explain modifications to an experimental
+                    Pollution                        procedure that will alter results.
+
+
+                7.2  Photochemical Smog              5.B Describe relationships among variables in data
+                                                     represented.
+
+
+                7.3  Thermal Inversion               2.C Explain how environmental concepts and
+                                                     processes represented visually relate to broader
+                                                     environmental issues.
+
+
+                7.4 Atmospheric CO2 and               4.C Describe an aspect of a research method,
+                                                     design, and/or measure used.
+  STB-2
+
+
+
+
+                   Particulates
+
+                7.5  Indoor Air Pollutants           5.C Explain patterns and trends in data to draw
+                                                     conclusions.
+
+
+                7.6  Reduction of Air Pollutants     7.D Use data and evidence to support a potential
+                                                     solution.
+
+
+                7.7  Acid Rain                      4.B Identify a research method, design, and/or
+                                                     measure used.
+
+
+                7.8  Noise Pollution                 3.C Describe the author’s reasoning (use of
+                                                     evidence to support a claim).
+
+
+                 Go to AP Classroom to assign the Progress Check for Unit 7.
+                  Review the results in class to identify and address any student misunderstandings.
+
+
+
+
+AP Environmental Science Course and Exam Description                                                    Course Framework V.1 | 138
+                                                                                                            Return to Table of Contents
+                                                                                                                       © 2026 College Board
+                                                                                                                     7
+                                                                                                                    UNIT
+Atmospheric Pollution
+
+
+SAMPLE INSTRUCTIONAL ACTIVITIES
+The sample activities on this page are optional and are offered to provide possible ways to
+incorporate various instructional approaches into the classroom. They were developed in
+partnership with teachers from the AP community to share ways that they approach teaching
+some of the topics in this unit. Please refer to the Instructional Approaches section beginning
+on p. 201 for more examples of activities and strategies.
+
+
+
+
+   Activity      Topic          Sample Activity
+
+       1           7.1          Ask the Expert (or Students as Experts)
+                                Divide students into five groups. Each group will become experts on the major criteria
+                                used to determine the air quality index (AQI): particulate matter, sulfur dioxide (SO2),
+                                carbon monoxide (CO), nitrogen dioxide (NO2), and ozone (O3). Have students rotate
+                                through expert stations to learn about how AQI is determined.
+
+       2           7.5          Graph and Switch
+                                Divide students into groups and have them assemble air traps by placing a small dab
+                                of petroleum jelly on an index card. Have them place the cards in different locations.
+                                Then have them collect the traps and analyze the different PM products collected in
+                                the trap by observing a sample under a stereomicroscope. Ask students to graph their
+                                data and share with the rest of the class.
+
+       3           7.6          Idea Spinner
+                                Provide students with information on global climate change and the effects of
+                                increasing CO2 emissions on oceans and climate. Divide students into groups and
+                                give them a spinner with four quadrants labeled “Predict,” “Explain,” “Summarize,” and
+                                “Evaluate.” Have students take turns spinning the idea spinner and communicating their
+                                thoughts within the group.
+
+       4           7.7          Graph and Switch
+                                Have students add vinegar (simulated acid rain) to chalk (simulated limestone) and
+                                calculate the rates of decomposition on different-sized pieces of chalk over time.
+                                Then have them create graphs and analyze each other’s data.
+
+
+
+
+              Unit Planning Notes
+     Use the space below to plan your approach to the unit.
+
+
+
+
+AP Environmental Science Course and Exam Description                                                  Course Framework V.1 | 139
+                                                                                                          Return to Table of Contents
+                                                                                                                     © 2026 College Board
+            7
+          UNIT
+                               Atmospheric Pollution
+
+
+SUGGESTED SKILL
+      Scientific
+                               TOPIC 7.1
+                               Introduction to
+      Experiments
+4.E
+Explain modifications to an
+experimental procedure
+that will alter results.       Air Pollution
+
+AVAILABLE RESOURCES
+You can find related
+                               Required Course Content
+resources below in the
+Online Teacher Community.
+ § AP Environmental
+   Science Teacher’s               ENDURING UNDERSTANDING
+   Guide
+                                   STB-2
+                                   Human activities have physical, chemical, and biological consequences for the
+                                   atmosphere.
+
+
+
+                                   LEARNING OBJECTIVE                  ESSENTIAL KNOWLEDGE
+                                   STB-2.A                             STB-2.A.1
+                                   Identify the sources and            Coal combustion releases air pollutants
+                                   effects of air pollutants.          including carbon dioxide, sulfur dioxide, toxic
+                                                                       metals, and particulates.
+                                                                       STB-2.A.2
+                                                                       The combustion of fossil fuels releases
+                                                                       nitrogen oxides into the atmosphere. They
+                                                                       lead to the production of ozone, formation of
+                                                                       photochemical smog, and convert to nitric acid
+                                                                       in the atmosphere, causing acid rain. Other
+                                                                       pollutants produced by fossil fuel combustion
+                                                                       include carbon monoxide, hydrocarbons, and
+                                                                       particulate matter.
+                                                                       STB-2.A.3
+                                                                       Air quality can be affected through the release
+                                                                       of sulfur dioxide during the burning of fossil
+                                                                       fuels, mainly diesel fuels.
+                                                                       STB-2.A.4
+                                                                       Through the Clean Air Act, the Environmental
+                                                                       Protection Agency (EPA) regulated the use of
+                                                                       lead, particularly in fuels, which dramatically
+                                                                       decreased the amount of lead in the
+                                                                       atmosphere.
+                                                                       STB-2.A.5
+                                                                       Air pollutants can be primary or secondary
+                                                                       pollutants.
+
+
+
+
+AP Environmental Science Course and Exam Description                                          Course Framework V.1 | 140
+                                                                                                  Return to Table of Contents
+                                                                                                             © 2026 College Board
+                                                                                                            7
+                                                                                                           UNIT
+Atmospheric Pollution
+
+
+TOPIC 7.2
+                                                                                                  SUGGESTED SKILL
+                                                                                                        Data Analysis
+
+
+Photochemical
+                                                                                                  5.B
+                                                                                                  Describe relationships
+                                                                                                  among variables in data
+
+
+Smog
+                                                                                                  represented.
+
+
+
+
+                                                                                                  AVAILABLE RESOURCES
+Required Course Content                                                                           You can find related
+                                                                                                  resources below in the
+                                                                                                  Online Teacher Community.
+                                                                                                   § AP Environmental
+   ENDURING UNDERSTANDING                                                                            Science Teacher’s
+                                                                                                     Guide
+    STB-2
+   Human activities have physical, chemical, and biological consequences for the
+   atmosphere.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-2.B                             STB-2.B.1
+   Explain the causes and               Photochemical smog is formed when nitrogen
+   effects of photochemical             oxides and volatile organic hydrocarbons react
+   smog and methods to                  with heat and sunlight to produce a variety of
+   reduce it.                           pollutants.
+                                        STB-2.B.2
+                                        Many environmental factors affect the
+                                        formation of photochemical smog.
+                                        STB-2.B.3
+                                        Nitrogen oxide is produced early in the day.
+                                        Ozone concentrations peak in the afternoon
+                                        and are higher in the summer because ozone
+                                        is produced by chemical reactions between
+                                        oxygen and sunlight.
+                                        STB-2.B.4
+                                        Volatile Organic Compounds (VOCs), such
+                                        as formaldehyde and gasoline, evaporate or
+                                        sublimate at room temperature. Trees are a
+                                        natural source of VOCs.
+                                        STB-2.B.5
+                                        Photochemical smog often forms in urban
+                                        areas because of the large number of motor
+                                        vehicles there.
+
+
+                                                                     continued on next page
+
+
+
+
+AP Environmental Science Course and Exam Description                                          Course Framework V.1 | 141
+                                                                                                  Return to Table of Contents
+                                                                                                             © 2026 College Board
+          7
+         UNIT
+                               Atmospheric Pollution
+
+
+
+                                   LEARNING OBJECTIVE         ESSENTIAL KNOWLEDGE
+                                   STB-2.B                    STB-2.B.6
+                                   Explain the causes and     Photochemical smog can be reduced through
+                                   effects of photochemical   the reduction of nitrogen oxide and VOCs.
+                                   smog and methods to        STB-2.B.7
+                                   reduce it.
+                                                              Photochemical smog can harm human health
+                                                              in several ways, including causing respiratory
+                                                              problems and eye irritation.
+
+
+
+
+AP Environmental Science Course and Exam Description                                 Course Framework V.1 | 142
+                                                                                         Return to Table of Contents
+                                                                                                    © 2026 College Board
+                                                                                                             7
+                                                                                                            UNIT
+Atmospheric Pollution
+
+
+TOPIC 7.3
+                                                                                                  SUGGESTED SKILL
+                                                                                                        Visual
+
+
+Thermal
+                                                                                                        Representations
+                                                                                                  2.C
+                                                                                                  Explain how environmental
+
+Inversion                                                                                         concepts and processes
+                                                                                                  represented visually relate
+                                                                                                  to broader environmental
+                                                                                                  issues.
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-2
+   Human activities have physical, chemical, and biological consequences for the
+   atmosphere.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-2.C                             STB-2.C.1
+   Describe thermal inversion           During a thermal inversion, the normal
+   and its relationship with            temperature gradient in the atmosphere is
+   pollution.                           altered as the air temperature at the Earth’s
+                                        surface is cooler than the air at higher altitudes.
+                                        STB-2.C.2
+                                        Thermal inversion traps pollution close to the
+                                        ground, especially smog and particulates.
+
+
+
+
+AP Environmental Science Course and Exam Description                                          Course Framework V.1 | 143
+                                                                                                  Return to Table of Contents
+                                                                                                             © 2026 College Board
+           7
+          UNIT
+                               Atmospheric Pollution
+
+
+SUGGESTED SKILL
+      Scientific
+                               TOPIC 7.4
+                               Atmospheric
+      Experiments
+4.C
+Describe an aspect of a
+research method, design,
+and/or measure used.           CO2 and
+                               Particulates
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   STB-2
+                                   Human activities have physical, chemical, and biological consequences for the
+                                   atmosphere.
+
+
+
+                                   LEARNING OBJECTIVE                  ESSENTIAL KNOWLEDGE
+                                   STB-2.D                             STB-2.D.1
+                                   Describe natural sources of         CO2 appears naturally in the atmosphere from
+                                   CO2 and particulates.               sources such as respiration, decomposition,
+                                                                       and volcanic eruptions.
+                                                                       STB-2.D.2
+                                                                       There are a variety of natural sources of
+                                                                       particulate matter.
+
+
+
+
+AP Environmental Science Course and Exam Description                                          Course Framework V.1 | 144
+                                                                                                  Return to Table of Contents
+                                                                                                             © 2026 College Board
+                                                                                                              7
+                                                                                                            UNIT
+Atmospheric Pollution
+
+
+TOPIC 7.5
+                                                                                                   SUGGESTED SKILL
+                                                                                                         Data Analysis
+
+
+Indoor Air
+                                                                                                   5.C
+                                                                                                   Explain patterns and trends
+                                                                                                   in data to draw conclusions.
+
+
+Pollutants
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-2
+   Human activities have physical, chemical, and biological consequences for the
+   atmosphere.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-2.E                             STB-2.E.1
+   Identify indoor air pollutants.      Carbon monoxide is an indoor air pollutant that
+                                        is classified as an asphyxiant.
+                                        STB-2.E.2
+                                        Indoor air pollutants that are classified as
+                                        particulates include asbestos, dust, and smoke.
+                                        STB-2.E.3
+                                        Indoor air pollutants can come from natural
+                                        sources, human-made sources, and
+                                        combustion.
+                                        STB-2.E.4
+                                        Common natural source indoor air pollutants
+                                        include radon, mold, and dust.
+                                        STB-2.E.5
+                                        Common human-made indoor air pollutants
+                                        include insulation, Volatile Organic Compounds
+                                        (VOCs) from furniture, paneling and carpets;
+                                        formaldehyde from building materials, furniture,
+                                        upholstery, and carpeting; and lead from paints.
+                                        STB-2.E.6
+                                        Common combustion air pollutants include
+                                        carbon monoxide, nitrogen oxides, sulfur
+                                        dioxide, particulates, and tobacco smoke.
+
+
+                                                                      continued on next page
+
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 145
+                                                                                                   Return to Table of Contents
+                                                                                                              © 2026 College Board
+          7
+         UNIT
+                               Atmospheric Pollution
+
+
+
+                                   LEARNING OBJECTIVE                ESSENTIAL KNOWLEDGE
+                                   STB-2.E                           STB-2.E.7
+                                   Identify indoor air pollutants.   Radon-222 is a naturally occurring radioactive
+                                                                     gas that is produced by the decay of uranium
+                                                                     found in some rocks and soils.
+
+
+                                   STB-2.F                           STB-2.F.1
+                                   Describe the effects of           Radon gas can infiltrate homes as it moves
+                                   indoor air pollutants.            up through the soil and enters homes via the
+                                                                     basement or cracks in the walls or foundation.
+                                                                     It is also dissolved in groundwater that enters
+                                                                     homes through a well.
+                                                                     STB-2.F.2
+                                                                     Exposure to radon gas can lead to radon-
+                                                                     induced lung cancer, which is the second
+                                                                     leading cause of lung cancer in America.
+
+
+
+
+AP Environmental Science Course and Exam Description                                        Course Framework V.1 | 146
+                                                                                                Return to Table of Contents
+                                                                                                           © 2026 College Board
+                                                                                                           7
+                                                                                                          UNIT
+Atmospheric Pollution
+
+
+TOPIC 7.6
+                                                                                                SUGGESTED SKILL
+                                                                                                      Environmental
+
+
+Reduction of
+                                                                                                      Solutions
+                                                                                                7.D
+                                                                                                Use data and evidence to
+
+Air Pollutants                                                                                  support a potential solution.
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-2
+   Human activities have physical, chemical, and biological consequences for the
+   atmosphere.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-2.G                             STB-2.G.1
+   Explain how air pollutants can       Methods to reduce air pollutants include
+   be reduced at the source.            regulatory practices, conservation practices,
+                                        and alternative fuels.
+                                        STB-2.G.2
+                                        A vapor recovery nozzle is an air pollution
+                                        control device on a gasoline pump that
+                                        prevents fumes from escaping into the
+                                        atmosphere when fueling a motor vehicle.
+                                        STB-2.G.3
+                                        A catalytic converter is an air pollution control
+                                        device for internal combustion engines
+                                        that converts pollutants (CO, NOx, and
+                                        hydrocarbons) in exhaust into less harmful
+                                        molecules (CO2, N2, O2, and H2O).
+                                        STB-2.G.4
+                                        Wet and dry scrubbers are air pollution control
+                                        devices that remove particulates and/or gases
+                                        from industrial exhaust streams.
+                                        STB-2.G.5
+                                        Methods to reduce air pollution from coal-
+                                        burning power plants include scrubbers and
+                                        electrostatic precipitators.
+
+
+
+
+AP Environmental Science Course and Exam Description                                        Course Framework V.1 | 147
+                                                                                                Return to Table of Contents
+                                                                                                           © 2026 College Board
+           7
+          UNIT
+                               Atmospheric Pollution
+
+
+SUGGESTED SKILL
+      Scientific
+                               TOPIC 7.7
+                               Acid
+      Experiments
+4.B
+Identify a research
+method, design, and/or
+measure used.                  Rain
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   STB-2
+                                   Human activities have physical, chemical, and biological consequences for the
+                                   atmosphere.
+
+
+
+                                   LEARNING OBJECTIVE                  ESSENTIAL KNOWLEDGE
+                                   STB-2.H                             STB-2.H.1
+                                   Describe acid deposition.           Acid rain and deposition is due to nitrogen
+                                                                       oxides and sulfur oxides from anthropogenic
+                                                                       and natural sources in the atmosphere.
+                                                                       STB-2.H.2
+                                                                       Nitric oxides that cause acid deposition
+                                                                       come from motor vehicles and coal-burning
+                                                                       power plants. Sulfur dioxides that cause acid
+                                                                       deposition come from coal-burning power
+                                                                       plants.
+
+
+                                   STB-2.I                             STB-2.I.1
+                                   Describe the effects of             Acid deposition mainly affects communities
+                                   acid deposition on the              that are downwind from coal-burning power
+                                   environment.                        plants.
+                                                                       STB-2.I.2
+                                                                       Acid rain and deposition can lead to the
+                                                                       acidification of soils and bodies of water and
+                                                                       corrosion of human-made structures.
+                                                                       STB-2.I.3
+                                                                       Regional differences in soils and bedrock affect
+                                                                       the impact that acid deposition has on the
+                                                                       region—such as limestone bedrock’s ability to
+                                                                       neutralize the effect of acid rain on lakes and
+                                                                       ponds.
+
+
+
+
+AP Environmental Science Course and Exam Description                                          Course Framework V.1 | 148
+                                                                                                  Return to Table of Contents
+                                                                                                             © 2026 College Board
+                                                                                                         7
+                                                                                                        UNIT
+Atmospheric Pollution
+
+
+TOPIC 7.8
+                                                                                              SUGGESTED SKILL
+                                                                                                    Text Analysis
+
+
+Noise
+                                                                                              3.C
+                                                                                              Describe the author’s
+                                                                                              reasoning (use of evidence
+
+
+Pollution
+                                                                                              to support a claim).
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-2
+   Human activities have physical, chemical, and biological consequences for the
+   atmosphere.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-2.J                             STB-2.J.1
+   Describe human activities            Noise pollution is sound at levels high enough
+   that result in noise pollution       to cause physiological stress and hearing loss.
+   and its effects.                     STB-2.J.2
+                                        Sources of noise pollution in urban areas
+                                        include transportation, construction, and
+                                        domestic and industrial activity.
+                                        STB-2.J.3
+                                        Some effects of noise pollution on animals in
+                                        ecological systems include stress, the masking
+                                        of sounds used to communicate or hunt,
+                                        damaged hearing, and causing changes to
+                                        migratory routes.
+
+
+
+
+AP Environmental Science Course and Exam Description                                      Course Framework V.1 | 149
+                                                                                              Return to Table of Contents
+                                                                                                         © 2026 College Board
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+                                          AP ENVIRONMENTAL SCIENCE
+
+
+                                          UNIT 8
+                                          Aquatic and
+                                          Terrestrial
+                                          Pollution
+
+
+
+                                                       7–10%
+                                                       AP EXAM WEIGHTING
+
+
+
+                                                       ~19 –20
+                                                       CLASS PERIODS
+
+
+
+
+AP Environmental Science Course and Exam Description                       Course Framework V.1 | 151
+                                                                               Return to Table of Contents
+                                                                                          © 2026 College Board
+                                            Remember to go to AP Classroom
+                                            to assign students the online
+                                            Progress Check for this unit.
+                                            Whether assigned as homework or
+                                            completed in class, the Progress
+                                            Check provides each student with
+                                            immediate feedback related to this
+                                            unit’s topics and skills.
+
+                                            Progress Check 8
+                                            Multiple-choice: ~35 questions
+                                            Free-response: 1 question
+                                             § Analyze an environmental
+                                               problem doing calculations
+
+
+
+
+AP Environmental Science Course and Exam Description                             Course Framework V.1 | 152
+                                                                                     Return to Table of Contents
+                                                                                                © 2026 College Board
+                                      8
+                                      UNIT
+                                                          7–10% AP EXAM WEIGHTING ~19–20 CLASS PERIODS
+
+
+                               Aquatic and
+                               Terrestrial
+                               Pollution
+                               Developing Understanding
+  BIG IDEA 3                   Pollution created by human activities directly impacts ecosystems in the air, on land, and in
+  Interactions Between         water. The source of pollution can sometimes be easy to identify, but other times the source is
+  Different Species and        diffused. There are many human health issues that can be linked to pollution. Legislation has
+  the Environment EIN          been created to reduce discharges of pollution in water and regulate drinking water. Increases
+  § How does pollution         in waste cause global concerns for organisms that live on land and in water. In the final unit,
+    impact your health?        students will explore how local and regional human activities can have a global impact.
+
+  BIG IDEA 4                   Building the                                     Preparing for
+  Sustainability   STB
+  § How can you decrease
+                               Science Practices                                the AP Exam
+    your waste?                 2.A   2.B   2.C   6.A   6.B
+                                                                                On the AP Exam, students must be able to
+                               Students should be able to think critically      explain concepts related to the different
+                               about an environmental problem and               types of pollution that impact land and water.
+                               evaluate a given solution, articulating the      Students often struggle with evaluating data
+                               benefits and drawbacks. Students should          related to pollution. To combat this, teachers
+                               also be able to propose their own solutions      can practice through hands-on laboratory
+                               to environmental problems. In order to           activities related to pollution. Students
+                               understand the implications of environmental     can then discuss their observations and
+                               legislation, students need to see how policies   data. They may also benefit from multiple
+                               are applied in different contexts. They also     opportunities to analyze data by describing
+                               need to see the outcomes of those policies       the relationships among the variables. They
+                               in context to fully address an environmental     can explain the meaning of the data and
+                               problem. Students should then be able to         the implications the data illustrate about
+                               explain why those outcomes occurred and          pollution.
+                               how the policy affected the outcomes.
+                                                                                Students often struggle if problems on the
+                               Quantitative skills are also important in this   AP Exam require multiple steps to obtain an
+                               unit and can be addressed by having students     answer. Teachers can provide students with
+                               perform water quality or dissolved oxygen        practice solving problems related to pollution
+                               labs. This will give them the opportunity to     using appropriate methods to calculate
+                               perform calculations with their data. These      numerical answers, with appropriate units.
+                               lab experiences will also provide students       As students practice calculations, it is often
+                               contexts to evaluate environmental problems.     helpful to emphasize a logical step-by-step
+                                                                                method that shows how their problem
+                                                                                solving ends with a numerical answer and
+                                                                                appropriate units.
+
+
+
+
+AP Environmental Science Course and Exam Description                                            Course Framework V.1 | 153
+                                                                                                    Return to Table of Contents
+                                                                                                               © 2026 College Board
+                   8
+                  UNIT
+                                      Aquatic and Terrestrial Pollution
+
+
+UNIT AT A GLANCE
+Understanding
+
+
+
+
+                                                                                                        Class Periods
+Enduring
+
+
+
+
+                Topic                           Suggested Skill                                         ~19–20 CLASS PERIODS
+
+                 8.1 Sources of Pollution       1.A Describe environmental concepts
+
+                                                and processes.
+
+                 8.2 Human Impacts on            6.B Apply appropriate mathematical
+
+                    Ecosystems                  relationships to solve a problem, with work shown
+                                                (e.g., dimensional analysis).
+
+                 8.3 Endocrine Disruptors       1.A Describe environmental concepts
+
+                                                and processes.
+
+                 8.4 Human Impacts on            7.B Describe potential responses or approaches
+
+                    Wetlands and Mangroves      to environmental problems.
+
+                 8.5 Eutrophication             2.C Explain how environmental concepts and
+
+                                                processes represented visually relate to broader
+                                                environmental issues.
+  STB-3
+
+
+
+
+                 8.6 Thermal Pollution          1.C Explain environmental concepts, processes,
+
+                                                or models in applied contexts.
+
+                 8.7 Persistent Organic         1.B Explain environmental concepts
+
+                    Pollutants (POPs)           and processes.
+
+                 8.8 Bioaccumulation and        4.A Identify a testable hypothesis or scientific
+
+                    Biomagnification            question for an investigation.
+
+                 8.9 Solid Waste Disposal       7.D Use data and evidence to support a
+
+                                                potential solution.
+
+                8.10 Waste Reduction Methods     6.B Apply appropriate mathematical
+
+                                                relationships to solve a problem, with work
+                                                shown (e.g., dimensional analysis).
+
+                8.11 Sewage Treatment           2.A Describe characteristics of an environmental
+
+                                                concept, process, or model represented visually.
+
+                                                                                                          continued on next page
+
+
+
+
+AP Environmental Science Course and Exam Description                                               Course Framework V.1 | 154
+                                                                                                       Return to Table of Contents
+                                                                                                                  © 2026 College Board
+                                                                                                                      8
+                                                                                                                     UNIT
+ Aquatic and Terrestrial Pollution
+
+
+UNIT AT A GLANCE (cont'd)
+Understanding
+
+
+
+
+                                                                                                            Class Periods
+Enduring
+
+
+
+
+                Topic                                Suggested Skill                                        ~19–20 CLASS PERIODS
+
+                8.12 Lethal Dose 50% (LD50)          6.A Determine an approach or method aligned
+
+                                                     with the problem to be solved.
+
+                8.13 Dose Response Curve             5.E Explain what the data implies or illustrates
+
+                                                     about environmental issues.
+
+                8.14 Pollution and Human             4.C Describe an aspect of a research method,
+  EIN-3
+
+
+
+
+                    Health                           design, and/or measure used.
+
+                8.15 Pathogens and                   2.B Explain relationships between different
+
+                    Infectious Diseases              characteristics of environmental concepts,
+                                                     processes, or models represented visually:
+                                                      § In theoretical contexts
+                                                      § In applied contexts
+
+
+                Go to AP Classroom to assign the Progress Check for Unit 8.
+                 Review the results in class to identify and address any student misunderstandings.
+
+
+
+
+ AP Environmental Science Course and Exam Description                                                   Course Framework V.1 | 155
+                                                                                                            Return to Table of Contents
+                                                                                                                       © 2026 College Board
+          8
+         UNIT
+                                 Aquatic and Terrestrial Pollution
+
+
+SAMPLE INSTRUCTIONAL ACTIVITIES
+The sample activities on this page are optional and are offered to provide possible ways to
+incorporate various instructional approaches into the classroom. They were developed in
+partnership with teachers from the AP community to share ways that they approach teaching
+some of the topics in this unit. Please refer to the Instructional Approaches section beginning
+on p. 201 for more examples of activities and strategies.
+
+
+
+
+ Activity        Topic          Sample Activity
+
+     1             8.7          One-Minute Essay
+                                Have students read the EPA’s summary on Polychlorinated biphenyls (PCBs).
+                                Give them one minute to respond to the prompt: Explain the long-term effects
+                                of PCBs in the environment.
+
+
+     2             8.5          Index Card Summaries/Questions
+                                Show students a diagram of the eutrophication process at the beginning or the end
+                                of class. On one side of an index card, have them summarize what they understand
+                                about the topic. On the other side, have them write what they don’t understand.
+                                Address all questions that day or during the next class.
+
+
+     3            8.11          Ask the Expert (or Students as Experts)
+                                Divide students into groups. Each group will become experts on the major
+                                criteria used to determine the steps involved in waste water treatment (primary,
+                                secondary, tertiary, etc.). Have them rotate through expert stations to learn about
+                                how waste water is treated.
+
+
+
+
+            Unit Planning Notes
+    Use the space below to plan your approach to the unit.
+
+
+
+
+AP Environmental Science Course and Exam Description                                                 Course Framework V.1 | 156
+                                                                                                         Return to Table of Contents
+                                                                                                                      © 2026 College Board
+                                                                                                        8
+                                                                                                       UNIT
+Aquatic and Terrestrial Pollution
+
+
+TOPIC 8.1                                                                                     SUGGESTED SKILL
+                                                                                                    Concept Explanation
+
+
+Sources                                                                                       1.A
+                                                                                              Describe environmental
+                                                                                              concepts and processes.
+
+of Pollution
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-3
+   Human activities, including the use of resources, have physical, chemical, and
+   biological consequences for ecosystems.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-3.A                             STB-3.A.1
+   Identify differences between         A point source refers to a single, identifiable
+   point and nonpoint sources           source of a pollutant, such as a smokestack or
+   of pollution.                        waste discharge pipe.
+                                        STB-3.A.2
+                                        Nonpoint sources of pollution are diffused and
+                                        can therefore be difficult to identify, such as
+                                        pesticide spraying or urban runoff.
+
+
+
+
+AP Environmental Science Course and Exam Description                                      Course Framework V.1 | 157
+                                                                                              Return to Table of Contents
+                                                                                                         © 2026 College Board
+           8
+          UNIT
+                               Aquatic and Terrestrial Pollution
+
+
+SUGGESTED SKILL
+      Mathematical
+                               TOPIC 8.2
+                               Human Impacts
+      Routines
+6.B
+Apply appropriate
+mathematical relationships
+to solve a problem,
+with work shown (e.g.,
+                               on Ecosystems
+dimensional analysis).
+
+
+
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   STB-3
+                                   Human activities, including the use of resources, have physical, chemical, and
+                                   biological consequences for ecosystems.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                   STB-3.B                              STB-3.B.1
+                                   Describe the impacts                 Organisms have a range of tolerance for
+                                   of human activities on               various pollutants. Organisms have an
+                                   aquatic ecosystems.                  optimum range for each factor where they can
+                                                                        maintain homeostasis. Outside of this range,
+                                                                        organisms may experience physiological stress,
+                                                                        limited growth, reduced reproduction, and in
+                                                                        extreme cases, death.
+                                                                        STB-3.B.2
+                                                                        Coral reefs have been suffering damage due to
+                                                                        a variety of factors, including increasing ocean
+                                                                        temperature, sediment runoff, and destructive
+                                                                        fishing practices.
+                                                                        STB-3.B.3
+                                                                        Oil spills in marine waters cause organisms to
+                                                                        die from the hydrocarbons in oil. Oil that floats
+                                                                        on the surface of water can coat the feathers
+                                                                        of birds and fur of marine mammals. Some
+                                                                        components of oil sink to the ocean floor,
+                                                                        killing some bottom-dwelling organisms.
+                                                                        STB-3.B.4
+                                                                        Oil that washes up on the beach can have
+                                                                        economic consequences on the fishing and
+                                                                        tourism industries.
+
+
+                                                                                                       continued on next page
+
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 158
+                                                                                                   Return to Table of Contents
+                                                                                                              © 2026 College Board
+                                                                                                       8
+                                                                                                      UNIT
+Aquatic and Terrestrial Pollution
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-3.B                             STB-3.B.5
+   Describe the impacts                 Oceanic dead zones are areas of low oxygen
+   of human activities on               in the world’s oceans caused by increased
+   aquatic ecosystems.                  nutrient pollution.
+                                        STB-3.B.6
+                                        An oxygen sag curve is a plot of dissolved
+                                        oxygen levels versus the distance from a
+                                        source of pollution, usually excess nutrients
+                                        and biological refuse.
+                                        STB-3.B.7
+                                        Heavy metals used for industry, especially
+                                        mining and burning of fossil fuels, can reach
+                                        the groundwater, impacting the drinking
+                                        water supply.
+                                        STB-3.B.8
+                                        Litter that reaches aquatic ecosystems,
+                                        besides being unsightly, can create intestinal
+                                        blockage and choking hazards for wildlife and
+                                        introduce toxic substances to the food chain.
+                                        STB-3.B.9
+                                        Increased sediment in waterways can reduce
+                                        light infiltration, which can affect primary
+                                        producers and visual predators. Sediment can
+                                        also settle, disrupting habitats.
+                                        STB-3.B.10
+                                        When elemental sources of mercury enter
+                                        aquatic environments, bacteria in the water
+                                        convert it to highly toxic methylmercury.
+
+
+
+
+AP Environmental Science Course and Exam Description                                     Course Framework V.1 | 159
+                                                                                             Return to Table of Contents
+                                                                                                        © 2026 College Board
+           8
+          UNIT
+                               Aquatic and Terrestrial Pollution
+
+
+SUGGESTED SKILL
+      Concept Explanation
+                               TOPIC 8.3
+1.A
+Describe environmental
+concepts and processes.
+                               Endocrine
+                               Disruptors
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   STB-3
+                                   Human activities, including the use of resources, have physical, chemical, and
+                                   biological consequences for ecosystems.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                   STB-3.C                              STB-3.C.1
+                                   Describe endocrine                   Endocrine disruptors are chemicals that can
+                                   disruptors.                          interfere with the endocrine system of animals.
+
+
+                                   STB-3.D                              STB-3.D.1
+                                   Describe the effects of              Endocrine disruptors can lead to birth
+                                   endocrine disruptors on              defects, developmental disorders, and gender
+                                   ecosystems.                          imbalances in fish and other species.
+
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 160
+                                                                                                   Return to Table of Contents
+                                                                                                              © 2026 College Board
+                                                                                                         8
+                                                                                                        UNIT
+Aquatic and Terrestrial Pollution
+
+
+TOPIC 8.4                                                                                      SUGGESTED SKILL
+                                                                                                     Environmental
+
+
+Human Impacts
+                                                                                                     Solutions
+                                                                                               7.B
+                                                                                               Describe potential
+
+on Wetlands and                                                                                responses or approaches to
+                                                                                               environmental problems.
+
+
+
+Mangroves
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-3
+   Human activities, including the use of resources, have physical, chemical, and
+   biological consequences for ecosystems.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-3.E                             STB-3.E.1
+   Describe the impacts of              Wetlands are areas where water covers the soil,
+   human activity on wetlands           either part or all of the time.
+   and mangroves.
+                                        STB-3.E.2
+                                        Wetlands provide a variety of ecological
+                                        services, including water purification, flood
+                                        protection, water filtration, and habitat.
+                                        STB-3.E.3
+                                        Threats to wetlands and mangroves include
+                                        commercial development, dam construction,
+                                        overfishing, and pollutants from agriculture and
+                                        industrial waste.
+
+
+
+
+AP Environmental Science Course and Exam Description                                       Course Framework V.1 | 161
+                                                                                               Return to Table of Contents
+                                                                                                          © 2026 College Board
+            8
+           UNIT
+                               Aquatic and Terrestrial Pollution
+
+
+SUGGESTED SKILL
+      Visual
+                               TOPIC 8.5
+                               Eutrophication
+      Representations
+2.C
+Explain how environmental
+concepts and processes
+represented visually relate
+to broader environmental
+issues.
+
+
+
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   STB-3
+                                   Human activities, including the use of resources, have physical, chemical, and
+                                   biological consequences for ecosystems.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                   STB-3.F                              STB-3.F.1
+                                   Explain the environmental            Eutrophication occurs when a body of water is
+                                   effects of excessive use of          enriched in nutrients.
+                                   fertilizers and detergents on
+                                                                        STB-3.F.2
+                                   aquatic ecosystems.
+                                                                        The increase in nutrients in eutrophic aquatic
+                                                                        environments causes an algal bloom. When the
+                                                                        algal bloom dies, microbes digest the algae, along
+                                                                        with the oxygen in the water, leading to a decrease
+                                                                        in the dissolved oxygen levels in the water. The
+                                                                        lack of dissolved oxygen can result in large
+                                                                        die-offs of fish and other aquatic organisms.
+                                                                        STB-3.F.3
+                                                                        Hypoxic waterways are those bodies of water
+                                                                        that are low in dissolved oxygen.
+                                                                        STB-3.F.4
+                                                                        Compared to eutrophic waterways,
+                                                                        oligotrophic waterways have very low amounts
+                                                                        of nutrients, stable algae populations, and high
+                                                                        dissolved oxygen.
+                                                                        STB-3.F.5
+                                                                        Anthropogenic causes of eutrophication are
+                                                                        agricultural runoff and wastewater release.
+
+
+
+
+AP Environmental Science Course and Exam Description                                            Course Framework V.1 | 162
+                                                                                                    Return to Table of Contents
+                                                                                                               © 2026 College Board
+                                                                                                         8
+                                                                                                       UNIT
+Aquatic and Terrestrial Pollution
+
+
+TOPIC 8.6
+                                                                                              SUGGESTED SKILL
+                                                                                                    Concept Explanation
+
+
+Thermal
+                                                                                              1.C
+                                                                                              Explain environmental
+                                                                                              concepts, processes, or
+
+
+Pollution
+                                                                                              models in applied contexts.
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-3
+   Human activities, including the use of resources, have physical, chemical, and
+   biological consequences for ecosystems.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-3.G                             STB-3.G.1
+   Describe the effects of              Thermal pollution occurs when heat released
+   thermal pollution on aquatic         into the water produces negative effects to the
+   ecosystems.                          organisms in that ecosystem.
+                                        STB-3.G.2
+                                        Variations in water temperature affect the
+                                        concentration of dissolved oxygen because
+                                        warm water does not contain as much oxygen
+                                        as cold water.
+
+
+
+
+AP Environmental Science Course and Exam Description                                      Course Framework V.1 | 163
+                                                                                              Return to Table of Contents
+                                                                                                         © 2026 College Board
+           8
+          UNIT
+                               Aquatic and Terrestrial Pollution
+
+
+SUGGESTED SKILL
+      Concept Explanation
+                               TOPIC 8.7
+1.B
+Explain environmental
+concepts and processes.
+                               Persistent
+                               Organic Pollutants
+                               (POPs)
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   STB-3
+                                   Human activities, including the use of resources, have physical, chemical, and
+                                   biological consequences for ecosystems.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                   STB-3.H                              STB-3.H.1
+                                   Describe the effect of               Persistent organic pollutants (POPs) do not
+                                   persistent organic pollutants        easily break down in the environment because
+                                   (POPs) on ecosystems.                they are synthetic, carbon-based molecules
+                                                                        (such as DDT and PCBs).
+                                                                        STB-3.H.2
+                                                                        Persistent organic pollutants (POPs) can be
+                                                                        toxic to organisms because they are soluble
+                                                                        in fat, which allows them to accumulate in
+                                                                        organisms’ fatty tissues.
+                                                                        STB-3.H.3
+                                                                        Persistent organic pollutants (POPs) can travel
+                                                                        over long distances via wind and water before
+                                                                        being redeposited.
+
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 164
+                                                                                                   Return to Table of Contents
+                                                                                                              © 2026 College Board
+                                                                                                          8
+                                                                                                         UNIT
+Aquatic and Terrestrial Pollution
+
+
+TOPIC 8.8                                                                                      SUGGESTED SKILL
+                                                                                                     Scientific
+
+
+Bioaccumulation and
+                                                                                                     Experiments
+                                                                                               4.A
+                                                                                               Identify a testable
+
+Biomagnification                                                                               hypothesis or scientific
+                                                                                               question for an investigation.
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-3
+   Human activities, including the use of resources, have physical, chemical, and
+   biological consequences for ecosystems.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-3.I                             STB-3.I.1
+   Describe bioaccumulation             Bioaccumulation is the selective absorption
+   and biomagnification.                and concentration of elements or compounds
+                                        by cells in a living organism, most commonly
+                                        fat-soluble compounds.
+                                        STB-3.I.2
+                                        Biomagnification is the increase in
+                                        concentration of substances per unit of body
+                                        tissue that occurs in successively higher
+                                        trophic levels of a food chain or in a food web.
+
+
+    STB-3.J                             STB-3.J.1
+   Describe the effects of              Some effects that can occur in an ecosystem
+   bioaccumulation and                  when a persistent substance is biomagnified
+   biomagnification.                    in a food chain include eggshell thinning and
+                                        developmental deformities in top carnivores of
+                                        the higher trophic levels.
+                                        STB-3.J.2
+                                        Humans also experience harmful effects from
+                                        biomagnification, including issues with the
+                                        reproductive, nervous, and circulatory systems.
+                                        STB-3.J.3
+                                        DDT, mercury, and PCBs are substances
+                                        that bioaccumulate and have significant
+                                        environmental impacts.
+
+
+
+
+AP Environmental Science Course and Exam Description                                       Course Framework V.1 | 165
+                                                                                               Return to Table of Contents
+                                                                                                           © 2026 College Board
+            8
+           UNIT
+                                Aquatic and Terrestrial Pollution
+
+
+SUGGESTED SKILL
+      Environmental
+                                TOPIC 8.9
+                                Solid Waste
+      Solutions
+7.D
+Use data and evidence to
+support a potential solution.
+                                Disposal
+
+                                Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   STB-3
+                                   Human activities, including the use of resources, have physical, chemical, and
+                                   biological consequences for ecosystems.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                   STB-3.K                              STB-3.K.1
+                                   Describe solid waste disposal        Solid waste is any discarded material that is
+                                   methods.                             not a liquid or gas. It is generated in domestic,
+                                                                        industrial, business, and agricultural sectors.
+                                                                        STB-3.K.2
+                                                                        Solid waste is most often disposed of
+                                                                        in landfills. Landfills can contaminate
+                                                                        groundwater and release harmful gases.
+                                                                        STB-3.K.3
+                                                                        Electronic waste, or e-waste, is composed
+                                                                        of discarded electronic devices including
+                                                                        televisions, cell phones, and computers.
+                                                                        STB-3.K.4
+                                                                        A sanitary municipal landfill consists of a
+                                                                        bottom liner (plastic or clay), a storm water
+                                                                        collection system, a leachate collection
+                                                                        system, a cap, and a methane collection
+                                                                        system.
+
+
+                                   STB-3.L                              STB-3.L.1
+                                   Describe the effects of solid        Factors in landfill decomposition include
+                                   waste disposal methods.              the composition of the trash and conditions
+                                                                        needed for microbial decomposition of
+                                                                        the waste.
+
+
+                                                                                                       continued on next page
+
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 166
+                                                                                                   Return to Table of Contents
+                                                                                                              © 2026 College Board
+                                                                                                       8
+                                                                                                      UNIT
+Aquatic and Terrestrial Pollution
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-3.L                             STB-3.L.2
+   Describe the effects of solid        Solid waste can also be disposed of through
+   waste disposal methods.              incineration, where waste is burned at high
+                                        temperatures. This method significantly
+                                        reduces the volume of solid waste but releases
+                                        air pollutants.
+                                        STB-3.L.3
+                                        Some items are not accepted in sanitary
+                                        landfills and may be disposed of illegally,
+                                        leading to environmental problems. One
+                                        example is used rubber tires, which when left
+                                        in piles can become breeding grounds for
+                                        mosquitoes that can spread disease.
+                                        STB-3.L.4
+                                        Some countries dispose of their waste by
+                                        dumping it in the ocean. This practice, along
+                                        with other sources of plastic, has led to
+                                        large floating islands of trash in the oceans.
+                                        Additionally, wildlife can become entangled in
+                                        the waste, as well as ingest it.
+
+
+
+
+AP Environmental Science Course and Exam Description                                     Course Framework V.1 | 167
+                                                                                             Return to Table of Contents
+                                                                                                        © 2026 College Board
+           8
+          UNIT
+                               Aquatic and Terrestrial Pollution
+
+
+SUGGESTED SKILL
+      Mathematical
+                               TOPIC 8.10
+                               Waste Reduction
+      Routines
+6.B
+Apply appropriate
+mathematical relationships
+to solve a problem,
+with work shown (e.g.,
+                               Methods
+dimensional analysis).
+
+
+
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   STB-3
+                                   Human activities, including the use of resources, have physical, chemical, and
+                                   biological consequences for ecosystems.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                   STB-3.M                              STB-3.M.1
+                                   Describe changes to current          Recycling is a process by which certain solid
+                                   practices that could reduce          waste materials are processed and converted
+                                   the amount of generated              into new products.
+                                   waste and their associated
+                                                                        STB-3.M.2
+                                   benefits and drawbacks.
+                                                                        Recycling is one way to reduce the current
+                                                                        global demand on minerals, but this process is
+                                                                        energy-intensive and can be costly.
+                                                                        STB-3.M.3
+                                                                        Composting is the process of organic
+                                                                        matter such as food scraps, paper, and yard
+                                                                        waste decomposing. The product of this
+                                                                        decomposition can be used as fertilizer.
+                                                                        Drawbacks to composting include odor
+                                                                        and rodents.
+                                                                        STB-3.M.4
+                                                                        E-waste can be reduced by recycling and
+                                                                        reuse. E-wastes may contain hazardous
+                                                                        chemicals, including heavy metals such as lead
+                                                                        and mercury, which can leach from landfills
+                                                                        into groundwater if they are not disposed
+                                                                        of properly.
+                                                                        STB-3.M.5
+                                                                        Landfill mitigation strategies range from
+                                                                        burning waste for energy to restoring habitat
+                                                                        on former landfills for use as parks.
+
+
+                                                                                                      continued on next page
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 168
+                                                                                                   Return to Table of Contents
+                                                                                                              © 2026 College Board
+                                                                                                           8
+                                                                                                          UNIT
+Aquatic and Terrestrial Pollution
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-3.M                             STB-3.M.6
+   Describe changes to current          The combustion of gases produced from
+   practices that could reduce          decomposition of organic material in landfills
+   the amount of generated              can be used to turn turbines and generate
+   waste and their associated           electricity. This process reduces landfill volume.
+   benefits and drawbacks.
+
+
+
+
+AP Environmental Science Course and Exam Description                                         Course Framework V.1 | 169
+                                                                                                 Return to Table of Contents
+                                                                                                            © 2026 College Board
+           8
+          UNIT
+                               Aquatic and Terrestrial Pollution
+
+
+SUGGESTED SKILL
+      Visual
+                               TOPIC 8.11
+                               Sewage
+      Representations
+2.A
+Describe characteristics
+of an environmental
+concept, process, or model
+represented visually.
+                               Treatment
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   STB-3
+                                   Human activities, including the use of resources, have physical, chemical, and
+                                   biological consequences for ecosystems.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                   STB-3.N                              STB-3.N.1
+                                   Describe best practices in           Primary treatment of sewage is the physical
+                                   sewage treatment.                    removal of large objects, often through the use
+                                                                        of screens and grates, followed by the settling
+                                                                        of solid waste in the bottom of a tank.
+                                                                        STB-3.N.2
+                                                                        Secondary treatment is a biological process
+                                                                        in which bacteria break down organic matter
+                                                                        into carbon dioxide and inorganic sludge,
+                                                                        which settles in the bottom of a tank. The tank
+                                                                        is aerated to increase the rate at which the
+                                                                        bacteria break down the organic matter.
+                                                                        STB-3.N.3
+                                                                        Tertiary treatment is the use of ecological or
+                                                                        chemical processes to remove any pollutants
+                                                                        left in the water after primary and secondary
+                                                                        treatment.
+                                                                        STB-3.N.4
+                                                                        Prior to discharge, the treated water is exposed
+                                                                        to one or more disinfectants (usually, chlorine,
+                                                                        ozone, or UV light) to kill bacteria.
+
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 170
+                                                                                                   Return to Table of Contents
+                                                                                                              © 2026 College Board
+                                                                                                         8
+                                                                                                        UNIT
+Aquatic and Terrestrial Pollution
+
+
+TOPIC 8.12                                                                                     SUGGESTED SKILL
+                                                                                                     Mathematical
+
+
+Lethal Dose
+                                                                                                     Routines
+                                                                                               6.A
+                                                                                               Determine an approach or
+
+50% (LD50)                                                                                     method aligned with the
+                                                                                               problem to be solved.
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    EIN-3
+   Pollutants can have both direct and indirect impacts on the health of organisms,
+   including humans.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    EIN-3.A                             EIN-3.A.1
+   Define lethal dose 50% (LD50).       Lethal dose 50% (LD50) is the dose of a
+                                        chemical that is lethal to 50% of the population
+                                        of a particular species.
+
+
+
+
+AP Environmental Science Course and Exam Description                                       Course Framework V.1 | 171
+                                                                                               Return to Table of Contents
+                                                                                                          © 2026 College Board
+             8
+           UNIT
+                               Aquatic and Terrestrial Pollution
+
+
+SUGGESTED SKILL
+      Data Analysis
+                               TOPIC 8.13
+5.E
+Explain what the data
+implies or illustrates about
+                               Dose Response
+environmental issues.
+                               Curve
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   EIN-3
+                                   Pollutants can have both direct and indirect impacts on the health of organisms,
+                                   including humans.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                   EIN-3.B                              EIN-3.B.1
+                                   Evaluate dose response               A dose response curve describes the effect on
+                                   curves.                              an organism or mortality rate in a population
+                                                                        based on the dose of a particular toxin or drug.
+
+
+
+
+AP Environmental Science Course and Exam Description                                          Course Framework V.1 | 172
+                                                                                                  Return to Table of Contents
+                                                                                                             © 2026 College Board
+                                                                                                       8
+                                                                                                      UNIT
+Aquatic and Terrestrial Pollution
+
+
+TOPIC 8.14                                                                                   SUGGESTED SKILL
+                                                                                                   Scientific
+
+
+Pollution and
+                                                                                                   Experiments
+                                                                                             4.C
+                                                                                             Describe an aspect of a
+
+Human Health                                                                                 research method, design,
+                                                                                             and/or measure used.
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    EIN-3
+   Pollutants can have both direct and indirect impacts on the health of organisms,
+   including humans.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    EIN-3.C                             EIN-3.C.1
+   Identify sources of human            It can be difficult to establish a cause and
+   health issues that are linked        effect between pollutants and human health
+   to pollution.                        issues because humans experience exposure
+                                        to a variety of chemicals and pollutants.
+                                        EIN-3.C.2
+                                        Dysentery is caused by untreated sewage in
+                                        streams and rivers.
+                                        EIN-3.C.3
+                                        Mesothelioma is a type of cancer caused
+                                        mainly by exposure to asbestos.
+                                        EIN-3.C.4
+                                        Respiratory problems and overall lung
+                                        function can be impacted by elevated levels of
+                                        tropospheric ozone.
+
+
+
+
+AP Environmental Science Course and Exam Description                                     Course Framework V.1 | 173
+                                                                                             Return to Table of Contents
+                                                                                                        © 2026 College Board
+           8
+          UNIT
+                               Aquatic and Terrestrial Pollution
+
+
+SUGGESTED SKILL
+      Visual
+                               TOPIC 8.15
+                               Pathogens and
+      Representations
+2.B
+Explain relationships
+between different
+characteristics of
+environmental concepts,
+                               Infectious Diseases
+processes, or models
+represented visually:
+ § In theoretical contexts
+ § In applied contexts
+
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   EIN-3
+                                   Pollutants can have both direct and indirect impacts on the health of organisms,
+                                   including humans.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                   EIN-3.D                              EIN-3.D.1
+                                   Explain human pathogens              Pathogens adapt to take advantage of new
+                                   and their cycling through the        opportunities to infect and spread through
+                                   environment.                         human populations.
+                                                                        EIN-3.D.2
+                                                                        Specific pathogens can occur in many
+                                                                        environments regardless of the appearance of
+                                                                        sanitary conditions.
+                                                                        EIN-3.D.3
+                                                                        As equatorial-type climate zones spread north
+                                                                        and south in to what are currently subtropical
+                                                                        and temperate climate zones, pathogens,
+                                                                        infectious diseases, and any associated vectors
+                                                                        are spreading into these areas where the
+                                                                        disease has not previously been known to occur.
+                                                                        EIN-3.D.4
+                                                                        Poverty-stricken, low-income areas often lack
+                                                                        sanitary waste disposal and have contaminated
+                                                                        drinking water supplies, leading to havens
+                                                                        and opportunities for the spread of infectious
+                                                                        diseases.
+                                                                        EIN-3.D.5
+                                                                        Plague is a disease carried by organisms
+                                                                        infected with the plague bacteria. It is
+                                                                        transferred to humans via the bite of an
+                                                                        infected organism or through contact with
+                                                                        contaminated fluids or tissues.
+
+
+                                                                                                      continued on next page
+
+AP Environmental Science Course and Exam Description                                          Course Framework V.1 | 174
+                                                                                                  Return to Table of Contents
+                                                                                                             © 2026 College Board
+                                                                                                           8
+                                                                                                          UNIT
+Aquatic and Terrestrial Pollution
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    EIN-3.D                             EIN-3.D.6
+   Explain human pathogens              Tuberculosis is a bacterial infection that
+   and their cycling through the        typically attacks the lungs. It is spread by
+   environment.                         breathing in the bacteria from the bodily fluids
+                                        of an infected person.
+                                        EIN-3.D.7
+                                        Malaria is a parasitic disease caused by bites
+                                        from infected mosquitoes. It is most often
+                                        found in sub-Saharan Africa.
+                                        EIN-3.D.8
+                                        West Nile virus is transmitted to humans via
+                                        bites from infected mosquitoes.
+                                        EIN-3.D.9
+                                        Severe acute respiratory syndrome (SARS) is a
+                                        form of pneumonia. It is transferred by inhaling
+                                        or touching infected fluids.
+                                        EIN-3.D.10
+                                        Middle East Respiratory Syndrome (MERS) is a
+                                        viral respiratory illness that is transferred from
+                                        animals to humans.
+                                        EIN-3.D.11
+                                        Zika is a virus caused by bites from infected
+                                        mosquitoes. It can be transmitted through
+                                        sexual contact.
+                                        EIN-3.D.12
+                                        Cholera is a bacterial disease that is contracted
+                                        from infected water.
+
+
+
+
+AP Environmental Science Course and Exam Description                                         Course Framework V.1 | 175
+                                                                                                 Return to Table of Contents
+                                                                                                            © 2026 College Board
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+                                          AP ENVIRONMENTAL SCIENCE
+
+
+                                          UNIT 9
+                                          Global
+                                          Change
+
+
+
+
+                                                       15–20%
+                                                       AP EXAM WEIGHTING
+
+
+
+                                                       ~19 –20
+                                                       CLASS PERIODS
+
+
+
+
+AP Environmental Science Course and Exam Description                       Course Framework V.1 | 177
+                                                                               Return to Table of Contents
+                                                                                          © 2026 College Board
+                                            Remember to go to AP Classroom
+                                            to assign students the online
+                                            Progress Check for this unit.
+                                            Whether assigned as homework or
+                                            completed in class, the Progress
+                                            Check provides each student with
+                                            immediate feedback related to this
+                                            unit’s topics and skills.
+
+                                            Progress Check 9
+                                            Multiple-choice: ~25 questions
+                                            Free-response: 1 question
+                                             § Analyze and interpret
+                                               quantitative data
+
+
+
+
+AP Environmental Science Course and Exam Description                             Course Framework V.1 | 178
+                                                                                     Return to Table of Contents
+                                                                                                © 2026 College Board
+                                      9
+                                      UNIT
+                                                          15–20% AP EXAM WEIGHTING         ~19–20 CLASS PERIODS
+
+
+                               Global
+                               Change
+
+                               Building Understanding
+  BIG IDEA 3                   A central aspect of environmental science is to understand the global impact of local and
+  Interactions Between         regional human activities. Humans can mitigate their impact through sustainable use of
+  Different Species and        resources. Human activities can cause ozone depletion in the stratosphere and increases in the
+  the Environment EIN          greenhouse gases in the atmosphere. Increases in greenhouse gases can cause human health
+  § Why are laws created       and environmental problems. These environmental problems include global climate change,
+    to protect endangered      ocean warming, and endangered species. Overall, this course provides an opportunity to
+    species?                   examine the interrelationships among the natural world and challenges students to evaluate and
+                               propose solutions to a variety of environmental problems.
+  BIG IDEA 2
+  Sustainability     STB
+                               Building the                                      Preparing for the AP Exam
+  § How can local human
+    activities have a global
+                               Science Practices                                 On the AP Exam, students often struggle
+    impact?                     1.A   1.B   1.C   7.A   7.B   7.C   7.D   7.E    with discussing strategies that would prevent
+                                                                                 extinction. Students are able to identify a
+                               In this final unit, the goal is for students to
+                                                                                 strategy, but they are not able to explain how
+                               describe and explain global changes in the
+                                                                                 the strategy could be implemented to prevent
+                               environment, the causes of these changes,
+                                                                                 extinction. Students incorrectly imply that
+                               and their consequences. Students can build
+                                                                                 small populations are threatened populations.
+                               on their skills from previous units, where
+                                                                                 To combat this, teachers can provide
+                               they described and evaluated solutions, to
+                                                                                 opportunities for students to read multiple
+                               propose their own solutions as they learn
+                                                                                 sources that allow them to propose realistic
+                               about problems caused by global changes
+                                                                                 solutions that would prevent the extinction of
+                               in the environment. They can practice using
+                                                                                 certain species. Students may benefit from
+                               data as evidence to support their proposed
+                                                                                 opportunities to explain the advantages,
+                               solution or legislation. Students can also
+                                                                                 disadvantages, or unintended consequences
+                               explain how the solution or legislation solves
+                                                                                 of efforts to prevent extinction.
+                               the problem in question.
+                                                                                 Students also confuse the terms global
+                                                                                 climate change and ozone depletion.
+                                                                                 Teachers can provide multiple opportunities
+                                                                                 to practice using scientific vocabulary in
+                                                                                 the proper context in verbal and written
+                                                                                 explanations of environmental concepts.
+                                                                                 Diagrams and models that illustrate global
+                                                                                 climate change can also be helpful. Emphasis
+                                                                                 can be placed on the effects of global
+                                                                                 climate change with visual representations of
+                                                                                 changes over time. Students can then explain
+                                                                                 how the visual representation illustrates an
+                                                                                 environmental science concept or process.
+
+
+AP Environmental Science Course and Exam Description                                             Course Framework V.1 | 179
+                                                                                                     Return to Table of Contents
+                                                                                                                © 2026 College Board
+                   9
+                  UNIT
+                                        Global Change
+
+
+UNIT AT A GLANCE
+Understanding
+
+
+
+
+                                                                                                            Class Periods
+Enduring
+
+
+
+
+                Topic                                Suggested Skill                                        ~19–20 CLASS PERIODS
+
+                 9.1 Stratospheric Ozone             1.A Describe environmental concepts and
+                    Depletion                        processes.
+
+
+
+                 9.2 Reducing Ozone Depletion         7.B Describe potential responses or approaches
+                                                     to environmental problems.
+
+
+                 9.3 The Greenhouse Effect           1.B Explain environmental concepts and
+                                                     processes.
+  STB-4
+
+
+
+
+                 9.4 Increases in the                2.C Explain how environmental concepts and
+                    Greenhouse Gases                 processes represented visually relate to broader
+                                                     environmental issues.
+
+
+                 9.5 Global Climate Change            5.D Interpret experimental data and results in
+                                                     relation to a given hypothesis.
+
+
+                 9.6 Ocean Warming                   7.A   Describe environmental problems.
+
+
+                 9.7 Ocean Acidification             1.C Explain environmental concepts, processes, or
+                                                     models in applied contexts.
+
+
+                 9.8 Invasive Species                7.E Make a claim that proposes a solution to an
+                                                     environmental problem in an applied context.
+
+
+                 9.9 Endangered Species              7.D Use data and evidence to support a potential
+  EIN-4
+
+
+
+
+                                                     solution.
+
+
+                9.10 Human Impacts on                7.C Describe disadvantages, advantages, or
+                    Biodiversity                     unintended consequences for potential solutions.
+
+
+                Go to AP Classroom to assign the Progress Check for Unit 9.
+                 Review the results in class to identify and address any student misunderstandings.
+
+
+
+
+AP Environmental Science Course and Exam Description                                                    Course Framework V.1 | 180
+                                                                                                            Return to Table of Contents
+                                                                                                                       © 2026 College Board
+                                                                                                                         9
+                                                                                                                       UNIT
+Global Change
+
+
+SAMPLE INSTRUCTIONAL ACTIVITIES
+The sample activities on this page are optional and are offered to provide possible ways to
+incorporate various instructional approaches into the classroom. They were developed in
+partnership with teachers from the AP community to share ways that they approach teaching
+some of the topics in this unit. Please refer to the Instructional Approaches section beginning
+on p. 201 for more examples of activities and strategies.
+
+
+
+
+ Activity        Topic          Sample Activity
+
+     1             9.8          Ask the Expert (or Students as Experts)
+                                Divide students into groups. Each group will become experts on a case study
+                                involving a classic invasive species (e.g., zebra mussels, cane toad, and black rats).
+                                Then have students rotate through the groups to learn about each invasive species.
+
+     2            9.10          Debate
+                                Provide students with the following scenario: There is a proposal to construct a
+                                new mall. The mall would be located in a 20-acre wetland estuary near a wooded
+                                section adjacent to the school. Divide the class into two teams. One team argues
+                                that biodiversity will not be affected by the mall; the other team argues that it will. The
+                                debate should focus on the impact of the eliminated waterway.
+
+
+
+
+             Unit Planning Notes
+     Use the space below to plan your approach to the unit.
+
+
+
+
+AP Environmental Science Course and Exam Description                                                     Course Framework V.1 | 181
+                                                                                                             Return to Table of Contents
+                                                                                                                         © 2026 College Board
+           9
+          UNIT
+                               Global Change
+
+
+SUGGESTED SKILL
+      Concept Explanation
+                               TOPIC 9.1
+1.A
+Describe environmental
+concepts and processes.
+                               Stratospheric
+                               Ozone Depletion
+
+AVAILABLE RESOURCES
+You can find related
+                               Required Course Content
+resources below in the
+Online Teacher Community.
+ § AP Environmental
+   Science Teacher’s               ENDURING UNDERSTANDING
+   Guide
+                                   STB-4
+ § Environmental
+                                   Local and regional human activities can have impacts at the global level.
+   Literacy Council’s AP
+   Environmental Science
+   Course Material
+ § GLOBE for the                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+   Environmental Science
+                                   STB-4.A                               STB-4.A.1
+   Classroom
+                                   Explain the importance of            The stratospheric ozone layer is important to
+                                   stratospheric ozone to life          the evolution of life on Earth and the continued
+                                   on Earth.                            health and survival of life on Earth.
+                                                                         STB-4.A.2
+                                                                        Stratospheric ozone depletion is caused
+                                                                        by anthropogenic factors, such as
+                                                                        chlorofluorocarbons (CFCs), and natural
+                                                                        factors, such as the melting of ice crystals
+                                                                        in the atmosphere at the beginning of the
+                                                                        Antarctic spring.
+                                                                         STB-4.A.3
+                                                                        A decrease in stratospheric ozone increases
+                                                                        the UV rays that reach the Earth’s surface.
+                                                                        Exposure to UV rays can lead to skin cancer
+                                                                        and cataracts in humans.
+
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 182
+                                                                                                   Return to Table of Contents
+                                                                                                               © 2026 College Board
+                                                                                                  9
+                                                                                                 UNIT
+Global Change
+
+
+TOPIC 9.2                                                                               SUGGESTED SKILL
+                                                                                              Environmental
+
+
+Reducing
+                                                                                              Solutions
+                                                                                        7.B
+                                                                                        Describe potential
+
+Ozone Depletion                                                                         responses or approaches
+                                                                                        to environmental problems.
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-4
+   Local and regional human activities can have impacts at the global level.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-4.B                              STB-4.B.1
+   Describe chemicals                   Ozone depletion can be mitigated by
+   used to substitute for               replacing ozone-depleting chemicals with
+   chlorofluorocarbons (CFCs).          substitutes that do not deplete the ozone
+                                        layer. Hydrofluorocarbons (HFCs) are one
+                                        such replacement, but some are strong
+                                        greenhouse gases.
+
+
+
+
+AP Environmental Science Course and Exam Description                                Course Framework V.1 | 183
+                                                                                        Return to Table of Contents
+                                                                                                   © 2026 College Board
+           9
+          UNIT
+                               Global Change
+
+
+SUGGESTED SKILL
+      Concept Explanation
+                               TOPIC 9.3
+1.B
+Explain environmental
+concepts and processes.
+                               The Greenhouse
+                               Effect
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                    STB-4
+                                   Local and regional human activities can have impacts at the global level.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                    STB-4.C                              STB-4.C.1
+                                   Identify the greenhouse              The principal greenhouse gases are carbon
+                                   gases.                               dioxide, methane, water vapor, nitrous oxide,
+                                                                        and chlorofluorocarbons (CFCs).
+                                                                         STB-4.C.2
+                                                                        While water vapor is a greenhouse gas, it
+                                                                        doesn’t contribute significantly to global
+                                                                        climate change because it has a short
+                                                                        residence time in the atmosphere.
+                                                                         STB-4.C.3
+                                                                        The greenhouse effect results in the surface
+                                                                        temperature necessary for life on Earth to
+                                                                        exist.
+
+
+                                    STB-4.D                              STB-4.D.1
+                                   Identify the sources and             Carbon dioxide, which has a global warming
+                                   potency of the greenhouse            potential (GWP) of 1, is used as a reference
+                                   gases.                               point for the comparison of different
+                                                                        greenhouse gases and their impacts on global
+                                                                        climate change. Chlorofluorocarbons (CFCs)
+                                                                        have the highest GWP, followed by nitrous
+                                                                        oxide, then methane.
+
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 184
+                                                                                                   Return to Table of Contents
+                                                                                                               © 2026 College Board
+                                                                                                       9
+                                                                                                      UNIT
+Global Change
+
+
+TOPIC 9.4                                                                                   SUGGESTED SKILL
+                                                                                                  Visual
+
+
+Increases in the
+                                                                                                  Representations
+                                                                                            2.C
+                                                                                            Explain how environmental
+
+Greenhouse Gases                                                                            concepts and processes
+                                                                                            represented visually relate
+                                                                                            to broader environmental
+                                                                                            issues.
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-4
+   Local and regional human activities can have impacts at the global level.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-4.E                              STB-4.E.1
+   Identify the threats to human        Global climate change, caused by excess
+   health and the environment           greenhouse gases in the atmosphere, can
+   posed by an increase in              lead to a variety of environmental problems
+   greenhouse gases.                    including rising sea levels resulting from
+                                        melting ice sheets and ocean water expansion,
+                                        and disease vectors spreading from the
+                                        tropics toward the poles. These problems can
+                                        lead to changes in population dynamics and
+                                        population movements in response.
+
+
+
+
+AP Environmental Science Course and Exam Description                                    Course Framework V.1 | 185
+                                                                                            Return to Table of Contents
+                                                                                                       © 2026 College Board
+            9
+           UNIT
+                               Global Change
+
+
+SUGGESTED SKILL
+      Data Analysis
+                               TOPIC 9.5
+5.D
+Interpret experimental data
+and results in relation to a
+                               Global Climate
+given hypothesis.
+                               Change
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                    STB-4
+                                   Local and regional human activities can have impacts at the global level.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                    STB-4.F                              STB-4.F.1
+                                   Explain how changes in               The Earth has undergone climate change
+                                   climate, both short- and long-       throughout geologic time, with major shifts
+                                   term, impact ecosystems.             in global temperatures causing periods of
+                                                                        warming and cooling as recorded with CO2
+                                                                        data and ice cores.
+                                                                         STB-4.F.2
+                                                                        Effects of climate change include rising
+                                                                        temperatures, melting permafrost and sea ice,
+                                                                        rising sea levels, and displacement of coastal
+                                                                        populations.
+                                                                         STB-4.F.3
+                                                                        Marine ecosystems are affected by changes
+                                                                        in sea level, some positively, such as in newly
+                                                                        created habitats on now-flooded continental
+                                                                        shelves, and some negatively, such as deeper
+                                                                        communities that may no longer be in the
+                                                                        photic zone of seawater.
+                                                                         STB-4.F.4
+                                                                        Winds generated by atmospheric circulation
+                                                                        help transport heat throughout the Earth.
+                                                                        Climate change may change circulation
+                                                                        patterns, as temperature changes may impact
+                                                                        Hadley cells and the jet stream.
+
+
+                                                                                                      continued on next page
+
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 186
+                                                                                                   Return to Table of Contents
+                                                                                                               © 2026 College Board
+                                                                                                         9
+                                                                                                        UNIT
+Global Change
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-4.F                             STB-4.F.5
+   Explain how changes in               Oceanic currents, or the ocean conveyor belt,
+   climate, both short- and long-       carry heat throughout the world. When these
+   term, impact ecosystems.             currents change, it can have a big impact on
+                                        global climate, especially in coastal regions.
+                                        STB-4.F.6
+                                        Climate change can affect soil through
+                                        changes in temperature and rainfall, which can
+                                        impact soil’s viability and potentially increase
+                                        erosion.
+                                        STB-4.F.7
+                                        Earth’s polar regions are showing faster
+                                        response times to global climate change
+                                        because ice and snow in these regions reflect
+                                        the most energy back out to space, leading to a
+                                        positive feedback loop.
+                                        STB-4.F.8
+                                        As the Earth warms, this ice and snow melts,
+                                        meaning less solar energy is radiated back into
+                                        space and instead is absorbed by the Earth’s
+                                        surface. This in turn causes more warming of
+                                        the polar regions.
+                                        STB-4.F.9
+                                        Global climate change response time in the
+                                        Arctic is due to positive feedback loops
+                                        involving melting sea ice and thawing tundra,
+                                        and the subsequent release of greenhouse
+                                        gases like methane.
+                                        STB-4.F.10
+                                        One consequence of the loss of ice and snow
+                                        in polar regions is the effect on species that
+                                        depend on the ice for habitat and food.
+
+
+
+
+AP Environmental Science Course and Exam Description                                       Course Framework V.1 | 187
+                                                                                               Return to Table of Contents
+                                                                                                          © 2026 College Board
+           9
+          UNIT
+                               Global Change
+
+
+SUGGESTED SKILL
+      Environmental
+                               TOPIC 9.6
+                               Ocean
+      Solutions
+7.A
+Describe environmental
+problems.
+                               Warming
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                    STB-4
+                                   Local and regional human activities can have impacts at the global level.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                    STB-4.G                              STB-4.G.1
+                                   Explain the causes and               Ocean warming is caused by the increase in
+                                   effects of ocean warming.            greenhouse gases in the atmosphere.
+                                                                         STB-4.G.2
+                                                                        Ocean warming can affect marine species in a
+                                                                        variety of ways, including loss of habitat, and
+                                                                        metabolic and reproductive changes.
+                                                                         STB-4.G.3
+                                                                        Ocean warming is causing coral bleaching,
+                                                                        which occurs when the loss of algae within
+                                                                        corals cause the corals to bleach white. Some
+                                                                        corals recover and some die.
+
+
+
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 188
+                                                                                                   Return to Table of Contents
+                                                                                                               © 2026 College Board
+                                                                                                          9
+                                                                                                         UNIT
+Global Change
+
+
+TOPIC 9.7                                                                                       SUGGESTED SKILL
+                                                                                                      Concept Explanation
+
+Ocean                                                                                           1.C
+                                                                                                Explain environmental
+                                                                                                concepts, processes, or
+
+Acidification                                                                                   models in applied contexts.
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    STB-4
+   Local and regional human activities can have impacts at the global level.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    STB-4.H                              STB-4.H.1
+   Explain the causes and               Ocean acidification is the decrease in pH of
+   effects of ocean acidification.      the oceans, primarily due to increased CO2
+                                        concentrations in the atmosphere, and can be
+                                        expressed as chemical equations.
+                                         STB-4.H.2
+                                        As more CO2 is released into the atmosphere,
+                                        the oceans, which absorb a large part of that
+                                        CO2, become more acidic.
+                                         STB-4.H.3
+                                        Anthropogenic activities that contribute
+                                        to ocean acidification are those that lead
+                                        to increased CO2 concentrations in the
+                                        atmosphere: burning of fossil fuels, vehicle
+                                        emissions, and deforestation.
+                                         STB-4.H.4
+                                        Ocean acidification damages coral because
+                                        acidification makes it difficult for them to form
+                                        shells, due to the loss of calcium carbonate.
+
+
+
+
+AP Environmental Science Course and Exam Description                                        Course Framework V.1 | 189
+                                                                                                Return to Table of Contents
+                                                                                                           © 2026 College Board
+           9
+          UNIT
+                               Global Change
+
+
+SUGGESTED SKILL
+      Environmental
+                               TOPIC 9.8
+                               Invasive
+      Solutions
+7.E
+Make a claim that
+proposes a solution to an
+environmental problem in
+an applied context.
+                               Species
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                    EIN-4
+                                   The health of a species is closely tied to its ecosystem, and minor environmental
+                                   changes can have a large impact.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                    EIN-4.A                             EIN-4.A.1
+                                   Explain the environmental            Invasive species are species that can live,
+                                   problems associated                  and sometimes thrive, outside of their normal
+                                   with invasive species and            habitat. Invasive species can sometimes be
+                                   strategies to control them.          beneficial, but they are considered invasive
+                                                                        when they threaten native species.
+                                                                        EIN-4.A.2
+                                                                        Invasive species are often generalist,
+                                                                        r-selected species and therefore may
+                                                                        outcompete native species for resources.
+                                                                        EIN-4.A.3
+                                                                        Invasive species can be controlled through a
+                                                                        variety of human interventions.
+
+
+
+
+AP Environmental Science Course and Exam Description                                          Course Framework V.1 | 190
+                                                                                                  Return to Table of Contents
+                                                                                                             © 2026 College Board
+                                                                                                         9
+                                                                                                        UNIT
+Global Change
+
+
+TOPIC 9.9                                                                                     SUGGESTED SKILL
+                                                                                                    Environmental
+
+Endangered
+                                                                                                    Solutions
+                                                                                              7.D
+                                                                                              Use data and evidence to
+
+Species                                                                                       support a potential solution.
+
+
+
+
+Required Course Content
+
+
+   ENDURING UNDERSTANDING
+    EIN-4
+   The health of a species is closely tied to its ecosystem, and minor environmental
+   changes can have a large impact.
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    EIN-4.B                             EIN-4.B.1
+   Explain how species become           A variety of factors can lead to a species
+   endangered and strategies to         becoming threatened with extinction,
+   combat the problem.                  such as being extensively hunted, having
+                                        limited diet, being outcompeted by invasive
+                                        species, or having specific and limited habitat
+                                        requirements.
+                                        EIN-4.B.2
+                                        Not all species will be in danger of extinction
+                                        when exposed to the same changes in their
+                                        ecosystem. Species that are able to adapt to
+                                        changes in their environment or that are able
+                                        to move to a new environment are less likely to
+                                        face extinction.
+                                        EIN-4.B.3
+                                        Selective pressures are any factors that
+                                        change the behaviors and fitness of organisms
+                                        within an environment.
+                                        EIN-4.B.4
+                                        Species in a given ecosystem compete for
+                                        resources like territory, food, mates, and
+                                        habitat, and this competition may lead to
+                                        endangerment or extinction.
+                                        EIN-4.B.5
+                                        Strategies to protect animal populations
+                                        include criminalizing poaching, protecting
+                                        animal habitats, and legislation.
+
+
+
+
+AP Environmental Science Course and Exam Description                                      Course Framework V.1 | 191
+                                                                                              Return to Table of Contents
+                                                                                                         © 2026 College Board
+           9
+          UNIT
+                               Global Change
+
+
+SUGGESTED SKILL
+      Environmental
+                               TOPIC 9.10
+                               Human Impacts
+      Solutions
+7.C
+Describe disadvantages,
+advantages, or unintended
+consequences for potential
+solutions.
+                               on Biodiversity
+
+                               Required Course Content
+
+
+                                   ENDURING UNDERSTANDING
+                                   EIN-4
+                                   The health of a species is closely tied to its ecosystem, and minor environmental
+                                   changes can have a large impact.
+
+
+
+                                   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+                                   EIN-4.C                              EIN-4.C.1
+                                   Explain how human activities         HIPPCO (habitat destruction, invasive species,
+                                   affect biodiversity and              population growth, pollution, climate change,
+                                   strategies to combat                 and over exploitation) describes the main
+                                   the problem.                         factors leading to a decrease in biodiversity.
+                                                                        EIN-4.C.2
+                                                                        Habitat fragmentation occurs when large
+                                                                        habitats are broken into smaller, isolated areas.
+                                                                        Causes of habitat fragmentation include the
+                                                                        construction of roads and pipelines, clearing
+                                                                        for agriculture or development, and logging.
+                                                                        EIN-4.C.3
+                                                                        The scale of habitat fragmentation that has an
+                                                                        adverse effect on the inhabitants of a given
+                                                                        ecosystem will vary from species to species
+                                                                        within that ecosystem.
+                                                                        EIN-4.C.4
+                                                                        Global climate change can cause habitat loss
+                                                                        via changes in temperature, precipitation, and
+                                                                        sea level rise.
+                                                                        EIN-4.C.5
+                                                                        Some organisms have been somewhat
+                                                                        or completely domesticated and are now
+                                                                        managed for economic returns, such as
+                                                                        honeybee colonies and domestic livestock.
+                                                                        This domestication can have a negative impact
+                                                                        on the biodiversity of that organism.
+
+
+                                                                                                       continued on next page
+
+AP Environmental Science Course and Exam Description                                           Course Framework V.1 | 192
+                                                                                                   Return to Table of Contents
+                                                                                                              © 2026 College Board
+                                                                                                        9
+                                                                                                       UNIT
+Global Change
+
+
+
+   LEARNING OBJECTIVE                   ESSENTIAL KNOWLEDGE
+    EIN-4.C                             EIN-4.C.6
+   Explain how human activities         Some ways humans can mitigate the impact of
+   affect biodiversity and              loss of biodiversity include creating protected
+   strategies to combat the             areas, use of habitat corridors, promoting
+   problem.                             sustainable land use practices, and restoring
+                                        lost habitats.
+
+
+
+
+AP Environmental Science Course and Exam Description                                      Course Framework V.1 | 193
+                                                                                              Return to Table of Contents
+                                                                                                         © 2026 College Board
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+AP ENVIRONMENTAL SCIENCE
+
+
+
+
+Laboratory
+Investigations
+Lab Experience
+
+The laboratory experience, when used effectively,           document. Teachers should consider their own needs
+should augment students’ understanding of content           and those of their students when deciding what type of
+and build skills in the science practices. Teachers         lab notebook to use.
+are expected to devote 25% of instructional time to
+lab investigations. Student-directed, inquiry-based
+lab experiences support the AP Environmental
+                                                            Lab Materials
+Science course and the AP Course Audit curricular           AP Environmental Science is a college-level course,
+requirements. These experiences also provide                but the equipment and materials needed for the labs
+opportunities for students to design experiments,           are comparable to those required for a high-school-
+collect data, apply mathematical routines and methods,      level environmental science course. Most lab manuals
+and refine testable explanations and predictions. An        provide a list of materials and equipment needed for
+inquiry-based approach allows students to develop           each laboratory investigation. Teachers should consult
+and use investigations they design based on their own       their lab manual and calculate how much of a particular
+experiences. In conducting lab investigations, students     substance or material may be needed for the number of
+should be encouraged to:                                    students they have before purchasing.
+
+ § Generate questions for investigation                     Students will need access to basic lab equipment
+                                                            and glassware (e.g., beakers, petri dishes, rulers,
+ § Choose which variables to investigate
+                                                            and thermometers). Access to some specialized
+ § Design and conduct experiments                           equipment, such as pH meters, water and soil testing
+ § Design their own experimental procedures                 equipment, and aquariums, may be needed to
+ § Collect, analyze, interpret, and display data            complete some investigations for this course. The use
+                                                            of probes or computer sensors for data collection,
+ § Determine how to present their conclusions
+                                                            which are more expensive tools, is not required, though
+                                                            they can be used if available. It is recommended that
+Lab Manuals                                                 teachers have a computer and projector to show
+While there is no formal lab manual for the course,         computer-based animations and simulations for pre-
+many teachers use Environmental Science Lab and             lab activities. However, a paper-based alternative can
+Field Activities by the Environmental Science Literacy      easily be provided if the equipment is unavailable.
+Council as a guide for providing their students practical   Students may use computers or graphing calculators
+experiences.                                                to analyze data and present their findings, but they do
+                                                            not need to do so.
+Some textbook publishers may provide a lab
+manual that is ancillary to the textbook. Most              There are avenues that teachers can explore as a means
+science classroom supply companies also offer               of obtaining access to more expensive equipment,
+lab manuals. Teachers should consider the course            such as microscopes, test kits, and probes. Chemical
+audit requirements, student needs, and cost before          companies often have equipment that can be borrowed;
+purchasing or requiring students to purchase a lab          company representatives should have this information.
+manual.                                                     Alternatively, local colleges or universities may allow
+                                                            high school students to complete a lab as a field trip on
+                                                            their campus, or they may allow teachers to borrow their
+Lab Notebooks and Student                                   equipment. They may even donate their old equipment.
+Workbooks                                                   Some schools have partnerships with local businesses
+Many publishers and science classroom material              that can help with lab equipment and materials. There
+distributors offer affordable lab notebooks and student     are many grant programs that teachers can apply to for
+workbooks with associated practice problems and             funds to purchase equipment and supplies. Teachers
+solutions. Students can use any type of notebook to         can also utilize online donation sites such as Donors
+fulfill the lab notebook requirement, even an online        Choose and Adopt-A-Classroom.
+
+
+
+
+AP Environmental Science Course and Exam Description                             Laboratory Investigations V.1 | 197
+                                                                                           Return to Table of Contents
+                                                                                                      © 2026 College Board
+Lab Time                                                  student success. Selecting experiments that provide
+                                                          students with the broadest lab experience possible is
+It is critical that lab work is an important part of
+                                                          important when designing the course.
+an AP Environmental Science course so that the
+course is comparable to a college-level course            Upon completion of the environmental science lab
+for Environmental Science majors. Data show that          program, students should be able to describe how
+increased lab time is correlated with higher AP scores.   to collect data, use data to form conclusions, and
+Flexible or modular scheduling may be implemented in      apply their conclusions to larger environmental
+order to meet the time requirements for lab and field     concepts. Students should report recorded data and
+experiences. At a minimum, one double period a week       quantitative conclusions drawn from the data with
+may be needed to allow adequate time for authentic        appropriate precision. Students should also develop
+lab experiences.                                          an understanding of how changes in the design of the
+                                                          experiments would impact the validity and accuracy
+                                                          of their results. Many questions on the AP Exam are
+Recommended Experiments                                   written in an experimental context, so these skills will
+The AP Environmental Science Exam directly assesses       prove invaluable for both concept comprehension and
+the learning objectives of the course framework,          exam performance.
+which means the inclusion of appropriate experiments
+aligned with those learning objectives is important for
+
+
+
+
+AP Environmental Science Course and Exam Description                          Laboratory Investigations V.1 | 198
+                                                                                        Return to Table of Contents
+                                                                                                   © 2026 College Board
+How to Set Up a Lab Program
+
+                                                           the opportunity to practice lab skills and scientific
+Getting Students Started                                   thinking. Pre-lab work that is acknowledged/checked
+There are no prescriptive “steps” to the iterative         can help determine what gaps students may have prior
+process of inquiry-based investigations. However,          to engagement with the lab. Modeling lab skills and
+there are some common characteristics of inquiry that      procedures is sometimes necessary for students to
+will support students in designing their investigations.   have a successful lab experience.
+Often, this simply begins with using the learning
+objectives to craft a question for students to             At the conclusion of each experiment, students should
+investigate. Teachers may choose to give students          compose a lab report for which they receive feedback.
+a list of materials they are allowed to use in their       It is important to identify and address gaps in skills
+experimental design or require that students request       or lab procedures. Conducting post-lab discussions
+the equipment they feel they need to investigate the       is an excellent strategy to ensure that students are
+question. Working with learning objectives to craft        mastering laboratory and inquiry techniques and skills.
+questions may include the following:                       These discussions also help students connect the lab
+                                                           investigation to the big ideas.
+ § Selecting learning objectives from the course
+   framework that relate to the subject currently under    The lab, as well as pre- and post-lab work, should be
+   study, and which may set forth specific tasks, in the   extensions of student learning in the classroom rather
+   form of “Design an experiment to …”                     than discrete activities. Teachers can design pre-lab
+                                                           exercises and discussions that prepare students
+ § Rephrasing or refining the learning objectives that
+                                                           for each laboratory experience and then follow up
+   align to the unit of study to create an inquiry-based
+                                                           each investigation with a post-lab discussion to
+   investigation for students
+                                                           debrief procedures, errors, conclusions, and so forth.
+Students should be given latitude to make design           Teachers can also test students’ understanding of
+modifications or ask for additional equipment              environmental science concepts by asking them “what
+appropriate for their design. It is also helpful for       if” questions, like, “Predict what will happen if …”, or
+individual groups to share with the class their basic      “What should the next experiment be if …”
+design to elicit feedback on feasibility. During labs,
+students are encouraged to proceed independently,
+receiving only minor guidance from the teacher by          Observations and Data
+the end of the course. Students should have many           Manipulation
+opportunities for post-lab reporting to share the
+                                                           Students should practice making careful observations
+successes and challenges of individual lab designs.
+                                                           and accurately recording what they observe. Too
+Students need instruction and multiple opportunities       frequently students confuse what they see with what
+for practice with laboratory tools and techniques so       they think they are supposed to see. They should
+that they can become more proficient investigators.        be encouraged to be accurate reporters, even when
+Teachers can ensure that students understand how to        their findings seem to conflict with what they are led
+choose an instrument that will help them gather the        to expect by the textbook or lab procedure. Proper
+observations or measurements required to answer a          interpretation of observations is also important.
+question. They can also ensure that students know          Students should be able to find evidence of change
+how to properly record, organize, display, and interpret   (growth, color change, temperature change, gas
+the measurements made via the chosen instrument in         evolution, etc.) and its absence. Students should know
+order to support a conclusion or claim pertaining to a     how to make and interpret quantitative measurements
+particular question. If access to instrumentation is a     correctly. This includes knowing the appropriate
+challenge, online and local university resources may       instrument for making the measurement.
+be available.
+                                                           Teachers should emphasize analysis and interpretation
+Prior to performing lab experiments and field              of quantitative data represented, for example, line and
+experiences, teachers can provide meaning and              bar graphs and dose response curves that will allow
+purpose for these activities by giving students            students to make connections between the raw data
+
+
+AP Environmental Science Course and Exam Description                           Laboratory Investigations V.1 | 199
+                                                                                         Return to Table of Contents
+                                                                                                    © 2026 College Board
+they obtain from their investigations and the ways they   certain concerns regarding lab safety be addressed
+communicate their results. Students should be able to     in every environmental science course, including the
+evaluate whether the data are graphed correctly and       following:
+appropriately for the investigation that was conducted.
+                                                           § All facilities should conform to federal, state, and
+It is important to consistently assess students’
+                                                             local laws and guidelines pertaining to the safety of
+understanding and skill with all aspects of creating a
+                                                             students and instructors.
+graph including correct scaling and units.
+                                                           § Teachers with a limited background in
+                                                             environmental science should receive additional
+Communication and Group                                      safety training specific to environmental science
+Collaboration                                                labs before teaching AP Environmental Science.
+Lab work is an excellent means through which               § Lab experiments and demonstrations should not
+students can develop and practice communication              be carried out if they could expose students to
+skills. Success in subsequent work in the field of           unnecessary risks or hazards.
+environmental science depends heavily on an                § Students should be fully informed of potential lab
+ability to communicate about observations, ideas,            hazards relating to chemicals and equipment before
+and conclusions. Working in a truly collaborative            performing specific experiments.
+manner to plan and execute experiments will help
+                                                           § Storage and disposal of hazardous chemicals must
+students learn oral communication skills and practice
+                                                             be done in accordance with local regulations and
+teamwork. Students should be encouraged to take
+                                                             policies. Teachers and students should know what
+individual responsibility for the success or failure of
+                                                             these regulations are.
+the collaboration.
+                                                          Basic laboratory safety instruction should be an
+After students are given a question for investigation,    integral part of each lab experience. Topics that should
+they may report their findings to their teacher and/      be covered include the following:
+or their peers for feedback. Students should be
+encouraged to critique and challenge one another’s         § Simple first aid for cuts and thermal and
+claims based on the evidence collected during                chemical burns
+the investigation.                                         § Use of safety goggles, eye washes, body showers,
+                                                             fire blankets, and fire extinguishers
+
+Lab Safety                                                 § Safe handling of glassware, hot plates, burners and
+                                                             other heating devices, and electrical equipment
+A successful AP Environmental Science lab program
+will instill in each student a lifelong “safety sense”     § Proper interpretation of material safety data sheets
+that will ensure their safe transition into more             (MSDS) and hazard warning labels
+advanced work in college or university labs or into the    § Proper use and reuse practices (including proper
+industrial workplace environment. It is important that       labeling of interim containers) for reagent bottles
+
+
+
+
+AP Environmental Science Course and Exam Description                           Laboratory Investigations V.1 | 200
+                                                                                         Return to Table of Contents
+                                                                                                    © 2026 College Board
+AP ENVIRONMENTAL SCIENCE
+
+
+
+
+Instructional
+Approaches
+Selecting and
+Using Course Materials
+
+                                                              source material, it is important to introduce students
+Textbooks                                                     to a wide variety of materials in order to provide
+The AP Environmental Science course requires                  opportunities to analyze data from diverse sources.
+the use of a college-level textbook. It is important          These sources should include data tables, charts,
+to select a textbook that covers the content in the           graphs, and diagrams. Teachers may also use ancillary
+course framework. Regardless of the textbook chosen,          materials and online resources that accompany
+teachers can supplement it with other primary and             recently published textbooks to find quality materials to
+secondary sources. Additionally, the textbook should          supplement classroom instruction.
+provide multiple opportunities for student practice
+with data analysis in varying contexts. Ideally, the          ENVIRONMENTAL LEGISLATION
+textbook will use sufficient examples and approaches          The AP Environmental Science course requires
+that enable students to make connections across               that students have an understanding of 10 pieces
+different domains within environmental science and            of legislation and environmental policies. There are
+between environmental science and other social and            many environmental policies and legislation that
+natural sciences.                                             are important to the field of environmental science,
+                                                              including those that protect animals and regulate
+College Board provides a list of sample textbooks
+                                                              clean water, clean air, and food sources. It is critical for
+that teachers may consult to help determine whether
+                                                              students to understand the impact of these policies and
+a text is considered acceptable in meeting the AP
+                                                              legislation and why they are necessary. Understanding
+Environmental Science Course Audit curricular
+                                                              of legislation and policies should focus on how they
+requirements. Lab materials are also essential for AP
+                                                              were created as solutions to environmental problems.
+Environmental Science and are detailed starting on
+page 197.                                                     The 10 required pieces of legislation and policy for AP
+                                                              Environmental Science are listed on page 26.
+Primary Sources
+Many teachers augment their courses with journal
+articles and/or abstracts from scientific literature. While
+an increasing number of textbooks include primary
+
+
+
+
+AP Environmental Science Course and Exam Description                                Instructional Approaches V.1 | 203
+                                                                                               Return to Table of Contents
+                                                                                                         © 2026 College Board
+

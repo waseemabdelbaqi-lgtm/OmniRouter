@@ -1,0 +1,225 @@
+[
+ {
+  "year": 2010,
+  "orig_ref": "2117f46c-0561-0630 pp.25-26 (compiled 585-586, statement) + 9f958242-0491-0560 pp.14-18 (compiled 504-508, guidelines), Q1",
+  "unit": 8,
+  "topic": "8.14",
+  "secondary_units": [
+   7,
+   9,
+   5
+  ],
+  "descriptor": "Newspaper article on children harmed by PCBs, mercury and lead near industrial sites in India and China: one chosen pollutant (source, exposure, health effect, controls), child vulnerability, CO2 capture cost for one gadget, coal-plant emission controls, reasons for offshoring.",
+  "frqtype": "other",
+  "solution": "**(a)** Choose one pollutant and stay with it for all three sub-parts.\n- (i) *Source (1 pt).* Any specific non-plant source: mercury from coal burning, dental fillings or broken fluorescent bulbs; lead from old paint, solder, plumbing or leaded ceramics; PCBs from old transformers and capacitors.\n- (ii) *Entry route (1 pt) and one health effect (1 pt).* Example for mercury: eating contaminated fish (it biomagnifies as methylmercury) or breathing vapor; effect: nervous-system damage and developmental delay. Lead: swallowing paint chips or dust; effect: lowered IQ and learning problems. PCBs: eating contaminated fatty fish; effect: immune and developmental problems, possible cancer.\n- (iii) *Two control steps, neither a ban (2 pts).* For example: public education on exposure, safe collection and disposal programs, scrubbers or filters on emission sources, treatment of water supplies, cleanup or capping of contaminated soil and sediment, substituting safer materials. Each must be a concrete action that lowers exposure.\n\n**(b)** *(1 pt)* Children take in more air, water and food per kilogram of body mass than adults, and their organs and nervous systems are still developing, so the same exposure does more damage. (Hand-to-mouth behavior or a weaker detoxifying liver are also accepted.)\n\n**(c)** Cost = 40 kg CO₂ × $0.75/kg CO₂ = **$30**. *(1 pt setup with units cancelling, 1 pt answer.)*\n\n**(d)** *(1 pt)* Pick one pollutant and match a real control: SOₓ → flue-gas scrubber or removing sulfur before burning; NOₓ → selective catalytic reduction or lower-temperature combustion; particulates → electrostatic precipitator or baghouse filter. Fluidized-bed combustion or coal gasification are also accepted.\n\n**(e)** *(2 pts, one per reason, each discussed)* Typical reasons: weaker or less strictly enforced pollution and workplace rules lower compliance cost; lower wages and benefits; cheaper land, raw materials and taxes or subsidies; access to a large local market. Name the reason and say why it saves the company money.",
+  "notes": "Article text is an image in the source; stem reconstructed from the printed page. Many alternative correct answers exist (open-ended lists). Part-level point values printed in the guideline add up to more than 10 in places (some parts are capped); the official maximum for the question is 10.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2010,
+  "orig_ref": "2117f46c-0561-0630 p.27 (compiled 587, statement) + 9f958242-0491-0560 pp.19-22 (compiled 509-512, guidelines), Q2",
+  "unit": 3,
+  "topic": "3.4",
+  "secondary_units": [
+   9,
+   1,
+   2
+  ],
+  "descriptor": "Termite wood-consumption table (mg/day/termite) across five temperatures and three humidities; find optimum, scale methane emissions per hectare and for a changed climate, explain population limits, post-clearing termite boom and bust, another way deforestation warms climate.",
+  "frqtype": "data",
+  "solution": "**(a)(i)** Scan the table for the largest consumption rate: 0.27 mg/day at **30 °C and 90% relative humidity**. *(1 pt, both values needed.)*\n\n**(a)(ii)** Termites in the forest = 2,000 ha × 4.5 × 10⁷ termites/ha = 9.0 × 10¹⁰ termites. Methane = 9.0 × 10¹⁰ termites × (70 kg CH₄/yr ÷ 1,000 termites) = **6.3 × 10⁹ kg CH₄/yr**. *(1 pt setup with units, 1 pt answer.)*\n\n**(a)(iii)** Treat emission as proportional to wood consumption. At 35 °C and 50% the rate is 0.09 versus 0.27 at the optimum, a ratio of 1/3. Emission = (0.09 ÷ 0.27) × 6.3 × 10⁹ kg = **2.1 × 10⁹ kg CH₄/yr**. *(1 pt setup, 1 pt answer; mental math accepted.)*\n\n**(a)(iv)** *(reason + linked explanation)* Temperature and humidity are limiting factors with a tolerance range. Outside it (for example 40 °C, where feeding stops and gut microbes may die) termites feed and reproduce less, or plants that supply food decline, so the population shrinks.\n\n**(b)(i)** *(1 pt)* Clearing leaves a large pulse of dead wood and plant debris, a sudden food surplus, so density rises.\n\n**(b)(ii)** *(1 pt)* The surplus is used up and the population overshoots carrying capacity and crashes from starvation and competition; the open, hotter ground may also exceed their temperature tolerance.\n\n**(c)** *(change + effect)* Removing trees lowers photosynthetic uptake and destroys a carbon sink; burning or decay of the wood releases CO₂; machinery burns fossil fuel; or lost shade and evapotranspiration raise local temperatures. Link the change to more greenhouse gas or more warming.",
+  "notes": "The scaling in (a)(iii) assumes methane output is proportional to wood consumption; the guideline uses the same ratio method.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2010,
+  "orig_ref": "2117f46c-0561-0630 p.28 (compiled 588, statement) + 9f958242-0491-0560 pp.23-27 (compiled 513-517, guidelines), Q3",
+  "unit": 9,
+  "topic": "9.8",
+  "secondary_units": [
+   3,
+   2
+  ],
+  "descriptor": "Zebra mussels spreading in the Great Lakes and a shaded range map: why mostly eastern, how they reach isolated lakes and prevention, ecosystem impact, another invasive species, biological-control example with downside, two traits that make invaders successful.",
+  "frqtype": "other",
+  "solution": "**(a)** *(1 pt)* The mussels arrived in the East and are still spreading; the East has far more connected surface waters and more boat traffic, while western mountain ranges act as barriers.\n\n**(b)** *(1 pt mechanism, 1 pt prevention)* Spread: larvae or adults riding on boat hulls, trailers and bilge or live-well water, in stocked fish water, or through newly built canals. Prevention: inspect and clean or dry boats before moving between lakes, drain water, or run public-education and boat-wash programs.\n\n**(c)** *(impact + linked explanation, 2 pts)* Filter-feeding clears the water, so more light reaches the bottom and aquatic plants grow more; or the mussels remove plankton, outcompeting native mollusks and zooplankton and weakening food chains.\n\n**(d)** *(species + impact, 2 pts)* Name a specific organism, for example kudzu (smothers plants), cane toad (poisons predators) or emerald ash borer (kills ash trees), and state one harm.\n\n**(e)** *(example 1 pt, negative effect 1 pt)* A real case, such as the mongoose introduced to eat rats or cane toads introduced against beetles; the introduced control often eats non-target native species, competes with natives or disrupts food webs.\n\n**(f)** *(2 pts)* Two specific traits, such as generalist diet and habitat, rapid reproduction with many offspring (r-strategy), strong dispersal, or lack of natural predators and parasites in the new range.",
+  "notes": "Map is an image; answer (a) relies on the printed text (East vs West) and standard knowledge of mussel spread.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2010,
+  "orig_ref": "2117f46c-0561-0630 p.29 (compiled 589, statement) + 9f958242-0491-0560 pp.28-30 (compiled 518-520, guidelines), Q4",
+  "unit": 9,
+  "topic": "9.5",
+  "secondary_units": [
+   8,
+   4
+  ],
+  "descriptor": "Sea level rising 3.0 mm/yr with warming: compute 50-year rise in meters, two warming-driven causes of rise explained, impacts on estuaries, a coastal economic cost, and two government policies to discourage coastal settlement.",
+  "frqtype": "other",
+  "solution": "**(a)** Rise = 3.0 mm/yr × 50 yr = 150 mm; 150 mm × (1 m ÷ 1,000 mm) = **0.15 m**. *(1 pt setup, 1 pt answer.)*\n\n**(b)** *(2 identifications + 2 linked explanations)* (1) Thermal expansion: warmer seawater takes up more volume. (2) Melting of land-based ice, such as the Greenland and Antarctic ice sheets or mountain glaciers, which adds water that was not in the ocean before. (Floating sea ice does not raise sea level when it melts, and \"ice caps\" alone is too vague.)\n\n**(c)** *(2 pts)* Loss of marsh, mangrove and intertidal habitat as water floods inland, including nursery areas for fish and shellfish and stopover habitat for birds; saltwater pushing farther up the estuary (higher salinity) that eliminates salt-sensitive species; weaker buffering of storm surges and more shoreline erosion.\n\n**(d)(i)** *(1 pt)* Property loss or costly repairs, higher insurance, falling land values, lost tourism or fishing income, or saltwater contaminating water supplies.\n\n**(d)(ii)** *(2 pts)* Two practicable policies: stop subsidizing flood insurance in high-risk zones, zone against new development on flood-prone land, tax or fee coastal building, fund buyouts and relocation away from the shore, or publish flood-risk maps so buyers see the danger.",
+  "notes": "Points total beyond 10 across parts (parts capped); official max 10.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2011,
+  "orig_ref": "668780c6-0631-0700 pp.28-29 (compiled 658-659, statement) + 2117f46c-0561-0630 pp.31-33 (compiled 591-593, guidelines), Q1",
+  "unit": 2,
+  "topic": "2.2",
+  "secondary_units": [
+   9,
+   1,
+   5
+  ],
+  "descriptor": "Article on mountain pine beetle outbreaks and declining managed honeybees: why fire suppression favors beetles, two ways beetle damage worsens climate change, physical forest changes after tree death, economic effects of bee collapse, another ecosystem service.",
+  "frqtype": "other",
+  "solution": "**(a)(i)** *(1 pt)* Without fires, dense stands of older, even-aged or stressed trees survive, giving beetles abundant food and weak hosts.\n\n**(a)(ii)** *(2 pts)* Dead trees take up no CO₂, so a carbon sink shrinks; their decay releases stored carbon as CO₂; and dead timber fuels wildfires that release more. (Beetles' own respiration does not count.)\n\n**(b)** *(2 changes + 2 linked impacts)* For example: more sunlight reaches the ground, so seedlings and shade-intolerant species spread while shade-lovers decline and snow melts faster; loss of canopy and roots increases erosion and runoff, so streams silt up and nutrients wash away; loss of tree structure removes nesting and shelter, lowering animal diversity.\n\n**(c)** *(2 pts)* Fewer pollinators raise crop prices and the cost of renting hives or hand-pollinating; lower crop yields and honey output cut farm revenue and jobs.\n\n**(d)** *(service 1 pt, benefit 1 pt)* Any different ecosystem service with a human benefit, for example wetlands and soils filtering water (cheaper drinking-water treatment), natural predators controlling pests (less pesticide), or forests regulating floods (less property damage).",
+  "notes": "Article text is an image; descriptor based on question parts. Part-level point values printed in the guideline add up to more than 10 in places (some parts are capped); the official maximum for the question is 10.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2011,
+  "orig_ref": "668780c6-0631-0700 pp.29-30 (compiled 659-660, statement) + 2117f46c-0561-0630 pp.34-36 (compiled 594-596, guidelines), Q2",
+  "unit": 9,
+  "topic": "9.7",
+  "secondary_units": [
+   1,
+   2,
+   8
+  ],
+  "descriptor": "Graph of dissolved ocean CO2 and pH since 1850; explain acidification and rising uptake, then calculate yearly volume, mass and 20% projected loss of coral-reef CaCO3 from given area, growth rate and density; coral-loss impact; another global marine problem.",
+  "frqtype": "calc",
+  "solution": "**(a)** *(1 pt)* CO₂ reacts with water to form carbonic acid, which releases hydrogen ions, so pH falls.\n\n**(b)** *(2 pts)* Atmospheric CO₂ concentration has risen, and that rise comes mostly from burning fossil fuels; more CO₂ in the air means more dissolves into the surface ocean.\n\n**(c)(i)** Volume = area × growth: 2.5 × 10¹¹ m² × 3 mm/yr × (1 m ÷ 1,000 mm) = 2.5 × 10¹¹ × 0.003 = **7.5 × 10⁸ m³/yr**. *(1 pt setup, 1 pt answer.)*\n\n**(c)(ii)** Mass = volume × density: 7.5 × 10⁸ m³/yr × 2 × 10³ kg/m³ = **1.5 × 10¹² kg/yr**. *(2 pts.)*\n\n**(c)(iii)** Shortfall = 0.20 × 1.5 × 10¹² kg = **3 × 10¹¹ kg** less per year. *(2 pts.)*\n\n**(d)** *(impact 1 pt, linked description 1 pt)* Loss of reef habitat removes nursery, feeding and shelter areas, so fish diversity and populations fall; or reefs no longer buffer shorelines from waves and storm surge.\n\n**(e)** *(1 pt)* Any other global marine problem, for example overfishing, warming seawater, plastic debris, nutrient-driven dead zones or invasive species.",
+  "notes": "Graph not needed for answers beyond the stated assumptions. Part-level point values printed in the guideline add up to more than 10 in places (some parts are capped); the official maximum for the question is 10.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2011,
+  "orig_ref": "668780c6-0631-0700 p.31 (compiled 661, statement) + 2117f46c-0561-0630 pp.37-39 (compiled 597-599, guidelines), Q3",
+  "unit": 6,
+  "topic": "6.2",
+  "secondary_units": [
+   7,
+   9,
+   5
+  ],
+  "descriptor": "Scatter graph of GDP per capita against electricity use per capita for nine countries: geothermal electricity generation, China's large total CO2 despite low per-capita use, health-harming coal-power pollution, sugarcane ethanol versus tar sands production, drawbacks and sustainability.",
+  "frqtype": "data",
+  "solution": "**(a)** *(2 pts)* Hot water or steam from underground reaches the surface: either flashing high-pressure hot water to steam, piping dry steam directly, or using the hot water to boil a second fluid. The steam spins a turbine, and the turbine drives a generator that makes electric current.\n\n**(b)** *(1 pt)* Total emissions are per-capita use multiplied by population; China's population is so large that a small per-person figure still gives the world's biggest total.\n\n**(c)** *(issue 1 pt, linked health impact 1 pt)* A specific pollutant, for example SO₂ from burning coal (irritates lungs and worsens asthma and bronchitis), fine particulates (reduce lung function) or mercury (damages the nervous system). \"Smog\" alone is not specific enough.\n\n**(d)(i)** *(2 pts, extraction + processing)* Sugarcane: harvest and crush the cane to extract sucrose juice, then ferment it to ethanol. Tar sands: surface-mine the sand, then heat it with steam or hot water to separate the thick bitumen, which is upgraded to fuel.\n\n**(d)(ii)** *(2 pts)* Tar sands: habitat destruction from mining, high water and energy needs with toxic wastewater, greenhouse gases from a fossil fuel. Sugarcane: land clearing and monoculture, fertilizer runoff, water use, competition with food crops.\n\n**(d)(iii)** *(2 pts)* Sugarcane, because it is renewable and replants each season, and the carbon it releases was recently taken up from the air, unlike the fossil carbon in tar sands, which also causes far more land and waste damage.",
+  "notes": "Graph image not needed for the answers. Part-level point values printed in the guideline add up to more than 10 in places (some parts are capped); the official maximum for the question is 10.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2011,
+  "orig_ref": "668780c6-0631-0700 pp.32-33 (compiled 662-663, statement) + 2117f46c-0561-0630 pp.40-44 (compiled 600-604, guidelines), Q4",
+  "unit": 5,
+  "topic": "5.4",
+  "secondary_units": [
+   4,
+   3
+  ],
+  "descriptor": "Table of farmland needed to feed humanity 1900 to 2060: plot and curve it, estimate when a 4.00 billion ha arable limit is reached, soil properties and quality, ways to cut land demand, how soil salinization occurs and is prevented.",
+  "frqtype": "data",
+  "solution": "**(a)** *(2 pts)* Plot the five points (1900, 0.40), (1940, 0.60), (1980, 1.25), (2020, 2.50), (2060, 4.75) with years on the x-axis and billion hectares on the y-axis, then draw one smooth upward-curving line through them.\n\n**(b)** *(1 pt)* Read across from 4.00 billion ha on the curve. Between 2020 (2.50) and 2060 (4.75) the straight-line estimate is about 2047; because the curve bends upward, a reading near **2045 to 2050** is consistent.\n\n**(c)** *(2 properties, each with its role, 4 pts)* Examples: soil texture or particle size, which sets drainage, aeration and water-holding; pH, which controls nutrient availability and plant tolerance; organic matter or humus, which stores water and nutrients; nutrient content (N, P, K); porosity or compaction, which govern root oxygen and infiltration; salinity, which draws water out of roots.\n\n**(d)** *(2 pts)* Raise yields per hectare (improved or genetically modified varieties, fertilizer, crop rotation, intercropping) or lower demand for farmland (eat lower on the food chain, cut food waste, slow population growth, protect soil from erosion so land stays productive).\n\n**(e)(i)** *(1 pt)* In irrigated dry regions, water evaporates or is taken up by plants and leaves dissolved salts behind in the topsoil; salty groundwater can also wick up by capillary action.\n\n**(e)(ii)** *(1 pt)* Flush the soil with enough low-salt water, install drainage tiles, switch to drip irrigation, or plant salt-tolerant or salt-removing crops.",
+  "notes": "Graph paper not shown; answer (b) depends on the student's curve (official model answer about 2048). Part-level point values printed in the guideline add up to more than 10 in places (some parts are capped); the official maximum for the question is 10.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2012,
+  "orig_ref": "83408857-0701-0770 p.38 (compiled 738, statement) + 668780c6-0631-0700 pp.36-38 (compiled 666-668, guidelines), Q1",
+  "unit": 6,
+  "topic": "6.5",
+  "secondary_units": [
+   8,
+   7,
+   9
+  ],
+  "descriptor": "Article on hydraulic fracturing of shale gas: two water-related problems, two benefits of natural gas over coal, two non-water drawbacks, one economic benefit, and two environmental impacts of nuclear power.",
+  "frqtype": "other",
+  "solution": "**(a)** *(4 possible points: each problem identified and described; the question's total is capped at 10)* Two water problems, each stated and explained: groundwater contamination (well leaks or lagoons let chemicals and methane reach aquifers); surface-water contamination (spilled or sprayed wastewater with salts and metals runs into streams); and heavy water use that can deplete aquifers and compete with farms and towns.\n\n**(b)** *(2 pts)* Burning natural gas gives less SO₂ (less acid rain), less NOₓ, fewer particulates and less mercury than coal, and about half the CO₂ per unit of energy; gas also avoids strip mining and mountaintop removal.\n\n**(c)** *(2 pts, not about water)* Clearing land and roads fragments habitat; methane leaks add a strong greenhouse gas; drilling can trigger small earthquakes or land subsidence; diesel trucks and rigs emit CO₂, NOₓ and particulates and make noise.\n\n**(d)** *(1 pt)* A domestic energy supply, new jobs, or lease income for landowners.\n\n**(e)** *(2 pts)* Long-lived radioactive waste with no permanent site; accident risk releasing radiation to air, soil and water; thermal pollution from cooling water harming aquatic life; uranium mining damage and tailings.",
+  "notes": "Article text is an image. Points per part in the guideline sum to 11; the sample commentary shows only 3 credited for (a), giving the printed maximum of 10.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2012,
+  "orig_ref": "83408857-0701-0770 p.39 (compiled 739, statement) + 668780c6-0631-0700 pp.50-54 (compiled 680-684, guidelines), Q2",
+  "unit": 6,
+  "topic": "6.1",
+  "secondary_units": [
+   1,
+   2,
+   9
+  ],
+  "descriptor": "School district heated by fuel oil plans to offset carbon by conserving forest: one alternative energy source with environmental pros and cons, two ecological benefits of intact forest, then four calculations of carbon stored, emitted, hectares needed and cost.",
+  "frqtype": "calc",
+  "solution": "**(a)** *(source 1 pt, benefit 1 pt, drawback 1 pt)* One realistic source with both sides, for example: wind turbines (no air pollution, little land loss on farmland; but bird and bat deaths and visual or noise impact); solar panels (no emissions in use; but mining and toxic materials for cells); geothermal heat pump (little habitat disturbance; but pumping energy needed); biomass or biogas (reuses waste; but air pollutants and land demand).\n\n**(b)** *(2 pts)* Habitat for organisms, biodiversity, water purification and flow regulation, reduced erosion and flooding, soil formation, nutrient cycling, climate moderation.\n\n**(c)(i)** Carbon stored per hectare = 2.7 × 10⁵ kg biomass/ha × 0.50 = **1.35 × 10⁵ kg C/ha/yr**. *(1 pt.)*\n\n**(c)(ii)** Carbon emitted = 3.0 × 10⁵ gal × 10 kg CO₂/gal × 0.27 kg C/kg CO₂ = **8.1 × 10⁵ kg C/yr**. *(1 pt setup, 1 pt answer.)*\n\n**(c)(iii)** Area = 8.1 × 10⁵ kg C ÷ 1.35 × 10⁵ kg C/ha = **6 ha**. *(1 pt setup, 1 pt answer.)*\n\n**(c)(iv)** Cost = 6 ha × $12,000/ha = **$72,000**. *(1 pt.)*",
+  "notes": "Per-hectare biomass growth rate is as printed (very high for real forests); used as given. Part points exceed 10 in total; official max 10.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2012,
+  "orig_ref": "83408857-0701-0770 p.40 (compiled 740, statement) + 668780c6-0631-0700 pp.62-64 (compiled 692-694, guidelines), Q3",
+  "unit": 5,
+  "topic": "5.14",
+  "secondary_units": [
+   8,
+   3
+  ],
+  "descriptor": "Pesticide debate framing: design a lab test of whether a new pesticide kills minnows (hypothesis, method, control, dependent variable), results that would reject the hypothesis, describe integrated pest management with two tactics and a benefit, two non-pest yield practices.",
+  "frqtype": "design",
+  "solution": "**(a)(i)** *Hypothesis (1 pt):* If minnows are exposed to higher concentrations of product X, then more of them will die (or: product X concentration has no effect on minnow mortality, as a null hypothesis).\n\n**(a)(ii)** *Method (1 pt):* Set up at least three identical tanks (same water, temperature, fish size and number, feeding), for example 0 (no product X), low and high concentration of product X, with replicates, and observe for a fixed time such as 96 hours.\n\n**(a)(iii)** *Control (1 pt):* The tank or group with no product X.\n\n**(a)(iv)** *Dependent variable (1 pt):* Minnow health, for example number of fish dead (or survival rate) at the end of the test.\n\n**(b)** *(1 pt)* If death rates were the same, or lower, in tanks with product X than in the control, the hypothesis would be rejected; the description must contradict the stated prediction.\n\n**(c)(i)** *(3 pts)* IPM combines several tactics to keep pests below a damaging level while minimizing chemical pesticide use. Two approaches: introduce or attract natural predators or parasites, rotate crops, use pheromone traps, plant diverse crops, or use targeted low-persistence pesticides.\n\n**(c)(ii)** *(1 pt)* Environmental gain, for example less pesticide runoff to waterways, fewer non-target kills, less biomagnification or slower pesticide resistance.\n\n**(d)** *(2 pts)* Two practices, each tied to higher yield: apply fertilizer or organic matter, irrigate, plant high-yield varieties, rotate or intercrop, terrace or use contour plowing to protect soil.",
+  "notes": "Points per part in the guideline sum to 11; official maximum 10 (a part is capped).",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ },
+ {
+  "year": 2012,
+  "orig_ref": "83408857-0701-0770 p.41 (compiled 741, statement) + 83408857-0701-0770 pp.3-6 (compiled 703-706, guidelines), Q4",
+  "unit": 8,
+  "topic": "8.4",
+  "secondary_units": [
+   1,
+   5
+  ],
+  "descriptor": "Wetlands: two defining characteristics, completing a wetland food-web arrow diagram and explaining why eagles need many hectares, two economic benefits, one harmful human activity, and how wetlands mimic primary and secondary wastewater treatment.",
+  "frqtype": "other",
+  "solution": "**(a)** *(2 pts)* Two of: soil flooded or saturated for part of the year; vegetation adapted to waterlogged conditions; hydric (water-formed) soils.\n\n**(b)(i)** *(2 pts)* Draw arrows pointing from the organism eaten to the eater (producer to consumer). At least two valid food chains that share a species, for example algae → snail → fish and algae → fish → eagle, show a web. Every box must be linked and no arrow may point the wrong way.\n\n**(b)(ii)** *(2 pts)* Only about 10% of energy passes up each trophic level; the rest is lost as heat or used for metabolism (second law of thermodynamics), and some material is indigestible, so a top predator needs a very large base of producers and prey, hence many hectares.\n\n**(c)** *(2 pts, benefit + linked description)* Examples: tourism and hunting or fishing permits bring revenue; nursery areas support commercial fisheries; flood and storm buffering reduces property damage and insurance costs; groundwater recharge reduces water-treatment costs.\n\n**(d)** *(1 pt)* Draining or filling for farms or building, polluted runoff, damming or diking, peat or mineral mining, or invasive species.\n\n**(e)** *(1 pt each)* (i) Like primary treatment, wetland plants and slow water physically trap and settle solids and debris. (ii) Like secondary treatment, microbes in the sediment and roots break down dissolved organic waste.",
+  "notes": "Food-web diagram image not visible in text layer; answer to (b)(i) is generic. Part points exceed 10 in total; official max 10.",
+  "exam": "US",
+  "type": "FRQ",
+  "in_2026_scope": true,
+  "points": 10
+ }
+]
