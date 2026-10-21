@@ -6,6 +6,6 @@ Blind agreement: 34/34 MCQ (100%). No disagreements; no ambiguous, wrong, or dat
 
 FRQ audit: all four sum to 10 points; arithmetic re-derived (FRQ2 72.5%; FRQ3 3.0×10⁴ t S, 6.0×10⁴ t SO₂, 3.0×10³ t emitted, ≈$842 → $840/t; FRQ4 means 79 and 16.75 µg/m³, inversion classification matches the data). Figure 8 and Figure 9 match their tables. No errors.
 
-Edits (distractor balance, 8 stems): MCQ007, 012 untouched; edited 007 (A), 016 (A), 017 (D, also solution), 020 (B), 025 (D), 031 (B), 033 (B and D). Solution wording tweaks: MCQ017, MCQ019 (weak explanation of option A), MCQ016. Correct answers and letters unchanged.
+Edits (distractor balance): 007 (A), 016 (A), 017 (D, also solution), 020 (B), 025 (D), 031 (B), 033 (B and D). Solution wording tweaks: MCQ017, MCQ019 (weak explanation of option A), MCQ016. Correct answers and letters unchanged.
 
 Unresolved: none.

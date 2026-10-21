@@ -55,7 +55,7 @@
 :::
 
 :::sol QB-U1-MCQ014
-**Answer: A.** Inputs to the atmosphere: B + D + E = 118 + 90 + 10 = 218 Gt C/yr. Outputs: A + C = 120 + 92 = 212 Gt C/yr. Net change = 218 − 212 = +6 Gt C/yr. Option C (+10) assumes the fossil fuel carbon all stays in the atmosphere, ignoring that other fluxes nearly balance, and B (+8) leaves out the ocean fluxes.
+**Answer: A.** Inputs to the atmosphere: B + D + E = 118 + 90 + 10 = 218 Gt C/yr. Outputs: A + C = 120 + 92 = 212 Gt C/yr. Net change = 218 − 212 = +6 Gt C/yr. Option C (+10) counts only the fossil fuel flux, ignoring that the land and ocean fluxes nearly balance, and B (+8) is not the difference between total inputs and outputs.
 :::
 
 :::sol QB-U1-MCQ015
@@ -87,7 +87,7 @@
 :::
 
 :::sol QB-U1-MCQ022
-**Answer: A.** In this web the frogs are the only predator of grasshoppers, so removing the frogs releases grasshoppers from predation and their numbers rise. B and D invent relationships that are not in the web (frogs are predators of, not competitors with, grasshoppers and snakes), and C contradicts the web, which shows grasshoppers eating only grass.
+**Answer: A.** In this web the frogs are the only predator of grasshoppers, so removing the frogs releases grasshoppers from predation and their numbers rise. B and D invent relationships that are not in the web (frogs are predators of grasshoppers and prey of snakes, not competitors of grasshoppers), and C contradicts the web, which shows grasshoppers eating only grass.
 :::
 
 :::sol QB-U1-MCQ023
